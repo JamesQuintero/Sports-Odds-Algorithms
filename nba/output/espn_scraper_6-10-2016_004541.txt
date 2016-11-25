@@ -1,0 +1,5 @@
+---- Start output ----
+[00:45:44] Loading existing data
+[00:45:44] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/atl/year/2016/atlanta-hawks
+[00:45:44] Saving data to ./nba/team_data/2016/atlanta-hawks.csv
+

@@ -1,0 +1,18 @@
+
+Date: 3-5-2016
+Away: houston-rockets | Home: chicago-bulls
+Seasonal Record:      -1.0/10 = -0.1
+Home Away:            -12.0/10 = -1.2
+Home away 10:         0.0/5 = 0.0
+Last 10 games:        2.0/5 = 0.4
+Avg points:           -0.08/8 = -0.01
+Avg points 10:        5.68/8 = 0.71
+Win streak:           2.0/3 = 0.6666666666666666
+Win streak home away: -4.0/3 = -1.3333333333333333
+--------
+Total: -0.86
+--------
+Perc chance to win: 50.18592482853224%
+Favorable team odds: -100.74647507915083
+Underdog team odds: +100.74647507915083
+

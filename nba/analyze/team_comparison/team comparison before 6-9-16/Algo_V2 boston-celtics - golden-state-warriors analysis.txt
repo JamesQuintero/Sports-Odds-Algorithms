@@ -1,0 +1,16 @@
+
+Date: 4-1-2016
+Away: boston-celtics | Home: golden-state-warriors
+Seasonal Record:      -80.49%
+Home Away:            -90.15%
+Home away 10:         -80.56%
+Last 10 games:        -61.0%
+Avg points:           -67.89%
+Avg points 10:        -73.91%
+--------
+Total: -85.35%
+--------
+Perc chance to win: 85.35%
+Favorable team odds: -582.5938566552899
+Underdog team odds: +582.5938566552899
+

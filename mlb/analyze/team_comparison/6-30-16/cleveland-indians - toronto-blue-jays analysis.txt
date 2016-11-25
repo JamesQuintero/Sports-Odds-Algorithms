@@ -1,0 +1,17 @@
+
+Date: 6-30-2016
+Away: cleveland-indians | Home: toronto-blue-jays
+Seasonal Record:      53.25%
+Home Away:            -50.86%
+Home away 10:         -50.49%
+Last 10 games:        56.92%
+Avg points:           55.2%
+Avg points 10:        55.07%
+--------
+Total: 56.06%
+--------
+Perc chance to win: 56.06%
+Favorable team odds: -127.58306781975422
+Underdog team odds: +127.58306781975422
+
+Actual: -123, +113

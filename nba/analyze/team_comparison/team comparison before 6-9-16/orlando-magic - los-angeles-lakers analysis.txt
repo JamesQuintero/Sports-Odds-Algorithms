@@ -1,0 +1,18 @@
+
+Date: 3-8-2016
+Away: orlando-magic | Home: los-angeles-lakers
+Seasonal Record:      30.0/10 = 3.0
+Home Away:            4.0/10 = 0.4
+Home away 10:         -2.0/5 = -0.4
+Last 10 games:        4.0/5 = 0.8
+Avg points:           7.68/8 = 0.96
+Avg points 10:        4.72/8 = 0.59
+Win streak:           4.0/3 = 1.3333333333333333
+Win streak home away: -4.0/3 = -1.3333333333333333
+--------
+Total: 5.36
+--------
+Perc chance to win: 61.38617174211248%
+Favorable team odds: -158.97458115817184
+Underdog team odds: +158.97458115817184
+

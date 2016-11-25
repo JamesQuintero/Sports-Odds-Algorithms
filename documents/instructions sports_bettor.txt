@@ -1,0 +1,8 @@
+
+
+
+dividers list in algo.py is in multiples of 3. If dividing by 1 for a variable in algo_v1 gives the best results, then the corresponding divider in algo_v2 will be 3 (3*1 = 3). 
+
+Max points list in algo.py maxes at 10, and corresponds to the maximum reached level for a variable. 
+
+equations for each variable are a 2 degree polynomial trendline in excel. The data starts at index 1, 

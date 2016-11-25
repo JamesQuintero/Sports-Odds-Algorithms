@@ -1,0 +1,18 @@
+
+Date: 3-6-2016
+Away: portland-trail-blazers | Home: detroit-pistons
+Seasonal Record:      3.0/10 = 0.3
+Home Away:            -11.0/10 = -1.1
+Home away 10:         4.0/5 = 0.8
+Last 10 games:        6.0/5 = 1.2
+Avg points:           0.32/8 = 0.04
+Avg points 10:        7.28/8 = 0.91
+Win streak:           -2.0/3 = -0.6666666666666666
+Win streak home away: 4.0/3 = 1.3333333333333333
+--------
+Total: 2.82
+--------
+Perc chance to win: 55.221323456790124%
+Favorable team odds: -123.32057961450347
+Underdog team odds: +123.32057961450347
+

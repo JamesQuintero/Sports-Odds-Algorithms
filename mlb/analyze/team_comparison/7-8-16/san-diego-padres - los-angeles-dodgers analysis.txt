@@ -1,0 +1,17 @@
+
+Date: 7-8-2016
+Away: san-diego-padres | Home: los-angeles-dodgers
+Seasonal Record:      -55.29%
+Home Away:            -55.5%
+Home away 10:         -50.49%
+Last 10 games:        -51.81%
+Avg points:           -57.55%
+Avg points 10:        -51.15%
+Win streak home away: 50%
+--------
+Total: -56.52%
+--------
+Perc chance to win: 56.52%
+Favorable team odds: -129.99080036798532
+Underdog team odds: +129.99080036798532
+

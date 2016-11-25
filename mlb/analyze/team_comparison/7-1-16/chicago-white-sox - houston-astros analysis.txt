@@ -1,0 +1,16 @@
+
+Date: 7-1-2016
+Away: chicago-white-sox | Home: houston-astros
+Seasonal Record:      -51.54%
+Home Away:            -52.01%
+Home away 10:         -57.73%
+Last 10 games:        -52.29%
+Avg points:           -52.8%
+Avg points 10:        -52.54%
+--------
+Total: -55.26%
+--------
+Perc chance to win: 55.26%
+Favorable team odds: -123.51363433169422
+Underdog team odds: +123.51363433169422
+

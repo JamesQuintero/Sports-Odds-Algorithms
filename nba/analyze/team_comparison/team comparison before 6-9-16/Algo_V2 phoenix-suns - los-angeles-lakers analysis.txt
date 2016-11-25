@@ -1,0 +1,16 @@
+
+Date: 3-18-2016
+Away: phoenix-suns | Home: los-angeles-lakers
+Seasonal Record:      57.24%
+Home Away:            -59.92%
+Home away 10:         -54.02%
+Last 10 games:        53.69%
+Avg points:           -51.23%
+Avg points 10:        -56.97%
+--------
+Total: -51.34%
+--------
+Perc chance to win: 51.34%
+Favorable team odds: -105.50760378133992
+Underdog team odds: +105.50760378133992
+

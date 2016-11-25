@@ -1,0 +1,17 @@
+
+Date: 7-16-2016
+Away: new-york-mets | Home: philadelphia-phillies
+Seasonal Record:      54.18%
+Home Away:            -50.26%
+Home away 10:         -51.99%
+Last 10 games:        51.6%
+Avg points:           58.81%
+Avg points 10:        51.15%
+Win streak home away: 50%
+--------
+Total: 56.49%
+--------
+Perc chance to win: 56.49%
+Favorable team odds: -129.83222247759136
+Underdog team odds: +129.83222247759136
+

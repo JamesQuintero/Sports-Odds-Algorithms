@@ -1,0 +1,134 @@
+- Strategy 0.0: Bet on algo's projected winner, no matter the odds.
+- Strategy 0.1: Bet on oddsmaker's projected winner, no matter the odds.
+All strategies incorporate placing a bet if the algorithm projects a team to win more often than the oddsmaker projects
+- Strategy 1: Default strategy.
+- Strategy 2: Placing a bet if that team is also the algo's favorite.
+- Strategy 3: Placing a bet if that team is the algo's favorite, and the oddsmaker's underdog.
+- Strategy 4: Placing a bet if the difference between the algo's projected odds and the oddsmaker's odds is also >= 45
+
+
+Algorithm 1: ranks variables by averaging the real values of the two largest variables (by absolute value). 
+Algorithm 2: ranks variables by adding all positive variables, adding all negative variables, then averaging their difference.
+Algorithm 3: ranks variables by adding all positive variables, adding all negative variables, getting their difference, and dividing by number of variables. The resulting percentage is the gap between the favorite and the underdog. So gap/2 + 50 = favorite, 50 - gap/2 = underdog. 
+Algorithm 4: averages all positive variables, all negative variables, takes their difference, then that's the gap between favorite and underdog
+Algorithm 5: Take each difference, average it, and that's the gap
+Algorithm 6: Average all numbers
+Algorithm 7: Subtract highest for away and home, and the difference is subtracted from the actual highest. ?
+
+
+-----------------------------------------------------
+MLB
+Algorithm 1: 
+	Strategy 0.0: 	-257.12%
+			4263-3270
+			-$1.71
+	Strategy 0.1: 	-154.14%
+			4449-3084
+			-$1.02
+	Strategy 1: 	-530.40%
+			2557-3383
+			-$4.46
+	Strategy 2: 	-159.74%
+			1470-1512
+			-$2.68
+	Strategy 3: 	-121.12%
+			580-743
+			-$4.58
+	Strategy 4: 	-199.78%
+			354-701
+			-$9.47
+	Strategy 3&4: 	-96.46%
+			157-262
+			-$11.51
+
+Algorithm 2:
+	Strategy 0.0: 	-214.38%
+			4273-3260
+			-$1.42
+	Strategy 0.1: 	-154.14%
+			4449-3084
+			-$1.02
+	Strategy 1: 	-498.74%
+			2947-3166
+			-$4.08
+	Strategy 2: 	-140.08%
+			2321-2030
+			-$1.61
+	Strategy 3: 	-114.22%
+			581-742
+			-$4.32
+	Strategy 4: 	-49.60%
+			835-854
+			-$1.47
+	Strategy 5: 	-83.60%
+			229-334
+			-$7.42
+
+Algorithm 3: 
+	Strategy 0.0: 	-209.96%
+			4265-3268
+			-$1.39
+	Strategy 0.1: 	-154.14%
+			4449-3084
+			-$1.02
+	Strategy 1: 	-500.56%
+			3653-3286
+			-$3.61
+	Strategy 2: 	-274.40%
+			3353-2732
+			-$2.25
+	Strategy 3: 	-118.72%
+			601-772
+			-$4.32
+	Strategy 4: 	-209.36%
+			2224-1859
+			-$2.56
+	Strategy 3&4: 	-108.54%
+			461-609
+			-$5.07
+
+Algorithm 5: 
+	Strategy 0.0: 	-214.38%
+			4273-3260
+			-$1.42
+	Strategy 0.1: 	-154.14%
+			4449-3084
+			-$1.02
+	Strategy 1: 	-433.14%
+			2552-3264
+			-$3.72
+	Strategy 2: 	-103.86%
+			1386-1472
+			-$1.76
+	Strategy 3: 	-114.22%
+			581-742
+			-$4.32
+	Strategy 4: 	-119.02%
+			387-666
+			-$5.65
+	Strategy 3&4: 	-25.24%
+			148-213
+			-$3.50
+
+Algorithm 6: 
+	Strategy 0.0: 	-381.80%
+			4168-3365
+			-$2.53
+	Strategy 0.1: 	-154.14%
+			4449-3084
+			-$1.02
+	Strategy 1: 	-763.30%
+			2867-3753
+			-$5.77
+	Strategy 2: 	-361.22%
+			1721-1833
+			-$5.08
+	Strategy 3: 	-198.10%
+			716-965
+			-$5.89
+	Strategy 4: 	-383.60%
+			1413-1844
+			-$5.89
+	Strategy 5: 	-78.78%
+			456-614
+			-$3.68

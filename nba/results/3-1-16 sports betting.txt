@@ -1,0 +1,250 @@
+Date: 3-1-2016
+Away: phoenix-suns | Home: charlotte-hornets
+Seasonal Record:      -31.0/10 = -3.1
+Home Away:            -29.0/10 = -2.9
+Home away 10:         -12.0/5 = -2.4
+Last 10 games:        -12.0/5 = -2.4
+Avg points:           -7.68/8 = -0.96
+Avg points 10:        -15.28/8 = -1.91
+Win streak:           4.0/3 = 1.3333333333333333
+Win streak home away: 6.0/3 = 2.0
+--------
+Total: -10.34
+--------
+Level: 4
+Perc chance to win: 72%
+Favorable team odds: -257.14285714285717
+Underdog team odds: +257.14285714285717
+($3 Suns 16.5 (-110))
+($5 Suns (+600))
+
+Date: 3-1-2016
+Away: portland-trail-blazers | Home: new-york-knicks
+Seasonal Record:      15.0/10 = 1.5
+Home Away:            -1.0/10 = -0.1
+Home away 10:         12.0/5 = 2.4
+Last 10 games:        12.0/5 = 2.4
+Avg points:           3.84/8 = 0.48
+Avg points 10:        13.28/8 = 1.66
+Win streak:           -2.0/3 = -0.6666666666666666
+Win streak home away: 6.0/3 = 2.0
+--------
+Total: 9.67
+--------
+Level: 4
+Perc chance to win: 72%
+Favorable team odds: -257.14285714285717
+Underdog team odds: +257.14285714285717
+($5 Trail Blazers (-200) )
+($5 Trail Blazers -3.5 (-125))
+
+Date: 3-1-2016
+Away: chicago-bulls | Home: miami-heat
+Seasonal Record:      -5.0/10 = -0.5
+Home Away:            -12.0/10 = -1.2
+Home away 10:         -4.0/5 = -0.8
+Last 10 games:        -6.0/5 = -1.2
+Avg points:           -0.96/8 = -0.12
+Avg points 10:        -7.2/8 = -0.9
+Win streak:           -2.0/3 = -0.6666666666666666
+Win streak home away: 4.0/3 = 1.3333333333333333
+--------
+Total: -4.06
+--------
+Level: 2
+Perc chance to win: 60%
+Favorable team odds: -150.0
+Underdog team odds: +150.0
+($5 Bulls 6.0 (-110))
+($5 Bulls 7.5 (-115))
+($5 Bulls (+230))
+
+Date: 3-1-2016
+Away: orlando-magic | Home: dallas-mavericks
+Seasonal Record:      -10.0/10 = -1.0
+Home Away:            -13.0/10 = -1.3
+Home away 10:         -4.0/5 = -0.8
+Last 10 games:        2.0/5 = 0.4
+Avg points:           -1.12/8 = -0.14
+Avg points 10:        -0.72/8 = -0.09
+Win streak:           2.0/3 = 0.6666666666666666
+Win streak home away: -6.0/3 = -2.0
+--------
+Total: -4.27
+--------
+Level: 2
+Perc chance to win: 60%
+Favorable team odds: -150.0
+Underdog team odds: +150.0
+
+
+
+---------------------------------NHL---------------------------------
+Date: 3-1-2016
+Away: calgary-flames | Home: boston-bruins
+Seasonal Record:      -15.0/5 = -3.0
+Home Away:            -6.0/5 = -1.2
+Home away 10:         -2.0/5 = -0.4
+Last 10 games:        -13.333333333333332/5 = -2.6666666666666665
+Avg points:           -0.365*2 = -0.73
+Avg points 10:        -2.2*2 = -4.4
+Win streak:           9.0/3 = 3.0
+Win streak home away: 3.0/3 = 1.0
+--------
+Total: -8.4
+--------
+Level: 3
+Perc chance to win: 66%
+Favorable team odds: -194.11764705882354
+Underdog team odds: +194.11764705882354
+($5  Bruins LFT 0.0 (-155) )
+
+Date: 3-1-2016
+Away: carolina-hurricanes | Home: new-jersey-devils
+Seasonal Record:      -5.0/5 = -1.0
+Home Away:            -4.0/5 = -0.8
+Home away 10:         -4.0/5 = -0.8
+Last 10 games:        0.0/5 = 0.0
+Avg points:           -0.03*2 = -0.06
+Avg points 10:        0.5*2 = 1.0
+Win streak:           -3.0/3 = -1.0
+Win streak home away: -6.0/3 = -2.0
+--------
+Total: -4.66
+--------
+Level: 2
+Perc chance to win: 60%
+Favorable team odds: -150.0
+Underdog team odds: +150.0
+($5 Hurricanes LFT 0.0 (+200) )
+
+Date: 3-1-2016
+Away: st-louis-blues | Home: ottawa-senators
+Seasonal Record:      10.0/5 = 2.0
+Home Away:            0.0/5 = 0.0
+Home away 10:         2.0/5 = 0.4
+Last 10 games:        0.0/5 = 0.0
+Avg points:           0.115*2 = 0.23
+Avg points 10:        -0.595*2 = -1.19
+Win streak:           -6.0/3 = -2.0
+Win streak home away: 3.0/3 = 1.0
+--------
+Total: 0.43
+--------
+Level: 1
+Perc chance to win: 55%
+Favorable team odds: -122.22222222222223
+Underdog team odds: +122.22222222222223
+
+Date: 3-1-2016
+Away: edmonton-oilers | Home: buffalo-sabres
+Seasonal Record:      -5.0/5 = -1.0
+Home Away:            -9.0/5 = -1.8
+Home away 10:         -2.0/5 = -0.4
+Last 10 games:        -6.666666666666666/5 = -1.3333333333333333
+Avg points:           -0.105*2 = -0.21
+Avg points 10:        -0.695*2 = -1.39
+Win streak:           9.0/3 = 3.0
+Win streak home away: 6.0/3 = 2.0
+--------
+Total: -1.15
+--------
+Level: 1
+Perc chance to win: 55%
+Favorable team odds: -122.22222222222223
+Underdog team odds: +122.22222222222223
+($5 Oilers (+105))
+
+Date: 3-1-2016
+Away: pittsburgh-penguins | Home: washington-capitals
+Seasonal Record:      -26.0/5 = -5.2
+Home Away:            -20.0/5 = -4.0
+Home away 10:         -6.0/5 = -1.2
+Last 10 games:        -3.333333333333333/5 = -0.6666666666666666
+Avg points:           -0.425*2 = -0.85
+Avg points 10:        0.2*2 = 0.4
+Win streak:           -3.0/3 = -1.0
+Win streak home away: 6.0/3 = 2.0
+--------
+Total: -10.52
+--------
+Level: 4
+Perc chance to win: 72%
+Favorable team odds: -257.14285714285717
+Underdog team odds: +257.14285714285717
+($5 Capitals LFT 0.0 (EVEN))
+
+Date: 3-1-2016
+Away: florida-panthers | Home: winnipeg-jets
+Seasonal Record:      17.0/5 = 3.4
+Home Away:            3.0/5 = 0.6
+Home away 10:         4.0/5 = 0.8
+Last 10 games:        0.0/5 = 0.0
+Avg points:           0.395*2 = 0.79
+Avg points 10:        -0.11*2 = -0.22
+Win streak:           6.0/3 = 2.0
+Win streak home away: -15.0/3 = -5.0
+--------
+Total: 2.37
+--------
+Level: 1
+Perc chance to win: 55%
+Favorable team odds: -122.22222222222223
+Underdog team odds: +122.22222222222223
+($5 Jets LFT 0.0 (+160))
+
+Date: 3-1-2016
+Away: dallas-stars | Home: nashville-predators
+Seasonal Record:      13.0/5 = 2.6
+Home Away:            2.0/5 = 0.4
+Home away 10:         4.0/5 = 0.8
+Last 10 games:        -6.666666666666666/5 = -1.3333333333333333
+Avg points:           0.09*2 = 0.18
+Avg points 10:        -1.8*2 = -3.6
+Win streak:           9.0/3 = 3.0
+Win streak home away: 6.0/3 = 2.0
+--------
+Total: 4.05
+--------
+Level: 2
+Perc chance to win: 60%
+Favorable team odds: -150.0
+Underdog team odds: +150.0
+($5 Stars LFT 0.0 (+175))
+
+Date: 3-1-2016
+Away: colorado-avalanche | Home: minnesota-wild
+Seasonal Record:      7.0/5 = 1.4
+Home Away:            3.0/5 = 0.6
+Home away 10:         8.0/5 = 1.6
+Last 10 games:        0.0/5 = 0.0
+Avg points:           -0.105*2 = -0.21
+Avg points 10:        -1.495*2 = -2.99
+Win streak:           3.0/3 = 1.0
+Win streak home away: -3.0/3 = -1.0
+--------
+Total: 0.38
+--------
+Level: 1
+Perc chance to win: 55%
+Favorable team odds: -122.22222222222223
+Underdog team odds: +122.22222222222223
+($5 Avalanche (+130))
+
+Date: 3-1-2016
+Away: new-york-islanders | Home: vancouver-canucks
+Seasonal Record:      19.0/5 = 3.8
+Home Away:            7.0/5 = 1.4
+Home away 10:         4.0/5 = 0.8
+Last 10 games:        10.0/5 = 2.0
+Avg points:           0.405*2 = 0.81
+Avg points 10:        2.195*2 = 4.39
+Win streak:           -9.0/3 = -3.0
+Win streak home away: -3.0/3 = -1.0
+--------
+Total: 9.2
+--------
+Level: 4
+Perc chance to win: 72%
+Favorable team odds: -257.14285714285717
+Underdog team odds: +257.14285714285717

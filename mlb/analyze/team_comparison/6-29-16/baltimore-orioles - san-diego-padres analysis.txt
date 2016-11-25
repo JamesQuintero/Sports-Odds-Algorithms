@@ -1,0 +1,17 @@
+
+Date: 6-29-2016
+Away: baltimore-orioles | Home: san-diego-padres
+Seasonal Record:      57.17%
+Home Away:            -50.86%
+Home away 10:         50.62%
+Last 10 games:        51.81%
+Avg points:           59.02%
+Avg points 10:        51.12%
+--------
+Total: 58.09%
+--------
+Perc chance to win: 58.09%
+Favorable team odds: -138.60653781913626
+Underdog team odds: +138.60653781913626
+
+Actual: -140, +120

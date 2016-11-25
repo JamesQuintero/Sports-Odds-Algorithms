@@ -1,0 +1,17 @@
+
+Date: 7-9-2016
+Away: los-angeles-angels | Home: baltimore-orioles
+Seasonal Record:      -56.56%
+Home Away:            -57.23%
+Home away 10:         -51.99%
+Last 10 games:        51.81%
+Avg points:           -54.89%
+Avg points 10:        52.18%
+Win streak home away: 50%
+--------
+Total: -56.89%
+--------
+Perc chance to win: 56.89%
+Favorable team odds: -131.96474135931336
+Underdog team odds: +131.96474135931336
+

@@ -1,0 +1,81 @@
+
+Date: 3-13-2016
+Away: cleveland-cavaliers | Home: los-angeles-clippers
+Seasonal Record:      57.24%
+Home Away:            -55.81%
+Home away 10:         -52.19%
+Last 10 games:        51.0%
+Avg points:           -50.24%
+Avg points 10:        -50.46%
+--------
+Total: 50.71%
+--------
+Perc chance to win: 50.71%
+Favorable team odds: -102.8809089064719
+Underdog team odds: +102.8809089064719
+
+
+Date: 3-13-2016
+Away: indiana-pacers | Home: atlanta-hawks
+Seasonal Record:      -54.29%
+Home Away:            -65.08%
+Home away 10:         -52.19%
+Last 10 games:        -53.69%
+Avg points:           51.76%
+Avg points 10:        -58.6%
+--------
+Total: -61.84%
+--------
+Perc chance to win: 61.84%
+Favorable team odds: -162.05450733752622
+Underdog team odds: +162.05450733752622
+
+
+Date: 3-13-2016
+Away: utah-jazz | Home: sacramento-kings
+Seasonal Record:      57.83%
+Home Away:            -61.25%
+Home away 10:         -58.7%
+Last 10 games:        53.69%
+Avg points:           54.84%
+Avg points 10:        54.86%
+--------
+Total: -59.97%
+--------
+Perc chance to win: 59.97%
+Favorable team odds: -149.81264051961028
+Underdog team odds: +149.81264051961028
+
+
+Date: 3-13-2016
+Away: milwaukee-bucks | Home: brooklyn-nets
+Seasonal Record:      63.61%
+Home Away:            -59.92%
+Home away 10:         -54.02%
+Last 10 games:        56.04%
+Avg points:           53.68%
+Avg points 10:        57.3%
+--------
+Total: 51.84%
+--------
+Perc chance to win: 51.84%
+Favorable team odds: -107.64119601328903
+Underdog team odds: +107.64119601328903
+
+
+Date: 3-13-2016
+Away: new-york-knicks | Home: los-angeles-lakers
+Seasonal Record:      66.99%
+Home Away:            52.95%
+Home away 10:         -54.02%
+Last 10 games:        51.0%
+Avg points:           65.14%
+Avg points 10:        53.89%
+--------
+Total: 66.06%
+--------
+Perc chance to win: 66.06%
+Favorable team odds: -194.63759575721866
+Underdog team odds: +194.63759575721866
+
+

@@ -1,0 +1,16 @@
+
+Date: 3-24-2016
+Away: chicago-bulls | Home: new-york-knicks
+Seasonal Record:      61.89%
+Home Away:            -58.58%
+Home away 10:         52.19%
+Last 10 games:        56.04%
+Avg points:           -50.6%
+Avg points 10:        51.28%
+--------
+Total: 51.65%
+--------
+Perc chance to win: 51.65%
+Favorable team odds: -106.82523267838677
+Underdog team odds: +106.82523267838677
+

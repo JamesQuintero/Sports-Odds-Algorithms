@@ -1,0 +1,157 @@
+
+Date: 3-28-2016
+Away: brooklyn-nets | Home: miami-heat
+Seasonal Record:      -76.28%
+Home Away:            -85.28%
+Home away 10:         -70.85%
+Last 10 games:        -58.04%
+Avg points:           -66.79%
+Avg points 10:        -60.06%
+--------
+Total: -80.78%
+--------
+Perc chance to win: 80.78%
+Favorable team odds: -420.2913631633715
+Underdog team odds: +420.2913631633715
+Not favorable odds
+
+Date: 3-28-2016
+Away: oklahoma-city-thunder | Home: toronto-raptors
+Seasonal Record:      54.29%
+Home Away:            -66.31%
+Home away 10:         -54.02%
+Last 10 games:        53.69%
+Avg points:           53.43%
+Avg points 10:        57.46%
+--------
+Total: -54.42%
+--------
+Perc chance to win: 54.42%
+Favorable team odds: -119.39447125932428
+Underdog team odds: +119.39447125932428
+$10 Raptors (+130)
+
+Date: 3-28-2016
+Away: atlanta-hawks | Home: chicago-bulls
+Seasonal Record:      60.74%
+Home Away:            -61.25%
+Home away 10:         -58.7%
+Last 10 games:        59.69%
+Avg points:           62.09%
+Avg points 10:        75.19%
+--------
+Total: 68.64%
+--------
+Perc chance to win: 68.64%
+Favorable team odds: -218.8775510204082
+Underdog team odds: +218.8775510204082
+$10 Hawks (-160)
+
+Date: 3-28-2016
+Away: san-antonio-spurs | Home: memphis-grizzlies
+Seasonal Record:      75.21%
+Home Away:            -52.95%
+Home away 10:         -52.19%
+Last 10 games:        61.0%
+Avg points:           80.91%
+Avg points 10:        76.79%
+--------
+Total: 78.84%
+--------
+Perc chance to win: 78.84%
+Favorable team odds: -372.58979206049156
+Underdog team odds: +372.58979206049156
+Injuries make this unpredictable
+
+Date: 3-28-2016
+Away: phoenix-suns | Home: minnesota-timberwolves
+Seasonal Record:      -57.24%
+Home Away:            -63.83%
+Home away 10:         52.19%
+Last 10 games:        -53.69%
+Avg points:           -55.4%
+Avg points 10:        -60.38%
+--------
+Total: -62.1%
+--------
+Perc chance to win: 62.1%
+Favorable team odds: -163.85224274406332
+Underdog team odds: +163.85224274406332
+$2 Suns (+230)
+
+Date: 3-28-2016
+Away: new-york-knicks | Home: new-orleans-pelicans
+Seasonal Record:      56.07%
+Home Away:            -65.08%
+Home away 10:         -58.7%
+Last 10 games:        56.04%
+Avg points:           -52.62%
+Avg points 10:        55.51%
+--------
+Total: -61.89%
+--------
+Perc chance to win: 61.89%
+Favorable team odds: -162.39832065074782
+Underdog team odds: +162.39832065074782
+$5 Pelicans (+180)
+
+Date: 3-28-2016
+Away: dallas-mavericks | Home: denver-nuggets
+Seasonal Record:      57.83%
+Home Away:            -55.81%
+Home away 10:         -65.54%
+Last 10 games:        -58.04%
+Avg points:           -50.04%
+Avg points 10:        -55.67%
+--------
+Total: -61.79%
+--------
+Perc chance to win: 61.79%
+Favorable team odds: -161.71159382360636
+Underdog team odds: +161.71159382360636
+
+Date: 3-28-2016
+Away: los-angeles-lakers | Home: utah-jazz
+Seasonal Record:      -76.28%
+Home Away:            -88.2%
+Home away 10:         -75.86%
+Last 10 games:        -59.69%
+Avg points:           -73.44%
+Avg points 10:        -61.03%
+--------
+Total: -82.24%
+--------
+Perc chance to win: 82.24%
+Favorable team odds: -463.0630630630629
+Underdog team odds: +463.0630630630629
+
+Date: 3-28-2016
+Away: sacramento-kings | Home: portland-trail-blazers
+Seasonal Record:      -62.46%
+Home Away:            -77.35%
+Home away 10:         -65.54%
+Last 10 games:        -53.69%
+Avg points:           -53.01%
+Avg points 10:        52.26%
+--------
+Total: -71.44%
+--------
+Perc chance to win: 71.44%
+Favorable team odds: -250.1400560224089
+Underdog team odds: +250.1400560224089
+
+Date: 3-28-2016
+Away: boston-celtics | Home: los-angeles-clippers
+Seasonal Record:      -55.47%
+Home Away:            -66.31%
+Home away 10:         -54.02%
+Last 10 games:        53.69%
+Avg points:           -54.47%
+Avg points 10:        56.81%
+--------
+Total: -54.75%
+--------
+Perc chance to win: 54.75%
+Favorable team odds: -120.99447513812156
+Underdog team odds: +120.99447513812156
+

@@ -1,0 +1,16 @@
+
+Date: 3-16-2016
+Away: chicago-bulls | Home: washington-wizards
+Seasonal Record:      55.47%
+Home Away:            -61.25%
+Home away 10:         -70.85%
+Last 10 games:        -53.69%
+Avg points:           -54.78%
+Avg points 10:        -60.22%
+--------
+Total: -66.05%
+--------
+Perc chance to win: 66.05%
+Favorable team odds: -194.55081001472752
+Underdog team odds: +194.55081001472752
+

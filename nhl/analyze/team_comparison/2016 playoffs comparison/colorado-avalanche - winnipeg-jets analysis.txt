@@ -1,0 +1,17 @@
+
+Date: 3-12-2016
+Away: colorado-avalanche | Home: winnipeg-jets
+Seasonal Record:      55.27%
+Home Away:            56.72%
+Home away 10:         55.48%
+Last 10 games:        54.74%
+Avg points:           50.21%
+Avg points 10:        53.89%
+--------
+Total: 56.09%
+--------
+Perc chance to win: 56.09%
+Favorable team odds: -127.7385561375541
+Underdog team odds: +127.7385561375541
+Avalanche (-110)
+Jets (-130)

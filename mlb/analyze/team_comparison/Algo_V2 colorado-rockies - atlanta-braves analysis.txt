@@ -1,0 +1,17 @@
+
+Date: 7-16-2016
+Away: colorado-rockies | Home: atlanta-braves
+Seasonal Record:      55.72%
+Home Away:            56.39%
+Home away 10:         50.62%
+Last 10 games:        51.6%
+Avg points:           58.81%
+Avg points 10:        51.22%
+Win streak home away: 50%
+--------
+Total: 57.6%
+--------
+Perc chance to win: 57.6%
+Favorable team odds: -135.8490566037736
+Underdog team odds: +135.8490566037736
+

@@ -1,0 +1,17 @@
+
+Date: 3-12-2016
+Away: minnesota-wild | Home: montreal-canadiens
+Seasonal Record:      -51.9%
+Home Away:            -58.81%
+Home away 10:         -52.64%
+Last 10 games:        53.93%
+Avg points:           50.07%
+Avg points 10:        53.98%
+--------
+Total: -52.41%
+--------
+Perc chance to win: 52.41%
+Favorable team odds: -110.12817818869509
+Underdog team odds: +110.12817818869509
+Wild (-150)
+Canadiens (+110)

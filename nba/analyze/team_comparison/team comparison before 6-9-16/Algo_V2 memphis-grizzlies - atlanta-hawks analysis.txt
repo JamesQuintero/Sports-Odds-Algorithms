@@ -1,0 +1,16 @@
+
+Date: 3-12-2016
+Away: memphis-grizzlies | Home: atlanta-hawks
+Seasonal Record:      56.07%
+Home Away:            -61.25%
+Home away 10:         -52.19%
+Last 10 games:        56.04%
+Avg points:           -55.43%
+Avg points 10:        -51.77%
+--------
+Total: -52.59%
+--------
+Perc chance to win: 52.59%
+Favorable team odds: -110.92596498628984
+Underdog team odds: +110.92596498628984
+

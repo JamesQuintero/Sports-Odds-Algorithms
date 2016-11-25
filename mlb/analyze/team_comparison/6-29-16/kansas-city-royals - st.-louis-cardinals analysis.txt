@@ -1,0 +1,17 @@
+
+Date: 6-29-2016
+Away: kansas-city-royals | Home: st.-louis-cardinals
+Seasonal Record:      51.03%
+Home Away:            -50.9%
+Home away 10:         -50.49%
+Last 10 games:        51.6%
+Avg points:           -58.32%
+Avg points 10:        -51.17%
+--------
+Total: -53.36%
+--------
+Perc chance to win: 53.36%
+Favorable team odds: -114.40823327615779
+Underdog team odds: +114.40823327615779
+
+Actual: +150, -170

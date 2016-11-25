@@ -1,0 +1,17 @@
+
+Date: 7-15-16
+Away: los-angeles-dodgers | Home: arizona-diamondbacks
+Seasonal Record:      56.56%
+Home Away:            55.95%
+Home away 10:         53.64%
+Last 10 games:        55.36%
+Avg points:           58.55%
+Avg points 10:        52.97%
+Win streak home away: 50%
+--------
+Total: 57.55%
+--------
+Perc chance to win: 57.55%
+Favorable team odds: -135.57126030624264
+Underdog team odds: +135.57126030624264
+

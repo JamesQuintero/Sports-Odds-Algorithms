@@ -1,0 +1,16 @@
+
+Date: 4-1-2016
+Away: miami-heat | Home: sacramento-kings
+Seasonal Record:      68.11%
+Home Away:            54.39%
+Home away 10:         54.02%
+Last 10 games:        53.69%
+Avg points:           55.83%
+Avg points 10:        53.56%
+--------
+Total: 61.97%
+--------
+Perc chance to win: 61.97%
+Favorable team odds: -162.95030239284776
+Underdog team odds: +162.95030239284776
+

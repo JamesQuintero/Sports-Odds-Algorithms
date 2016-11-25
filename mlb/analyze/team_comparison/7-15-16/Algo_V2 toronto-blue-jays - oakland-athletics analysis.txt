@@ -1,0 +1,17 @@
+
+Date: 7-15-16
+Away: toronto-blue-jays | Home: oakland-athletics
+Seasonal Record:      56.36%
+Home Away:            54.57%
+Home away 10:         51.99%
+Last 10 games:        55.36%
+Avg points:           60.46%
+Avg points 10:        58.71%
+Win streak home away: 50%
+--------
+Total: 59.58%
+--------
+Perc chance to win: 59.58%
+Favorable team odds: -147.4022761009401
+Underdog team odds: +147.4022761009401
+

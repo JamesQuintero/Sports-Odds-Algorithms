@@ -1,0 +1,18 @@
+
+Date: 3-9-2016
+Away: new-york-knicks | Home: phoenix-suns
+Seasonal Record:      16.0/10 = 1.6
+Home Away:            -1.0/10 = -0.1
+Home away 10:         -2.0/5 = -0.4
+Last 10 games:        0.0/5 = 0.0
+Avg points:           4.0/8 = 0.5
+Avg points 10:        3.84/8 = 0.48
+Win streak:           2.0/3 = 0.6666666666666666
+Win streak home away: -4.0/3 = -1.3333333333333333
+--------
+Total: 1.42
+--------
+Perc chance to win: 51.64934540466392%
+Favorable team odds: -106.8224325749791
+Underdog team odds: +106.8224325749791
+

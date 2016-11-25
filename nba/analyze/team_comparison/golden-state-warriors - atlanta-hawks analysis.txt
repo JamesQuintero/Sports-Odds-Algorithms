@@ -1,0 +1,17 @@
+
+Date: 4-16-2016
+Away: golden-state-warriors | Home: atlanta-hawks
+Seasonal Record:      130.49%
+Home Away:            118.71%
+Home away 10:         91.3%
+Last 10 games:        106.03999999999999%
+Avg points:           116.24%
+Avg points 10:        107.95%
+Win streak home away: 50%
+--------
+Total: 76.48%
+--------
+Perc chance to win: 76.48%
+Favorable team odds: -325.17006802721096
+Underdog team odds: +325.17006802721096
+

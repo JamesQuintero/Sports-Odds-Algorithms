@@ -1,0 +1,182 @@
+ 
+Date: 3-12-2016 
+Away: houston-rockets | Home: charlotte-hornets 
+Seasonal Record:      -56.66% 
+Home Away:            -72.12% 
+Home away 10:         -65.54% 
+Last 10 games:        -56.04% 
+Avg points:           -54.74% 
+Avg points 10:        -56.49% 
+-------- 
+Total: -68.83% 
+-------- 
+Perc chance to win: 68.83% 
+Favorable team odds: -220.8213025344883 
+Underdog team odds: +220.8213025344883 
+Rockets (+175)
+Hornets (-250)
+Spread: 5.5 (-115)
+	-5.5 (-115)
+ 
+ 
+Date: 3-12-2016 
+Away: detroit-pistons | Home: philadelphia-76ers 
+Seasonal Record:      79.45% 
+Home Away:            67.52% 
+Home away 10:         54.02% 
+Last 10 games:        61.0% 
+Avg points:           76.87% 
+Avg points 10:        70.38% 
+-------- 
+Total: 78.16% 
+-------- 
+Perc chance to win: 78.16% 
+Favorable team odds: -357.87545787545787 
+Underdog team odds: +357.87545787545787 
+Pistons (-1000)
+76ers (+525)
+Spread: -11.5 (-115)
+	+11.5 (-115)
+ 
+ 
+Date: 3-12-2016 
+Away: miami-heat | Home: toronto-raptors 
+Seasonal Record:      -59.58% 
+Home Away:            -71.01% 
+Home away 10:         -54.02% 
+Last 10 games:        -53.69% 
+Avg points:           -54.62% 
+Avg points 10:        51.44% 
+-------- 
+Total: -65.29% 
+-------- 
+Perc chance to win: 65.29% 
+Favorable team odds: -188.10141169691738 
+Underdog team odds: +188.10141169691738 
+Heat (+165)
+Raptors (-230)
+Spread: 5.5 (-120)
+				-5.5 (-115)
+ 
+ 
+Date: 3-12-2016 
+Away: memphis-grizzlies | Home: atlanta-hawks 
+Seasonal Record:      56.07% 
+Home Away:            -61.25% 
+Home away 10:         -52.19% 
+Last 10 games:        56.04% 
+Avg points:           -55.43% 
+Avg points 10:        -51.77% 
+-------- 
+Total: -52.59% 
+-------- 
+Perc chance to win: 52.59% 
+Favorable team odds: -110.92596498628984 
+Underdog team odds: +110.92596498628984 
+Grizzlies (+700)
+Hawks (-2000)
+Grizzlies have a lot of injured players. 
+ 
+ 
+Date: 3-12-2016 
+Away: new-orleans-pelicans | Home: milwaukee-bucks 
+Seasonal Record:      -55.47% 
+Home Away:            -80.2% 
+Home away 10:         -65.54% 
+Last 10 games:        -56.04% 
+Avg points:           -53.22% 
+Avg points 10:        -57.95% 
+-------- 
+Total: -72.87% 
+-------- 
+Perc chance to win: 72.87% 
+Favorable team odds: -268.5956505713233 
+Underdog team odds: +268.5956505713233 
+Pelicans (+220)
+Bucks (-315)
+ 
+ 
+Date: 3-12-2016 
+Away: oklahoma-city-thunder | Home: san-antonio-spurs 
+Seasonal Record:      -65.31% 
+Home Away:            -80.2% 
+Home away 10:         -65.54% 
+Last 10 games:        -61.0% 
+Avg points:           -61.86% 
+Avg points 10:        -67.65% 
+-------- 
+Total: -73.92% 
+-------- 
+Perc chance to win: 73.92% 
+Favorable team odds: -283.4355828220859 
+Underdog team odds: +283.4355828220859 
+Thunder (+315)
+Spurs (-500)
+ 
+ 
+Date: 3-12-2016 
+Away: washington-wizards | Home: denver-nuggets 
+Seasonal Record:      56.66% 
+Home Away:            51.48% 
+Home away 10:         -59.94% 
+Last 10 games:        51.0% 
+Avg points:           -54.98% 
+Avg points 10:        -51.61% 
+-------- 
+Total: -51.64% 
+-------- 
+Perc chance to win: 51.64% 
+Favorable team odds: -106.78246484698097 
+Underdog team odds: +106.78246484698097 
+ 
+ 
+Date: 3-12-2016 
+Away: phoenix-suns | Home: golden-state-warriors 
+Seasonal Record:      -96.77% 
+Home Away:            -95.48% 
+Home away 10:         -84.96% 
+Last 10 games:        -61.96% 
+Avg points:           -90.65% 
+Avg points 10:        -81.9% 
+-------- 
+Total: -96.12% 
+-------- 
+Perc chance to win: 96.12% 
+Favorable team odds: -2477.3195876288687 
+Underdog team odds: +2477.3195876288687 
+Suns (+1200)
+Warriors (-10000)
+at 4-2 a few minutes in, odds were now (+800 and -2500)
+ 
+ 
+Date: 3-12-2016 
+Away: orlando-magic | Home: portland-trail-blazers 
+Seasonal Record:      -58.41% 
+Home Away:            -72.12% 
+Home away 10:         -70.85% 
+Last 10 games:        -53.69% 
+Avg points:           -51.58% 
+Avg points 10:        -50.3% 
+-------- 
+Total: -71.48% 
+-------- 
+Perc chance to win: 71.48% 
+Favorable team odds: -250.63113604488083 
+Underdog team odds: +250.63113604488083 
+ 
+ 
+Date: 3-12-2016 
+Away: indiana-pacers | Home: dallas-mavericks 
+Seasonal Record:      54.29% 
+Home Away:            -61.25% 
+Home away 10:         -52.19% 
+Last 10 games:        53.69% 
+Avg points:           51.38% 
+Avg points 10:        -54.21% 
+-------- 
+Total: -53.48% 
+-------- 
+Perc chance to win: 53.48% 
+Favorable team odds: -114.96130696474634 
+Underdog team odds: +114.96130696474634 
+ 

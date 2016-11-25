@@ -1,0 +1,16 @@
+
+Date: 3-13-2016
+Away: milwaukee-bucks | Home: brooklyn-nets
+Seasonal Record:      63.61%
+Home Away:            -59.92%
+Home away 10:         -54.02%
+Last 10 games:        56.04%
+Avg points:           53.68%
+Avg points 10:        57.3%
+--------
+Total: 51.84%
+--------
+Perc chance to win: 51.84%
+Favorable team odds: -107.64119601328903
+Underdog team odds: +107.64119601328903
+

@@ -1,0 +1,18 @@
+
+Date: 3-6-2016
+Away: phoenix-suns | Home: memphis-grizzlies
+Seasonal Record:      -43.0/10 = -4.3
+Home Away:            -34.0/10 = -3.4
+Home away 10:         -14.0/5 = -2.8
+Last 10 games:        -10.0/5 = -2.0
+Avg points:           -6.8/8 = -0.85
+Avg points 10:        -16.88/8 = -2.11
+Win streak:           2.0/3 = 0.6666666666666666
+Win streak home away: -8.0/3 = -2.6666666666666665
+--------
+Total: -17.46
+--------
+Perc chance to win: 85.16524444444444%
+Favorable team odds: -574.0926712644778
+Underdog team odds: +574.0926712644778
+

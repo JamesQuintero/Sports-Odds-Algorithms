@@ -1,0 +1,17 @@
+
+Date: 7-10-2016
+Away: philadelphia-phillies | Home: colorado-rockies
+Seasonal Record:      50.77%
+Home Away:            50.26%
+Home away 10:         50.62%
+Last 10 games:        54.06%
+Avg points:           -57.3%
+Avg points 10:        51.11%
+Win streak home away: 50%
+--------
+Total: -51.62%
+--------
+Perc chance to win: 51.62%
+Favorable team odds: -106.6969822240595
+Underdog team odds: +106.6969822240595
+

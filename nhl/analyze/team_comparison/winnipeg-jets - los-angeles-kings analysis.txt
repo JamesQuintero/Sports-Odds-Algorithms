@@ -1,0 +1,16 @@
+
+Date: 4-9-2016
+Away: winnipeg-jets | Home: los-angeles-kings
+Seasonal Record:      -62.48%
+Home Away:            -63.15%
+Home away 10:         -55.7%
+Last 10 games:        53.28%
+Avg points:           -56.41%
+Avg points 10:        52.48%
+--------
+Total: -62.81%
+--------
+Perc chance to win: 62.81%
+Favorable team odds: -168.88948642108096
+Underdog team odds: +168.88948642108096
+

@@ -1,0 +1,16 @@
+
+Date: 4-16-2016
+Away: miami-heat | Home: charlotte-hornets
+Seasonal Record:      53.69%
+Home Away:            -73.22%
+Home away 10:         -65.54%
+Last 10 games:        53.69%
+Avg points:           53.12%
+Avg points 10:        50.14%
+--------
+Total: -69.38%
+--------
+Perc chance to win: 69.38%
+Favorable team odds: -226.58393207054206
+Underdog team odds: +226.58393207054206
+

@@ -1,0 +1,16 @@
+
+Date: 3-23-2016
+Away: orlando-magic | Home: detroit-pistons
+Seasonal Record:      -61.31%
+Home Away:            -78.32%
+Home away 10:         -65.54%
+Last 10 games:        -59.69%
+Avg points:           -54.06%
+Avg points 10:        -60.7%
+--------
+Total: -71.93%
+--------
+Perc chance to win: 71.93%
+Favorable team odds: -256.25222657641615
+Underdog team odds: +256.25222657641615
+

@@ -1,0 +1,17 @@
+
+Date: 7-15-16
+Away: houston-astros | Home: seattle-mariners
+Seasonal Record:      52.28%
+Home Away:            50.26%
+Home away 10:         50.62%
+Last 10 games:        51.81%
+Avg points:           -51.41%
+Avg points 10:        -51.13%
+Win streak home away: 50%
+--------
+Total: 52.04%
+--------
+Perc chance to win: 52.04%
+Favorable team odds: -108.50708924103421
+Underdog team odds: +108.50708924103421
+

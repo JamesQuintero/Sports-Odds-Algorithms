@@ -1,0 +1,16 @@
+
+Date: 3-14-2016
+Away: detroit-pistons | Home: washington-wizards
+Seasonal Record:      56.66%
+Home Away:            -57.2%
+Home away 10:         -54.02%
+Last 10 games:        58.04%
+Avg points:           55.43%
+Avg points 10:        62.97%
+--------
+Total: 60.5%
+--------
+Perc chance to win: 60.5%
+Favorable team odds: -153.16455696202533
+Underdog team odds: +153.16455696202533
+

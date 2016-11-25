@@ -1,0 +1,17 @@
+
+Date: 6-30-2016
+Away: miami-marlins | Home: atlanta-braves
+Seasonal Record:      57.37%
+Home Away:            58.39%
+Home away 10:         -50.49%
+Last 10 games:        51.81%
+Avg points:           59.12%
+Avg points 10:        51.11%
+--------
+Total: 58.75%
+--------
+Perc chance to win: 58.75%
+Favorable team odds: -142.42424242424244
+Underdog team odds: +142.42424242424244
+
+Actuak: -152, +137

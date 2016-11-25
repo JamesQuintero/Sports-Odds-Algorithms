@@ -1,0 +1,17 @@
+
+Date: 6-29-2016
+Away: los-angeles-dodgers | Home: milwaukee-brewers
+Seasonal Record:      54.4%
+Home Away:            50.86%
+Home away 10:         -51.99%
+Last 10 games:        53.04%
+Avg points:           59.07%
+Avg points 10:        51.11%
+--------
+Total: 56.73%
+--------
+Perc chance to win: 56.73%
+Favorable team odds: -131.10700254217699
+Underdog team odds: +131.10700254217699
+
+Actual: -115, -105

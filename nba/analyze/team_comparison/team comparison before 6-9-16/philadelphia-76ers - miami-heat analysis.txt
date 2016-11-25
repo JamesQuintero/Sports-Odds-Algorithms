@@ -1,0 +1,18 @@
+
+Date: 3-6-2016
+Away: philadelphia-76ers | Home: miami-heat
+Seasonal Record:      -56.0/10 = -5.6
+Home Away:            -34.0/10 = -3.4
+Home away 10:         -8.0/5 = -1.6
+Last 10 games:        -14.0/5 = -2.8
+Avg points:           -11.6/8 = -1.45
+Avg points 10:        -18.4/8 = -2.3
+Win streak:           -6.0/3 = -2.0
+Win streak home away: -4.0/3 = -1.3333333333333333
+--------
+Total: -20.49
+--------
+Perc chance to win: 89.67346049382715%
+Favorable team odds: -868.3786126051564
+Underdog team odds: +868.3786126051564
+

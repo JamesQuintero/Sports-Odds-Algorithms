@@ -1,0 +1,13 @@
+---- Start output ----
+[17:41:14] Scraping game scores from http://espn.go.com/nhl/team/schedule/_/name/ott/year/2015/ottawa-senators
+[17:41:17] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[17:41:17] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[17:41:17] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[17:41:17] Loading existing data
+[17:41:17] Saving data to ./nhl/team_data/2015/ottawa-senators.csv
+[17:41:17] Scraping game scores from http://espn.go.com/nhl/team/schedule/_/name/mtl/year/2015/montreal-canadiens
+[17:41:19] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[17:41:19] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[17:41:19] Loading existing data
+[17:41:19] Saving data to ./nhl/team_data/2015/montreal-canadiens.csv
+

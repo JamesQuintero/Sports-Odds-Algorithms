@@ -1,0 +1,16 @@
+
+Date: 3-16-2016
+Away: los-angeles-clippers | Home: houston-rockets
+Seasonal Record:      62.46%
+Home Away:            55.81%
+Home away 10:         54.02%
+Last 10 games:        -53.69%
+Avg points:           57.72%
+Avg points 10:        -60.87%
+--------
+Total: 50.79%
+--------
+Perc chance to win: 50.79%
+Favorable team odds: -103.210729526519
+Underdog team odds: +103.210729526519
+

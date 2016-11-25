@@ -1,0 +1,17 @@
+
+Date: 7-3-2016
+Away: kansas-city-royals | Home: philadelphia-phillies
+Seasonal Record:      54.85%
+Home Away:            50.26%
+Home away 10:         53.64%
+Last 10 games:        -51.81%
+Avg points:           58.21%
+Avg points 10:        -51.29%
+Win streak home away: 50%
+--------
+Total: 56.53%
+--------
+Perc chance to win: 56.53%
+Favorable team odds: -130.04370830457788
+Underdog team odds: +130.04370830457788
+

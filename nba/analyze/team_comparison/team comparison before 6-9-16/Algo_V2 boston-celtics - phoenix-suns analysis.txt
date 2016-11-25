@@ -1,0 +1,16 @@
+
+Date: 3-26-2016
+Away: boston-celtics | Home: phoenix-suns
+Seasonal Record:      77.34%
+Home Away:            62.55%
+Home away 10:         -52.19%
+Last 10 games:        53.69%
+Avg points:           76.33%
+Avg points 10:        63.13%
+--------
+Total: 76.83%
+--------
+Perc chance to win: 76.83%
+Favorable team odds: -331.5925766076823
+Underdog team odds: +331.5925766076823
+

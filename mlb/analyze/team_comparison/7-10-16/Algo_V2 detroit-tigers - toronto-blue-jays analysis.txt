@@ -1,0 +1,17 @@
+
+Date: 7-10-2016
+Away: detroit-tigers | Home: toronto-blue-jays
+Seasonal Record:      -52.28%
+Home Away:            -52.55%
+Home away 10:         -50.62%
+Last 10 games:        -51.81%
+Avg points:           -55.72%
+Avg points 10:        -51.96%
+Win streak home away: 50%
+--------
+Total: -54.13%
+--------
+Perc chance to win: 54.13%
+Favorable team odds: -118.0074122520166
+Underdog team odds: +118.0074122520166
+

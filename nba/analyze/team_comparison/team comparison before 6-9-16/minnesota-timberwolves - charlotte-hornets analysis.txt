@@ -1,0 +1,18 @@
+
+Date: 3-7-2016
+Away: minnesota-timberwolves | Home: charlotte-hornets
+Seasonal Record:      -28.0/10 = -2.8
+Home Away:            -25.0/10 = -2.5
+Home away 10:         -12.0/5 = -2.4
+Last 10 games:        -8.0/5 = -1.6
+Avg points:           -5.68/8 = -0.71
+Avg points 10:        -13.68/8 = -1.71
+Win streak:           -8.0/3 = -2.6666666666666665
+Win streak home away: -6.0/3 = -2.0
+--------
+Total: -16.39
+--------
+Perc chance to win: 83.43482400548697%
+Favorable team odds: -503.67604928027055
+Underdog team odds: +503.67604928027055
+

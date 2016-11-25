@@ -1,0 +1,1619 @@
+---- Start output ----
+[23:02:38] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/laa/year/2002/seasontype/2/half/1/los-angeles-angels
+[23:02:39] Date: 3-31-2002
+[23:02:39] Old date: 3-31-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[23:02:39] Date: 4-2-2002
+[23:02:39] Old date: 4-2-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 6-0
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220331103
+[23:02:39] Date: 4-3-2002
+[23:02:39] Old date: 4-3-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 7-5
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220402103
+[23:02:39] Date: 4-5-2002
+[23:02:39] Old date: 4-5-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 6-5
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220403103
+[23:02:39] Date: 4-6-2002
+[23:02:39] Old date: 4-6-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 3-1
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220405113
+[23:02:39] Date: 4-7-2002
+[23:02:39] Old date: 4-7-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 6-3
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220406113
+[23:02:39] Date: 4-8-2002
+[23:02:39] Old date: 4-8-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[23:02:39] Date: 4-9-2002
+[23:02:39] Old date: 4-9-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 5-4
+[23:02:39] Game link: http://espn.go.com/mlb/boxscore?id=220408103
+[23:02:39] Date: 4-10-2002
+[23:02:39] Old date: 4-10-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 5-1
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220409103
+[23:02:39] Date: 4-11-2002
+[23:02:39] Old date: 4-11-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 8-1
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220410103
+[23:02:39] Date: 4-12-2002
+[23:02:39] Old date: 4-12-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 8-4
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220411103
+[23:02:39] Date: 4-13-2002
+[23:02:39] Old date: 4-13-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 5-1
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220412103
+[23:02:39] Date: 4-14-2002
+[23:02:39] Old date: 4-14-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 7-2
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220413103
+[23:02:39] Date: 4-16-2002
+[23:02:39] Old date: 4-16-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 4-1
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220414103
+[23:02:39] Date: 4-17-2002
+[23:02:39] Old date: 4-17-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 6-5 F/10
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220416103
+[23:02:39] Date: 4-18-2002
+[23:02:39] Old date: 4-18-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 4-1
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220417103
+[23:02:39] Date: 4-19-2002
+[23:02:39] Old date: 4-19-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 4-2
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220418111
+[23:02:39] Date: 4-20-2002
+[23:02:39] Old date: 4-20-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 9-7
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220419111
+[23:02:39] Date: 4-21-2002
+[23:02:39] Old date: 4-21-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 8-7
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220420111
+[23:02:39] Date: 4-22-2002
+[23:02:39] Old date: 4-22-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 6-5
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220421111
+[23:02:39] Date: 4-23-2002
+[23:02:39] Old date: 4-23-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 16-5
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220422112
+[23:02:39] Date: 4-24-2002
+[23:02:39] Old date: 4-24-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 1-0
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220423112
+[23:02:39] Date: 4-26-2002
+[23:02:39] Old date: 4-26-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 10-6
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220424112
+[23:02:39] Date: 4-27-2002
+[23:02:39] Old date: 4-27-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 4-0
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220426103
+[23:02:39] Date: 4-28-2002
+[23:02:39] Old date: 4-28-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 11-4
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220427103
+[23:02:39] Date: 4-30-2002
+[23:02:39] Old date: 4-30-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 8-5 F/14
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220428103
+[23:02:39] Date: 5-1-2002
+[23:02:39] Old date: 5-1-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 21-2
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220430105
+[23:02:39] Date: 5-2-2002
+[23:02:39] Old date: 5-2-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 7-2
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220501105
+[23:02:39] Date: 5-3-2002
+[23:02:39] Old date: 5-3-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 8-0
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220502105
+[23:02:39] Date: 5-4-2002
+[23:02:39] Old date: 5-4-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 6-4
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220503114
+[23:02:39] Date: 5-5-2002
+[23:02:39] Old date: 5-5-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 4-1
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220504114
+[23:02:39] Date: 5-7-2002
+[23:02:39] Old date: 5-7-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 8-2
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220505114
+[23:02:39] Date: 5-8-2002
+[23:02:39] Old date: 5-8-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 3-0
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220507103
+[23:02:39] Date: 5-9-2002
+[23:02:39] Old date: 5-9-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 3-2
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220508103
+[23:02:39] Date: 5-10-2002
+[23:02:39] Old date: 5-10-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 7-6
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220509103
+[23:02:39] Date: 5-11-2002
+[23:02:39] Old date: 5-11-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 19-0
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220510103
+[23:02:39] Date: 5-12-2002
+[23:02:39] Old date: 5-12-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 6-3
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220511103
+[23:02:39] Date: 5-14-2002
+[23:02:39] Old date: 5-14-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 5-4
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220512103
+[23:02:39] Date: 5-15-2002
+[23:02:39] Old date: 5-15-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 9-2
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220514106
+[23:02:39] Date: 5-16-2002
+[23:02:39] Old date: 5-16-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 10-1
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220515106
+[23:02:39] Date: 5-17-2002
+[23:02:39] Old date: 5-17-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[23:02:39] Date: 5-18-2002
+[23:02:39] Old date: 5-18-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 8-4
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220517104
+[23:02:39] Date: 5-19-2002
+[23:02:39] Old date: 5-19-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 10-4
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220518104
+[23:02:39] Date: 5-20-2002
+[23:02:39] Old date: 5-20-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 6-1
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220519104
+[23:02:39] Date: 5-21-2002
+[23:02:39] Old date: 5-21-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 6-3
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220520103
+[23:02:39] Date: 5-22-2002
+[23:02:39] Old date: 5-22-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 5-1
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220521103
+[23:02:39] Date: 5-24-2002
+[23:02:39] Old date: 5-24-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 7-6
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220522103
+[23:02:39] Date: 5-25-2002
+[23:02:39] Old date: 5-25-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 5-1
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220524103
+[23:02:39] Date: 5-26-2002
+[23:02:39] Old date: 5-26-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 4-3 F/13
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220525103
+[23:02:39] Date: 5-28-2002
+[23:02:39] Old date: 5-28-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 5-2
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220526103
+[23:02:39] Date: 5-29-2002
+[23:02:39] Old date: 5-29-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 7-4
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220528107
+[23:02:39] Date: 5-30-2002
+[23:02:39] Old date: 5-30-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 12-2
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220529107
+[23:02:39] Date: 5-31-2002
+[23:02:39] Old date: 5-31-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 7-6 F/10
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220530109
+[23:02:39] Date: 6-1-2002
+[23:02:39] Old date: 6-1-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 11-3
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220531109
+[23:02:39] Date: 6-2-2002
+[23:02:39] Old date: 6-2-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 4-2
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220601109
+[23:02:39] Date: 6-3-2002
+[23:02:39] Old date: 6-3-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 5-4
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220602109
+[23:02:39] Date: 6-4-2002
+[23:02:39] Old date: 6-4-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 5-2
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220603103
+[23:02:39] Date: 6-5-2002
+[23:02:39] Old date: 6-5-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 3-0
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220604103
+[23:02:39] Date: 6-6-2002
+[23:02:39] Old date: 6-6-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 7-5 F/10
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220605103
+[23:02:39] Date: 6-7-2002
+[23:02:39] Old date: 6-7-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 9-8
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220606103
+[23:02:39] Date: 6-8-2002
+[23:02:39] Old date: 6-8-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 4-3
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220607103
+[23:02:39] Date: 6-9-2002
+[23:02:39] Old date: 6-9-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 4-3
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220608103
+[23:02:39] Date: 6-10-2002
+[23:02:39] Old date: 6-10-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 7-4
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220609103
+[23:02:39] Date: 6-11-2002
+[23:02:39] Old date: 6-11-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 4-3
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220610103
+[23:02:39] Date: 6-12-2002
+[23:02:39] Old date: 6-12-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 7-3
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220611103
+[23:02:39] Date: 6-14-2002
+[23:02:39] Old date: 6-14-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 8-5
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220612103
+[23:02:39] Date: 6-15-2002
+[23:02:39] Old date: 6-15-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 8-4
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220614119
+[23:02:39] Date: 6-16-2002
+[23:02:39] Old date: 6-16-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 10-5
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220615119
+[23:02:39] Date: 6-18-2002
+[23:02:39] Old date: 6-18-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 5-4
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220616119
+[23:02:39] Date: 6-19-2002
+[23:02:39] Old date: 6-19-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 7-2
+[23:02:39] Game link: http://espn.go.com/mlb/boxscore?id=220618124
+[23:02:39] Date: 6-20-2002
+[23:02:39] Old date: 6-20-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 6-2
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220619124
+[23:02:39] Date: 6-21-2002
+[23:02:39] Old date: 6-21-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 3-2
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220620124
+[23:02:39] Date: 6-22-2002
+[23:02:39] Old date: 6-22-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 11-4
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220621108
+[23:02:39] Date: 6-23-2002
+[23:02:39] Old date: 6-23-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 8-2
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220622108
+[23:02:39] Date: 6-24-2002
+[23:02:39] Old date: 6-24-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 5-2
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220623108
+[23:02:39] Date: 6-24-2002
+[23:02:39] Old date: 6-24-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 8-5
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220624213
+[23:02:39] Date: 6-25-2002
+[23:02:39] Old date: 6-25-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 3-2
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220624313
+[23:02:39] Date: 6-26-2002
+[23:02:39] Old date: 6-26-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 11-5
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220625113
+[23:02:39] Date: 6-27-2002
+[23:02:39] Old date: 6-27-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 7-6
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220626113
+[23:02:39] Date: 6-28-2002
+[23:02:39] Old date: 6-28-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 6-3
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220627113
+[23:02:39] Date: 6-29-2002
+[23:02:39] Old date: 6-29-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 7-5
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220628103
+[23:02:39] Date: 6-30-2002
+[23:02:39] Old date: 6-30-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 7-0
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220629103
+[23:02:39] Date: 7-2-2002
+[23:02:39] Old date: 7-2-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 5-1
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220630103
+[23:02:39] Date: 7-3-2002
+[23:02:39] Old date: 7-3-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 3-0
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220702103
+[23:02:39] Date: 7-4-2002
+[23:02:39] Old date: 7-4-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 1-0
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220703103
+[23:02:39] Date: 7-5-2002
+[23:02:39] Old date: 7-5-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 7-2
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220704103
+[23:02:39] Date: 7-6-2002
+[23:02:39] Old date: 7-6-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 6-5 F/10
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220705103
+[23:02:39] Date: 7-7-2002
+[23:02:39] Old date: 7-7-2002
+[23:02:39] String to find: <li class="score"><a href="
+[23:02:39] Score: 4-3
+[23:02:39] Game link: http://espn.go.com/mlb/recap?id=220706103
+[23:02:39] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[23:02:39] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/laa/year/2002/seasontype/2/half/2/los-angeles-angels
+[23:02:40] Date: 7-11-2002
+[23:02:40] Old date: 7-11-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[23:02:40] Date: 7-12-2002
+[23:02:40] Old date: 7-12-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 1-0
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220711107
+[23:02:40] Date: 7-13-2002
+[23:02:40] Old date: 7-13-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 11-3
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220712107
+[23:02:40] Date: 7-14-2002
+[23:02:40] Old date: 7-14-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 4-0
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220713107
+[23:02:40] Date: 7-15-2002
+[23:02:40] Old date: 7-15-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 12-3
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220714107
+[23:02:40] Date: 7-16-2002
+[23:02:40] Old date: 7-16-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 10-8
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220715109
+[23:02:40] Date: 7-17-2002
+[23:02:40] Old date: 7-17-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 4-2
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220716109
+[23:02:40] Date: 7-18-2002
+[23:02:40] Old date: 7-18-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 10-4
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220717111
+[23:02:40] Date: 7-19-2002
+[23:02:40] Old date: 7-19-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 2-0
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220718111
+[23:02:40] Date: 7-20-2002
+[23:02:40] Old date: 7-20-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 15-3
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220719103
+[23:02:40] Date: 7-21-2002
+[23:02:40] Old date: 7-21-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 7-6
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220720103
+[23:02:40] Date: 7-23-2002
+[23:02:40] Old date: 7-23-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 7-5
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220721103
+[23:02:40] Date: 7-24-2002
+[23:02:40] Old date: 7-24-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 2-1
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220723103
+[23:02:40] Date: 7-25-2002
+[23:02:40] Old date: 7-25-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 5-1
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220724103
+[23:02:40] Date: 7-26-2002
+[23:02:40] Old date: 7-26-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 5-4
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220725103
+[23:02:40] Date: 7-27-2002
+[23:02:40] Old date: 7-27-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 8-0
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220726112
+[23:02:40] Date: 7-28-2002
+[23:02:40] Old date: 7-28-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 3-1
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220727112
+[23:02:40] Date: 7-29-2002
+[23:02:40] Old date: 7-29-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 1-0
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220728112
+[23:02:40] Date: 7-30-2002
+[23:02:40] Old date: 7-30-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 5-4
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220729103
+[23:02:40] Date: 7-31-2002
+[23:02:40] Old date: 7-31-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 6-0
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220730103
+[23:02:40] Date: 8-1-2002
+[23:02:40] Old date: 8-1-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 2-1
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220731103
+[23:02:40] Date: 8-2-2002
+[23:02:40] Old date: 8-2-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 2-1
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220801103
+[23:02:40] Date: 8-3-2002
+[23:02:40] Old date: 8-3-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 4-0
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220802103
+[23:02:40] Date: 8-4-2002
+[23:02:40] Old date: 8-4-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 5-4
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220803103
+[23:02:40] Date: 8-5-2002
+[23:02:40] Old date: 8-5-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 7-5 F/12
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220804103
+[23:02:40] Date: 8-6-2002
+[23:02:40] Old date: 8-6-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 6-3
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220805106
+[23:02:40] Date: 8-7-2002
+[23:02:40] Old date: 8-7-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 11-2
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220806104
+[23:02:40] Date: 8-8-2002
+[23:02:40] Old date: 8-8-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 7-6
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220807104
+[23:02:40] Date: 8-9-2002
+[23:02:40] Old date: 8-9-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 3-2
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220808104
+[23:02:40] Date: 8-10-2002
+[23:02:40] Old date: 8-10-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 5-4
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220809114
+[23:02:40] Date: 8-11-2002
+[23:02:40] Old date: 8-11-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 11-4
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220810114
+[23:02:40] Date: 8-12-2002
+[23:02:40] Old date: 8-12-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 1-0
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220811114
+[23:02:40] Date: 8-13-2002
+[23:02:40] Old date: 8-13-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 7-0
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220812103
+[23:02:40] Date: 8-14-2002
+[23:02:40] Old date: 8-14-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 7-6 F/12
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220813103
+[23:02:40] Date: 8-16-2002
+[23:02:40] Old date: 8-16-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 5-4
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220814103
+[23:02:40] Date: 8-17-2002
+[23:02:40] Old date: 8-17-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 5-4
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220816103
+[23:02:40] Date: 8-18-2002
+[23:02:40] Old date: 8-18-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 9-4
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220817103
+[23:02:40] Date: 8-20-2002
+[23:02:40] Old date: 8-20-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 4-1
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220818103
+[23:02:40] Date: 8-21-2002
+[23:02:40] Old date: 8-21-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 7-5
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220820110
+[23:02:40] Date: 8-22-2002
+[23:02:40] Old date: 8-22-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 5-1 F/11
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220821110
+[23:02:40] Date: 8-23-2002
+[23:02:40] Old date: 8-23-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 4-2
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220822110
+[23:02:40] Date: 8-24-2002
+[23:02:40] Old date: 8-24-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 4-1
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220823102
+[23:02:40] Date: 8-25-2002
+[23:02:40] Old date: 8-25-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 2-0
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220824102
+[23:02:40] Date: 8-26-2002
+[23:02:40] Old date: 8-26-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 8-3
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220825102
+[23:02:40] Date: 8-27-2002
+[23:02:40] Old date: 8-27-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 10-9 F/10
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220826102
+[23:02:40] Date: 8-28-2002
+[23:02:40] Old date: 8-28-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 7-3
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220827103
+[23:02:40] Date: 8-29-2002
+[23:02:40] Old date: 8-29-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 8-5 F/10
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220828103
+[23:02:40] Date: 8-30-2002
+[23:02:40] Old date: 8-30-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 6-1
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220829103
+[23:02:40] Date: 8-31-2002
+[23:02:40] Old date: 8-31-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 6-2
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220830103
+[23:02:40] Date: 9-1-2002
+[23:02:40] Old date: 9-1-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 9-0
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220831103
+[23:02:40] Date: 9-3-2002
+[23:02:40] Old date: 9-3-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 9-3
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220901103
+[23:02:40] Date: 9-4-2002
+[23:02:40] Old date: 9-4-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 10-2
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220903130
+[23:02:40] Date: 9-5-2002
+[23:02:40] Old date: 9-5-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 4-2
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220904130
+[23:02:40] Date: 9-6-2002
+[23:02:40] Old date: 9-6-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 10-1
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220905130
+[23:02:40] Date: 9-7-2002
+[23:02:40] Old date: 9-7-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 6-3
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220906101
+[23:02:40] Date: 9-8-2002
+[23:02:40] Old date: 9-8-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 4-2 F/10
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220907101
+[23:02:40] Date: 9-9-2002
+[23:02:40] Old date: 9-9-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 6-2
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220908101
+[23:02:40] Date: 9-10-2002
+[23:02:40] Old date: 9-10-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 2-1
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220909103
+[23:02:40] Date: 9-11-2002
+[23:02:40] Old date: 9-11-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 5-2
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220910103
+[23:02:40] Date: 9-12-2002
+[23:02:40] Old date: 9-12-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 6-5
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220911103
+[23:02:40] Date: 9-13-2002
+[23:02:40] Old date: 9-13-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 7-6
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220912103
+[23:02:40] Date: 9-14-2002
+[23:02:40] Old date: 9-14-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 3-2
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220913103
+[23:02:40] Date: 9-15-2002
+[23:02:40] Old date: 9-15-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 8-6
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220914103
+[23:02:40] Date: 9-16-2002
+[23:02:40] Old date: 9-16-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 13-4
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220915103
+[23:02:40] Date: 9-17-2002
+[23:02:40] Old date: 9-17-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 4-3
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220916111
+[23:02:40] Date: 9-18-2002
+[23:02:40] Old date: 9-18-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 1-0 F/10
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220917111
+[23:02:40] Date: 9-19-2002
+[23:02:40] Old date: 9-19-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 7-4
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220918111
+[23:02:40] Date: 9-20-2002
+[23:02:40] Old date: 9-20-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 5-3
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220919111
+[23:02:40] Date: 9-21-2002
+[23:02:40] Old date: 9-21-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 8-1
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220920112
+[23:02:40] Date: 9-22-2002
+[23:02:40] Old date: 9-22-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 6-4
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220921112
+[23:02:40] Date: 9-24-2002
+[23:02:40] Old date: 9-24-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 3-2
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220922112
+[23:02:40] Date: 9-25-2002
+[23:02:40] Old date: 9-25-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 2-1
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220924113
+[23:02:40] Date: 9-26-2002
+[23:02:40] Old date: 9-26-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 4-3
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220925113
+[23:02:40] Date: 9-27-2002
+[23:02:40] Old date: 9-27-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 10-5
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220926113
+[23:02:40] Date: 9-28-2002
+[23:02:40] Old date: 9-28-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 7-6 F/12
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220927103
+[23:02:40] Date: 9-29-2002
+[23:02:40] Old date: 9-29-2002
+[23:02:40] String to find: <li class="score"><a href="
+[23:02:40] Score: 8-4
+[23:02:40] Game link: http://espn.go.com/mlb/recap?id=220928103
+[23:02:40] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[23:02:40] Loading existing data
+[23:02:40] Returned 3-31-2002's game results
+[23:02:40] Scraping 3-31-2002's period data: http://espn.go.com/mlb/playbyplay?id=220331103
+[23:02:40] Game url: http://espn.go.com/mlb/playbyplay?id=220331103
+[23:02:40] Team1: cle | Team2: ana
+[23:02:40] Cur team: laa | los-angeles-angels
+[23:02:40] Returned 4-2-2002's game results
+[23:02:40] Scraping 4-2-2002's period data: http://espn.go.com/mlb/playbyplay?id=220402103
+[23:02:41] Game url: http://espn.go.com/mlb/playbyplay?id=220402103
+[23:02:41] Team1: cle | Team2: ana
+[23:02:41] Cur team: laa | los-angeles-angels
+[23:02:41] Returned 4-3-2002's game results
+[23:02:41] Scraping 4-3-2002's period data: http://espn.go.com/mlb/playbyplay?id=220403103
+[23:02:42] Game url: http://espn.go.com/mlb/playbyplay?id=220403103
+[23:02:42] Team1: cle | Team2: ana
+[23:02:42] Cur team: laa | los-angeles-angels
+[23:02:42] Returned 4-5-2002's game results
+[23:02:42] Scraping 4-5-2002's period data: http://espn.go.com/mlb/playbyplay?id=220405113
+[23:02:43] Game url: http://espn.go.com/mlb/playbyplay?id=220405113
+[23:02:43] Team1: ana | Team2: tex
+[23:02:43] Cur team: laa | los-angeles-angels
+[23:02:43] Returned 4-6-2002's game results
+[23:02:43] Scraping 4-6-2002's period data: http://espn.go.com/mlb/playbyplay?id=220406113
+[23:02:43] Game url: http://espn.go.com/mlb/playbyplay?id=220406113
+[23:02:43] Team1: ana | Team2: tex
+[23:02:43] Cur team: laa | los-angeles-angels
+[23:02:43] Returned 4-7-2002's game results
+[23:02:43] Scraping 4-7-2002's period data: http://espn.go.com/mlb/boxscore?id=220408103
+[23:02:44] Game url: http://espn.go.com/mlb/boxscore?id=220408103
+[23:02:44] Team1: sea | Team2: ana
+[23:02:44] Cur team: laa | los-angeles-angels
+[23:02:44] Returned 4-9-2002's game results
+[23:02:44] Scraping 4-9-2002's period data: http://espn.go.com/mlb/playbyplay?id=220409103
+[23:02:45] Game url: http://espn.go.com/mlb/playbyplay?id=220409103
+[23:02:45] Team1: sea | Team2: ana
+[23:02:45] Cur team: laa | los-angeles-angels
+[23:02:45] Returned 4-10-2002's game results
+[23:02:45] Scraping 4-10-2002's period data: http://espn.go.com/mlb/playbyplay?id=220410103
+[23:02:46] Game url: http://espn.go.com/mlb/playbyplay?id=220410103
+[23:02:46] Team1: sea | Team2: ana
+[23:02:46] Cur team: laa | los-angeles-angels
+[23:02:46] Returned 4-11-2002's game results
+[23:02:46] Scraping 4-11-2002's period data: http://espn.go.com/mlb/playbyplay?id=220411103
+[23:02:47] Game url: http://espn.go.com/mlb/playbyplay?id=220411103
+[23:02:47] Team1: sea | Team2: ana
+[23:02:47] Cur team: laa | los-angeles-angels
+[23:02:47] Returned 4-12-2002's game results
+[23:02:47] Scraping 4-12-2002's period data: http://espn.go.com/mlb/playbyplay?id=220412103
+[23:02:47] Game url: http://espn.go.com/mlb/playbyplay?id=220412103
+[23:02:47] Team1: oak | Team2: ana
+[23:02:47] Cur team: laa | los-angeles-angels
+[23:02:47] Returned 4-13-2002's game results
+[23:02:47] Scraping 4-13-2002's period data: http://espn.go.com/mlb/playbyplay?id=220413103
+[23:02:48] Game url: http://espn.go.com/mlb/playbyplay?id=220413103
+[23:02:48] Team1: oak | Team2: ana
+[23:02:48] Cur team: laa | los-angeles-angels
+[23:02:48] Returned 4-14-2002's game results
+[23:02:48] Scraping 4-14-2002's period data: http://espn.go.com/mlb/playbyplay?id=220414103
+[23:02:49] Game url: http://espn.go.com/mlb/playbyplay?id=220414103
+[23:02:49] Team1: oak | Team2: ana
+[23:02:49] Cur team: laa | los-angeles-angels
+[23:02:49] Returned 4-16-2002's game results
+[23:02:49] Scraping 4-16-2002's period data: http://espn.go.com/mlb/playbyplay?id=220416103
+[23:02:50] Game url: http://espn.go.com/mlb/playbyplay?id=220416103
+[23:02:50] Team1: tex | Team2: ana
+[23:02:50] Cur team: laa | los-angeles-angels
+[23:02:50] Returned 4-17-2002's game results
+[23:02:50] Scraping 4-17-2002's period data: http://espn.go.com/mlb/playbyplay?id=220417103
+[23:02:51] Game url: http://espn.go.com/mlb/playbyplay?id=220417103
+[23:02:51] Team1: tex | Team2: ana
+[23:02:51] Cur team: laa | los-angeles-angels
+[23:02:51] Returned 4-18-2002's game results
+[23:02:51] Scraping 4-18-2002's period data: http://espn.go.com/mlb/playbyplay?id=220418111
+[23:02:52] Game url: http://espn.go.com/mlb/playbyplay?id=220418111
+[23:02:52] Team1: ana | Team2: oak
+[23:02:52] Cur team: laa | los-angeles-angels
+[23:02:52] Returned 4-19-2002's game results
+[23:02:52] Scraping 4-19-2002's period data: http://espn.go.com/mlb/playbyplay?id=220419111
+[23:02:53] Game url: http://espn.go.com/mlb/playbyplay?id=220419111
+[23:02:53] Team1: ana | Team2: oak
+[23:02:53] Cur team: laa | los-angeles-angels
+[23:02:53] Returned 4-20-2002's game results
+[23:02:53] Scraping 4-20-2002's period data: http://espn.go.com/mlb/playbyplay?id=220420111
+[23:02:54] Game url: http://espn.go.com/mlb/playbyplay?id=220420111
+[23:02:54] Team1: ana | Team2: oak
+[23:02:54] Cur team: laa | los-angeles-angels
+[23:02:54] Returned 4-21-2002's game results
+[23:02:54] Scraping 4-21-2002's period data: http://espn.go.com/mlb/playbyplay?id=220421111
+[23:02:54] Game url: http://espn.go.com/mlb/playbyplay?id=220421111
+[23:02:54] Team1: ana | Team2: oak
+[23:02:54] Cur team: laa | los-angeles-angels
+[23:02:55] Returned 4-22-2002's game results
+[23:02:55] Scraping 4-22-2002's period data: http://espn.go.com/mlb/playbyplay?id=220422112
+[23:02:55] Game url: http://espn.go.com/mlb/playbyplay?id=220422112
+[23:02:55] Team1: ana | Team2: sea
+[23:02:55] Cur team: laa | los-angeles-angels
+[23:02:55] Returned 4-23-2002's game results
+[23:02:55] Scraping 4-23-2002's period data: http://espn.go.com/mlb/playbyplay?id=220423112
+[23:02:56] Game url: http://espn.go.com/mlb/playbyplay?id=220423112
+[23:02:56] Team1: ana | Team2: sea
+[23:02:56] Cur team: laa | los-angeles-angels
+[23:02:56] Returned 4-24-2002's game results
+[23:02:56] Scraping 4-24-2002's period data: http://espn.go.com/mlb/playbyplay?id=220424112
+[23:02:57] Game url: http://espn.go.com/mlb/playbyplay?id=220424112
+[23:02:57] Team1: ana | Team2: sea
+[23:02:57] Cur team: laa | los-angeles-angels
+[23:02:57] Returned 4-26-2002's game results
+[23:02:57] Scraping 4-26-2002's period data: http://espn.go.com/mlb/playbyplay?id=220426103
+[23:02:57] Game url: http://espn.go.com/mlb/playbyplay?id=220426103
+[23:02:57] Team1: tor | Team2: ana
+[23:02:57] Cur team: laa | los-angeles-angels
+[23:02:57] Returned 4-27-2002's game results
+[23:02:57] Scraping 4-27-2002's period data: http://espn.go.com/mlb/playbyplay?id=220427103
+[23:02:58] Game url: http://espn.go.com/mlb/playbyplay?id=220427103
+[23:02:58] Team1: tor | Team2: ana
+[23:02:58] Cur team: laa | los-angeles-angels
+[23:02:58] Returned 4-28-2002's game results
+[23:02:58] Scraping 4-28-2002's period data: http://espn.go.com/mlb/playbyplay?id=220428103
+[23:02:59] Game url: http://espn.go.com/mlb/playbyplay?id=220428103
+[23:02:59] Team1: tor | Team2: ana
+[23:02:59] Cur team: laa | los-angeles-angels
+[23:02:59] Returned 4-30-2002's game results
+[23:02:59] Scraping 4-30-2002's period data: http://espn.go.com/mlb/playbyplay?id=220430105
+[23:03:00] Game url: http://espn.go.com/mlb/playbyplay?id=220430105
+[23:03:00] Team1: ana | Team2: cle
+[23:03:00] Cur team: laa | los-angeles-angels
+[23:03:00] Returned 5-1-2002's game results
+[23:03:00] Scraping 5-1-2002's period data: http://espn.go.com/mlb/playbyplay?id=220501105
+[23:03:01] Game url: http://espn.go.com/mlb/playbyplay?id=220501105
+[23:03:01] Team1: ana | Team2: cle
+[23:03:01] Cur team: laa | los-angeles-angels
+[23:03:01] Returned 5-2-2002's game results
+[23:03:01] Scraping 5-2-2002's period data: http://espn.go.com/mlb/playbyplay?id=220502105
+[23:03:02] Game url: http://espn.go.com/mlb/playbyplay?id=220502105
+[23:03:02] Team1: ana | Team2: cle
+[23:03:02] Cur team: laa | los-angeles-angels
+[23:03:02] Returned 5-3-2002's game results
+[23:03:02] Scraping 5-3-2002's period data: http://espn.go.com/mlb/playbyplay?id=220503114
+[23:03:03] Game url: http://espn.go.com/mlb/playbyplay?id=220503114
+[23:03:03] Team1: ana | Team2: tor
+[23:03:03] Cur team: laa | los-angeles-angels
+[23:03:03] Returned 5-4-2002's game results
+[23:03:03] Scraping 5-4-2002's period data: http://espn.go.com/mlb/playbyplay?id=220504114
+[23:03:04] Game url: http://espn.go.com/mlb/playbyplay?id=220504114
+[23:03:04] Team1: ana | Team2: tor
+[23:03:04] Cur team: laa | los-angeles-angels
+[23:03:04] Returned 5-5-2002's game results
+[23:03:04] Scraping 5-5-2002's period data: http://espn.go.com/mlb/playbyplay?id=220505114
+[23:03:06] Game url: http://espn.go.com/mlb/playbyplay?id=220505114
+[23:03:06] Team1: ana | Team2: tor
+[23:03:06] Cur team: laa | los-angeles-angels
+[23:03:06] Returned 5-7-2002's game results
+[23:03:06] Scraping 5-7-2002's period data: http://espn.go.com/mlb/playbyplay?id=220507103
+[23:03:07] Game url: http://espn.go.com/mlb/playbyplay?id=220507103
+[23:03:07] Team1: det | Team2: ana
+[23:03:07] Cur team: laa | los-angeles-angels
+[23:03:07] Returned 5-8-2002's game results
+[23:03:07] Scraping 5-8-2002's period data: http://espn.go.com/mlb/playbyplay?id=220508103
+[23:03:08] Game url: http://espn.go.com/mlb/playbyplay?id=220508103
+[23:03:08] Team1: det | Team2: ana
+[23:03:08] Cur team: laa | los-angeles-angels
+[23:03:08] Returned 5-9-2002's game results
+[23:03:08] Scraping 5-9-2002's period data: http://espn.go.com/mlb/playbyplay?id=220509103
+[23:03:09] Game url: http://espn.go.com/mlb/playbyplay?id=220509103
+[23:03:09] Team1: det | Team2: ana
+[23:03:09] Cur team: laa | los-angeles-angels
+[23:03:09] Returned 5-10-2002's game results
+[23:03:09] Scraping 5-10-2002's period data: http://espn.go.com/mlb/playbyplay?id=220510103
+[23:03:10] Game url: http://espn.go.com/mlb/playbyplay?id=220510103
+[23:03:10] Team1: cws | Team2: ana
+[23:03:10] Cur team: laa | los-angeles-angels
+[23:03:10] Returned 5-11-2002's game results
+[23:03:10] Scraping 5-11-2002's period data: http://espn.go.com/mlb/playbyplay?id=220511103
+[23:03:11] Game url: http://espn.go.com/mlb/playbyplay?id=220511103
+[23:03:11] Team1: cws | Team2: ana
+[23:03:11] Cur team: laa | los-angeles-angels
+[23:03:11] Returned 5-12-2002's game results
+[23:03:11] Scraping 5-12-2002's period data: http://espn.go.com/mlb/playbyplay?id=220512103
+[23:03:12] Game url: http://espn.go.com/mlb/playbyplay?id=220512103
+[23:03:12] Team1: cws | Team2: ana
+[23:03:12] Cur team: laa | los-angeles-angels
+[23:03:12] Returned 5-14-2002's game results
+[23:03:12] Scraping 5-14-2002's period data: http://espn.go.com/mlb/playbyplay?id=220514106
+[23:03:12] Game url: http://espn.go.com/mlb/playbyplay?id=220514106
+[23:03:12] Team1: ana | Team2: det
+[23:03:12] Cur team: laa | los-angeles-angels
+[23:03:12] Returned 5-15-2002's game results
+[23:03:12] Scraping 5-15-2002's period data: http://espn.go.com/mlb/playbyplay?id=220515106
+[23:03:13] Game url: http://espn.go.com/mlb/playbyplay?id=220515106
+[23:03:13] Team1: ana | Team2: det
+[23:03:13] Cur team: laa | los-angeles-angels
+[23:03:13] Returned 5-16-2002's game results
+[23:03:13] Scraping 5-16-2002's period data: http://espn.go.com/mlb/playbyplay?id=220517104
+[23:03:14] Game url: http://espn.go.com/mlb/playbyplay?id=220517104
+[23:03:14] Team1: ana | Team2: cws
+[23:03:14] Cur team: laa | los-angeles-angels
+[23:03:14] Returned 5-18-2002's game results
+[23:03:14] Scraping 5-18-2002's period data: http://espn.go.com/mlb/playbyplay?id=220518104
+[23:03:15] Game url: http://espn.go.com/mlb/playbyplay?id=220518104
+[23:03:15] Team1: ana | Team2: cws
+[23:03:15] Cur team: laa | los-angeles-angels
+[23:03:15] Returned 5-19-2002's game results
+[23:03:15] Scraping 5-19-2002's period data: http://espn.go.com/mlb/playbyplay?id=220519104
+[23:03:16] Game url: http://espn.go.com/mlb/playbyplay?id=220519104
+[23:03:16] Team1: ana | Team2: cws
+[23:03:16] Cur team: laa | los-angeles-angels
+[23:03:16] Returned 5-20-2002's game results
+[23:03:16] Scraping 5-20-2002's period data: http://espn.go.com/mlb/playbyplay?id=220520103
+[23:03:17] Game url: http://espn.go.com/mlb/playbyplay?id=220520103
+[23:03:17] Team1: kc | Team2: ana
+[23:03:17] Cur team: laa | los-angeles-angels
+[23:03:17] Returned 5-21-2002's game results
+[23:03:17] Scraping 5-21-2002's period data: http://espn.go.com/mlb/playbyplay?id=220521103
+[23:03:18] Game url: http://espn.go.com/mlb/playbyplay?id=220521103
+[23:03:18] Team1: kc | Team2: ana
+[23:03:18] Cur team: laa | los-angeles-angels
+[23:03:18] Returned 5-22-2002's game results
+[23:03:18] Scraping 5-22-2002's period data: http://espn.go.com/mlb/playbyplay?id=220522103
+[23:03:18] Game url: http://espn.go.com/mlb/playbyplay?id=220522103
+[23:03:18] Team1: kc | Team2: ana
+[23:03:18] Cur team: laa | los-angeles-angels
+[23:03:18] Returned 5-24-2002's game results
+[23:03:18] Scraping 5-24-2002's period data: http://espn.go.com/mlb/playbyplay?id=220524103
+[23:03:19] Game url: http://espn.go.com/mlb/playbyplay?id=220524103
+[23:03:19] Team1: min | Team2: ana
+[23:03:19] Cur team: laa | los-angeles-angels
+[23:03:19] Returned 5-25-2002's game results
+[23:03:19] Scraping 5-25-2002's period data: http://espn.go.com/mlb/playbyplay?id=220525103
+[23:03:21] Game url: http://espn.go.com/mlb/playbyplay?id=220525103
+[23:03:21] Team1: min | Team2: ana
+[23:03:21] Cur team: laa | los-angeles-angels
+[23:03:21] Returned 5-26-2002's game results
+[23:03:21] Scraping 5-26-2002's period data: http://espn.go.com/mlb/playbyplay?id=220526103
+[23:03:22] Game url: http://espn.go.com/mlb/playbyplay?id=220526103
+[23:03:22] Team1: min | Team2: ana
+[23:03:22] Cur team: laa | los-angeles-angels
+[23:03:22] Returned 5-28-2002's game results
+[23:03:22] Scraping 5-28-2002's period data: http://espn.go.com/mlb/playbyplay?id=220528107
+[23:03:23] Game url: http://espn.go.com/mlb/playbyplay?id=220528107
+[23:03:23] Team1: ana | Team2: kc
+[23:03:23] Cur team: laa | los-angeles-angels
+[23:03:23] Returned 5-29-2002's game results
+[23:03:23] Scraping 5-29-2002's period data: http://espn.go.com/mlb/playbyplay?id=220529107
+[23:03:24] Game url: http://espn.go.com/mlb/playbyplay?id=220529107
+[23:03:24] Team1: ana | Team2: kc
+[23:03:24] Cur team: laa | los-angeles-angels
+[23:03:24] Returned 5-30-2002's game results
+[23:03:24] Scraping 5-30-2002's period data: http://espn.go.com/mlb/playbyplay?id=220530109
+[23:03:24] Game url: http://espn.go.com/mlb/playbyplay?id=220530109
+[23:03:24] Team1: ana | Team2: min
+[23:03:24] Cur team: laa | los-angeles-angels
+[23:03:24] Returned 5-31-2002's game results
+[23:03:24] Scraping 5-31-2002's period data: http://espn.go.com/mlb/playbyplay?id=220531109
+[23:03:25] Game url: http://espn.go.com/mlb/playbyplay?id=220531109
+[23:03:25] Team1: ana | Team2: min
+[23:03:25] Cur team: laa | los-angeles-angels
+[23:03:25] Returned 6-1-2002's game results
+[23:03:25] Scraping 6-1-2002's period data: http://espn.go.com/mlb/playbyplay?id=220601109
+[23:03:26] Game url: http://espn.go.com/mlb/playbyplay?id=220601109
+[23:03:26] Team1: ana | Team2: min
+[23:03:26] Cur team: laa | los-angeles-angels
+[23:03:26] Returned 6-2-2002's game results
+[23:03:26] Scraping 6-2-2002's period data: http://espn.go.com/mlb/playbyplay?id=220602109
+[23:03:27] Game url: http://espn.go.com/mlb/playbyplay?id=220602109
+[23:03:27] Team1: ana | Team2: min
+[23:03:27] Cur team: laa | los-angeles-angels
+[23:03:27] Returned 6-3-2002's game results
+[23:03:27] Scraping 6-3-2002's period data: http://espn.go.com/mlb/playbyplay?id=220603103
+[23:03:28] Game url: http://espn.go.com/mlb/playbyplay?id=220603103
+[23:03:28] Team1: tex | Team2: ana
+[23:03:28] Cur team: laa | los-angeles-angels
+[23:03:28] Returned 6-4-2002's game results
+[23:03:28] Scraping 6-4-2002's period data: http://espn.go.com/mlb/playbyplay?id=220604103
+[23:03:29] Game url: http://espn.go.com/mlb/playbyplay?id=220604103
+[23:03:29] Team1: tex | Team2: ana
+[23:03:29] Cur team: laa | los-angeles-angels
+[23:03:29] Returned 6-5-2002's game results
+[23:03:29] Scraping 6-5-2002's period data: http://espn.go.com/mlb/playbyplay?id=220605103
+[23:03:30] Game url: http://espn.go.com/mlb/playbyplay?id=220605103
+[23:03:30] Team1: tex | Team2: ana
+[23:03:30] Cur team: laa | los-angeles-angels
+[23:03:30] Returned 6-6-2002's game results
+[23:03:30] Scraping 6-6-2002's period data: http://espn.go.com/mlb/playbyplay?id=220606103
+[23:03:31] Game url: http://espn.go.com/mlb/playbyplay?id=220606103
+[23:03:31] Team1: tex | Team2: ana
+[23:03:31] Cur team: laa | los-angeles-angels
+[23:03:31] Returned 6-7-2002's game results
+[23:03:31] Scraping 6-7-2002's period data: http://espn.go.com/mlb/playbyplay?id=220607103
+[23:03:32] Game url: http://espn.go.com/mlb/playbyplay?id=220607103
+[23:03:32] Team1: cin | Team2: ana
+[23:03:32] Cur team: laa | los-angeles-angels
+[23:03:32] Returned 6-8-2002's game results
+[23:03:32] Scraping 6-8-2002's period data: http://espn.go.com/mlb/playbyplay?id=220608103
+[23:03:33] Game url: http://espn.go.com/mlb/playbyplay?id=220608103
+[23:03:33] Team1: cin | Team2: ana
+[23:03:33] Cur team: laa | los-angeles-angels
+[23:03:33] Returned 6-9-2002's game results
+[23:03:33] Scraping 6-9-2002's period data: http://espn.go.com/mlb/playbyplay?id=220609103
+[23:03:34] Game url: http://espn.go.com/mlb/playbyplay?id=220609103
+[23:03:34] Team1: cin | Team2: ana
+[23:03:34] Cur team: laa | los-angeles-angels
+[23:03:34] Returned 6-10-2002's game results
+[23:03:34] Scraping 6-10-2002's period data: http://espn.go.com/mlb/playbyplay?id=220610103
+[23:03:35] Game url: http://espn.go.com/mlb/playbyplay?id=220610103
+[23:03:35] Team1: pit | Team2: ana
+[23:03:35] Cur team: laa | los-angeles-angels
+[23:03:35] Returned 6-11-2002's game results
+[23:03:35] Scraping 6-11-2002's period data: http://espn.go.com/mlb/playbyplay?id=220611103
+[23:03:36] Game url: http://espn.go.com/mlb/playbyplay?id=220611103
+[23:03:36] Team1: pit | Team2: ana
+[23:03:36] Cur team: laa | los-angeles-angels
+[23:03:36] Returned 6-12-2002's game results
+[23:03:36] Scraping 6-12-2002's period data: http://espn.go.com/mlb/playbyplay?id=220612103
+[23:03:37] Game url: http://espn.go.com/mlb/playbyplay?id=220612103
+[23:03:37] Team1: pit | Team2: ana
+[23:03:37] Cur team: laa | los-angeles-angels
+[23:03:37] Returned 6-14-2002's game results
+[23:03:37] Scraping 6-14-2002's period data: http://espn.go.com/mlb/playbyplay?id=220614119
+[23:03:38] Game url: http://espn.go.com/mlb/playbyplay?id=220614119
+[23:03:38] Team1: ana | Team2: la
+[23:03:38] Cur team: laa | los-angeles-angels
+[23:03:38] Returned 6-15-2002's game results
+[23:03:38] Scraping 6-15-2002's period data: http://espn.go.com/mlb/playbyplay?id=220615119
+[23:03:39] Game url: http://espn.go.com/mlb/playbyplay?id=220615119
+[23:03:39] Team1: ana | Team2: la
+[23:03:39] Cur team: laa | los-angeles-angels
+[23:03:39] Returned 6-16-2002's game results
+[23:03:39] Scraping 6-16-2002's period data: http://espn.go.com/mlb/playbyplay?id=220616119
+[23:03:40] Game url: http://espn.go.com/mlb/playbyplay?id=220616119
+[23:03:40] Team1: ana | Team2: la
+[23:03:40] Cur team: laa | los-angeles-angels
+[23:03:40] Returned 6-18-2002's game results
+[23:03:40] Scraping 6-18-2002's period data: http://espn.go.com/mlb/boxscore?id=220618124
+[23:03:41] Game url: http://espn.go.com/mlb/boxscore?id=220618124
+[23:03:41] Team1: ana | Team2: stl
+[23:03:41] Cur team: laa | los-angeles-angels
+[23:03:41] Returned 6-19-2002's game results
+[23:03:41] Scraping 6-19-2002's period data: http://espn.go.com/mlb/playbyplay?id=220619124
+[23:03:42] Game url: http://espn.go.com/mlb/playbyplay?id=220619124
+[23:03:42] Team1: ana | Team2: stl
+[23:03:42] Cur team: laa | los-angeles-angels
+[23:03:42] Returned 6-20-2002's game results
+[23:03:42] Scraping 6-20-2002's period data: http://espn.go.com/mlb/playbyplay?id=220620124
+[23:03:42] Game url: http://espn.go.com/mlb/playbyplay?id=220620124
+[23:03:42] Team1: ana | Team2: stl
+[23:03:42] Cur team: laa | los-angeles-angels
+[23:03:43] Returned 6-21-2002's game results
+[23:03:43] Scraping 6-21-2002's period data: http://espn.go.com/mlb/playbyplay?id=220621108
+[23:03:43] Game url: http://espn.go.com/mlb/playbyplay?id=220621108
+[23:03:43] Team1: ana | Team2: mil
+[23:03:43] Cur team: laa | los-angeles-angels
+[23:03:43] Returned 6-22-2002's game results
+[23:03:43] Scraping 6-22-2002's period data: http://espn.go.com/mlb/playbyplay?id=220622108
+[23:03:44] Game url: http://espn.go.com/mlb/playbyplay?id=220622108
+[23:03:44] Team1: ana | Team2: mil
+[23:03:44] Cur team: laa | los-angeles-angels
+[23:03:44] Returned 6-23-2002's game results
+[23:03:44] Scraping 6-23-2002's period data: http://espn.go.com/mlb/playbyplay?id=220623108
+[23:03:45] Game url: http://espn.go.com/mlb/playbyplay?id=220623108
+[23:03:45] Team1: ana | Team2: mil
+[23:03:45] Cur team: laa | los-angeles-angels
+[23:03:45] Returned 6-24-2002's game results
+[23:03:45] Scraping 6-24-2002's period data: http://espn.go.com/mlb/playbyplay?id=220624213
+[23:03:46] Game url: http://espn.go.com/mlb/playbyplay?id=220624213
+[23:03:46] Team1: ana | Team2: tex
+[23:03:46] Cur team: laa | los-angeles-angels
+[23:03:46] Returned 6-25-2002's game results
+[23:03:46] Scraping 6-25-2002's period data: http://espn.go.com/mlb/playbyplay?id=220625113
+[23:03:47] Game url: http://espn.go.com/mlb/playbyplay?id=220625113
+[23:03:47] Team1: ana | Team2: tex
+[23:03:47] Cur team: laa | los-angeles-angels
+[23:03:47] Returned 6-26-2002's game results
+[23:03:47] Scraping 6-26-2002's period data: http://espn.go.com/mlb/playbyplay?id=220626113
+[23:03:48] Game url: http://espn.go.com/mlb/playbyplay?id=220626113
+[23:03:48] Team1: ana | Team2: tex
+[23:03:48] Cur team: laa | los-angeles-angels
+[23:03:48] Returned 6-27-2002's game results
+[23:03:48] Scraping 6-27-2002's period data: http://espn.go.com/mlb/playbyplay?id=220627113
+[23:03:49] Game url: http://espn.go.com/mlb/playbyplay?id=220627113
+[23:03:49] Team1: ana | Team2: tex
+[23:03:49] Cur team: laa | los-angeles-angels
+[23:03:49] Returned 6-28-2002's game results
+[23:03:49] Scraping 6-28-2002's period data: http://espn.go.com/mlb/playbyplay?id=220628103
+[23:03:50] Game url: http://espn.go.com/mlb/playbyplay?id=220628103
+[23:03:50] Team1: la | Team2: ana
+[23:03:50] Cur team: laa | los-angeles-angels
+[23:03:50] Returned 6-29-2002's game results
+[23:03:50] Scraping 6-29-2002's period data: http://espn.go.com/mlb/playbyplay?id=220629103
+[23:03:51] Game url: http://espn.go.com/mlb/playbyplay?id=220629103
+[23:03:51] Team1: la | Team2: ana
+[23:03:51] Cur team: laa | los-angeles-angels
+[23:03:51] Returned 6-30-2002's game results
+[23:03:51] Scraping 6-30-2002's period data: http://espn.go.com/mlb/playbyplay?id=220630103
+[23:03:51] Game url: http://espn.go.com/mlb/playbyplay?id=220630103
+[23:03:51] Team1: la | Team2: ana
+[23:03:51] Cur team: laa | los-angeles-angels
+[23:03:51] Returned 7-2-2002's game results
+[23:03:51] Scraping 7-2-2002's period data: http://espn.go.com/mlb/playbyplay?id=220702103
+[23:03:52] Game url: http://espn.go.com/mlb/playbyplay?id=220702103
+[23:03:52] Team1: bal | Team2: ana
+[23:03:52] Cur team: laa | los-angeles-angels
+[23:03:52] Returned 7-3-2002's game results
+[23:03:52] Scraping 7-3-2002's period data: http://espn.go.com/mlb/playbyplay?id=220703103
+[23:03:53] Game url: http://espn.go.com/mlb/playbyplay?id=220703103
+[23:03:53] Team1: bal | Team2: ana
+[23:03:53] Cur team: laa | los-angeles-angels
+[23:03:53] Returned 7-4-2002's game results
+[23:03:53] Scraping 7-4-2002's period data: http://espn.go.com/mlb/playbyplay?id=220704103
+[23:03:54] Game url: http://espn.go.com/mlb/playbyplay?id=220704103
+[23:03:54] Team1: bal | Team2: ana
+[23:03:54] Cur team: laa | los-angeles-angels
+[23:03:54] Returned 7-5-2002's game results
+[23:03:54] Scraping 7-5-2002's period data: http://espn.go.com/mlb/playbyplay?id=220705103
+[23:03:55] Game url: http://espn.go.com/mlb/playbyplay?id=220705103
+[23:03:55] Team1: tb | Team2: ana
+[23:03:55] Cur team: laa | los-angeles-angels
+[23:03:55] Returned 7-6-2002's game results
+[23:03:55] Scraping 7-6-2002's period data: http://espn.go.com/mlb/playbyplay?id=220706103
+[23:03:56] Game url: http://espn.go.com/mlb/playbyplay?id=220706103
+[23:03:56] Team1: tb | Team2: ana
+[23:03:56] Cur team: laa | los-angeles-angels
+[23:03:56] Returned 7-11-2002's game results
+[23:03:56] Scraping 7-11-2002's period data: http://espn.go.com/mlb/playbyplay?id=220711107
+[23:03:57] Game url: http://espn.go.com/mlb/playbyplay?id=220711107
+[23:03:57] Team1: ana | Team2: kc
+[23:03:57] Cur team: laa | los-angeles-angels
+[23:03:57] Returned 7-12-2002's game results
+[23:03:57] Scraping 7-12-2002's period data: http://espn.go.com/mlb/playbyplay?id=220712107
+[23:03:58] Game url: http://espn.go.com/mlb/playbyplay?id=220712107
+[23:03:58] Team1: ana | Team2: kc
+[23:03:58] Cur team: laa | los-angeles-angels
+[23:03:58] Returned 7-13-2002's game results
+[23:03:58] Scraping 7-13-2002's period data: http://espn.go.com/mlb/playbyplay?id=220713107
+[23:03:58] Game url: http://espn.go.com/mlb/playbyplay?id=220713107
+[23:03:58] Team1: ana | Team2: kc
+[23:03:58] Cur team: laa | los-angeles-angels
+[23:03:58] Returned 7-14-2002's game results
+[23:03:58] Scraping 7-14-2002's period data: http://espn.go.com/mlb/playbyplay?id=220714107
+[23:04:00] Game url: http://espn.go.com/mlb/playbyplay?id=220714107
+[23:04:00] Team1: ana | Team2: kc
+[23:04:00] Cur team: laa | los-angeles-angels
+[23:04:00] Returned 7-15-2002's game results
+[23:04:00] Scraping 7-15-2002's period data: http://espn.go.com/mlb/playbyplay?id=220715109
+[23:04:00] Game url: http://espn.go.com/mlb/playbyplay?id=220715109
+[23:04:00] Team1: ana | Team2: min
+[23:04:00] Cur team: laa | los-angeles-angels
+[23:04:00] Returned 7-16-2002's game results
+[23:04:00] Scraping 7-16-2002's period data: http://espn.go.com/mlb/playbyplay?id=220716109
+[23:04:01] Game url: http://espn.go.com/mlb/playbyplay?id=220716109
+[23:04:01] Team1: ana | Team2: min
+[23:04:01] Cur team: laa | los-angeles-angels
+[23:04:01] Returned 7-17-2002's game results
+[23:04:01] Scraping 7-17-2002's period data: http://espn.go.com/mlb/playbyplay?id=220717111
+[23:04:02] Game url: http://espn.go.com/mlb/playbyplay?id=220717111
+[23:04:02] Team1: ana | Team2: oak
+[23:04:02] Cur team: laa | los-angeles-angels
+[23:04:02] Returned 7-18-2002's game results
+[23:04:02] Scraping 7-18-2002's period data: http://espn.go.com/mlb/playbyplay?id=220718111
+[23:04:03] Game url: http://espn.go.com/mlb/playbyplay?id=220718111
+[23:04:03] Team1: ana | Team2: oak
+[23:04:03] Cur team: laa | los-angeles-angels
+[23:04:03] Returned 7-19-2002's game results
+[23:04:03] Scraping 7-19-2002's period data: http://espn.go.com/mlb/playbyplay?id=220719103
+[23:04:04] Game url: http://espn.go.com/mlb/playbyplay?id=220719103
+[23:04:04] Team1: sea | Team2: ana
+[23:04:04] Cur team: laa | los-angeles-angels
+[23:04:04] Returned 7-20-2002's game results
+[23:04:04] Scraping 7-20-2002's period data: http://espn.go.com/mlb/playbyplay?id=220720103
+[23:04:05] Game url: http://espn.go.com/mlb/playbyplay?id=220720103
+[23:04:05] Team1: sea | Team2: ana
+[23:04:05] Cur team: laa | los-angeles-angels
+[23:04:05] Returned 7-21-2002's game results
+[23:04:05] Scraping 7-21-2002's period data: http://espn.go.com/mlb/playbyplay?id=220721103
+[23:04:05] Game url: http://espn.go.com/mlb/playbyplay?id=220721103
+[23:04:05] Team1: sea | Team2: ana
+[23:04:05] Cur team: laa | los-angeles-angels
+[23:04:05] Returned 7-23-2002's game results
+[23:04:05] Scraping 7-23-2002's period data: http://espn.go.com/mlb/playbyplay?id=220723103
+[23:04:06] Game url: http://espn.go.com/mlb/playbyplay?id=220723103
+[23:04:06] Team1: oak | Team2: ana
+[23:04:06] Cur team: laa | los-angeles-angels
+[23:04:06] Returned 7-24-2002's game results
+[23:04:06] Scraping 7-24-2002's period data: http://espn.go.com/mlb/playbyplay?id=220724103
+[23:04:07] Game url: http://espn.go.com/mlb/playbyplay?id=220724103
+[23:04:07] Team1: oak | Team2: ana
+[23:04:07] Cur team: laa | los-angeles-angels
+[23:04:07] Returned 7-25-2002's game results
+[23:04:07] Scraping 7-25-2002's period data: http://espn.go.com/mlb/playbyplay?id=220725103
+[23:04:08] Game url: http://espn.go.com/mlb/playbyplay?id=220725103
+[23:04:08] Team1: oak | Team2: ana
+[23:04:08] Cur team: laa | los-angeles-angels
+[23:04:08] Returned 7-26-2002's game results
+[23:04:08] Scraping 7-26-2002's period data: http://espn.go.com/mlb/playbyplay?id=220726112
+[23:04:09] Game url: http://espn.go.com/mlb/playbyplay?id=220726112
+[23:04:09] Team1: ana | Team2: sea
+[23:04:09] Cur team: laa | los-angeles-angels
+[23:04:09] Returned 7-27-2002's game results
+[23:04:09] Scraping 7-27-2002's period data: http://espn.go.com/mlb/playbyplay?id=220727112
+[23:04:10] Game url: http://espn.go.com/mlb/playbyplay?id=220727112
+[23:04:10] Team1: ana | Team2: sea
+[23:04:10] Cur team: laa | los-angeles-angels
+[23:04:10] Returned 7-28-2002's game results
+[23:04:10] Scraping 7-28-2002's period data: http://espn.go.com/mlb/playbyplay?id=220728112
+[23:04:11] Game url: http://espn.go.com/mlb/playbyplay?id=220728112
+[23:04:11] Team1: ana | Team2: sea
+[23:04:11] Cur team: laa | los-angeles-angels
+[23:04:11] Returned 7-29-2002's game results
+[23:04:11] Scraping 7-29-2002's period data: http://espn.go.com/mlb/playbyplay?id=220729103
+[23:04:12] Game url: http://espn.go.com/mlb/playbyplay?id=220729103
+[23:04:12] Team1: bos | Team2: ana
+[23:04:12] Cur team: laa | los-angeles-angels
+[23:04:12] Returned 7-30-2002's game results
+[23:04:12] Scraping 7-30-2002's period data: http://espn.go.com/mlb/playbyplay?id=220730103
+[23:04:13] Game url: http://espn.go.com/mlb/playbyplay?id=220730103
+[23:04:13] Team1: bos | Team2: ana
+[23:04:13] Cur team: laa | los-angeles-angels
+[23:04:13] Returned 7-31-2002's game results
+[23:04:13] Scraping 7-31-2002's period data: http://espn.go.com/mlb/playbyplay?id=220731103
+[23:04:13] Game url: http://espn.go.com/mlb/playbyplay?id=220731103
+[23:04:13] Team1: bos | Team2: ana
+[23:04:13] Cur team: laa | los-angeles-angels
+[23:04:13] Returned 8-1-2002's game results
+[23:04:13] Scraping 8-1-2002's period data: http://espn.go.com/mlb/playbyplay?id=220801103
+[23:04:14] Game url: http://espn.go.com/mlb/playbyplay?id=220801103
+[23:04:14] Team1: nyy | Team2: ana
+[23:04:14] Cur team: laa | los-angeles-angels
+[23:04:14] Returned 8-2-2002's game results
+[23:04:14] Scraping 8-2-2002's period data: http://espn.go.com/mlb/playbyplay?id=220802103
+[23:04:15] Game url: http://espn.go.com/mlb/playbyplay?id=220802103
+[23:04:15] Team1: nyy | Team2: ana
+[23:04:15] Cur team: laa | los-angeles-angels
+[23:04:15] Returned 8-3-2002's game results
+[23:04:15] Scraping 8-3-2002's period data: http://espn.go.com/mlb/playbyplay?id=220803103
+[23:04:16] Game url: http://espn.go.com/mlb/playbyplay?id=220803103
+[23:04:16] Team1: nyy | Team2: ana
+[23:04:16] Cur team: laa | los-angeles-angels
+[23:04:16] Returned 8-4-2002's game results
+[23:04:16] Scraping 8-4-2002's period data: http://espn.go.com/mlb/playbyplay?id=220804103
+[23:04:17] Game url: http://espn.go.com/mlb/playbyplay?id=220804103
+[23:04:17] Team1: nyy | Team2: ana
+[23:04:17] Cur team: laa | los-angeles-angels
+[23:04:17] Returned 8-5-2002's game results
+[23:04:17] Scraping 8-5-2002's period data: http://espn.go.com/mlb/playbyplay?id=220805106
+[23:04:18] Game url: http://espn.go.com/mlb/playbyplay?id=220805106
+[23:04:18] Team1: ana | Team2: det
+[23:04:18] Cur team: laa | los-angeles-angels
+[23:04:18] Returned 8-6-2002's game results
+[23:04:18] Scraping 8-6-2002's period data: http://espn.go.com/mlb/playbyplay?id=220806104
+[23:04:19] Game url: http://espn.go.com/mlb/playbyplay?id=220806104
+[23:04:19] Team1: ana | Team2: cws
+[23:04:19] Cur team: laa | los-angeles-angels
+[23:04:19] Returned 8-7-2002's game results
+[23:04:19] Scraping 8-7-2002's period data: http://espn.go.com/mlb/playbyplay?id=220807104
+[23:04:19] Game url: http://espn.go.com/mlb/playbyplay?id=220807104
+[23:04:19] Team1: ana | Team2: cws
+[23:04:19] Cur team: laa | los-angeles-angels
+[23:04:19] Returned 8-8-2002's game results
+[23:04:19] Scraping 8-8-2002's period data: http://espn.go.com/mlb/playbyplay?id=220808104
+[23:04:21] Game url: http://espn.go.com/mlb/playbyplay?id=220808104
+[23:04:21] Team1: ana | Team2: cws
+[23:04:21] Cur team: laa | los-angeles-angels
+[23:04:21] Returned 8-9-2002's game results
+[23:04:21] Scraping 8-9-2002's period data: http://espn.go.com/mlb/playbyplay?id=220809114
+[23:04:21] Game url: http://espn.go.com/mlb/playbyplay?id=220809114
+[23:04:21] Team1: ana | Team2: tor
+[23:04:21] Cur team: laa | los-angeles-angels
+[23:04:21] Returned 8-10-2002's game results
+[23:04:21] Scraping 8-10-2002's period data: http://espn.go.com/mlb/playbyplay?id=220810114
+[23:04:22] Game url: http://espn.go.com/mlb/playbyplay?id=220810114
+[23:04:22] Team1: ana | Team2: tor
+[23:04:22] Cur team: laa | los-angeles-angels
+[23:04:22] Returned 8-11-2002's game results
+[23:04:22] Scraping 8-11-2002's period data: http://espn.go.com/mlb/playbyplay?id=220811114
+[23:04:23] Game url: http://espn.go.com/mlb/playbyplay?id=220811114
+[23:04:23] Team1: ana | Team2: tor
+[23:04:23] Cur team: laa | los-angeles-angels
+[23:04:23] Returned 8-12-2002's game results
+[23:04:23] Scraping 8-12-2002's period data: http://espn.go.com/mlb/playbyplay?id=220812103
+[23:04:24] Game url: http://espn.go.com/mlb/playbyplay?id=220812103
+[23:04:24] Team1: det | Team2: ana
+[23:04:24] Cur team: laa | los-angeles-angels
+[23:04:24] Returned 8-13-2002's game results
+[23:04:24] Scraping 8-13-2002's period data: http://espn.go.com/mlb/playbyplay?id=220813103
+[23:04:26] Game url: http://espn.go.com/mlb/playbyplay?id=220813103
+[23:04:26] Team1: det | Team2: ana
+[23:04:26] Cur team: laa | los-angeles-angels
+[23:04:26] Returned 8-14-2002's game results
+[23:04:26] Scraping 8-14-2002's period data: http://espn.go.com/mlb/playbyplay?id=220814103
+[23:04:27] Game url: http://espn.go.com/mlb/playbyplay?id=220814103
+[23:04:27] Team1: det | Team2: ana
+[23:04:27] Cur team: laa | los-angeles-angels
+[23:04:27] Returned 8-16-2002's game results
+[23:04:27] Scraping 8-16-2002's period data: http://espn.go.com/mlb/playbyplay?id=220816103
+[23:04:28] Game url: http://espn.go.com/mlb/playbyplay?id=220816103
+[23:04:28] Team1: cle | Team2: ana
+[23:04:28] Cur team: laa | los-angeles-angels
+[23:04:28] Returned 8-17-2002's game results
+[23:04:28] Scraping 8-17-2002's period data: http://espn.go.com/mlb/playbyplay?id=220817103
+[23:04:29] Game url: http://espn.go.com/mlb/playbyplay?id=220817103
+[23:04:29] Team1: cle | Team2: ana
+[23:04:29] Cur team: laa | los-angeles-angels
+[23:04:29] Returned 8-18-2002's game results
+[23:04:29] Scraping 8-18-2002's period data: http://espn.go.com/mlb/playbyplay?id=220818103
+[23:04:30] Game url: http://espn.go.com/mlb/playbyplay?id=220818103
+[23:04:30] Team1: cle | Team2: ana
+[23:04:30] Cur team: laa | los-angeles-angels
+[23:04:30] Returned 8-20-2002's game results
+[23:04:30] Scraping 8-20-2002's period data: http://espn.go.com/mlb/playbyplay?id=220820110
+[23:04:31] Game url: http://espn.go.com/mlb/playbyplay?id=220820110
+[23:04:31] Team1: ana | Team2: nyy
+[23:04:31] Cur team: laa | los-angeles-angels
+[23:04:31] Returned 8-21-2002's game results
+[23:04:31] Scraping 8-21-2002's period data: http://espn.go.com/mlb/playbyplay?id=220821110
+[23:04:32] Game url: http://espn.go.com/mlb/playbyplay?id=220821110
+[23:04:32] Team1: ana | Team2: nyy
+[23:04:32] Cur team: laa | los-angeles-angels
+[23:04:32] Returned 8-22-2002's game results
+[23:04:32] Scraping 8-22-2002's period data: http://espn.go.com/mlb/playbyplay?id=220822110
+[23:04:32] Game url: http://espn.go.com/mlb/playbyplay?id=220822110
+[23:04:32] Team1: ana | Team2: nyy
+[23:04:32] Cur team: laa | los-angeles-angels
+[23:04:32] Returned 8-23-2002's game results
+[23:04:32] Scraping 8-23-2002's period data: http://espn.go.com/mlb/playbyplay?id=220823102
+[23:04:34] Game url: http://espn.go.com/mlb/playbyplay?id=220823102
+[23:04:34] Team1: ana | Team2: bos
+[23:04:34] Cur team: laa | los-angeles-angels
+[23:04:34] Returned 8-24-2002's game results
+[23:04:34] Scraping 8-24-2002's period data: http://espn.go.com/mlb/playbyplay?id=220824102
+[23:04:35] Game url: http://espn.go.com/mlb/playbyplay?id=220824102
+[23:04:35] Team1: ana | Team2: bos
+[23:04:35] Cur team: laa | los-angeles-angels
+[23:04:35] Returned 8-25-2002's game results
+[23:04:35] Scraping 8-25-2002's period data: http://espn.go.com/mlb/playbyplay?id=220825102
+[23:04:35] Game url: http://espn.go.com/mlb/playbyplay?id=220825102
+[23:04:35] Team1: ana | Team2: bos
+[23:04:35] Cur team: laa | los-angeles-angels
+[23:04:35] Returned 8-26-2002's game results
+[23:04:35] Scraping 8-26-2002's period data: http://espn.go.com/mlb/playbyplay?id=220826102
+[23:04:36] Game url: http://espn.go.com/mlb/playbyplay?id=220826102
+[23:04:36] Team1: ana | Team2: bos
+[23:04:36] Cur team: laa | los-angeles-angels
+[23:04:36] Returned 8-27-2002's game results
+[23:04:36] Scraping 8-27-2002's period data: http://espn.go.com/mlb/playbyplay?id=220827103
+[23:04:38] Game url: http://espn.go.com/mlb/playbyplay?id=220827103
+[23:04:38] Team1: tb | Team2: ana
+[23:04:38] Cur team: laa | los-angeles-angels
+[23:04:38] Returned 8-28-2002's game results
+[23:04:38] Scraping 8-28-2002's period data: http://espn.go.com/mlb/playbyplay?id=220828103
+[23:04:39] Game url: http://espn.go.com/mlb/playbyplay?id=220828103
+[23:04:39] Team1: tb | Team2: ana
+[23:04:39] Cur team: laa | los-angeles-angels
+[23:04:39] Returned 8-29-2002's game results
+[23:04:39] Scraping 8-29-2002's period data: http://espn.go.com/mlb/playbyplay?id=220829103
+[23:04:40] Game url: http://espn.go.com/mlb/playbyplay?id=220829103
+[23:04:40] Team1: tb | Team2: ana
+[23:04:40] Cur team: laa | los-angeles-angels
+[23:04:40] Returned 8-30-2002's game results
+[23:04:40] Scraping 8-30-2002's period data: http://espn.go.com/mlb/playbyplay?id=220830103
+[23:04:41] Game url: http://espn.go.com/mlb/playbyplay?id=220830103
+[23:04:41] Team1: bal | Team2: ana
+[23:04:41] Cur team: laa | los-angeles-angels
+[23:04:41] Returned 8-31-2002's game results
+[23:04:41] Scraping 8-31-2002's period data: http://espn.go.com/mlb/playbyplay?id=220831103
+[23:04:42] Game url: http://espn.go.com/mlb/playbyplay?id=220831103
+[23:04:42] Team1: bal | Team2: ana
+[23:04:42] Cur team: laa | los-angeles-angels
+[23:04:42] Returned 9-1-2002's game results
+[23:04:42] Scraping 9-1-2002's period data: http://espn.go.com/mlb/playbyplay?id=220901103
+[23:04:43] Game url: http://espn.go.com/mlb/playbyplay?id=220901103
+[23:04:43] Team1: bal | Team2: ana
+[23:04:43] Cur team: laa | los-angeles-angels
+[23:04:43] Returned 9-3-2002's game results
+[23:04:43] Scraping 9-3-2002's period data: http://espn.go.com/mlb/playbyplay?id=220903130
+[23:04:44] Game url: http://espn.go.com/mlb/playbyplay?id=220903130
+[23:04:44] Team1: ana | Team2: tb
+[23:04:44] Cur team: laa | los-angeles-angels
+[23:04:44] Returned 9-4-2002's game results
+[23:04:44] Scraping 9-4-2002's period data: http://espn.go.com/mlb/playbyplay?id=220904130
+[23:04:45] Game url: http://espn.go.com/mlb/playbyplay?id=220904130
+[23:04:45] Team1: ana | Team2: tb
+[23:04:45] Cur team: laa | los-angeles-angels
+[23:04:45] Returned 9-5-2002's game results
+[23:04:45] Scraping 9-5-2002's period data: http://espn.go.com/mlb/playbyplay?id=220905130
+[23:04:46] Game url: http://espn.go.com/mlb/playbyplay?id=220905130
+[23:04:46] Team1: ana | Team2: tb
+[23:04:46] Cur team: laa | los-angeles-angels
+[23:04:46] Returned 9-6-2002's game results
+[23:04:46] Scraping 9-6-2002's period data: http://espn.go.com/mlb/playbyplay?id=220906101
+[23:04:47] Game url: http://espn.go.com/mlb/playbyplay?id=220906101
+[23:04:47] Team1: ana | Team2: bal
+[23:04:47] Cur team: laa | los-angeles-angels
+[23:04:47] Returned 9-7-2002's game results
+[23:04:47] Scraping 9-7-2002's period data: http://espn.go.com/mlb/playbyplay?id=220907101
+[23:04:48] Game url: http://espn.go.com/mlb/playbyplay?id=220907101
+[23:04:48] Team1: ana | Team2: bal
+[23:04:48] Cur team: laa | los-angeles-angels
+[23:04:48] Returned 9-8-2002's game results
+[23:04:48] Scraping 9-8-2002's period data: http://espn.go.com/mlb/playbyplay?id=220908101
+[23:04:49] Game url: http://espn.go.com/mlb/playbyplay?id=220908101
+[23:04:49] Team1: ana | Team2: bal
+[23:04:49] Cur team: laa | los-angeles-angels
+[23:04:49] Returned 9-9-2002's game results
+[23:04:49] Scraping 9-9-2002's period data: http://espn.go.com/mlb/playbyplay?id=220909103
+[23:04:49] Game url: http://espn.go.com/mlb/playbyplay?id=220909103
+[23:04:49] Team1: oak | Team2: ana
+[23:04:49] Cur team: laa | los-angeles-angels
+[23:04:49] Returned 9-10-2002's game results
+[23:04:49] Scraping 9-10-2002's period data: http://espn.go.com/mlb/playbyplay?id=220910103
+[23:04:50] Game url: http://espn.go.com/mlb/playbyplay?id=220910103
+[23:04:50] Team1: oak | Team2: ana
+[23:04:50] Cur team: laa | los-angeles-angels
+[23:04:50] Returned 9-11-2002's game results
+[23:04:50] Scraping 9-11-2002's period data: http://espn.go.com/mlb/playbyplay?id=220911103
+[23:04:51] Game url: http://espn.go.com/mlb/playbyplay?id=220911103
+[23:04:51] Team1: oak | Team2: ana
+[23:04:51] Cur team: laa | los-angeles-angels
+[23:04:51] Returned 9-12-2002's game results
+[23:04:51] Scraping 9-12-2002's period data: http://espn.go.com/mlb/playbyplay?id=220912103
+[23:04:52] Game url: http://espn.go.com/mlb/playbyplay?id=220912103
+[23:04:52] Team1: oak | Team2: ana
+[23:04:52] Cur team: laa | los-angeles-angels
+[23:04:52] Returned 9-13-2002's game results
+[23:04:52] Scraping 9-13-2002's period data: http://espn.go.com/mlb/playbyplay?id=220913103
+[23:04:53] Game url: http://espn.go.com/mlb/playbyplay?id=220913103
+[23:04:53] Team1: tex | Team2: ana
+[23:04:53] Cur team: laa | los-angeles-angels
+[23:04:53] Returned 9-14-2002's game results
+[23:04:53] Scraping 9-14-2002's period data: http://espn.go.com/mlb/playbyplay?id=220914103
+[23:04:54] Game url: http://espn.go.com/mlb/playbyplay?id=220914103
+[23:04:54] Team1: tex | Team2: ana
+[23:04:54] Cur team: laa | los-angeles-angels
+[23:04:54] Returned 9-15-2002's game results
+[23:04:54] Scraping 9-15-2002's period data: http://espn.go.com/mlb/playbyplay?id=220915103
+[23:04:55] Game url: http://espn.go.com/mlb/playbyplay?id=220915103
+[23:04:55] Team1: tex | Team2: ana
+[23:04:55] Cur team: laa | los-angeles-angels
+[23:04:55] Returned 9-16-2002's game results
+[23:04:55] Scraping 9-16-2002's period data: http://espn.go.com/mlb/playbyplay?id=220916111
+[23:04:56] Game url: http://espn.go.com/mlb/playbyplay?id=220916111
+[23:04:56] Team1: ana | Team2: oak
+[23:04:56] Cur team: laa | los-angeles-angels
+[23:04:56] Returned 9-17-2002's game results
+[23:04:56] Scraping 9-17-2002's period data: http://espn.go.com/mlb/playbyplay?id=220917111
+[23:04:57] Game url: http://espn.go.com/mlb/playbyplay?id=220917111
+[23:04:57] Team1: ana | Team2: oak
+[23:04:57] Cur team: laa | los-angeles-angels
+[23:04:57] Returned 9-18-2002's game results
+[23:04:57] Scraping 9-18-2002's period data: http://espn.go.com/mlb/playbyplay?id=220918111
+[23:04:58] Game url: http://espn.go.com/mlb/playbyplay?id=220918111
+[23:04:58] Team1: ana | Team2: oak
+[23:04:58] Cur team: laa | los-angeles-angels
+[23:04:58] Returned 9-19-2002's game results
+[23:04:58] Scraping 9-19-2002's period data: http://espn.go.com/mlb/playbyplay?id=220919111
+[23:04:58] Game url: http://espn.go.com/mlb/playbyplay?id=220919111
+[23:04:58] Team1: ana | Team2: oak
+[23:04:58] Cur team: laa | los-angeles-angels
+[23:04:58] Returned 9-20-2002's game results
+[23:04:58] Scraping 9-20-2002's period data: http://espn.go.com/mlb/playbyplay?id=220920112
+[23:05:00] Game url: http://espn.go.com/mlb/playbyplay?id=220920112
+[23:05:00] Team1: ana | Team2: sea
+[23:05:00] Cur team: laa | los-angeles-angels
+[23:05:00] Returned 9-21-2002's game results
+[23:05:00] Scraping 9-21-2002's period data: http://espn.go.com/mlb/playbyplay?id=220921112
+[23:05:00] Game url: http://espn.go.com/mlb/playbyplay?id=220921112
+[23:05:00] Team1: ana | Team2: sea
+[23:05:00] Cur team: laa | los-angeles-angels
+[23:05:00] Returned 9-22-2002's game results
+[23:05:00] Scraping 9-22-2002's period data: http://espn.go.com/mlb/playbyplay?id=220922112
+[23:05:01] Game url: http://espn.go.com/mlb/playbyplay?id=220922112
+[23:05:01] Team1: ana | Team2: sea
+[23:05:01] Cur team: laa | los-angeles-angels
+[23:05:01] Returned 9-24-2002's game results
+[23:05:01] Scraping 9-24-2002's period data: http://espn.go.com/mlb/playbyplay?id=220924113
+[23:05:02] Game url: http://espn.go.com/mlb/playbyplay?id=220924113
+[23:05:02] Team1: ana | Team2: tex
+[23:05:02] Cur team: laa | los-angeles-angels
+[23:05:02] Returned 9-25-2002's game results
+[23:05:02] Scraping 9-25-2002's period data: http://espn.go.com/mlb/playbyplay?id=220925113
+[23:05:03] Game url: http://espn.go.com/mlb/playbyplay?id=220925113
+[23:05:03] Team1: ana | Team2: tex
+[23:05:03] Cur team: laa | los-angeles-angels
+[23:05:03] Returned 9-26-2002's game results
+[23:05:03] Scraping 9-26-2002's period data: http://espn.go.com/mlb/playbyplay?id=220926113
+[23:05:04] Game url: http://espn.go.com/mlb/playbyplay?id=220926113
+[23:05:04] Team1: ana | Team2: tex
+[23:05:04] Cur team: laa | los-angeles-angels
+[23:05:04] Returned 9-27-2002's game results
+[23:05:04] Scraping 9-27-2002's period data: http://espn.go.com/mlb/playbyplay?id=220927103
+[23:05:05] Game url: http://espn.go.com/mlb/playbyplay?id=220927103
+[23:05:05] Team1: sea | Team2: ana
+[23:05:05] Cur team: laa | los-angeles-angels
+[23:05:05] Returned 9-28-2002's game results
+[23:05:05] Scraping 9-28-2002's period data: http://espn.go.com/mlb/playbyplay?id=220928103
+[23:05:06] Game url: http://espn.go.com/mlb/playbyplay?id=220928103
+[23:05:06] Team1: sea | Team2: ana
+[23:05:06] Cur team: laa | los-angeles-angels
+[23:05:06] Saving data to ./mlb/team_data/2002/los-angeles-angels.csv
+

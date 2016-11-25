@@ -1,0 +1,16 @@
+
+Date: 3-28-2016
+Away: dallas-mavericks | Home: denver-nuggets
+Seasonal Record:      57.83%
+Home Away:            -55.81%
+Home away 10:         -65.54%
+Last 10 games:        -58.04%
+Avg points:           -50.04%
+Avg points 10:        -55.67%
+--------
+Total: -61.79%
+--------
+Perc chance to win: 61.79%
+Favorable team odds: -161.71159382360636
+Underdog team odds: +161.71159382360636
+

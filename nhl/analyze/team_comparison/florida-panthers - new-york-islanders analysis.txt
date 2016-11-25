@@ -1,0 +1,16 @@
+
+Date: 4-17-2016
+Away: florida-panthers | Home: new-york-islanders
+Seasonal Record:      51.9%
+Home Away:            -55.96%
+Home away 10:         -52.0%
+Last 10 games:        -53.28%
+Avg points:           51.69%
+Avg points 10:        54.1%
+--------
+Total: -50.93%
+--------
+Perc chance to win: 50.93%
+Favorable team odds: -103.79050336254329
+Underdog team odds: +103.79050336254329
+

@@ -1,0 +1,82 @@
+---- Western Conference ----
+
+--Round 1--
+St. Louis @ Minnesota: -57%
+St. Louis vs Minnesota: 60%
+Conclusion: St. Louis wins in 7 games
+
+
+Nashville @ Chicago: -57%
+Nashville vs Chicago: -50.6%
+Conclusion: Chicago wins in 6 games
+
+
+Anaheim @ Winnipeg: 57%
+Anaheim vs Winnipeg: 60.5%
+Conclusion: Anaheim wins in 5 games
+
+
+Vancouver @ Calgary: -51.7%
+Vancouver vs Calgary: 54%
+Conclusion: Vancouver wins in 7 games
+
+
+--Round 2--
+St. Louis @ Chicago: 55.5%
+St. Louis vs Chicago: 54%
+Conclusion: St. Louis wins in 6 games
+
+
+Anaheim @ Vancouver: 60.3%
+Anaheim vs Vancouver: 62%
+Conclusion: Anaheim in 4 games
+
+--Conference Finals--
+St. Louis @ Anaheim: -56%
+St. Louis vs Anaheim: 55%
+Conclusion: ? (Anaheim) wins in 7 games
+
+
+--- Eastern Conference ---
+
+--Round 1--
+Ottowa @ Montreal: -58.6%
+Ottowa vs Montreal: 57.6%
+Conclusion: Montreal wins in 7 games
+
+
+Tampa Bay @ Detroit: 54.4%
+Tampa Bay vs Detroit: 57%
+Conclusion: Tampa Bay wins in 6 games
+
+
+NY Rangers @ Pittsburgh: 58%
+NY Rangers vs Pittsburgh: -50.5%
+Conclusion: NY Rangers wins in 6 games
+
+
+Washington @ NY Islanders: 57%
+Washington vs NY Islanders: 61%
+Conclusion: Washington wins in 5 games
+
+--Round 2--
+Montreal @ Tampa Bay: -61%
+Montreal vs Tampa Bay: -55%
+Conclusion: Tampa Bay wins in 5 games
+
+
+NY Rangers @ Washington: -61.2%
+NY Rangers vs Washington: -57%
+Conclusion: Washington in 5 games
+
+--Conference Finals--
+Tampa Bay @ Washington: -62.2%
+Tampa Bay vs Washington: -56%
+Conclusion: Washington in 5 games
+
+
+
+------- FINALS --------
+Anaheim @ Washington: -60.7%
+Anaheim vs Washington: 56.7%
+Conclusion: Washington wins in 7 games

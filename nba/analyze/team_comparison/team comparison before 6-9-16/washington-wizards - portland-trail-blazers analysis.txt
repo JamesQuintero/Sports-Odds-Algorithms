@@ -1,0 +1,18 @@
+
+Date: 3-8-2016
+Away: washington-wizards | Home: portland-trail-blazers
+Seasonal Record:      -4.0/10 = -0.4
+Home Away:            -8.0/10 = -0.8
+Home away 10:         -8.0/5 = -1.6
+Last 10 games:        0.0/5 = 0.0
+Avg points:           -2.48/8 = -0.31
+Avg points 10:        -0.24/8 = -0.03
+Win streak:           -2.0/3 = -0.6666666666666666
+Win streak home away: -4.0/3 = -1.3333333333333333
+--------
+Total: -5.15
+--------
+Perc chance to win: 60.891917009602196%
+Favorable team odds: -155.7016155063212
+Underdog team odds: +155.7016155063212
+

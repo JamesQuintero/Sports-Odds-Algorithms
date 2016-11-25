@@ -1,0 +1,16 @@
+
+Date: 7-1-2016
+Away: colorado-rockies | Home: los-angeles-dodgers
+Seasonal Record:      -53.48%
+Home Away:            -53.07%
+Home away 10:         -51.99%
+Last 10 games:        -51.81%
+Avg points:           -54.49%
+Avg points 10:        51.11%
+--------
+Total: -53.98%
+--------
+Perc chance to win: 53.98%
+Favorable team odds: -117.296827466319
+Underdog team odds: +117.296827466319
+

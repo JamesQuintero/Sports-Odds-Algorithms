@@ -1,0 +1,12 @@
+---- Start output ----
+[23:00:39] Scraping game scores from http://espn.go.com/nhl/team/schedule/_/name/stl/year/2015/st-louis-blues
+[23:00:43] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[23:00:43] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[23:00:43] Loading existing data
+[23:00:43] Saving data to ./nhl/team_data/2015/st-louis-blues.csv
+[23:00:43] Scraping game scores from http://espn.go.com/nhl/team/schedule/_/name/min/year/2015/minnesota-wild
+[23:00:46] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[23:00:46] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[23:00:46] Loading existing data
+[23:00:46] Saving data to ./nhl/team_data/2015/minnesota-wild.csv
+

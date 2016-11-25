@@ -1,0 +1,16 @@
+
+Date: 7-1-2016
+Away: texas-rangers | Home: minnesota-twins
+Seasonal Record:      61.04%
+Home Away:            55.95%
+Home away 10:         55.55%
+Last 10 games:        51.81%
+Avg points:           61.78%
+Avg points 10:        51.12%
+--------
+Total: 61.41%
+--------
+Perc chance to win: 61.41%
+Favorable team odds: -159.13449080072556
+Underdog team odds: +159.13449080072556
+

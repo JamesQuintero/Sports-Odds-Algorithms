@@ -1,0 +1,16 @@
+
+Date: 3-26-2016
+Away: indiana-pacers | Home: brooklyn-nets
+Seasonal Record:      73.06%
+Home Away:            59.92%
+Home away 10:         -58.7%
+Last 10 games:        58.04%
+Avg points:           67.92%
+Avg points 10:        55.19%
+--------
+Total: 70.49%
+--------
+Perc chance to win: 70.49%
+Favorable team odds: -238.86818027787186
+Underdog team odds: +238.86818027787186
+

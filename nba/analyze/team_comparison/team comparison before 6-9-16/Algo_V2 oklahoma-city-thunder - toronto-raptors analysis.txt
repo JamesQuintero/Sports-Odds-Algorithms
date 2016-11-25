@@ -1,0 +1,16 @@
+
+Date: 3-28-2016
+Away: oklahoma-city-thunder | Home: toronto-raptors
+Seasonal Record:      54.29%
+Home Away:            -66.31%
+Home away 10:         -54.02%
+Last 10 games:        53.69%
+Avg points:           53.43%
+Avg points 10:        57.46%
+--------
+Total: -54.42%
+--------
+Perc chance to win: 54.42%
+Favorable team odds: -119.39447125932428
+Underdog team odds: +119.39447125932428
+

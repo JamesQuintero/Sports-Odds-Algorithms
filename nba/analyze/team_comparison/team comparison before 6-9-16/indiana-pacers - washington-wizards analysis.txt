@@ -1,0 +1,18 @@
+
+Date: 3-5-2016
+Away: indiana-pacers | Home: washington-wizards
+Seasonal Record:      3.0/10 = 0.3
+Home Away:            -5.0/10 = -0.5
+Home away 10:         -6.0/5 = -1.2
+Last 10 games:        -6.0/5 = -1.2
+Avg points:           3.36/8 = 0.42
+Avg points 10:        -6.96/8 = -0.87
+Win streak:           -2.0/3 = -0.6666666666666666
+Win streak home away: 4.0/3 = 1.3333333333333333
+--------
+Total: -2.38
+--------
+Perc chance to win: 54.11202853223594%
+Favorable team odds: -117.92203229172857
+Underdog team odds: +117.92203229172857
+

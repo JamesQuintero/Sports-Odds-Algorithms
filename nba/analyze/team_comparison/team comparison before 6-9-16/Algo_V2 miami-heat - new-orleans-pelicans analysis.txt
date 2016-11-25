@@ -1,0 +1,16 @@
+
+Date: 3-22-2016
+Away: miami-heat | Home: new-orleans-pelicans
+Seasonal Record:      68.67%
+Home Away:            -51.48%
+Home away 10:         -52.19%
+Last 10 games:        59.69%
+Avg points:           58.66%
+Avg points 10:        69.74%
+--------
+Total: 69.2%
+--------
+Perc chance to win: 69.2%
+Favorable team odds: -224.6753246753247
+Underdog team odds: +224.6753246753247
+

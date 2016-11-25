@@ -1,0 +1,16 @@
+
+Date: 3-24-2016
+Away: utah-jazz | Home: oklahoma-city-thunder
+Seasonal Record:      -68.67%
+Home Away:            -83.68%
+Home away 10:         -54.02%
+Last 10 games:        51.0%
+Avg points:           -62.44%
+Avg points 10:        -50.63%
+--------
+Total: -76.17%
+--------
+Perc chance to win: 76.17%
+Favorable team odds: -319.639110365086
+Underdog team odds: +319.639110365086
+

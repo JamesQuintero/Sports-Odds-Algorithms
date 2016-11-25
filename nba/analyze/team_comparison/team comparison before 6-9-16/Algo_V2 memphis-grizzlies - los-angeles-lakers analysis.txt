@@ -1,0 +1,16 @@
+
+Date: 3-22-2016
+Away: memphis-grizzlies | Home: los-angeles-lakers
+Seasonal Record:      81.53%
+Home Away:            67.52%
+Home away 10:         -52.19%
+Last 10 games:        53.69%
+Avg points:           67.36%
+Avg points 10:        -53.4%
+--------
+Total: 74.52%
+--------
+Perc chance to win: 74.52%
+Favorable team odds: -292.4646781789638
+Underdog team odds: +292.4646781789638
+

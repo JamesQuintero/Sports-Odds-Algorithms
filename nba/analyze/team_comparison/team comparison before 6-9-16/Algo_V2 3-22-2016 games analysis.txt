@@ -1,0 +1,65 @@
+
+Date: 3-22-2016
+Away: charlotte-hornets | Home: brooklyn-nets
+Seasonal Record:      75.75%
+Home Away:            57.2%
+Home away 10:         59.94%
+Last 10 games:        61.96%
+Avg points:           70.21%
+Avg points 10:        66.36%
+--------
+Total: 72.97%
+--------
+Perc chance to win: 72.97%
+Favorable team odds: -269.95930447650755
+Underdog team odds: +269.95930447650755
+
+
+Date: 3-22-2016
+Away: miami-heat | Home: new-orleans-pelicans
+Seasonal Record:      68.67%
+Home Away:            -51.48%
+Home away 10:         -52.19%
+Last 10 games:        59.69%
+Avg points:           58.66%
+Avg points 10:        69.74%
+--------
+Total: 69.2%
+--------
+Perc chance to win: 69.2%
+Favorable team odds: -224.6753246753247
+Underdog team odds: +224.6753246753247
+
+
+Date: 3-22-2016
+Away: houston-rockets | Home: oklahoma-city-thunder
+Seasonal Record:      -67.55%
+Home Away:            -77.35%
+Home away 10:         52.19%
+Last 10 games:        51.0%
+Avg points:           -68.45%
+Avg points 10:        -54.05%
+--------
+Total: -72.9%
+--------
+Perc chance to win: 72.9%
+Favorable team odds: -269.0036900369004
+Underdog team odds: +269.0036900369004
+
+
+Date: 3-22-2016
+Away: memphis-grizzlies | Home: los-angeles-lakers
+Seasonal Record:      81.53%
+Home Away:            67.52%
+Home away 10:         -52.19%
+Last 10 games:        53.69%
+Avg points:           67.36%
+Avg points 10:        -53.4%
+--------
+Total: 74.52%
+--------
+Perc chance to win: 74.52%
+Favorable team odds: -292.4646781789638
+Underdog team odds: +292.4646781789638
+
+

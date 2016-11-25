@@ -1,0 +1,77 @@
+col | colorado-avalanche
+chi | chicago-blackhawks
+stl | st-louis-blues
+cbj | columbus-blue-jackets
+bos | boston-bruins
+mtl | montreal-canadiens
+van | vancouver-canucks
+wsh | washington-capitals
+ari | arizona-coyotes
+nj | new-jersey-devils
+ana | anaheim-ducks
+cgy | calgary-flames
+phi | philadelphia-flyers
+car | carolina-hurricanes
+nyi | new-york-islanders
+wpg | winnipeg-jets
+la | los-angeles-kings
+tb | tampa-bay-lightning
+tor | toronto-maple-leafs
+edm | edmonton-oilers
+fla | florida-panthers
+pit | pittsburgh-penguins
+nsh | nashville-predators
+nyr | new-york-rangers
+det | detroit-red-wings
+buf | buffalo-sabres
+ott | ottawa-senators
+sj | san-jose-sharks
+dal | dallas-stars
+min | minnesota-wild
+
+
+
+
+
+
+
+ana | anaheim-ducks
+ari | arizona-coyotes
+bos | boston-bruins
+buf | buffalo-sabres
+cgy | calgary-flames
+car | carolina-hurricanes
+chi | chicago-blackhawks
+col | colorado-avalanche
+cbj | columbus-blue-jackets
+dal | dallas-stars
+det | detroit-red-wings
+edm | edmonton-oilers
+fla | florida-panthers
+la | los-angeles-kings
+min | minnesota-wild
+mtl | montreal-canadiens
+nsh | nashville-predators
+nj | new-jersey-devils
+nyi | new-york-islanders
+nyr | new-york-rangers
+ott | ottawa-senators
+phi | philadelphia-flyers
+pit | pittsburgh-penguins
+sj | san-jose-sharks
+stl | st-louis-blues
+tb | tampa-bay-lightning
+tor | toronto-maple-leafs
+van | vancouver-canucks
+wsh | washington-capitals
+wpg | winnipeg-jets
+
+
+
+
+
+
+
+
+
+

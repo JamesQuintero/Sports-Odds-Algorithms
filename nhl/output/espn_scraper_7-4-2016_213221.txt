@@ -1,0 +1,12 @@
+---- Start output ----
+[21:32:21] Scraping game scores from http://espn.go.com/nhl/team/schedule/_/name/pit/year/2014/pittsburgh-penguins
+[21:32:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:32:26] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[21:32:26] Loading existing data
+[21:32:26] Saving data to ./nhl/team_data/2014/pittsburgh-penguins.csv
+[21:32:26] Scraping game scores from http://espn.go.com/nhl/team/schedule/_/name/nyr/year/2014/new-york-rangers
+[21:32:31] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:32:31] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[21:32:31] Loading existing data
+[21:32:31] Saving data to ./nhl/team_data/2014/new-york-rangers.csv
+

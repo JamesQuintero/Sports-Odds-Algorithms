@@ -1,0 +1,16 @@
+
+Date: 3-14-2016
+Away: portland-trail-blazers | Home: oklahoma-city-thunder
+Seasonal Record:      -63.61%
+Home Away:            -78.32%
+Home away 10:         -58.7%
+Last 10 games:        53.69%
+Avg points:           -61.02%
+Avg points 10:        50.19%
+--------
+Total: -70.96%
+--------
+Perc chance to win: 70.96%
+Favorable team odds: -244.3526170798897
+Underdog team odds: +244.3526170798897
+

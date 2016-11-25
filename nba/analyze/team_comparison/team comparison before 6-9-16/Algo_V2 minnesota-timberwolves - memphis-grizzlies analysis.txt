@@ -1,0 +1,16 @@
+
+Date: 3-16-2016
+Away: minnesota-timberwolves | Home: memphis-grizzlies
+Seasonal Record:      -73.06%
+Home Away:            -82.85%
+Home away 10:         -65.54%
+Last 10 games:        -56.04%
+Avg points:           -53.17%
+Avg points 10:        50.19%
+--------
+Total: -77.95%
+--------
+Perc chance to win: 77.95%
+Favorable team odds: -353.51473922902505
+Underdog team odds: +353.51473922902505
+

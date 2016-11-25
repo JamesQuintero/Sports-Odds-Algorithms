@@ -1,0 +1,17 @@
+
+Date: 7-3-2016
+Away: cincinnati-reds | Home: washington-nationals
+Seasonal Record:      -59.23%
+Home Away:            -60.38%
+Home away 10:         -57.73%
+Last 10 games:        -54.06%
+Avg points:           -61.73%
+Avg points 10:        -56.05%
+Win streak home away: 50%
+--------
+Total: -61.05%
+--------
+Perc chance to win: 61.05%
+Favorable team odds: -156.73940949935812
+Underdog team odds: +156.73940949935812
+

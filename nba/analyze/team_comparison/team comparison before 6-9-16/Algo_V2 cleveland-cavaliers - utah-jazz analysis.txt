@@ -1,0 +1,16 @@
+
+Date: 3-14-2016
+Away: cleveland-cavaliers | Home: utah-jazz
+Seasonal Record:      71.42%
+Home Away:            51.48%
+Home away 10:         -58.7%
+Last 10 games:        59.69%
+Avg points:           62.21%
+Avg points 10:        66.84%
+--------
+Total: 69.13%
+--------
+Perc chance to win: 69.13%
+Favorable team odds: -223.93909944930348
+Underdog team odds: +223.93909944930348
+

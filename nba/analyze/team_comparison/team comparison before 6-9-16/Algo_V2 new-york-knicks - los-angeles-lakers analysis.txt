@@ -1,0 +1,16 @@
+
+Date: 3-13-2016
+Away: new-york-knicks | Home: los-angeles-lakers
+Seasonal Record:      66.99%
+Home Away:            52.95%
+Home away 10:         -54.02%
+Last 10 games:        51.0%
+Avg points:           65.14%
+Avg points 10:        53.89%
+--------
+Total: 66.06%
+--------
+Perc chance to win: 66.06%
+Favorable team odds: -194.63759575721866
+Underdog team odds: +194.63759575721866
+

@@ -1,0 +1,16 @@
+
+Date: 3-18-2016
+Away: oklahoma-city-thunder | Home: philadelphia-76ers
+Seasonal Record:      92.5%
+Home Away:            82.85%
+Home away 10:         65.54%
+Last 10 games:        59.69%
+Avg points:           89.46%
+Avg points 10:        74.39%
+--------
+Total: 90.97%
+--------
+Perc chance to win: 90.97%
+Favorable team odds: -1007.4197120708748
+Underdog team odds: +1007.4197120708748
+

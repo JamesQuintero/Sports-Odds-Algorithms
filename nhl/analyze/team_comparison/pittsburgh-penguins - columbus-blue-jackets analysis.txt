@@ -1,0 +1,17 @@
+
+Date: 4-11-2014
+Away: pittsburgh-penguins | Home: columbus-blue-jackets
+Seasonal Record:      54.19%
+Home Away:            50.61%
+Home away 10:         59.62%
+Last 10 games:        53.69%
+Avg points:           53.53%
+Avg points 10:        53.27%
+Win streak home away: 50%
+--------
+Total: 56.9%
+--------
+Perc chance to win: 56.9%
+Favorable team odds: -132.0185614849188
+Underdog team odds: +132.0185614849188
+

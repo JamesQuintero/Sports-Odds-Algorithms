@@ -1,0 +1,318 @@
+---- Start output ----
+[00:55:21] Loading existing data
+[00:55:21] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/atl/year/2016/seasontype/2/atlanta-hawks
+[00:55:22] Returned 4-1-2016's game results
+[00:55:22] Scraping 4-1-2016's period data
+[00:55:24] Returned 4-5-2016's game results
+[00:55:24] Scraping 4-5-2016's period data
+[00:55:26] Returned 4-7-2016's game results
+[00:55:26] Scraping 4-7-2016's period data
+[00:55:27] Returned 4-9-2016's game results
+[00:55:27] Scraping 4-9-2016's period data
+[00:55:29] Returned 4-11-2016's game results
+[00:55:29] Scraping 4-11-2016's period data
+[00:55:30] Saving data to ./nba/team_data/2016/atlanta-hawks.csv
+[00:55:30] Loading existing data
+[00:55:30] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/bos/year/2016/seasontype/2/boston-celtics
+[00:55:31] Returned 4-1-2016's game results
+[00:55:31] Scraping 4-1-2016's period data
+[00:55:33] Returned 4-3-2016's game results
+[00:55:33] Scraping 4-3-2016's period data
+[00:55:35] Returned 4-6-2016's game results
+[00:55:35] Scraping 4-6-2016's period data
+[00:55:37] Returned 4-8-2016's game results
+[00:55:37] Scraping 4-8-2016's period data
+[00:55:38] Returned 4-9-2016's game results
+[00:55:38] Scraping 4-9-2016's period data
+[00:55:39] Returned 4-11-2016's game results
+[00:55:39] Scraping 4-11-2016's period data
+[00:55:41] Saving data to ./nba/team_data/2016/boston-celtics.csv
+[00:55:41] Loading existing data
+[00:55:41] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/bkn/year/2016/seasontype/2/brooklyn-nets
+[00:55:42] Saving data to ./nba/team_data/2016/brooklyn-nets.csv
+[00:55:42] Loading existing data
+[00:55:42] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/cha/year/2016/seasontype/2/charlotte-hornets
+[00:55:42] Returned 4-1-2016's game results
+[00:55:42] Scraping 4-1-2016's period data
+[00:55:44] Returned 4-3-2016's game results
+[00:55:44] Scraping 4-3-2016's period data
+[00:55:46] Returned 4-5-2016's game results
+[00:55:46] Scraping 4-5-2016's period data
+[00:55:47] Returned 4-6-2016's game results
+[00:55:47] Scraping 4-6-2016's period data
+[00:55:49] Returned 4-8-2016's game results
+[00:55:49] Scraping 4-8-2016's period data
+[00:55:51] Returned 4-10-2016's game results
+[00:55:51] Scraping 4-10-2016's period data
+[00:55:52] Returned 4-11-2016's game results
+[00:55:52] Scraping 4-11-2016's period data
+[00:55:54] Saving data to ./nba/team_data/2016/charlotte-hornets.csv
+[00:55:54] Loading existing data
+[00:55:54] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/chi/year/2016/seasontype/2/chicago-bulls
+[00:55:54] Saving data to ./nba/team_data/2016/chicago-bulls.csv
+[00:55:54] Loading existing data
+[00:55:54] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/cle/year/2016/seasontype/2/cleveland-cavaliers
+[00:55:55] Returned 4-1-2016's game results
+[00:55:55] Scraping 4-1-2016's period data
+[00:55:57] Returned 4-3-2016's game results
+[00:55:57] Scraping 4-3-2016's period data
+[00:55:59] Returned 4-5-2016's game results
+[00:55:59] Scraping 4-5-2016's period data
+[00:56:00] Returned 4-6-2016's game results
+[00:56:00] Scraping 4-6-2016's period data
+[00:56:02] Returned 4-9-2016's game results
+[00:56:02] Scraping 4-9-2016's period data
+[00:56:03] Returned 4-11-2016's game results
+[00:56:03] Scraping 4-11-2016's period data
+[00:56:04] Saving data to ./nba/team_data/2016/cleveland-cavaliers.csv
+[00:56:04] Loading existing data
+[00:56:04] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/dal/year/2016/seasontype/2/dallas-mavericks
+[00:56:05] Returned 4-1-2016's game results
+[00:56:05] Scraping 4-1-2016's period data
+[00:56:07] Returned 4-3-2016's game results
+[00:56:07] Scraping 4-3-2016's period data
+[00:56:08] Returned 4-6-2016's game results
+[00:56:08] Scraping 4-6-2016's period data
+[00:56:10] Returned 4-8-2016's game results
+[00:56:10] Scraping 4-8-2016's period data
+[00:56:12] Returned 4-10-2016's game results
+[00:56:12] Scraping 4-10-2016's period data
+[00:56:13] Returned 4-11-2016's game results
+[00:56:13] Scraping 4-11-2016's period data
+[00:56:15] Saving data to ./nba/team_data/2016/dallas-mavericks.csv
+[00:56:15] Loading existing data
+[00:56:15] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/den/year/2016/seasontype/2/denver-nuggets
+[00:56:15] Saving data to ./nba/team_data/2016/denver-nuggets.csv
+[00:56:15] Loading existing data
+[00:56:15] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/det/year/2016/seasontype/2/detroit-pistons
+[00:56:16] Returned 4-1-2016's game results
+[00:56:16] Scraping 4-1-2016's period data
+[00:56:17] Returned 4-2-2016's game results
+[00:56:17] Scraping 4-2-2016's period data
+[00:56:19] Returned 4-5-2016's game results
+[00:56:19] Scraping 4-5-2016's period data
+[00:56:20] Returned 4-6-2016's game results
+[00:56:20] Scraping 4-6-2016's period data
+[00:56:22] Returned 4-8-2016's game results
+[00:56:22] Scraping 4-8-2016's period data
+[00:56:23] Returned 4-12-2016's game results
+[00:56:23] Scraping 4-12-2016's period data
+[00:56:25] Saving data to ./nba/team_data/2016/detroit-pistons.csv
+[00:56:25] Loading existing data
+[00:56:25] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/gs/year/2016/seasontype/2/golden-state-warriors
+[00:56:26] Returned 4-1-2016's game results
+[00:56:26] Scraping 4-1-2016's period data
+[00:56:27] Returned 4-3-2016's game results
+[00:56:27] Scraping 4-3-2016's period data
+[00:56:29] Returned 4-5-2016's game results
+[00:56:29] Scraping 4-5-2016's period data
+[00:56:30] Returned 4-7-2016's game results
+[00:56:30] Scraping 4-7-2016's period data
+[00:56:32] Returned 4-9-2016's game results
+[00:56:32] Scraping 4-9-2016's period data
+[00:56:33] Returned 4-10-2016's game results
+[00:56:33] Scraping 4-10-2016's period data
+[00:56:34] Saving data to ./nba/team_data/2016/golden-state-warriors.csv
+[00:56:34] Loading existing data
+[00:56:34] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/hou/year/2016/seasontype/2/houston-rockets
+[00:56:35] Returned 3-23-2016's game results
+[00:56:35] Scraping 3-23-2016's period data
+[00:56:37] Returned 3-25-2016's game results
+[00:56:37] Scraping 3-25-2016's period data
+[00:56:39] Returned 3-27-2016's game results
+[00:56:39] Scraping 3-27-2016's period data
+[00:56:40] Returned 3-29-2016's game results
+[00:56:40] Scraping 3-29-2016's period data
+[00:56:42] Returned 3-31-2016's game results
+[00:56:42] Scraping 3-31-2016's period data
+[00:56:43] Returned 4-3-2016's game results
+[00:56:43] Scraping 4-3-2016's period data
+[00:56:45] Returned 4-6-2016's game results
+[00:56:45] Scraping 4-6-2016's period data
+[00:56:46] Returned 4-7-2016's game results
+[00:56:46] Scraping 4-7-2016's period data
+[00:56:48] Returned 4-10-2016's game results
+[00:56:48] Scraping 4-10-2016's period data
+[00:56:49] Returned 4-11-2016's game results
+[00:56:49] Scraping 4-11-2016's period data
+[00:56:51] Saving data to ./nba/team_data/2016/houston-rockets.csv
+[00:56:51] Loading existing data
+[00:56:51] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/ind/year/2016/seasontype/2/indiana-pacers
+[00:56:51] Returned 3-24-2016's game results
+[00:56:51] Scraping 3-24-2016's period data
+[00:56:53] Returned 3-26-2016's game results
+[00:56:53] Scraping 3-26-2016's period data
+[00:56:55] Returned 3-27-2016's game results
+[00:56:55] Scraping 3-27-2016's period data
+[00:56:56] Returned 3-29-2016's game results
+[00:56:56] Scraping 3-29-2016's period data
+[00:56:58] Returned 3-31-2016's game results
+[00:56:58] Scraping 3-31-2016's period data
+[00:56:59] Returned 4-2-2016's game results
+[00:56:59] Scraping 4-2-2016's period data
+[00:57:01] Returned 4-3-2016's game results
+[00:57:01] Scraping 4-3-2016's period data
+[00:57:02] Returned 4-6-2016's game results
+[00:57:02] Scraping 4-6-2016's period data
+[00:57:04] Returned 4-8-2016's game results
+[00:57:04] Scraping 4-8-2016's period data
+[00:57:05] Returned 4-10-2016's game results
+[00:57:05] Scraping 4-10-2016's period data
+[00:57:07] Returned 4-12-2016's game results
+[00:57:07] Scraping 4-12-2016's period data
+[00:57:08] Saving data to ./nba/team_data/2016/indiana-pacers.csv
+[00:57:08] Loading existing data
+[00:57:08] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/lac/year/2016/seasontype/2/los-angeles-clippers
+[00:57:09] Returned 3-30-2016's game results
+[00:57:09] Scraping 3-30-2016's period data
+[00:57:10] Returned 3-31-2016's game results
+[00:57:10] Scraping 3-31-2016's period data
+[00:57:12] Returned 4-3-2016's game results
+[00:57:12] Scraping 4-3-2016's period data
+[00:57:13] Returned 4-5-2016's game results
+[00:57:13] Scraping 4-5-2016's period data
+[00:57:15] Returned 4-6-2016's game results
+[00:57:15] Scraping 4-6-2016's period data
+[00:57:17] Returned 4-8-2016's game results
+[00:57:17] Scraping 4-8-2016's period data
+[00:57:18] Returned 4-10-2016's game results
+[00:57:18] Scraping 4-10-2016's period data
+[00:57:20] Returned 4-12-2016's game results
+[00:57:20] Scraping 4-12-2016's period data
+[00:57:22] Saving data to ./nba/team_data/2016/los-angeles-clippers.csv
+[00:57:22] Loading existing data
+[00:57:22] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/lal/year/2016/seasontype/2/los-angeles-lakers
+[00:57:22] Saving data to ./nba/team_data/2016/los-angeles-lakers.csv
+[00:57:22] Loading existing data
+[00:57:22] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/mem/year/2016/seasontype/2/memphis-grizzlies
+[00:57:23] Returned 4-1-2016's game results
+[00:57:23] Scraping 4-1-2016's period data
+[00:57:25] Returned 4-3-2016's game results
+[00:57:25] Scraping 4-3-2016's period data
+[00:57:26] Returned 4-5-2016's game results
+[00:57:26] Scraping 4-5-2016's period data
+[00:57:28] Returned 4-8-2016's game results
+[00:57:28] Scraping 4-8-2016's period data
+[00:57:29] Returned 4-9-2016's game results
+[00:57:29] Scraping 4-9-2016's period data
+[00:57:30] Returned 4-12-2016's game results
+[00:57:30] Scraping 4-12-2016's period data
+[00:57:32] Saving data to ./nba/team_data/2016/memphis-grizzlies.csv
+[00:57:32] Loading existing data
+[00:57:32] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/mia/year/2016/seasontype/2/miami-heat
+[00:57:33] Returned 4-1-2016's game results
+[00:57:33] Scraping 4-1-2016's period data
+[00:57:34] Returned 4-2-2016's game results
+[00:57:34] Scraping 4-2-2016's period data
+[00:57:36] Returned 4-5-2016's game results
+[00:57:36] Scraping 4-5-2016's period data
+[00:57:37] Returned 4-7-2016's game results
+[00:57:37] Scraping 4-7-2016's period data
+[00:57:39] Returned 4-8-2016's game results
+[00:57:39] Scraping 4-8-2016's period data
+[00:57:40] Returned 4-10-2016's game results
+[00:57:40] Scraping 4-10-2016's period data
+[00:57:42] Returned 4-12-2016's game results
+[00:57:42] Scraping 4-12-2016's period data
+[00:57:43] Saving data to ./nba/team_data/2016/miami-heat.csv
+[00:57:43] Loading existing data
+[00:57:43] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/mil/year/2016/seasontype/2/milwaukee-bucks
+[00:57:44] Saving data to ./nba/team_data/2016/milwaukee-bucks.csv
+[00:57:44] Loading existing data
+[00:57:44] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/min/year/2016/seasontype/2/minnesota-timberwolves
+[00:57:45] Saving data to ./nba/team_data/2016/minnesota-timberwolves.csv
+[00:57:45] Loading existing data
+[00:57:45] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/no/year/2016/seasontype/2/new-orleans-pelicans
+[00:57:45] Saving data to ./nba/team_data/2016/new-orleans-pelicans.csv
+[00:57:45] Loading existing data
+[00:57:46] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/ny/year/2016/seasontype/2/new-york-knicks
+[00:57:46] Saving data to ./nba/team_data/2016/new-york-knicks.csv
+[00:57:46] Loading existing data
+[00:57:46] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/okc/year/2016/seasontype/2/oklahoma-city-thunder
+[00:57:47] Returned 3-28-2016's game results
+[00:57:47] Scraping 3-28-2016's period data
+[00:57:48] Returned 3-29-2016's game results
+[00:57:48] Scraping 3-29-2016's period data
+[00:57:50] Returned 3-31-2016's game results
+[00:57:50] Scraping 3-31-2016's period data
+[00:57:52] Returned 4-3-2016's game results
+[00:57:52] Scraping 4-3-2016's period data
+[00:57:53] Returned 4-5-2016's game results
+[00:57:53] Scraping 4-5-2016's period data
+[00:57:54] Returned 4-6-2016's game results
+[00:57:54] Scraping 4-6-2016's period data
+[00:57:56] Returned 4-9-2016's game results
+[00:57:56] Scraping 4-9-2016's period data
+[00:57:57] Returned 4-11-2016's game results
+[00:57:57] Scraping 4-11-2016's period data
+[00:57:59] Saving data to ./nba/team_data/2016/oklahoma-city-thunder.csv
+[00:57:59] Loading existing data
+[00:57:59] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/orl/year/2016/seasontype/2/orlando-magic
+[00:58:00] Saving data to ./nba/team_data/2016/orlando-magic.csv
+[00:58:00] Loading existing data
+[00:58:00] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/phi/year/2016/seasontype/2/philadelphia-76ers
+[00:58:00] Saving data to ./nba/team_data/2016/philadelphia-76ers.csv
+[00:58:00] Loading existing data
+[00:58:00] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/phx/year/2016/seasontype/2/phoenix-suns
+[00:58:01] Saving data to ./nba/team_data/2016/phoenix-suns.csv
+[00:58:01] Loading existing data
+[00:58:01] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/por/year/2016/seasontype/2/portland-trail-blazers
+[00:58:02] Returned 3-28-2016's game results
+[00:58:02] Scraping 3-28-2016's period data
+[00:58:03] Returned 3-31-2016's game results
+[00:58:03] Scraping 3-31-2016's period data
+[00:58:05] Returned 4-2-2016's game results
+[00:58:05] Scraping 4-2-2016's period data
+[00:58:06] Returned 4-3-2016's game results
+[00:58:06] Scraping 4-3-2016's period data
+[00:58:08] Returned 4-5-2016's game results
+[00:58:08] Scraping 4-5-2016's period data
+[00:58:10] Returned 4-6-2016's game results
+[00:58:10] Scraping 4-6-2016's period data
+[00:58:11] Returned 4-9-2016's game results
+[00:58:11] Scraping 4-9-2016's period data
+[00:58:13] Saving data to ./nba/team_data/2016/portland-trail-blazers.csv
+[00:58:13] Loading existing data
+[00:58:13] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/sac/year/2016/seasontype/2/sacramento-kings
+[00:58:14] Saving data to ./nba/team_data/2016/sacramento-kings.csv
+[00:58:14] Loading existing data
+[00:58:14] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/sa/year/2016/seasontype/2/san-antonio-spurs
+[00:58:15] Returned 3-30-2016's game results
+[00:58:15] Scraping 3-30-2016's period data
+[00:58:16] Returned 4-2-2016's game results
+[00:58:16] Scraping 4-2-2016's period data
+[00:58:18] Returned 4-5-2016's game results
+[00:58:18] Scraping 4-5-2016's period data
+[00:58:19] Returned 4-7-2016's game results
+[00:58:19] Scraping 4-7-2016's period data
+[00:58:21] Returned 4-8-2016's game results
+[00:58:21] Scraping 4-8-2016's period data
+[00:58:23] Returned 4-10-2016's game results
+[00:58:23] Scraping 4-10-2016's period data
+[00:58:24] Returned 4-12-2016's game results
+[00:58:24] Scraping 4-12-2016's period data
+[00:58:26] Saving data to ./nba/team_data/2016/san-antonio-spurs.csv
+[00:58:26] Loading existing data
+[00:58:26] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/tor/year/2016/seasontype/2/toronto-raptors
+[00:58:27] Returned 4-1-2016's game results
+[00:58:27] Scraping 4-1-2016's period data
+[00:58:28] Returned 4-2-2016's game results
+[00:58:28] Scraping 4-2-2016's period data
+[00:58:30] Returned 4-5-2016's game results
+[00:58:30] Scraping 4-5-2016's period data
+[00:58:31] Returned 4-7-2016's game results
+[00:58:31] Scraping 4-7-2016's period data
+[00:58:32] Returned 4-8-2016's game results
+[00:58:32] Scraping 4-8-2016's period data
+[00:58:34] Returned 4-10-2016's game results
+[00:58:34] Scraping 4-10-2016's period data
+[00:58:36] Returned 4-12-2016's game results
+[00:58:36] Scraping 4-12-2016's period data
+[00:58:38] Saving data to ./nba/team_data/2016/toronto-raptors.csv
+[00:58:38] Loading existing data
+[00:58:38] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/utah/year/2016/seasontype/2/utah-jazz
+[00:58:38] Saving data to ./nba/team_data/2016/utah-jazz.csv
+[00:58:38] Loading existing data
+[00:58:38] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/wsh/year/2016/seasontype/2/washington-wizards
+[00:58:39] Saving data to ./nba/team_data/2016/washington-wizards.csv
+

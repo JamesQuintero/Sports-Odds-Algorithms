@@ -1,0 +1,68 @@
+---- Start output ----
+[00:10:56] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/lal/year/2016/seasontype/2/los-angeles-lakers
+[00:10:56] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[00:10:56] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[00:10:56] Loading existing data
+[00:10:56] Returned 10-28-2016's game results
+[00:10:56] Scraping 10-28-2016's period data: http://espn.go.com/nba/playbyplay?id=400827904
+[00:10:57] Returned 10-30-2016's game results
+[00:10:57] Scraping 10-30-2016's period data: http://espn.go.com/nba/playbyplay?id=400827918
+[00:10:57] Returned 11-1-2016's game results
+[00:10:57] Scraping 11-1-2016's period data: http://espn.go.com/nba/playbyplay?id=400827932
+[00:10:58] Returned 11-3-2016's game results
+[00:10:58] Scraping 11-3-2016's period data: http://espn.go.com/nba/playbyplay?id=400827946
+[00:10:58] Returned 11-6-2016's game results
+[00:10:58] Scraping 11-6-2016's period data: http://espn.go.com/nba/playbyplay?id=400827964
+[00:10:58] Returned 11-8-2016's game results
+[00:10:58] Scraping 11-8-2016's period data: http://espn.go.com/nba/playbyplay?id=400827982
+[00:10:59] Returned 11-10-2016's game results
+[00:10:59] Scraping 11-10-2016's period data: http://espn.go.com/nba/playbyplay?id=400827995
+[00:10:59] Returned 11-11-2016's game results
+[00:10:59] Scraping 11-11-2016's period data: http://espn.go.com/nba/playbyplay?id=400828001
+[00:11:00] Returned 11-13-2016's game results
+[00:11:00] Scraping 11-13-2016's period data: http://espn.go.com/nba/playbyplay?id=400828022
+[00:11:00] Returned 11-15-2016's game results
+[00:11:00] Scraping 11-15-2016's period data: http://espn.go.com/nba/playbyplay?id=400828038
+[00:11:01] Returned 11-16-2016's game results
+[00:11:01] Scraping 11-16-2016's period data: http://espn.go.com/nba/playbyplay?id=400828044
+[00:11:01] Returned 11-20-2016's game results
+[00:11:01] Scraping 11-20-2016's period data: http://espn.go.com/nba/playbyplay?id=400828075
+[00:11:02] Returned 11-22-2016's game results
+[00:11:02] Scraping 11-22-2016's period data: http://espn.go.com/nba/playbyplay?id=400828088
+[00:11:02] Returned 11-24-2016's game results
+[00:11:02] Scraping 11-24-2016's period data: http://espn.go.com/nba/playbyplay?id=400828101
+[00:11:02] Returned 11-28-2016's game results
+[00:11:02] Scraping 11-28-2016's period data: http://espn.go.com/nba/playbyplay?id=400828131
+[00:11:03] Returned 11-29-2016's game results
+[00:11:03] Scraping 11-29-2016's period data: http://espn.go.com/nba/playbyplay?id=400828140
+[00:11:03] Returned 12-1-2016's game results
+[00:11:03] Scraping 12-1-2016's period data: http://espn.go.com/nba/playbyplay?id=400828150
+[00:11:03] Returned 12-2-2016's game results
+[00:11:03] Scraping 12-2-2016's period data: http://espn.go.com/nba/playbyplay?id=400828156
+[00:11:04] Returned 12-4-2016's game results
+[00:11:04] Scraping 12-4-2016's period data: http://espn.go.com/nba/playbyplay?id=400828173
+[00:11:04] Returned 12-6-2016's game results
+[00:11:04] Scraping 12-6-2016's period data: http://espn.go.com/nba/playbyplay?id=400828188
+[00:11:05] Returned 12-7-2016's game results
+[00:11:05] Scraping 12-7-2016's period data: http://espn.go.com/nba/playbyplay?id=400828195
+[00:11:05] Returned 12-9-2016's game results
+[00:11:05] Scraping 12-9-2016's period data: http://espn.go.com/nba/playbyplay?id=400828212
+[00:11:05] Returned 12-11-2016's game results
+[00:11:05] Scraping 12-11-2016's period data: http://espn.go.com/nba/playbyplay?id=400828229
+[00:11:06] Returned 12-12-2016's game results
+[00:11:06] Scraping 12-12-2016's period data: http://espn.go.com/nba/playbyplay?id=400828236
+[00:11:06] Returned 12-15-2016's game results
+[00:11:06] Scraping 12-15-2016's period data: http://espn.go.com/nba/playbyplay?id=400828257
+[00:11:07] Returned 12-17-2016's game results
+[00:11:07] Scraping 12-17-2016's period data: http://espn.go.com/nba/playbyplay?id=400828272
+[00:11:07] Returned 12-19-2016's game results
+[00:11:07] Scraping 12-19-2016's period data: http://espn.go.com/nba/playbyplay?id=400828285
+[00:11:08] Returned 12-22-2016's game results
+[00:11:08] Scraping 12-22-2016's period data: http://espn.go.com/nba/playbyplay?id=400828309
+[00:11:09] Returned 12-23-2016's game results
+[00:11:09] Scraping 12-23-2016's period data: http://espn.go.com/nba/playbyplay?id=400828322
+[00:11:09] Returned 12-25-2016's game results
+[00:11:09] Scraping 12-25-2016's period data: http://espn.go.com/nba/playbyplay?id=400828327
+[00:11:09] Returned 12-27-2016's game results
+[00:11:09] Scraping 12-27-2016's period data: http://espn.go.com/nba/playbyplay?id=400828342
+

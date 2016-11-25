@@ -1,0 +1,18 @@
+
+Date: 3-11-2016
+Away: portland-trail-blazers | Home: golden-state-warriors
+Seasonal Record:      -48.0/10 = -4.8
+Home Away:            -33.0/10 = -3.3
+Home away 10:         -8.0/5 = -1.6
+Last 10 games:        -6.0/5 = -1.2
+Avg points:           -9.92/8 = -1.24
+Avg points 10:        -7.04/8 = -0.88
+Win streak:           2.0/3 = 0.6666666666666666
+Win streak home away: -4.0/3 = -1.3333333333333333
+--------
+Total: -13.7
+--------
+Perc chance to win: 78.76540466392318%
+Favorable team odds: -370.92962412193253
+Underdog team odds: +370.92962412193253
+

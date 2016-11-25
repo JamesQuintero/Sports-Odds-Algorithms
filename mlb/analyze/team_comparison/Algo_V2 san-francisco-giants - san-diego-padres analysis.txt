@@ -1,0 +1,17 @@
+
+Date: 7-16-2016
+Away: san-francisco-giants | Home: san-diego-padres
+Seasonal Record:      58.69%
+Home Away:            55.5%
+Home away 10:         50.62%
+Last 10 games:        52.29%
+Avg points:           59.12%
+Avg points 10:        51.2%
+Win streak home away: 50%
+--------
+Total: 58.9%
+--------
+Perc chance to win: 58.9%
+Favorable team odds: -143.30900243309003
+Underdog team odds: +143.30900243309003
+

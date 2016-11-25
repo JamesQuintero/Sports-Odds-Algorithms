@@ -1,0 +1,16 @@
+
+Date: 3-14-2016
+Away: minnesota-timberwolves | Home: phoenix-suns
+Seasonal Record:      57.24%
+Home Away:            -52.95%
+Home away 10:         54.02%
+Last 10 games:        53.69%
+Avg points:           54.62%
+Avg points 10:        58.43%
+--------
+Total: 57.83%
+--------
+Perc chance to win: 57.83%
+Favorable team odds: -137.13540431586435
+Underdog team odds: +137.13540431586435
+

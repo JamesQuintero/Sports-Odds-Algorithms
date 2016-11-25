@@ -1,0 +1,16 @@
+
+Date: 4-1-2016
+Away: cleveland-cavaliers | Home: atlanta-hawks
+Seasonal Record:      62.46%
+Home Away:            -55.81%
+Home away 10:         -54.02%
+Last 10 games:        -56.04%
+Avg points:           51.64%
+Avg points 10:        -57.62%
+--------
+Total: 52.42%
+--------
+Perc chance to win: 52.42%
+Favorable team odds: -110.17234131988229
+Underdog team odds: +110.17234131988229
+

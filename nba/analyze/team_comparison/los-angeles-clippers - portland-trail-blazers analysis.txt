@@ -1,0 +1,16 @@
+
+Date: 4-16-2016
+Away: los-angeles-clippers | Home: portland-trail-blazers
+Seasonal Record:      64.17%
+Home Away:            -58.58%
+Home away 10:         -65.54%
+Last 10 games:        56.04%
+Avg points:           56.26%
+Avg points 10:        65.23%
+--------
+Total: -50.15%
+--------
+Perc chance to win: 50.15%
+Favorable team odds: -100.60180541624875
+Underdog team odds: +100.60180541624875
+

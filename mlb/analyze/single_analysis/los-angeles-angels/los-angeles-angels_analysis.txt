@@ -1,0 +1,283 @@
+
+
+los-angeles-angels
+Season: -9 on downtrend
+Home-Away: 14-20 home
+   Last 10 home games: 4-6
+10 Games: 3-7
+   3 won out of 6 games | 50.0%
+Avg points: 4.24 - 4.83
+   Last 10 games: 3.7 - 6.3
+Winning streak against lad: 2
+   Winning streak home: 3
+
+
+   los-angeles-angels
+   Season: -10 on downtrend
+   Home-Away: 13-20 home
+      Last 10 home games: 4-6
+   10 Games: 2-8
+      2 won out of 4 games | 50.0%
+   Avg points: 4.23 - 4.84
+      Last 10 games: 3.9 - 6.7
+   Losing streak against min: 5
+      Losing streak home: 2
+
+
+   minnesota-twins
+   Season: -23 on downtrend
+   Home-Away: 8-22 away
+      Last 10 away games: 4-6
+   10 Games: 4-6
+      6 won out of 10 games | 60.0%
+   Avg points: 3.9 - 5.49
+      Last 10 games: 4.8 - 6.8
+   Winning streak against laa: 5
+      Winning streak away: 2
+
+   Winner: los-angeles-angels | 5-4
+   ----------------------------------------
+
+
+   los-angeles-angels
+   Season: -9 on downtrend
+   Home-Away: 13-19 home
+      Last 10 home games: 5-5
+   10 Games: 3-7
+      3 won out of 5 games | 60.0%
+   Avg points: 4.23 - 4.77
+      Last 10 games: 4.4 - 6.0
+   Losing streak against min: 4
+      Losing streak home: 1
+
+
+   minnesota-twins
+   Season: -24 on downtrend
+   Home-Away: 7-22 away
+      Last 10 away games: 4-6
+   10 Games: 4-6
+      5 won out of 9 games | 55.55555555555556%
+   Avg points: 3.82 - 5.51
+      Last 10 games: 4.5 - 6.8
+   Winning streak against laa: 4
+      Winning streak away: 1
+
+   Winner: minnesota-twins | 9-4
+   ----------------------------------------
+
+
+   los-angeles-angels
+   Season: -8 on downtrend
+   Home-Away: 13-18 home
+      Last 10 home games: 5-5
+   10 Games: 3-7
+      3 won out of 4 games | 75.0%
+   Avg points: 4.25 - 4.72
+      Last 10 games: 4.09 - 5.5
+   Winning streak against cle: 1
+      Winning streak home: 1
+
+
+   cleveland-indians
+   Season: 6 on uptrend
+   Home-Away: 16-15 away
+      Last 10 away games: 5-5
+   10 Games: 7-3
+      1 won out of 5 games | 20.0%
+   Avg points: 4.68 - 4.05
+      Last 10 games: 4.3 - 2.8
+   Losing streak against laa: 1
+      Losing streak away: 1
+
+   Winner: cleveland-indians | 8-3
+   ----------------------------------------
+
+
+   los-angeles-angels
+   Season: -9 on downtrend
+   Home-Away: 12-18 home
+      Last 10 home games: 4-6
+   10 Games: 3-7
+      2 won out of 3 games | 66.66666666666666%
+   Avg points: 4.26 - 4.75
+      Last 10 games: 4.8 - 6.1
+   Losing streak against cle: 4
+      Losing streak home: 1
+
+
+   cleveland-indians
+   Season: 7 on uptrend
+   Home-Away: 16-14 away
+      Last 10 away games: 5-5
+   10 Games: 8-2
+      0 won out of 0 games | N/A%
+   Avg points: 4.71 - 4.05
+      Last 10 games: 4.5 - 2.8
+   Winning streak against laa: 4
+      Winning streak away: 1
+
+   Winner: los-angeles-angels | 4-3
+   ----------------------------------------
+
+
+   los-angeles-angels
+   Season: -8 on downtrend
+   Home-Away: 12-17 home
+      Last 10 home games: 5-5
+   10 Games: 4-6
+      7 won out of 12 games | 58.333333333333336%
+   Avg points: 4.3 - 4.73
+      Last 10 games: 5.09 - 5.6
+   Losing streak against cle: 3
+      Losing streak home: 0
+
+
+   cleveland-indians
+   Season: 6 on uptrend
+   Home-Away: 15-14 away
+      Last 10 away games: 5-5
+   10 Games: 7-3
+      0 won out of 4 games | 0.0%
+   Avg points: 4.68 - 4.08
+      Last 10 games: 4.2 - 3.3
+   Winning streak against laa: 3
+      Winning streak away: 0
+
+   Winner: cleveland-indians | 6-2
+   ----------------------------------------
+
+
+   los-angeles-angels
+   Season: -7 on downtrend
+   Home-Away: 14-16 away
+      Last 10 away games: 3-7
+   10 Games: 4-6
+      7 won out of 11 games | 63.63636363636363%
+   Avg points: 4.32 - 4.71
+      Last 10 games: 5.4 - 5.8
+   Losing streak against nyy: 4
+      Losing streak away: 8
+
+
+   new-york-yankees
+   Season: -1 on downtrend
+   Home-Away: 16-12 home
+      Last 10 home games: 7-3
+   10 Games: 5-5
+      3 won out of 6 games | 50.0%
+   Avg points: 3.98 - 4.3
+      Last 10 games: 4.5 - 4.5
+   Winning streak against laa: 4
+      Winning streak home: 8
+
+   Winner: new-york-yankees | 6-3
+   ----------------------------------------
+
+
+   los-angeles-angels
+   Season: -6 on downtrend
+   Home-Away: 14-15 away
+      Last 10 away games: 4-6
+   10 Games: 4-6
+      7 won out of 10 games | 70.0%
+   Avg points: 4.29 - 4.58
+      Last 10 games: 5.0 - 5.0
+   Losing streak against nyy: 3
+      Losing streak away: 7
+
+
+   new-york-yankees
+   Season: -2 on downtrend
+   Home-Away: 15-12 home
+      Last 10 home games: 6-4
+   10 Games: 5-5
+      2 won out of 5 games | 40.0%
+   Avg points: 3.84 - 4.27
+      Last 10 games: 3.5 - 4.0
+   Winning streak against laa: 3
+      Winning streak home: 7
+
+   Winner: new-york-yankees | 12-6
+   ----------------------------------------
+
+
+   los-angeles-angels
+   Season: -5 on downtrend
+   Home-Away: 14-14 away
+      Last 10 away games: 5-5
+   10 Games: 5-5
+      8 won out of 22 games | 36.36363636363637%
+   Avg points: 4.31 - 4.56
+      Last 10 games: 5.4 - 4.59
+   Losing streak against nyy: 2
+      Losing streak away: 6
+
+
+   new-york-yankees
+   Season: -3 on downtrend
+   Home-Away: 14-12 home
+      Last 10 home games: 6-4
+   10 Games: 4-6
+      4 won out of 10 games | 40.0%
+   Avg points: 3.8 - 4.29
+      Last 10 games: 3.4 - 4.59
+   Winning streak against laa: 2
+      Winning streak home: 6
+
+   Winner: new-york-yankees | 6-3
+   ----------------------------------------
+
+
+   los-angeles-angels
+   Season: -4 on downtrend
+   Home-Away: 14-13 away
+      Last 10 away games: 6-4
+   10 Games: 5-5
+      8 won out of 21 games | 38.095238095238095%
+   Avg points: 4.35 - 4.55
+      Last 10 games: 6.1 - 5.6
+   Losing streak against nyy: 1
+      Losing streak away: 5
+
+
+   new-york-yankees
+   Season: -4 on downtrend
+   Home-Away: 13-12 home
+      Last 10 home games: 6-4
+   10 Games: 4-6
+      3 won out of 9 games | 33.33333333333333%
+   Avg points: 3.78 - 4.33
+      Last 10 games: 3.3 - 4.5
+   Winning streak against laa: 1
+      Winning streak home: 5
+
+   Winner: new-york-yankees | 5-2
+   ----------------------------------------
+
+
+   los-angeles-angels
+   Season: -5 on downtrend
+   Home-Away: 13-13 away
+      Last 10 away games: 6-4
+   10 Games: 4-6
+      6 won out of 9 games | 66.66666666666666%
+   Avg points: 4.34 - 4.56
+      Last 10 games: 5.7 - 5.6
+   Losing streak against pit: 1
+      Losing streak away: 1
+
+
+   pittsburgh-pirates
+   Season: 5 on downtrend
+   Home-Away: 16-10 home
+      Last 10 home games: 7-3
+   10 Games: 4-6
+      7 won out of 10 games | 70.0%
+   Avg points: 4.96 - 4.49
+      Last 10 games: 4.7 - 4.09
+   Winning streak against laa: 1
+      Winning streak home: 1
+
+   Winner: los-angeles-angels | 5-4
+   ----------------------------------------
+

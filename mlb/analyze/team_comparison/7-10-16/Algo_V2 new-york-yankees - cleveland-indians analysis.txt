@@ -1,0 +1,17 @@
+
+Date: 7-10-2016
+Away: new-york-yankees | Home: cleveland-indians
+Seasonal Record:      -54.85%
+Home Away:            -56.39%
+Home away 10:         -53.64%
+Last 10 games:        51.6%
+Avg points:           -59.6%
+Avg points 10:        51.27%
+Win streak home away: 50%
+--------
+Total: -57.99%
+--------
+Perc chance to win: 57.99%
+Favorable team odds: -138.03856224708403
+Underdog team odds: +138.03856224708403
+

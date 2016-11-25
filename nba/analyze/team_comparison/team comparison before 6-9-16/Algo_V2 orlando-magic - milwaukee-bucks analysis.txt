@@ -1,0 +1,16 @@
+
+Date: 4-1-2016
+Away: orlando-magic | Home: milwaukee-bucks
+Seasonal Record:      53.69%
+Home Away:            -76.35%
+Home away 10:         -59.94%
+Last 10 games:        51.0%
+Avg points:           51.77%
+Avg points 10:        58.11%
+--------
+Total: -68.14%
+--------
+Perc chance to win: 68.14%
+Favorable team odds: -213.87319522912742
+Underdog team odds: +213.87319522912742
+

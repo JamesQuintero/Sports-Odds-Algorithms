@@ -1,0 +1,12 @@
+---- Start output ----
+[23:01:45] Scraping game scores from http://espn.go.com/nhl/team/schedule/_/name/wpg/year/2015/winnipeg-jets
+[23:01:49] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[23:01:49] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[23:01:49] Loading existing data
+[23:01:49] Saving data to ./nhl/team_data/2015/winnipeg-jets.csv
+[23:01:49] Scraping game scores from http://espn.go.com/nhl/team/schedule/_/name/ana/year/2015/anaheim-ducks
+[23:01:52] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[23:01:52] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[23:01:52] Loading existing data
+[23:01:52] Saving data to ./nhl/team_data/2015/anaheim-ducks.csv
+

@@ -1,0 +1,17 @@
+
+Date: 4-11-2015
+Away: st-louis-blues | Home: anaheim-ducks
+Seasonal Record:      53.26%
+Home Away:            -50.4%
+Home away 10:         53.37%
+Last 10 games:        53.69%
+Avg points:           50.44%
+Avg points 10:        52.68%
+Win streak home away: -66.82%
+--------
+Total: -56.56%
+--------
+Perc chance to win: 56.56%
+Favorable team odds: -130.20257826887664
+Underdog team odds: +130.20257826887664
+

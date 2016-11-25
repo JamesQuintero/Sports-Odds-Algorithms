@@ -1,0 +1,17 @@
+
+Date: 6-29-2016
+Away: pittsburgh-pirates | Home: seattle-mariners
+Seasonal Record:      -52.03%
+Home Away:            -50.9%
+Home away 10:         -57.73%
+Last 10 games:        51.81%
+Avg points:           -56.65%
+Avg points 10:        -51.23%
+--------
+Total: -57.19%
+--------
+Perc chance to win: 57.19%
+Favorable team odds: -133.59028264424197
+Underdog team odds: +133.59028264424197
+
+Actual: +110, -130

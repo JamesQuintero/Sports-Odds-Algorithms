@@ -1,0 +1,16 @@
+
+Date: 4-19-2016
+Away: pittsburgh-penguins | Home: new-york-rangers
+Seasonal Record:      52.74%
+Home Away:            -56.72%
+Home away 10:         57.78%
+Last 10 games:        54.74%
+Avg points:           53.25%
+Avg points 10:        55.02%
+--------
+Total: 50.53%
+--------
+Perc chance to win: 50.53%
+Favorable team odds: -102.14271275520517
+Underdog team odds: +102.14271275520517
+

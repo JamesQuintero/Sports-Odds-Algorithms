@@ -1,0 +1,20 @@
+NBA Algorithm testing:
+
+A) Record
+B) Home away
+C) Home away 10 games
+D) Last 10 games
+E) Avg points
+F) Avg points 10 games
+G) Win streak
+H) Win streak home away
+
+
+A) Is important, and increasing record points leads to increasing chance of winning
+B) Is important, and increasing home away points leads to increasing chance of winning
+C) Is important, and increasing home away 10 games points leads to increasing chance of winning
+D) Is important, and increasing last 10 games points leads to increasing chance of winning
+E) Is important, and increasing avg points leads to increasing chance of winning
+F) Kind of important. Isn't consistent increase, few are significant, and tops at 80%. 
+G) Kind of important. Isn't consistent increase, few are significant, and tops at 80%. 
+H) Kind of important. Consistent increase, but tops at 75%. 

@@ -1,0 +1,104 @@
+
+Date: 7-16-2016
+Away: chicago-white-sox | Home: los-angeles-angels
+Seasonal Record:      54.63%
+Home Away:            52.01%
+Home away 10:         50.62%
+Last 10 games:        -51.81%
+Avg points:           50.69%
+Avg points 10:        -55.8%
+--------
+Total: -50.58%
+--------
+Perc chance to win: 50.58%
+Favorable team odds: -102.34722784297854
+Underdog team odds: +102.34722784297854
+
+
+Current interpretation of the variables: 
+Get the largest absolute numbers, and average their non-absolute values. 
+
+EX: (54.63 + -55.8)/2 = -50.59 (LA Angeles favored)
+
+Another way: 
+Subtract/Add 50 from all variables, add all positives together, add all negatives together, then take average. 
+
+EX: ( (4.63+2.01+0.62+0.69+0)  +  (-1.81-5.8) )/2 = ( 7.95 + -7.61)/2 = 50.17% (White Sox favored)
+
+Another way: 
+Subtract/Add 50 from all variables, add all positives together, take average, add all negatives together, take average, then add
+
+EX: ( (4.63+2.01+0.62+0.69+0)/4  +  (-1.81-5.8)/2 ) =  1.99 + -3.81 = -51.82 (LA Angeles favored)
+
+
+Another way: 
+(54.6/100 + 52/100 + 50.6/100 + 50.7/100) = 2.579
+(-51.8/100 - 55.8/100) = -1.076
+2.579 - 1.076 = 1.503
+Max is 5, so 1.503/5 =  30.06% = 65% vs 35%
+
+
+Another way: 
+(54.6 + 52 + 50.6 + 50.7 + 50)/5 = 51.58
+(-51.8 - 55.8) = -53.8
+1.58-3.8 = -2.22 * 100 = -22.2 = 22.2/2 + 50 = 61.1% (white sox favored)
+
+Way 4: Weighted,
+((54.63 * 1) + (78.32 * 3) + (54.02 * 1) + (58.04 * 1) + (75.72 * 3) + (53.23 * 1)) / (4+3+1+1+3+1)
+(350.44 + 234.69 + 54.02 + 58.04 + 227.16 + 53.23) / 6 = 162.93%
+(350.44 + 234.69 + 54.02 + 58.04 + 227.16 + 53.23) / 13 = 75.2%
+
+
+Way 5: 
+(4.63 + 2.01 + 0.62 + 0.69) = 7.95
+(-1.81-5.8) = -7.61
+7.95 + -7.61 = 0.34 / 4 = 0.085
+Take 0.085 off all 'away' percentages. The highest away percentage is used. 
+4.63 - 0.085
+
+-----------------------------------------------------------------------------------------
+Doesn't work with basketball: 
+
+
+Date: 4-16-2016
+Away: golden-state-warriors | Home: houston-rockets
+Seasonal Record:      87.61%
+Home Away:            78.32%
+Home away 10:         54.02%
+Last 10 games:        58.04%
+Avg points:           75.72%
+Avg points 10:        53.23%
+--------
+Total: 82.96%
+--------
+Perc chance to win: 82.96%
+Favorable team odds: -486.85446009389653
+Underdog team odds: +486.85446009389653
+
+
+
+Current interpretation of the variables: 
+Get the largest absolute numbers, and average their non-absolute values. 
+
+EX: (87.61 + 78.32)/2 = 82.97% (gs favored)
+
+Another way: 
+Subtract/Add 50 from all variables, add all positives together, add all negatives together, then take average. 
+
+EX: ( (37.61+28.32+4.02+8.04+25.72+3.23)  +  (0) )/2 = ( 106.94 )/2 + 50= 103.47% (HAHA gs favored)
+
+Another way: 
+Subtract/Add 50 from all variables, add all positives together, take average, add all negatives together, take average, then add
+
+EX: ( (37.61+28.32+4.02+8.04+25.72+3.23)/6  +  (0)/1 ) = 17.82 + 50 = 67.82% (gs favored)
+
+
+Another way: 
+(87/100 + 78/100 + 54/100 + 58/100 + 75/100 + 53/100) = 4.05
+4.05/6 = 67.5% = 83.75% vs 16.25%
+
+
+Way 4: Weighted,
+((87.61 * 4) + (78.32 * 3) + (54.02 * 1) + (58.04 * 1) + (75.72 * 3) + (53.23 * 1)) / (4+3+1+1+3+1)
+(350.44 + 234.69 + 54.02 + 58.04 + 227.16 + 53.23) / 6 = 162.93%
+(350.44 + 234.69 + 54.02 + 58.04 + 227.16 + 53.23) / 13 = 75.2%

@@ -1,0 +1,145 @@
+
+Date: 3-16-2016
+Away: oklahoma-city-thunder | Home: boston-celtics
+Seasonal Record:      59.58%
+Home Away:            -59.92%
+Home away 10:         -65.54%
+Last 10 games:        -56.04%
+Avg points:           53.61%
+Avg points 10:        -50.14%
+--------
+Total: -62.73%
+--------
+Perc chance to win: 62.73%
+Favorable team odds: -168.31231553528303
+Underdog team odds: +168.31231553528303
+
+
+Date: 3-16-2016
+Away: orlando-magic | Home: charlotte-hornets
+Seasonal Record:      -61.89%
+Home Away:            -80.2%
+Home away 10:         -70.85%
+Last 10 games:        -59.69%
+Avg points:           -57.78%
+Avg points 10:        -71.83%
+--------
+Total: -76.01%
+--------
+Perc chance to win: 76.01%
+Favorable team odds: -316.84035014589426
+Underdog team odds: +316.84035014589426
+
+
+Date: 3-16-2016
+Away: dallas-mavericks | Home: cleveland-cavaliers
+Seasonal Record:      -68.11%
+Home Away:            -78.32%
+Home away 10:         -65.54%
+Last 10 games:        -56.04%
+Avg points:           -64.5%
+Avg points 10:        -58.11%
+--------
+Total: -73.21%
+--------
+Perc chance to win: 73.21%
+Favorable team odds: -273.27360955580434
+Underdog team odds: +273.27360955580434
+
+
+Date: 3-16-2016
+Away: chicago-bulls | Home: washington-wizards
+Seasonal Record:      55.47%
+Home Away:            -61.25%
+Home away 10:         -70.85%
+Last 10 games:        -53.69%
+Avg points:           -54.78%
+Avg points 10:        -60.22%
+--------
+Total: -66.05%
+--------
+Perc chance to win: 66.05%
+Favorable team odds: -194.55081001472752
+Underdog team odds: +194.55081001472752
+
+
+Date: 3-16-2016
+Away: atlanta-hawks | Home: detroit-pistons
+Seasonal Record:      57.24%
+Home Away:            -61.25%
+Home away 10:         -58.7%
+Last 10 games:        53.69%
+Avg points:           53.9%
+Avg points 10:        64.26%
+--------
+Total: 51.5%
+--------
+Perc chance to win: 51.5%
+Favorable team odds: -106.18556701030926
+Underdog team odds: +106.18556701030926
+
+
+Date: 3-16-2016
+Away: minnesota-timberwolves | Home: memphis-grizzlies
+Seasonal Record:      -73.06%
+Home Away:            -82.85%
+Home away 10:         -65.54%
+Last 10 games:        -56.04%
+Avg points:           -53.17%
+Avg points 10:        50.19%
+--------
+Total: -77.95%
+--------
+Perc chance to win: 77.95%
+Favorable team odds: -353.51473922902505
+Underdog team odds: +353.51473922902505
+
+
+Date: 3-16-2016
+Away: los-angeles-clippers | Home: houston-rockets
+Seasonal Record:      62.46%
+Home Away:            55.81%
+Home away 10:         54.02%
+Last 10 games:        -53.69%
+Avg points:           57.72%
+Avg points 10:        -60.87%
+--------
+Total: 50.79%
+--------
+Perc chance to win: 50.79%
+Favorable team odds: -103.210729526519
+Underdog team odds: +103.210729526519
+
+
+Date: 3-16-2016
+Away: new-orleans-pelicans | Home: sacramento-kings
+Seasonal Record:      -54.88%
+Home Away:            -69.87%
+Home away 10:         -58.7%
+Last 10 games:        51.0%
+Avg points:           52.79%
+Avg points 10:        -50.14%
+--------
+Total: -64.28%
+--------
+Perc chance to win: 64.28%
+Favorable team odds: -179.9552071668533
+Underdog team odds: +179.9552071668533
+
+
+Date: 3-16-2016
+Away: new-york-knicks | Home: golden-state-warriors
+Seasonal Record:      -88.6%
+Home Away:            -91.88%
+Home away 10:         -80.56%
+Last 10 games:        -61.0%
+Avg points:           -81.08%
+Avg points 10:        -63.94%
+--------
+Total: -90.24%
+--------
+Perc chance to win: 90.24%
+Favorable team odds: -924.5901639344257
+Underdog team odds: +924.5901639344257
+
+

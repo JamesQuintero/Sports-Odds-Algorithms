@@ -1,0 +1,17 @@
+
+Date: 7-15-16
+Away: baltimore-orioles | Home: tampa-bay-rays
+Seasonal Record:      58.14%
+Home Away:            50.9%
+Home away 10:         51.99%
+Last 10 games:        53.04%
+Avg points:           59.07%
+Avg points 10:        51.69%
+Win streak home away: 50%
+--------
+Total: 58.6%
+--------
+Perc chance to win: 58.6%
+Favorable team odds: -141.54589371980677
+Underdog team odds: +141.54589371980677
+

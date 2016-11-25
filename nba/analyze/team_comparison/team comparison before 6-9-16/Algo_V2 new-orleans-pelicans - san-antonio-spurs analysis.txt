@@ -1,0 +1,16 @@
+
+Date: 3-30-2016
+Away: new-orleans-pelicans | Home: san-antonio-spurs
+Seasonal Record:      -90.07%
+Home Away:            -97.59%
+Home away 10:         -84.96%
+Last 10 games:        -61.0%
+Avg points:           -85.09%
+Avg points 10:        -70.86%
+--------
+Total: -93.83%
+--------
+Perc chance to win: 93.83%
+Favorable team odds: -1520.7455429497563
+Underdog team odds: +1520.7455429497563
+

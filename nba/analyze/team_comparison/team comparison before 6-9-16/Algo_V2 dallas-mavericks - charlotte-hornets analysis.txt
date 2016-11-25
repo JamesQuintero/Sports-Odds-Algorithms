@@ -1,0 +1,16 @@
+
+Date: 3-14-2016
+Away: dallas-mavericks | Home: charlotte-hornets
+Seasonal Record:      -57.83%
+Home Away:            -74.28%
+Home away 10:         -75.86%
+Last 10 games:        -59.69%
+Avg points:           -53.71%
+Avg points 10:        -59.25%
+--------
+Total: -75.06%
+--------
+Perc chance to win: 75.06%
+Favorable team odds: -300.96230954290303
+Underdog team odds: +300.96230954290303
+

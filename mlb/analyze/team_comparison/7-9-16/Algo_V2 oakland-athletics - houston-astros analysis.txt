@@ -1,0 +1,17 @@
+
+Date: 7-9-2016
+Away: oakland-athletics | Home: houston-astros
+Seasonal Record:      -55.51%
+Home Away:            -54.57%
+Home away 10:         -50.62%
+Last 10 games:        -54.06%
+Avg points:           -58.32%
+Avg points 10:        -53.12%
+Win streak home away: 50%
+--------
+Total: -56.91%
+--------
+Perc chance to win: 56.91%
+Favorable team odds: -132.07240659085633
+Underdog team odds: +132.07240659085633
+

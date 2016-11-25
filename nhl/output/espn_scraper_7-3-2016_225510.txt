@@ -1,0 +1,13 @@
+---- Start output ----
+[22:55:10] Scraping game scores from http://espn.go.com/nhl/team/schedule/_/name/wsh/year/2015/washington-capitals
+[22:55:11] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[22:55:11] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[22:55:11] Loading existing data
+[22:55:11] Saving data to ./nhl/team_data/2015/washington-capitals.csv
+[22:55:11] Scraping game scores from http://espn.go.com/nhl/team/schedule/_/name/nyr/year/2015/new-york-rangers
+[22:55:14] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[22:55:14] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[22:55:14] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[22:55:14] Loading existing data
+[22:55:14] Saving data to ./nhl/team_data/2015/new-york-rangers.csv
+

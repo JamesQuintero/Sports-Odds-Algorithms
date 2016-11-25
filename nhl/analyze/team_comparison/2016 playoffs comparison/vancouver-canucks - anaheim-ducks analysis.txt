@@ -1,0 +1,16 @@
+
+Date: 3-23-2016
+Away: vancouver-canucks | Home: anaheim-ducks
+Seasonal Record:      -61.23%
+Home Away:            -61.58%
+Home away 10:         -57.78%
+Last 10 games:        -53.2%
+Avg points:           -57.08%
+Avg points 10:        -54.21%
+--------
+Total: -61.4%
+--------
+Perc chance to win: 61.4%
+Favorable team odds: -159.06735751295335
+Underdog team odds: +159.06735751295335
+

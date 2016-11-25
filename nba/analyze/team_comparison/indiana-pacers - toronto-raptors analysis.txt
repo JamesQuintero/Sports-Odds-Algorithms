@@ -1,0 +1,16 @@
+
+Date: 4-16-2016
+Away: indiana-pacers | Home: toronto-raptors
+Seasonal Record:      -65.31%
+Home Away:            -81.99%
+Home away 10:         -59.94%
+Last 10 games:        -53.69%
+Avg points:           -53.43%
+Avg points 10:        -52.75%
+--------
+Total: -73.65%
+--------
+Perc chance to win: 73.65%
+Favorable team odds: -279.50664136622396
+Underdog team odds: +279.50664136622396
+

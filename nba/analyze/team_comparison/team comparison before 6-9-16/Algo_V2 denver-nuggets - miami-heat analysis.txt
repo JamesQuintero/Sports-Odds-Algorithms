@@ -1,0 +1,16 @@
+
+Date: 3-14-2016
+Away: denver-nuggets | Home: miami-heat
+Seasonal Record:      -64.17%
+Home Away:            -71.01%
+Home away 10:         -54.02%
+Last 10 games:        51.0%
+Avg points:           -54.52%
+Avg points 10:        50.03%
+--------
+Total: -67.59%
+--------
+Perc chance to win: 67.59%
+Favorable team odds: -208.54674483184206
+Underdog team odds: +208.54674483184206
+

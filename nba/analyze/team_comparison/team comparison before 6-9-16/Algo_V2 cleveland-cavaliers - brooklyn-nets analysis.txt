@@ -1,0 +1,16 @@
+
+Date: 3-24-2016
+Away: cleveland-cavaliers | Home: brooklyn-nets
+Seasonal Record:      87.11%
+Home Away:            74.28%
+Home away 10:         -52.19%
+Last 10 games:        61.0%
+Avg points:           79.74%
+Avg points 10:        67.81%
+--------
+Total: 83.42%
+--------
+Perc chance to win: 83.42%
+Favorable team odds: -503.13630880579024
+Underdog team odds: +503.13630880579024
+

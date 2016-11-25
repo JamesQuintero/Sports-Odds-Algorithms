@@ -1,0 +1,16 @@
+
+Date: 3-24-2016
+Away: new-orleans-pelicans | Home: indiana-pacers
+Seasonal Record:      -65.31%
+Home Away:            -81.99%
+Home away 10:         -54.02%
+Last 10 games:        -58.04%
+Avg points:           -59.34%
+Avg points 10:        -56.97%
+--------
+Total: -73.65%
+--------
+Perc chance to win: 73.65%
+Favorable team odds: -279.50664136622396
+Underdog team odds: +279.50664136622396
+

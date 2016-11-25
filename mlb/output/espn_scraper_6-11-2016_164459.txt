@@ -1,0 +1,1144 @@
+---- Start output ----
+[16:44:59] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:44:59] Date: 4-4-2016
+[16:44:59] Old date: 4-4-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 4-5-2016
+[16:44:59] Old date: 4-5-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360404103
+[16:44:59] Date: 4-7-2016
+[16:44:59] Old date: 4-7-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360405103
+[16:44:59] Date: 4-8-2016
+[16:44:59] Old date: 4-8-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360407103
+[16:44:59] Date: 4-9-2016
+[16:44:59] Old date: 4-9-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360408103
+[16:44:59] Date: 4-10-2016
+[16:44:59] Old date: 4-10-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360409103
+[16:44:59] Date: 4-11-2016
+[16:44:59] Old date: 4-11-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360410103
+[16:44:59] Date: 4-12-2016
+[16:44:59] Old date: 4-12-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360411111
+[16:44:59] Date: 4-13-2016
+[16:44:59] Old date: 4-13-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360412111
+[16:44:59] Date: 4-15-2016
+[16:44:59] Old date: 4-15-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360413111
+[16:44:59] Date: 4-16-2016
+[16:44:59] Old date: 4-16-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360415109
+[16:44:59] Date: 4-17-2016
+[16:44:59] Old date: 4-17-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360416109
+[16:44:59] Date: 4-18-2016
+[16:44:59] Old date: 4-18-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360417109
+[16:44:59] Date: 4-19-2016
+[16:44:59] Old date: 4-19-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360418104
+[16:44:59] Date: 4-20-2016
+[16:44:59] Old date: 4-20-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360419104
+[16:44:59] Date: 4-21-2016
+[16:44:59] Old date: 4-21-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360420104
+[16:44:59] Date: 4-22-2016
+[16:44:59] Old date: 4-22-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360421104
+[16:44:59] Date: 4-23-2016
+[16:44:59] Old date: 4-23-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360422103
+[16:44:59] Date: 4-24-2016
+[16:44:59] Old date: 4-24-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360423103
+[16:44:59] Date: 4-25-2016
+[16:44:59] Old date: 4-25-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360424103
+[16:44:59] Date: 4-26-2016
+[16:44:59] Old date: 4-26-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360425103
+[16:44:59] Date: 4-27-2016
+[16:44:59] Old date: 4-27-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360426103
+[16:44:59] Date: 4-29-2016
+[16:44:59] Old date: 4-29-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360427103
+[16:44:59] Date: 4-30-2016
+[16:44:59] Old date: 4-30-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360429113
+[16:44:59] Date: 5-1-2016
+[16:44:59] Old date: 5-1-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360430113
+[16:44:59] Date: 5-2-2016
+[16:44:59] Old date: 5-2-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360501113
+[16:44:59] Date: 5-3-2016
+[16:44:59] Old date: 5-3-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360502108
+[16:44:59] Date: 5-4-2016
+[16:44:59] Old date: 5-4-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360503108
+[16:44:59] Date: 5-6-2016
+[16:44:59] Old date: 5-6-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360504108
+[16:44:59] Date: 5-7-2016
+[16:44:59] Old date: 5-7-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360506103
+[16:44:59] Date: 5-8-2016
+[16:44:59] Old date: 5-8-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360507103
+[16:44:59] Date: 5-10-2016
+[16:44:59] Old date: 5-10-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360508103
+[16:44:59] Date: 5-11-2016
+[16:44:59] Old date: 5-11-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360510103
+[16:44:59] Date: 5-12-2016
+[16:44:59] Old date: 5-12-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360511103
+[16:44:59] Date: 5-13-2016
+[16:44:59] Old date: 5-13-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360512103
+[16:44:59] Date: 5-14-2016
+[16:44:59] Old date: 5-14-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360513112
+[16:44:59] Date: 5-15-2016
+[16:44:59] Old date: 5-15-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360514112
+[16:44:59] Date: 5-16-2016
+[16:44:59] Old date: 5-16-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360515112
+[16:44:59] Date: 5-17-2016
+[16:44:59] Old date: 5-17-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360516119
+[16:44:59] Date: 5-18-2016
+[16:44:59] Old date: 5-18-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360517119
+[16:44:59] Date: 5-19-2016
+[16:44:59] Old date: 5-19-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360518103
+[16:44:59] Date: 5-20-2016
+[16:44:59] Old date: 5-20-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360519103
+[16:44:59] Date: 5-21-2016
+[16:44:59] Old date: 5-21-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360520103
+[16:44:59] Date: 5-22-2016
+[16:44:59] Old date: 5-22-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360521103
+[16:44:59] Date: 5-23-2016
+[16:44:59] Old date: 5-23-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360522103
+[16:44:59] Date: 5-24-2016
+[16:44:59] Old date: 5-24-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360523113
+[16:44:59] Date: 5-25-2016
+[16:44:59] Old date: 5-25-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360524113
+[16:44:59] Date: 5-27-2016
+[16:44:59] Old date: 5-27-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360525113
+[16:44:59] Date: 5-28-2016
+[16:44:59] Old date: 5-28-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360527103
+[16:44:59] Date: 5-29-2016
+[16:44:59] Old date: 5-29-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360528103
+[16:44:59] Date: 5-30-2016
+[16:44:59] Old date: 5-30-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360529103
+[16:44:59] Date: 5-31-2016
+[16:44:59] Old date: 5-31-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360530103
+[16:44:59] Date: 6-1-2016
+[16:44:59] Old date: 6-1-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360531103
+[16:44:59] Date: 6-3-2016
+[16:44:59] Old date: 6-3-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360601103
+[16:44:59] Date: 6-4-2016
+[16:44:59] Old date: 6-4-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360603123
+[16:44:59] Date: 6-5-2016
+[16:44:59] Old date: 6-5-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360604123
+[16:44:59] Date: 6-6-2016
+[16:44:59] Old date: 6-6-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360605123
+[16:44:59] Date: 6-7-2016
+[16:44:59] Old date: 6-7-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360606110
+[16:44:59] Date: 6-8-2016
+[16:44:59] Old date: 6-8-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360607110
+[16:44:59] Date: 6-9-2016
+[16:44:59] Old date: 6-9-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360608110
+[16:44:59] Date: 6-10-2016
+[16:44:59] Old date: 6-10-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360609110
+[16:44:59] Date: 6-11-2016
+[16:44:59] Old date: 6-11-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] Game link: http://espn.go.com/mlb/recap?id=360610103
+[16:44:59] Date: 6-12-2016
+[16:44:59] Old date: 6-12-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 6-13-2016
+[16:44:59] Old date: 6-13-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 6-14-2016
+[16:44:59] Old date: 6-14-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 6-15-2016
+[16:44:59] Old date: 6-15-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 6-17-2016
+[16:44:59] Old date: 6-17-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 6-18-2016
+[16:44:59] Old date: 6-18-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 6-19-2016
+[16:44:59] Old date: 6-19-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 6-20-2016
+[16:44:59] Old date: 6-20-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 6-21-2016
+[16:44:59] Old date: 6-21-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 6-22-2016
+[16:44:59] Old date: 6-22-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 6-23-2016
+[16:44:59] Old date: 6-23-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 6-24-2016
+[16:44:59] Old date: 6-24-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 6-25-2016
+[16:44:59] Old date: 6-25-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 6-26-2016
+[16:44:59] Old date: 6-26-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 6-27-2016
+[16:44:59] Old date: 6-27-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 6-28-2016
+[16:44:59] Old date: 6-28-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 6-29-2016
+[16:44:59] Old date: 6-29-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 7-1-2016
+[16:44:59] Old date: 7-1-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 7-2-2016
+[16:44:59] Old date: 7-2-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 7-3-2016
+[16:44:59] Old date: 7-3-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 7-4-2016
+[16:44:59] Old date: 7-4-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 7-5-2016
+[16:44:59] Old date: 7-5-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 7-6-2016
+[16:44:59] Old date: 7-6-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 7-7-2016
+[16:44:59] Old date: 7-7-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 7-8-2016
+[16:44:59] Old date: 7-8-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 7-9-2016
+[16:44:59] Old date: 7-9-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] Date: 7-10-2016
+[16:44:59] Old date: 7-10-2016
+[16:44:59] String to find: <li class="score"><a href="
+[16:44:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:44:59] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[16:44:59] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/2/los-angeles-angels
+[16:45:00] Date: 7-15-2016
+[16:45:00] Old date: 7-15-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 7-16-2016
+[16:45:00] Old date: 7-16-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 7-17-2016
+[16:45:00] Old date: 7-17-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 7-18-2016
+[16:45:00] Old date: 7-18-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 7-19-2016
+[16:45:00] Old date: 7-19-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 7-20-2016
+[16:45:00] Old date: 7-20-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 7-22-2016
+[16:45:00] Old date: 7-22-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 7-23-2016
+[16:45:00] Old date: 7-23-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 7-24-2016
+[16:45:00] Old date: 7-24-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 7-25-2016
+[16:45:00] Old date: 7-25-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 7-26-2016
+[16:45:00] Old date: 7-26-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 7-27-2016
+[16:45:00] Old date: 7-27-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 7-28-2016
+[16:45:00] Old date: 7-28-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 7-29-2016
+[16:45:00] Old date: 7-29-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 7-30-2016
+[16:45:00] Old date: 7-30-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 7-31-2016
+[16:45:00] Old date: 7-31-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-2-2016
+[16:45:00] Old date: 8-2-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-3-2016
+[16:45:00] Old date: 8-3-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-4-2016
+[16:45:00] Old date: 8-4-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-5-2016
+[16:45:00] Old date: 8-5-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-6-2016
+[16:45:00] Old date: 8-6-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-7-2016
+[16:45:00] Old date: 8-7-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-9-2016
+[16:45:00] Old date: 8-9-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-10-2016
+[16:45:00] Old date: 8-10-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-11-2016
+[16:45:00] Old date: 8-11-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-12-2016
+[16:45:00] Old date: 8-12-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-13-2016
+[16:45:00] Old date: 8-13-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-14-2016
+[16:45:00] Old date: 8-14-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-15-2016
+[16:45:00] Old date: 8-15-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-16-2016
+[16:45:00] Old date: 8-16-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-17-2016
+[16:45:00] Old date: 8-17-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-18-2016
+[16:45:00] Old date: 8-18-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-19-2016
+[16:45:00] Old date: 8-19-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-20-2016
+[16:45:00] Old date: 8-20-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-21-2016
+[16:45:00] Old date: 8-21-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-23-2016
+[16:45:00] Old date: 8-23-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-24-2016
+[16:45:00] Old date: 8-24-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-25-2016
+[16:45:00] Old date: 8-25-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-26-2016
+[16:45:00] Old date: 8-26-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-27-2016
+[16:45:00] Old date: 8-27-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-28-2016
+[16:45:00] Old date: 8-28-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-29-2016
+[16:45:00] Old date: 8-29-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-30-2016
+[16:45:00] Old date: 8-30-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 8-31-2016
+[16:45:00] Old date: 8-31-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-2-2016
+[16:45:00] Old date: 9-2-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-3-2016
+[16:45:00] Old date: 9-3-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-4-2016
+[16:45:00] Old date: 9-4-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-5-2016
+[16:45:00] Old date: 9-5-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-6-2016
+[16:45:00] Old date: 9-6-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-7-2016
+[16:45:00] Old date: 9-7-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-9-2016
+[16:45:00] Old date: 9-9-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-10-2016
+[16:45:00] Old date: 9-10-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-11-2016
+[16:45:00] Old date: 9-11-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-12-2016
+[16:45:00] Old date: 9-12-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-13-2016
+[16:45:00] Old date: 9-13-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-14-2016
+[16:45:00] Old date: 9-14-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-15-2016
+[16:45:00] Old date: 9-15-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-16-2016
+[16:45:00] Old date: 9-16-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-17-2016
+[16:45:00] Old date: 9-17-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-18-2016
+[16:45:00] Old date: 9-18-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-19-2016
+[16:45:00] Old date: 9-19-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-20-2016
+[16:45:00] Old date: 9-20-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-21-2016
+[16:45:00] Old date: 9-21-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-22-2016
+[16:45:00] Old date: 9-22-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-23-2016
+[16:45:00] Old date: 9-23-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-24-2016
+[16:45:00] Old date: 9-24-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-25-2016
+[16:45:00] Old date: 9-25-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-26-2016
+[16:45:00] Old date: 9-26-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-27-2016
+[16:45:00] Old date: 9-27-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-28-2016
+[16:45:00] Old date: 9-28-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 9-30-2016
+[16:45:00] Old date: 9-30-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 10-1-2016
+[16:45:00] Old date: 10-1-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] Date: 10-2-2016
+[16:45:00] Old date: 10-2-2016
+[16:45:00] String to find: <li class="score"><a href="
+[16:45:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:45:00] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[16:45:00] Loading existing data
+[16:45:00] Returned 4-4-2016's game results
+[16:45:00] Scraping 4-4-2016's period data: http://espn.go.com/mlb/playbyplay?id=360404103
+[16:45:02] Game url: http://espn.go.com/mlb/playbyplay?id=360404103
+[16:45:02] Team1: chc | Team2: laa
+[16:45:02] Cur team: laa | los-angeles-angels
+[16:45:02] Other team: chc
+[16:45:02] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:02] Scores: [['http://espn.go.com/mlb/team/_/name/chc/chicago-cubs">CHC</a>', '1', '0', '0', '2', '0', '2', '1', '0', '3'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '0', '0', '0', '0', '0', '0']]
+[16:45:02] Returned 4-5-2016's game results
+[16:45:02] Scraping 4-5-2016's period data: http://espn.go.com/mlb/playbyplay?id=360405103
+[16:45:03] Game url: http://espn.go.com/mlb/playbyplay?id=360405103
+[16:45:03] Team1: chc | Team2: laa
+[16:45:03] Cur team: laa | los-angeles-angels
+[16:45:03] Other team: chc
+[16:45:03] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:03] Scores: [['http://espn.go.com/mlb/team/_/name/chc/chicago-cubs">CHC</a>', '0', '0', '4', '0', '0', '0', '2', '0', '0'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '0', '0', '1', '0', '0', '0']]
+[16:45:03] Returned 4-7-2016's game results
+[16:45:03] Scraping 4-7-2016's period data: http://espn.go.com/mlb/playbyplay?id=360407103
+[16:45:05] Game url: http://espn.go.com/mlb/playbyplay?id=360407103
+[16:45:05] Team1: tex | Team2: laa
+[16:45:05] Cur team: laa | los-angeles-angels
+[16:45:05] Other team: tex
+[16:45:05] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:05] Scores: [['http://espn.go.com/mlb/team/_/name/tex/texas-rangers">TEX</a>', '1', '0', '1', '0', '0', '0', '1', '0', '0'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '1', '0', '2', '0', '0', '0', '1']]
+[16:45:05] Returned 4-8-2016's game results
+[16:45:05] Scraping 4-8-2016's period data: http://espn.go.com/mlb/playbyplay?id=360408103
+[16:45:07] Game url: http://espn.go.com/mlb/playbyplay?id=360408103
+[16:45:07] Team1: tex | Team2: laa
+[16:45:07] Cur team: laa | los-angeles-angels
+[16:45:07] Other team: tex
+[16:45:07] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:07] Scores: [['http://espn.go.com/mlb/team/_/name/tex/texas-rangers">TEX</a>', '3', '0', '2', '1', '0', '0', '1', '0', '0'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '1', '1', '1', '0', '0', '0', '0', '0']]
+[16:45:07] Returned 4-9-2016's game results
+[16:45:07] Scraping 4-9-2016's period data: http://espn.go.com/mlb/playbyplay?id=360409103
+[16:45:08] Game url: http://espn.go.com/mlb/playbyplay?id=360409103
+[16:45:08] Team1: tex | Team2: laa
+[16:45:08] Cur team: laa | los-angeles-angels
+[16:45:08] Other team: tex
+[16:45:08] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:08] Scores: [['http://espn.go.com/mlb/team/_/name/tex/texas-rangers">TEX</a>', '1', '0', '0', '1', '0', '0', '2', '0', '0'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '1', '0', '0', '0', '0', '0', '0', '0', '0']]
+[16:45:08] Returned 4-10-2016's game results
+[16:45:08] Scraping 4-10-2016's period data: http://espn.go.com/mlb/playbyplay?id=360410103
+[16:45:10] Game url: http://espn.go.com/mlb/playbyplay?id=360410103
+[16:45:10] Team1: tex | Team2: laa
+[16:45:10] Cur team: laa | los-angeles-angels
+[16:45:10] Other team: tex
+[16:45:10] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:10] Scores: [['http://espn.go.com/mlb/team/_/name/tex/texas-rangers">TEX</a>', '0', '0', '0', '0', '1', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '2', '0', '0', '0', '1', '0', '-']]
+[16:45:10] Returned 4-11-2016's game results
+[16:45:10] Scraping 4-11-2016's period data: http://espn.go.com/mlb/playbyplay?id=360411111
+[16:45:11] Game url: http://espn.go.com/mlb/playbyplay?id=360411111
+[16:45:11] Team1: laa | Team2: oak
+[16:45:11] Cur team: laa | los-angeles-angels
+[16:45:11] Other team: oak
+[16:45:11] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:11] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '0', '0', '3', '0', '1', '0'], ['http://espn.go.com/mlb/team/_/name/oak/oakland-athletics">OAK</a>', '0', '0', '0', '0', '0', '0', '0', '0', '1']]
+[16:45:11] Returned 4-12-2016's game results
+[16:45:11] Scraping 4-12-2016's period data: http://espn.go.com/mlb/playbyplay?id=360412111
+[16:45:13] Game url: http://espn.go.com/mlb/playbyplay?id=360412111
+[16:45:13] Team1: laa | Team2: oak
+[16:45:13] Cur team: laa | los-angeles-angels
+[16:45:13] Other team: oak
+[16:45:13] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:13] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '1', '0', '0', '0', '0', '0', '2', '2'], ['http://espn.go.com/mlb/team/_/name/oak/oakland-athletics">OAK</a>', '1', '0', '2', '0', '0', '0', '1', '0', '0']]
+[16:45:13] Returned 4-13-2016's game results
+[16:45:13] Scraping 4-13-2016's period data: http://espn.go.com/mlb/playbyplay?id=360413111
+[16:45:15] Game url: http://espn.go.com/mlb/playbyplay?id=360413111
+[16:45:15] Team1: laa | Team2: oak
+[16:45:15] Cur team: laa | los-angeles-angels
+[16:45:15] Other team: oak
+[16:45:15] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:15] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '1', '0', '1', '0', '0', '1', '2'], ['http://espn.go.com/mlb/team/_/name/oak/oakland-athletics">OAK</a>', '0', '0', '0', '0', '0', '0', '0', '1', '0']]
+[16:45:15] Returned 4-15-2016's game results
+[16:45:15] Scraping 4-15-2016's period data: http://espn.go.com/mlb/playbyplay?id=360415109
+[16:45:17] Game url: http://espn.go.com/mlb/playbyplay?id=360415109
+[16:45:17] Team1: laa | Team2: min
+[16:45:17] Cur team: laa | los-angeles-angels
+[16:45:17] Other team: min
+[16:45:17] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:17] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '0', '0', '1', '3', '0', '0'], ['http://espn.go.com/mlb/team/_/name/min/minnesota-twins">MIN</a>', '0', '0', '0', '0', '0', '2', '2', '1', '-']]
+[16:45:17] Returned 4-16-2016's game results
+[16:45:17] Scraping 4-16-2016's period data: http://espn.go.com/mlb/playbyplay?id=360416109
+[16:45:18] Game url: http://espn.go.com/mlb/playbyplay?id=360416109
+[16:45:18] Team1: laa | Team2: min
+[16:45:18] Cur team: laa | los-angeles-angels
+[16:45:18] Other team: min
+[16:45:18] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:18] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '4', '0', '0', '0', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/min/minnesota-twins">MIN</a>', '2', '0', '1', '0', '1', '0', '0', '2', '-']]
+[16:45:18] Returned 4-17-2016's game results
+[16:45:18] Scraping 4-17-2016's period data: http://espn.go.com/mlb/playbyplay?id=360417109
+[16:45:20] Game url: http://espn.go.com/mlb/playbyplay?id=360417109
+[16:45:20] Team1: laa | Team2: min
+[16:45:20] Cur team: laa | los-angeles-angels
+[16:45:20] Other team: min
+[16:45:20] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:20] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/min/minnesota-twins">MIN</a>', '0', '0', '1', '0', '0', '0', '1', '0', '0', '0', '1']]
+[16:45:20] Returned 4-18-2016's game results
+[16:45:20] Scraping 4-18-2016's period data: http://espn.go.com/mlb/playbyplay?id=360418104
+[16:45:22] Game url: http://espn.go.com/mlb/playbyplay?id=360418104
+[16:45:22] Team1: laa | Team2: chw
+[16:45:22] Cur team: laa | los-angeles-angels
+[16:45:22] Other team: chw
+[16:45:22] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:22] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '5', '0', '1', '0', '0', '0', '0', '1', '0'], ['http://espn.go.com/mlb/team/_/name/chw/chicago-white-sox">CHW</a>', '0', '0', '0', '0', '0', '0', '0', '0', '0']]
+[16:45:22] Returned 4-19-2016's game results
+[16:45:22] Scraping 4-19-2016's period data: http://espn.go.com/mlb/playbyplay?id=360419104
+[16:45:24] Game url: http://espn.go.com/mlb/playbyplay?id=360419104
+[16:45:24] Team1: laa | Team2: chw
+[16:45:24] Cur team: laa | los-angeles-angels
+[16:45:24] Other team: chw
+[16:45:24] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:24] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '0', '0', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/chw/chicago-white-sox">CHW</a>', '0', '1', '0', '1', '0', '0', '0', '3', '-']]
+[16:45:24] Returned 4-20-2016's game results
+[16:45:24] Scraping 4-20-2016's period data: http://espn.go.com/mlb/playbyplay?id=360420104
+[16:45:26] Game url: http://espn.go.com/mlb/playbyplay?id=360420104
+[16:45:26] Team1: laa | Team2: chw
+[16:45:26] Cur team: laa | los-angeles-angels
+[16:45:26] Other team: chw
+[16:45:26] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:26] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '0', '0', '0', '0', '1', '0'], ['http://espn.go.com/mlb/team/_/name/chw/chicago-white-sox">CHW</a>', '1', '0', '0', '0', '1', '0', '0', '0', '-']]
+[16:45:26] Returned 4-21-2016's game results
+[16:45:26] Scraping 4-21-2016's period data: http://espn.go.com/mlb/playbyplay?id=360421104
+[16:45:27] Game url: http://espn.go.com/mlb/playbyplay?id=360421104
+[16:45:27] Team1: laa | Team2: chw
+[16:45:27] Cur team: laa | los-angeles-angels
+[16:45:27] Other team: chw
+[16:45:27] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:27] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '0', '2', '0', '0', '0', '1'], ['http://espn.go.com/mlb/team/_/name/chw/chicago-white-sox">CHW</a>', '0', '0', '0', '0', '0', '0', '1', '0', '1']]
+[16:45:27] Returned 4-22-2016's game results
+[16:45:27] Scraping 4-22-2016's period data: http://espn.go.com/mlb/playbyplay?id=360422103
+[16:45:29] Game url: http://espn.go.com/mlb/playbyplay?id=360422103
+[16:45:29] Team1: sea | Team2: laa
+[16:45:29] Cur team: laa | los-angeles-angels
+[16:45:29] Other team: sea
+[16:45:29] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:29] Scores: [['http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">SEA</a>', '2', '0', '0', '0', '0', '0', '0', '0', '0', '3'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '1', '1', '0', '0', '0', '0', '0']]
+[16:45:29] Returned 4-23-2016's game results
+[16:45:29] Scraping 4-23-2016's period data: http://espn.go.com/mlb/playbyplay?id=360423103
+[16:45:30] Game url: http://espn.go.com/mlb/playbyplay?id=360423103
+[16:45:30] Team1: sea | Team2: laa
+[16:45:30] Cur team: laa | los-angeles-angels
+[16:45:30] Other team: sea
+[16:45:30] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:30] Scores: [['http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">SEA</a>', '0', '1', '0', '0', '0', '1', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '1', '0', '0', '2', '0', '1', '-']]
+[16:45:30] Returned 4-24-2016's game results
+[16:45:30] Scraping 4-24-2016's period data: http://espn.go.com/mlb/playbyplay?id=360424103
+[16:45:32] Game url: http://espn.go.com/mlb/playbyplay?id=360424103
+[16:45:32] Team1: sea | Team2: laa
+[16:45:32] Cur team: laa | los-angeles-angels
+[16:45:32] Other team: sea
+[16:45:32] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:32] Scores: [['http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">SEA</a>', '4', '0', '0', '3', '0', '0', '0', '0', '2'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '3', '0', '0', '0', '0', '0', '0', '1', '0']]
+[16:45:32] Returned 4-25-2016's game results
+[16:45:32] Scraping 4-25-2016's period data: http://espn.go.com/mlb/playbyplay?id=360425103
+[16:45:33] Game url: http://espn.go.com/mlb/playbyplay?id=360425103
+[16:45:33] Team1: kc | Team2: laa
+[16:45:33] Cur team: laa | los-angeles-angels
+[16:45:33] Other team: kc
+[16:45:33] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:33] Scores: [['http://espn.go.com/mlb/team/_/name/kc/kansas-city-royals">KC</a>', '0', '0', '0', '1', '0', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '3', '0', '1', '0', '1', '0', '1', '0', '-']]
+[16:45:33] Returned 4-26-2016's game results
+[16:45:33] Scraping 4-26-2016's period data: http://espn.go.com/mlb/playbyplay?id=360426103
+[16:45:34] Game url: http://espn.go.com/mlb/playbyplay?id=360426103
+[16:45:34] Team1: kc | Team2: laa
+[16:45:34] Cur team: laa | los-angeles-angels
+[16:45:34] Other team: kc
+[16:45:34] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:34] Scores: [['http://espn.go.com/mlb/team/_/name/kc/kansas-city-royals">KC</a>', '1', '1', '0', '2', '0', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '3', '0', '0', '5', '0', '1', '0', '-']]
+[16:45:34] Returned 4-27-2016's game results
+[16:45:34] Scraping 4-27-2016's period data: http://espn.go.com/mlb/playbyplay?id=360427103
+[16:45:36] Game url: http://espn.go.com/mlb/playbyplay?id=360427103
+[16:45:36] Team1: kc | Team2: laa
+[16:45:36] Cur team: laa | los-angeles-angels
+[16:45:36] Other team: kc
+[16:45:36] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:36] Scores: [['http://espn.go.com/mlb/team/_/name/kc/kansas-city-royals">KC</a>', '2', '0', '0', '0', '0', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '2', '0', '1', '1', '0', '-']]
+[16:45:36] Returned 4-29-2016's game results
+[16:45:36] Scraping 4-29-2016's period data: http://espn.go.com/mlb/playbyplay?id=360429113
+[16:45:37] Game url: http://espn.go.com/mlb/playbyplay?id=360429113
+[16:45:37] Team1: laa | Team2: tex
+[16:45:37] Cur team: laa | los-angeles-angels
+[16:45:37] Other team: tex
+[16:45:37] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:37] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '1', '1', '0', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/tex/texas-rangers">TEX</a>', '0', '0', '0', '0', '1', '3', '0', '0', '-']]
+[16:45:37] Returned 4-30-2016's game results
+[16:45:37] Scraping 4-30-2016's period data: http://espn.go.com/mlb/playbyplay?id=360430113
+[16:45:39] Game url: http://espn.go.com/mlb/playbyplay?id=360430113
+[16:45:39] Team1: laa | Team2: tex
+[16:45:39] Cur team: laa | los-angeles-angels
+[16:45:39] Other team: tex
+[16:45:39] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:39] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '0', '0', '0', '0', '0', '2'], ['http://espn.go.com/mlb/team/_/name/tex/texas-rangers">TEX</a>', '1', '0', '6', '0', '0', '0', '0', '0', '-']]
+[16:45:39] Returned 5-1-2016's game results
+[16:45:39] Scraping 5-1-2016's period data: http://espn.go.com/mlb/playbyplay?id=360501113
+[16:45:40] Game url: http://espn.go.com/mlb/playbyplay?id=360501113
+[16:45:40] Team1: laa | Team2: tex
+[16:45:40] Cur team: laa | los-angeles-angels
+[16:45:40] Other team: tex
+[16:45:40] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:40] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '1', '0', '3', '1', '0', '3', '1'], ['http://espn.go.com/mlb/team/_/name/tex/texas-rangers">TEX</a>', '0', '1', '0', '3', '0', '0', '0', '0', '2']]
+[16:45:40] Returned 5-2-2016's game results
+[16:45:40] Scraping 5-2-2016's period data: http://espn.go.com/mlb/playbyplay?id=360502108
+[16:45:42] Game url: http://espn.go.com/mlb/playbyplay?id=360502108
+[16:45:42] Team1: laa | Team2: mil
+[16:45:42] Cur team: laa | los-angeles-angels
+[16:45:42] Other team: mil
+[16:45:42] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:42] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '1', '0', '0', '0', '0', '1', '0', '2', '1'], ['http://espn.go.com/mlb/team/_/name/mil/milwaukee-brewers">MIL</a>', '0', '0', '0', '0', '4', '4', '0', '0', '-']]
+[16:45:42] Returned 5-3-2016's game results
+[16:45:42] Scraping 5-3-2016's period data: http://espn.go.com/mlb/playbyplay?id=360503108
+[16:45:43] Game url: http://espn.go.com/mlb/playbyplay?id=360503108
+[16:45:43] Team1: laa | Team2: mil
+[16:45:43] Cur team: laa | los-angeles-angels
+[16:45:43] Other team: mil
+[16:45:43] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:43] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '1', '0', '3', '0', '0', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/mil/milwaukee-brewers">MIL</a>', '0', '0', '2', '0', '3', '0', '0', '0', '-']]
+[16:45:43] Returned 5-4-2016's game results
+[16:45:43] Scraping 5-4-2016's period data: http://espn.go.com/mlb/playbyplay?id=360504108
+[16:45:45] Game url: http://espn.go.com/mlb/playbyplay?id=360504108
+[16:45:45] Team1: laa | Team2: mil
+[16:45:45] Cur team: laa | los-angeles-angels
+[16:45:45] Other team: mil
+[16:45:45] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:45] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '2', '0', '0', '0', '0', '4', '1'], ['http://espn.go.com/mlb/team/_/name/mil/milwaukee-brewers">MIL</a>', '0', '1', '0', '0', '1', '1', '0', '0', '0']]
+[16:45:45] Returned 5-6-2016's game results
+[16:45:45] Scraping 5-6-2016's period data: http://espn.go.com/mlb/playbyplay?id=360506103
+[16:45:47] Game url: http://espn.go.com/mlb/playbyplay?id=360506103
+[16:45:47] Team1: tb | Team2: laa
+[16:45:47] Cur team: laa | los-angeles-angels
+[16:45:47] Other team: tb
+[16:45:47] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:47] Scores: [['http://espn.go.com/mlb/team/_/name/tb/tampa-bay-rays">TB</a>', '4', '0', '1', '0', '0', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '0', '0', '0', '1', '1', '0']]
+[16:45:47] Returned 5-7-2016's game results
+[16:45:47] Scraping 5-7-2016's period data: http://espn.go.com/mlb/playbyplay?id=360507103
+[16:45:48] Game url: http://espn.go.com/mlb/playbyplay?id=360507103
+[16:45:48] Team1: tb | Team2: laa
+[16:45:48] Cur team: laa | los-angeles-angels
+[16:45:48] Other team: tb
+[16:45:48] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:48] Scores: [['http://espn.go.com/mlb/team/_/name/tb/tampa-bay-rays">TB</a>', '0', '0', '0', '0', '0', '2', '0', '0', '2'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '0', '2', '0', '0', '0', '0']]
+[16:45:48] Returned 5-8-2016's game results
+[16:45:48] Scraping 5-8-2016's period data: http://espn.go.com/mlb/playbyplay?id=360508103
+[16:45:50] Game url: http://espn.go.com/mlb/playbyplay?id=360508103
+[16:45:50] Team1: tb | Team2: laa
+[16:45:50] Cur team: laa | los-angeles-angels
+[16:45:50] Other team: tb
+[16:45:50] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:50] Scores: [['http://espn.go.com/mlb/team/_/name/tb/tampa-bay-rays">TB</a>', '0', '0', '2', '0', '1', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '1', '0', '0', '0', '0', '0', '0', '0', '0']]
+[16:45:50] Returned 5-10-2016's game results
+[16:45:50] Scraping 5-10-2016's period data: http://espn.go.com/mlb/playbyplay?id=360510103
+[16:45:52] Game url: http://espn.go.com/mlb/playbyplay?id=360510103
+[16:45:52] Team1: stl | Team2: laa
+[16:45:52] Cur team: laa | los-angeles-angels
+[16:45:52] Other team: stl
+[16:45:52] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:52] Scores: [['http://espn.go.com/mlb/team/_/name/stl/st.-louis-cardinals">STL</a>', '1', '1', '0', '0', '4', '2', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '0', '0', '0', '0', '1', '0']]
+[16:45:52] Returned 5-11-2016's game results
+[16:45:52] Scraping 5-11-2016's period data: http://espn.go.com/mlb/playbyplay?id=360511103
+[16:45:53] Game url: http://espn.go.com/mlb/playbyplay?id=360511103
+[16:45:53] Team1: stl | Team2: laa
+[16:45:53] Cur team: laa | los-angeles-angels
+[16:45:53] Other team: stl
+[16:45:53] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:53] Scores: [['http://espn.go.com/mlb/team/_/name/stl/st.-louis-cardinals">STL</a>', '0', '4', '0', '0', '0', '0', '1', '0', '0'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '2', '0', '0', '0', '0', '0']]
+[16:45:53] Returned 5-12-2016's game results
+[16:45:53] Scraping 5-12-2016's period data: http://espn.go.com/mlb/playbyplay?id=360512103
+[16:45:55] Game url: http://espn.go.com/mlb/playbyplay?id=360512103
+[16:45:55] Team1: stl | Team2: laa
+[16:45:55] Cur team: laa | los-angeles-angels
+[16:45:55] Other team: stl
+[16:45:55] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:55] Scores: [['http://espn.go.com/mlb/team/_/name/stl/st.-louis-cardinals">STL</a>', '0', '0', '0', '3', '5', '2', '0', '0', '2'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '2', '3', '2', '0', '0', '0', '3']]
+[16:45:55] Returned 5-13-2016's game results
+[16:45:55] Scraping 5-13-2016's period data: http://espn.go.com/mlb/playbyplay?id=360513112
+[16:45:57] Game url: http://espn.go.com/mlb/playbyplay?id=360513112
+[16:45:57] Team1: laa | Team2: sea
+[16:45:57] Cur team: laa | los-angeles-angels
+[16:45:57] Other team: sea
+[16:45:57] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:57] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '1', '0', '0', '2', '2', '2'], ['http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">SEA</a>', '0', '0', '0', '1', '1', '3', '1', '0', '0']]
+[16:45:57] Returned 5-14-2016's game results
+[16:45:57] Scraping 5-14-2016's period data: http://espn.go.com/mlb/playbyplay?id=360514112
+[16:45:59] Game url: http://espn.go.com/mlb/playbyplay?id=360514112
+[16:45:59] Team1: laa | Team2: sea
+[16:45:59] Cur team: laa | los-angeles-angels
+[16:45:59] Other team: sea
+[16:45:59] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:45:59] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '0', '0', '1', '5', '0', '3'], ['http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">SEA</a>', '0', '2', '0', '0', '0', '0', '0', '5', '0']]
+[16:45:59] Returned 5-15-2016's game results
+[16:45:59] Scraping 5-15-2016's period data: http://espn.go.com/mlb/playbyplay?id=360515112
+[16:46:00] Game url: http://espn.go.com/mlb/playbyplay?id=360515112
+[16:46:00] Team1: laa | Team2: sea
+[16:46:00] Cur team: laa | los-angeles-angels
+[16:46:00] Other team: sea
+[16:46:00] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:00] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '0', '1', '0', '0', '2', '0'], ['http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">SEA</a>', '0', '0', '0', '0', '0', '0', '0', '0', '0']]
+[16:46:00] Returned 5-16-2016's game results
+[16:46:00] Scraping 5-16-2016's period data: http://espn.go.com/mlb/playbyplay?id=360516119
+[16:46:01] Game url: http://espn.go.com/mlb/playbyplay?id=360516119
+[16:46:01] Team1: laa | Team2: lad
+[16:46:01] Cur team: laa | los-angeles-angels
+[16:46:01] Other team: lad
+[16:46:01] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:01] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '4', '0', '0', '0', '3', '0', '0'], ['http://espn.go.com/mlb/team/_/name/lad/los-angeles-dodgers">LAD</a>', '0', '2', '0', '1', '0', '0', '1', '2', '0']]
+[16:46:01] Returned 5-17-2016's game results
+[16:46:01] Scraping 5-17-2016's period data: http://espn.go.com/mlb/playbyplay?id=360517119
+[16:46:03] Game url: http://espn.go.com/mlb/playbyplay?id=360517119
+[16:46:03] Team1: laa | Team2: lad
+[16:46:03] Cur team: laa | los-angeles-angels
+[16:46:03] Other team: lad
+[16:46:03] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:03] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '1', '0', '0', '0', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/lad/los-angeles-dodgers">LAD</a>', '0', '0', '1', '2', '0', '0', '1', '1', '-']]
+[16:46:03] Returned 5-18-2016's game results
+[16:46:03] Scraping 5-18-2016's period data: http://espn.go.com/mlb/playbyplay?id=360518103
+[16:46:04] Game url: http://espn.go.com/mlb/playbyplay?id=360518103
+[16:46:04] Team1: lad | Team2: laa
+[16:46:04] Cur team: laa | los-angeles-angels
+[16:46:04] Other team: lad
+[16:46:04] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:04] Scores: [['http://espn.go.com/mlb/team/_/name/lad/los-angeles-dodgers">LAD</a>', '0', '0', '0', '1', '0', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '1', '0', '0', '0', '5', '2', '0', '0', '-']]
+[16:46:04] Returned 5-19-2016's game results
+[16:46:04] Scraping 5-19-2016's period data: http://espn.go.com/mlb/playbyplay?id=360519103
+[16:46:06] Game url: http://espn.go.com/mlb/playbyplay?id=360519103
+[16:46:06] Team1: lad | Team2: laa
+[16:46:06] Cur team: laa | los-angeles-angels
+[16:46:06] Other team: lad
+[16:46:06] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:06] Scores: [['http://espn.go.com/mlb/team/_/name/lad/los-angeles-dodgers">LAD</a>', '1', '0', '2', '0', '1', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '1', '0', '1', '0', '3', '2', '0', '0', '-']]
+[16:46:06] Returned 5-20-2016's game results
+[16:46:06] Scraping 5-20-2016's period data: http://espn.go.com/mlb/playbyplay?id=360520103
+[16:46:07] Game url: http://espn.go.com/mlb/playbyplay?id=360520103
+[16:46:07] Team1: bal | Team2: laa
+[16:46:07] Cur team: laa | los-angeles-angels
+[16:46:07] Other team: bal
+[16:46:07] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:07] Scores: [['http://espn.go.com/mlb/team/_/name/bal/baltimore-orioles">BAL</a>', '2', '0', '2', '0', '0', '0', '2', '2', '1'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '1', '0', '0', '0', '3', '0', '0', '0']]
+[16:46:07] Returned 5-21-2016's game results
+[16:46:07] Scraping 5-21-2016's period data: http://espn.go.com/mlb/playbyplay?id=360521103
+[16:46:09] Game url: http://espn.go.com/mlb/playbyplay?id=360521103
+[16:46:09] Team1: bal | Team2: laa
+[16:46:09] Cur team: laa | los-angeles-angels
+[16:46:09] Other team: bal
+[16:46:09] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:09] Scores: [['http://espn.go.com/mlb/team/_/name/bal/baltimore-orioles">BAL</a>', '0', '0', '0', '0', '0', '0', '0', '0', '3'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '0', '0', '0', '1', '0', '0']]
+[16:46:09] Returned 5-22-2016's game results
+[16:46:09] Scraping 5-22-2016's period data: http://espn.go.com/mlb/playbyplay?id=360522103
+[16:46:11] Game url: http://espn.go.com/mlb/playbyplay?id=360522103
+[16:46:11] Team1: bal | Team2: laa
+[16:46:11] Cur team: laa | los-angeles-angels
+[16:46:11] Other team: bal
+[16:46:11] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:11] Scores: [['http://espn.go.com/mlb/team/_/name/bal/baltimore-orioles">BAL</a>', '0', '0', '0', '0', '0', '0', '2', '0', '0'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '1', '5', '0', '0', '0', '4', '0', '-']]
+[16:46:11] Returned 5-23-2016's game results
+[16:46:11] Scraping 5-23-2016's period data: http://espn.go.com/mlb/playbyplay?id=360523113
+[16:46:12] Game url: http://espn.go.com/mlb/playbyplay?id=360523113
+[16:46:12] Team1: laa | Team2: tex
+[16:46:12] Cur team: laa | los-angeles-angels
+[16:46:12] Other team: tex
+[16:46:12] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:12] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '2', '0', '0', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/tex/texas-rangers">TEX</a>', '0', '0', '0', '0', '0', '0', '0', '0', '0']]
+[16:46:12] Returned 5-24-2016's game results
+[16:46:12] Scraping 5-24-2016's period data: http://espn.go.com/mlb/playbyplay?id=360524113
+[16:46:14] Game url: http://espn.go.com/mlb/playbyplay?id=360524113
+[16:46:14] Team1: laa | Team2: tex
+[16:46:14] Cur team: laa | los-angeles-angels
+[16:46:14] Other team: tex
+[16:46:14] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:14] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '0', '0', '0', '0', '1', '0'], ['http://espn.go.com/mlb/team/_/name/tex/texas-rangers">TEX</a>', '0', '0', '0', '1', '0', '2', '0', '1', '-']]
+[16:46:14] Returned 5-25-2016's game results
+[16:46:14] Scraping 5-25-2016's period data: http://espn.go.com/mlb/playbyplay?id=360525113
+[16:46:15] Game url: http://espn.go.com/mlb/playbyplay?id=360525113
+[16:46:15] Team1: laa | Team2: tex
+[16:46:15] Cur team: laa | los-angeles-angels
+[16:46:15] Other team: tex
+[16:46:15] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:15] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '1', '3', '0', '0', '1', '1', '0', '3', '0'], ['http://espn.go.com/mlb/team/_/name/tex/texas-rangers">TEX</a>', '1', '3', '3', '0', '0', '4', '2', '2', '-']]
+[16:46:15] Returned 5-27-2016's game results
+[16:46:15] Scraping 5-27-2016's period data: http://espn.go.com/mlb/playbyplay?id=360527103
+[16:46:17] Game url: http://espn.go.com/mlb/playbyplay?id=360527103
+[16:46:17] Team1: hou | Team2: laa
+[16:46:17] Cur team: laa | los-angeles-angels
+[16:46:17] Other team: hou
+[16:46:17] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:17] Scores: [['http://espn.go.com/mlb/team/_/name/hou/houston-astros">HOU</a>', '0', '0', '0', '0', '0', '0', '0', '0', '2'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '6', '1', '0', '0', '0', '0', '-']]
+[16:46:17] Returned 5-28-2016's game results
+[16:46:17] Scraping 5-28-2016's period data: http://espn.go.com/mlb/playbyplay?id=360528103
+[16:46:18] Game url: http://espn.go.com/mlb/playbyplay?id=360528103
+[16:46:18] Team1: hou | Team2: laa
+[16:46:18] Cur team: laa | los-angeles-angels
+[16:46:18] Other team: hou
+[16:46:18] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:18] Scores: [['http://espn.go.com/mlb/team/_/name/hou/houston-astros">HOU</a>', '1', '0', '0', '0', '1', '2', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '2', '0', '0', '0', '0', '0', '0', '0', '0']]
+[16:46:18] Returned 5-29-2016's game results
+[16:46:18] Scraping 5-29-2016's period data: http://espn.go.com/mlb/playbyplay?id=360529103
+[16:46:19] Game url: http://espn.go.com/mlb/playbyplay?id=360529103
+[16:46:19] Team1: hou | Team2: laa
+[16:46:19] Cur team: laa | los-angeles-angels
+[16:46:19] Other team: hou
+[16:46:19] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:19] Scores: [['http://espn.go.com/mlb/team/_/name/hou/houston-astros">HOU</a>', '0', '0', '3', '1', '0', '1', '0', '0', '0', '0', '3'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '1', '1', '2', '0', '0', '0', '0', '0', '1']]
+[16:46:19] Returned 5-30-2016's game results
+[16:46:19] Scraping 5-30-2016's period data: http://espn.go.com/mlb/playbyplay?id=360530103
+[16:46:21] Game url: http://espn.go.com/mlb/playbyplay?id=360530103
+[16:46:21] Team1: det | Team2: laa
+[16:46:21] Cur team: laa | los-angeles-angels
+[16:46:21] Other team: det
+[16:46:21] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:21] Scores: [['http://espn.go.com/mlb/team/_/name/det/detroit-tigers">DET</a>', '0', '0', '0', '0', '0', '0', '0', '0', '1'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '0', '0', '0', '0', '5', '-']]
+[16:46:21] Returned 5-31-2016's game results
+[16:46:21] Scraping 5-31-2016's period data: http://espn.go.com/mlb/playbyplay?id=360531103
+[16:46:22] Game url: http://espn.go.com/mlb/playbyplay?id=360531103
+[16:46:22] Team1: det | Team2: laa
+[16:46:22] Cur team: laa | los-angeles-angels
+[16:46:22] Other team: det
+[16:46:22] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:22] Scores: [['http://espn.go.com/mlb/team/_/name/det/detroit-tigers">DET</a>', '1', '1', '0', '0', '0', '2', '4', '1', '0'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '2', '3', '1', '3', '0', '0', '0', '0', '2']]
+[16:46:22] Returned 6-1-2016's game results
+[16:46:22] Scraping 6-1-2016's period data: http://espn.go.com/mlb/playbyplay?id=360601103
+[16:46:24] Game url: http://espn.go.com/mlb/playbyplay?id=360601103
+[16:46:24] Team1: det | Team2: laa
+[16:46:24] Cur team: laa | los-angeles-angels
+[16:46:24] Other team: det
+[16:46:24] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:24] Scores: [['http://espn.go.com/mlb/team/_/name/det/detroit-tigers">DET</a>', '0', '0', '0', '0', '1', '1', '0', '0', '1'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '0', '0', '0', '0', '0', '0']]
+[16:46:24] Returned 6-3-2016's game results
+[16:46:24] Scraping 6-3-2016's period data: http://espn.go.com/mlb/playbyplay?id=360603123
+[16:46:25] Game url: http://espn.go.com/mlb/playbyplay?id=360603123
+[16:46:25] Team1: laa | Team2: pit
+[16:46:25] Cur team: laa | los-angeles-angels
+[16:46:25] Other team: pit
+[16:46:25] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:25] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '3', '1', '2', '1', '0', '0', '2', '0', '0'], ['http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates">PIT</a>', '0', '2', '0', '0', '0', '0', '0', '0', '0']]
+[16:46:25] Returned 6-4-2016's game results
+[16:46:25] Scraping 6-4-2016's period data: http://espn.go.com/mlb/playbyplay?id=360604123
+[16:46:27] Game url: http://espn.go.com/mlb/playbyplay?id=360604123
+[16:46:27] Team1: laa | Team2: pit
+[16:46:27] Cur team: laa | los-angeles-angels
+[16:46:27] Other team: pit
+[16:46:27] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:27] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '1', '0', '1', '0', '0', '1', '0', '4', '0'], ['http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates">PIT</a>', '0', '2', '0', '1', '0', '0', '5', '0', '-']]
+[16:46:27] Returned 6-5-2016's game results
+[16:46:27] Scraping 6-5-2016's period data: http://espn.go.com/mlb/playbyplay?id=360605123
+[16:46:28] Game url: http://espn.go.com/mlb/playbyplay?id=360605123
+[16:46:28] Team1: laa | Team2: pit
+[16:46:28] Cur team: laa | los-angeles-angels
+[16:46:28] Other team: pit
+[16:46:28] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:28] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '1', '0', '0', '0', '0', '0', '2', '2', '0'], ['http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates">PIT</a>', '1', '2', '0', '0', '0', '1', '0', '0', '0']]
+[16:46:28] Returned 6-6-2016's game results
+[16:46:28] Scraping 6-6-2016's period data: http://espn.go.com/mlb/playbyplay?id=360606110
+[16:46:29] Game url: http://espn.go.com/mlb/playbyplay?id=360606110
+[16:46:29] Team1: laa | Team2: nyy
+[16:46:29] Cur team: laa | los-angeles-angels
+[16:46:29] Other team: nyy
+[16:46:29] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:29] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '1', '0', '1', '0', '0', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/nyy/new-york-yankees">NYY</a>', '0', '0', '0', '0', '0', '0', '2', '3', '-']]
+[16:46:29] Returned 6-7-2016's game results
+[16:46:29] Scraping 6-7-2016's period data: http://espn.go.com/mlb/playbyplay?id=360607110
+[16:46:31] Game url: http://espn.go.com/mlb/playbyplay?id=360607110
+[16:46:31] Team1: laa | Team2: nyy
+[16:46:31] Cur team: laa | los-angeles-angels
+[16:46:31] Other team: nyy
+[16:46:31] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:31] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '0', '3', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/nyy/new-york-yankees">NYY</a>', '3', '1', '1', '0', '0', '0', '1', '0', '-']]
+[16:46:31] Returned 6-8-2016's game results
+[16:46:31] Scraping 6-8-2016's period data: http://espn.go.com/mlb/playbyplay?id=360608110
+[16:46:33] Game url: http://espn.go.com/mlb/playbyplay?id=360608110
+[16:46:33] Team1: laa | Team2: nyy
+[16:46:33] Cur team: laa | los-angeles-angels
+[16:46:33] Other team: nyy
+[16:46:33] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:33] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '1', '2', '1', '0', '1', '0', '0', '0', '1'], ['http://espn.go.com/mlb/team/_/name/nyy/new-york-yankees">NYY</a>', '2', '0', '1', '1', '0', '4', '4', '0', '-']]
+[16:46:33] Returned 6-9-2016's game results
+[16:46:33] Scraping 6-9-2016's period data: http://espn.go.com/mlb/playbyplay?id=360609110
+[16:46:34] Game url: http://espn.go.com/mlb/playbyplay?id=360609110
+[16:46:34] Team1: laa | Team2: nyy
+[16:46:34] Cur team: laa | los-angeles-angels
+[16:46:34] Other team: nyy
+[16:46:34] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:34] Scores: [['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '0', '0', '0', '1', '0', '0', '2', '0', '0'], ['http://espn.go.com/mlb/team/_/name/nyy/new-york-yankees">NYY</a>', '0', '0', '0', '0', '5', '0', '1', '0', '-']]
+[16:46:34] Returned 6-10-2016's game results
+[16:46:34] Scraping 6-10-2016's period data: http://espn.go.com/mlb/playbyplay?id=360610103
+[16:46:36] Game url: http://espn.go.com/mlb/playbyplay?id=360610103
+[16:46:36] Team1: cle | Team2: laa
+[16:46:36] Cur team: laa | los-angeles-angels
+[16:46:36] Other team: cle
+[16:46:36] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:46:36] Scores: [['http://espn.go.com/mlb/team/_/name/cle/cleveland-indians">CLE</a>', '4', '2', '0', '0', '0', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/laa/los-angeles-angels">LAA</a>', '1', '0', '0', '0', '0', '1', '0', '0', '0']]
+[16:46:36] Saving data to ./mlb/team_data/2016/los-angeles-angels.csv
+

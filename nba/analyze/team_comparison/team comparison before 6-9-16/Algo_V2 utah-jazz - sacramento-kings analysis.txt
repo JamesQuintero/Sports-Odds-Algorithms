@@ -1,0 +1,16 @@
+
+Date: 3-13-2016
+Away: utah-jazz | Home: sacramento-kings
+Seasonal Record:      57.83%
+Home Away:            -61.25%
+Home away 10:         -58.7%
+Last 10 games:        53.69%
+Avg points:           54.84%
+Avg points 10:        54.86%
+--------
+Total: -59.97%
+--------
+Perc chance to win: 59.97%
+Favorable team odds: -149.81264051961028
+Underdog team odds: +149.81264051961028
+

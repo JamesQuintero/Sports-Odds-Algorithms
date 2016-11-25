@@ -1,0 +1,17 @@
+
+Date: 6-29-2016
+Away: houston-astros | Home: los-angeles-angels
+Seasonal Record:      55.07%
+Home Away:            50.9%
+Home away 10:         55.55%
+Last 10 games:        58.75%
+Avg points:           56.16%
+Avg points 10:        56.59%
+--------
+Total: 57.67%
+--------
+Perc chance to win: 57.67%
+Favorable team odds: -136.23907394283017
+Underdog team odds: +136.23907394283017
+
+Actual: -145, +125

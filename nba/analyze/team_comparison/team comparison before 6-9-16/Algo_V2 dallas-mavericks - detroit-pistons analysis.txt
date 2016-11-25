@@ -1,0 +1,16 @@
+
+Date: 4-1-2016
+Away: dallas-mavericks | Home: detroit-pistons
+Seasonal Record:      -56.07%
+Home Away:            -72.12%
+Home away 10:         -70.85%
+Last 10 games:        -58.04%
+Avg points:           50.76%
+Avg points 10:        -53.4%
+--------
+Total: -71.48%
+--------
+Perc chance to win: 71.48%
+Favorable team odds: -250.63113604488083
+Underdog team odds: +250.63113604488083
+

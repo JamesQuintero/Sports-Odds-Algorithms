@@ -1,0 +1,16 @@
+
+Date: 3-26-2016
+Away: cleveland-cavaliers | Home: new-york-knicks
+Seasonal Record:      76.81%
+Home Away:            61.25%
+Home away 10:         54.02%
+Last 10 games:        56.04%
+Avg points:           69.82%
+Avg points 10:        59.57%
+--------
+Total: 73.31%
+--------
+Perc chance to win: 73.31%
+Favorable team odds: -274.67216185837395
+Underdog team odds: +274.67216185837395
+

@@ -1,0 +1,18 @@
+
+Date: 3-7-2016
+Away: orlando-magic | Home: golden-state-warriors
+Seasonal Record:      -56.0/10 = -5.6
+Home Away:            -34.0/10 = -3.4
+Home away 10:         -16.0/5 = -3.2
+Last 10 games:        -8.0/5 = -1.6
+Avg points:           -12.32/8 = -1.54
+Avg points 10:        -3.84/8 = -0.48
+Win streak:           -10.0/3 = -3.3333333333333335
+Win streak home away: -4.0/3 = -1.3333333333333333
+--------
+Total: -20.49
+--------
+Perc chance to win: 89.67346049382715%
+Favorable team odds: -868.3786126051564
+Underdog team odds: +868.3786126051564
+

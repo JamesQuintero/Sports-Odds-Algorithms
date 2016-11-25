@@ -1,0 +1,17 @@
+
+Date: 7-8-2016
+Away: seattle-mariners | Home: kansas-city-royals
+Seasonal Record:      -51.79%
+Home Away:            -57.63%
+Home away 10:         -60.18%
+Last 10 games:        51.81%
+Avg points:           56.3%
+Avg points 10:        51.45%
+Win streak home away: 50%
+--------
+Total: -58.9%
+--------
+Perc chance to win: 58.9%
+Favorable team odds: -143.30900243309003
+Underdog team odds: +143.30900243309003
+

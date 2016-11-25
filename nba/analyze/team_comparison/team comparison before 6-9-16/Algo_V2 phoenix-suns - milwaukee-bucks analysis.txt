@@ -1,0 +1,16 @@
+
+Date: 3-30-2016
+Away: phoenix-suns | Home: milwaukee-bucks
+Seasonal Record:      -64.17%
+Home Away:            -83.68%
+Home away 10:         -54.02%
+Last 10 games:        -53.69%
+Avg points:           -54.77%
+Avg points 10:        -55.35%
+--------
+Total: -73.92%
+--------
+Perc chance to win: 73.92%
+Favorable team odds: -283.4355828220859
+Underdog team odds: +283.4355828220859
+

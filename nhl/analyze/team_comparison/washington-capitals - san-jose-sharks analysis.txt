@@ -1,0 +1,16 @@
+
+Date: 3-12-2016
+Away: washington-capitals | Home: san-jose-sharks
+Seasonal Record:      60.06%
+Home Away:            62.81%
+Home away 10:         54.05%
+Last 10 games:        53.93%
+Avg points:           50.55%
+Avg points 10:        -53.92%
+--------
+Total: 61.43%
+--------
+Perc chance to win: 61.43%
+Favorable team odds: -159.26886180969663
+Underdog team odds: +159.26886180969663
+

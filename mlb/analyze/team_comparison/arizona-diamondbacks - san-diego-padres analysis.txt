@@ -1,0 +1,17 @@
+
+Date: 9-25-2015
+Away: arizona-diamondbacks | Home: san-diego-padres
+Seasonal Record:      51.54%
+Home Away:            52.09%
+Home away 10:         -50.49%
+Last 10 games:        51.6%
+Avg points:           54.33%
+Avg points 10:        51.12%
+Win streak home away: 50%
+--------
+Total: 53.21%
+--------
+Perc chance to win: 53.21%
+Favorable team odds: -113.72088053002778
+Underdog team odds: +113.72088053002778
+

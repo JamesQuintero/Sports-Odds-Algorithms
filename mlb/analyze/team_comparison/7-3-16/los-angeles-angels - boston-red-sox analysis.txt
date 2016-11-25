@@ -1,0 +1,17 @@
+
+Date: 7-3-2016
+Away: los-angeles-angels | Home: boston-red-sox
+Seasonal Record:      -55.51%
+Home Away:            -53.07%
+Home away 10:         -50.62%
+Last 10 games:        -52.29%
+Avg points:           -57.05%
+Avg points 10:        52.4%
+Win streak home away: 50%
+--------
+Total: -56.28%
+--------
+Perc chance to win: 56.28%
+Favorable team odds: -128.72827081427266
+Underdog team odds: +128.72827081427266
+

@@ -1,0 +1,17 @@
+
+Date: 7-6-2016
+Away: kansas-city-royals | Home: toronto-blue-jays
+Seasonal Record:      -51.79%
+Home Away:            -56.39%
+Home away 10:         -51.99%
+Last 10 games:        -51.81%
+Avg points:           -57.37%
+Avg points 10:        -52.17%
+Win streak home away: 50%
+--------
+Total: -56.88%
+--------
+Perc chance to win: 56.88%
+Favorable team odds: -131.91094619666052
+Underdog team odds: +131.91094619666052
+

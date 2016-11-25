@@ -1,0 +1,18 @@
+
+Date: 3-11-2016
+Away: brooklyn-nets | Home: philadelphia-76ers
+Seasonal Record:      20.0/10 = 2.0
+Home Away:            4.0/10 = 0.4
+Home away 10:         4.0/5 = 0.8
+Last 10 games:        8.0/5 = 1.6
+Avg points:           4.08/8 = 0.51
+Avg points 10:        10.72/8 = 1.34
+Win streak:           -2.0/3 = -0.6666666666666666
+Win streak home away: -2.0/3 = -0.6666666666666666
+--------
+Total: 5.32
+--------
+Perc chance to win: 61.29224252400549%
+Favorable team odds: -158.34614692421084
+Underdog team odds: +158.34614692421084
+

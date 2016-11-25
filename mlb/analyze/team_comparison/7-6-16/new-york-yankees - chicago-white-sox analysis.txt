@@ -1,0 +1,17 @@
+
+Date: 7-6-2016
+Away: new-york-yankees | Home: chicago-white-sox
+Seasonal Record:      -51.79%
+Home Away:            -52.55%
+Home away 10:         -50.62%
+Last 10 games:        -52.29%
+Avg points:           -51.32%
+Avg points 10:        -51.13%
+Win streak home away: 50%
+--------
+Total: -52.42%
+--------
+Perc chance to win: 52.42%
+Favorable team odds: -110.17234131988229
+Underdog team odds: +110.17234131988229
+

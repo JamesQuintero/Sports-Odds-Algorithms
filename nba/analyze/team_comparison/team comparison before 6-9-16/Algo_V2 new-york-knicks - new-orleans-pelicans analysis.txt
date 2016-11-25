@@ -1,0 +1,16 @@
+
+Date: 3-28-2016
+Away: new-york-knicks | Home: new-orleans-pelicans
+Seasonal Record:      56.07%
+Home Away:            -65.08%
+Home away 10:         -58.7%
+Last 10 games:        56.04%
+Avg points:           -52.62%
+Avg points 10:        55.51%
+--------
+Total: -61.89%
+--------
+Perc chance to win: 61.89%
+Favorable team odds: -162.39832065074782
+Underdog team odds: +162.39832065074782
+

@@ -1,0 +1,16 @@
+
+Date: 3-23-2016
+Away: dallas-mavericks | Home: portland-trail-blazers
+Seasonal Record:      -53.09%
+Home Away:            -66.31%
+Home away 10:         -70.85%
+Last 10 games:        51.0%
+Avg points:           53.02%
+Avg points 10:        56.49%
+--------
+Total: -68.58%
+--------
+Perc chance to win: 68.58%
+Favorable team odds: -218.26861871419476
+Underdog team odds: +218.26861871419476
+

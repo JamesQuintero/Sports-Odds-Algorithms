@@ -1,0 +1,283 @@
+
+
+chicago-bulls
+Season: 2 on downtrend
+Home-Away: 11-19 away
+   Last 10 away games: 1-9
+10 Games: 5-5
+   4 won out of 7 games | 57.14285714285714%
+Avg points: 101.61 - 102.53
+   Last 10 games: 103.7 - 105.8
+Winning streak against sa: 1
+   Winning streak away: 0
+
+
+   chicago-bulls
+   Season: 1 on downtrend
+   Home-Away: 20-11 home
+      Last 10 home games: 4-6
+   10 Games: 4-6
+      3 won out of 10 games | 30.0%
+   Avg points: 101.63 - 102.73
+      Last 10 games: 102.7 - 108.1
+   Losing streak against mil: 1
+      Losing streak home: 0
+
+
+   milwaukee-bucks
+   Season: -11 on downtrend
+   Home-Away: 8-25 away
+      Last 10 away games: 3-7
+   10 Games: 5-5
+      4 won out of 14 games | 28.57142857142857%
+   Avg points: 99.3 - 103.26
+      Last 10 games: 105.6 - 104.4
+   Winning streak against chi: 1
+      Winning streak away: 0
+
+   Winner: chicago-bulls | 100-90
+   ----------------------------------------
+
+
+   chicago-bulls
+   Season: 0 on downtrend
+   Home-Away: 19-11 home
+      Last 10 home games: 4-6
+   10 Games: 3-7
+      3 won out of 8 games | 37.5%
+   Avg points: 101.53 - 102.78
+      Last 10 games: 101.0 - 108.9
+   Losing streak against hou: 1
+      Losing streak home: 0
+
+
+   houston-rockets
+   Season: -1 on downtrend
+   Home-Away: 13-17 away
+      Last 10 away games: 4-6
+   10 Games: 4-6
+      6 won out of 12 games | 50.0%
+   Avg points: 105.55 - 106.91
+      Last 10 games: 106.7 - 108.9
+   Winning streak against chi: 1
+      Winning streak away: 0
+
+   Winner: chicago-bulls | 108-100
+   ----------------------------------------
+
+
+   chicago-bulls
+   Season: 1 on downtrend
+   Home-Away: 11-18 away
+      Last 10 away games: 2-8
+   10 Games: 3-7
+      3 won out of 7 games | 42.857142857142854%
+   Avg points: 101.74 - 102.79
+      Last 10 games: 102.6 - 109.9
+   Winning streak against orl: 1
+      Winning streak away: 0
+
+
+   orlando-magic
+   Season: -7 on uptrend
+   Home-Away: 16-15 home
+      Last 10 home games: 4-6
+   10 Games: 5-5
+      2 won out of 7 games | 28.57142857142857%
+   Avg points: 100.89 - 102.4
+      Last 10 games: 109.2 - 110.1
+   Losing streak against chi: 1
+      Losing streak home: 0
+
+   Winner: orlando-magic | 102-89
+   ----------------------------------------
+
+
+   chicago-bulls
+   Season: 2 on downtrend
+   Home-Away: 11-17 away
+      Last 10 away games: 3-7
+   10 Games: 3-7
+      3 won out of 6 games | 50.0%
+   Avg points: 101.58 - 102.34
+      Last 10 games: 102.5 - 108.5
+   Losing streak against mia: 1
+      Losing streak away: 0
+
+
+   miami-heat
+   Season: 7 on uptrend
+   Home-Away: 18-12 home
+      Last 10 home games: 5-5
+   10 Games: 6-4
+      7 won out of 19 games | 36.84210526315789%
+   Avg points: 96.93 - 96.67
+      Last 10 games: 101.4 - 100.2
+   Winning streak against chi: 1
+      Winning streak home: 0
+
+   Winner: miami-heat | 129-111
+   ----------------------------------------
+
+
+   chicago-bulls
+   Season: 3 on downtrend
+   Home-Away: 19-10 home
+      Last 10 home games: 5-5
+   10 Games: 4-6
+      3 won out of 9 games | 33.33333333333333%
+   Avg points: 101.7 - 102.33
+      Last 10 games: 103.7 - 108.4
+   Winning streak against por: 2
+      Winning streak home: 1
+
+
+   portland-trail-blazers
+   Season: 2 on downtrend
+   Home-Away: 11-16 away
+      Last 10 away games: 6-4
+   10 Games: 8-2
+      3 won out of 4 games | 75.0%
+   Avg points: 103.5 - 102.46
+      Last 10 games: 109.9 - 102.5
+   Losing streak against chi: 2
+      Losing streak away: 1
+
+   Winner: portland-trail-blazers | 103-95
+   ----------------------------------------
+
+
+   chicago-bulls
+   Season: 4 on downtrend
+   Home-Away: 11-16 away
+      Last 10 away games: 3-7
+   10 Games: 4-6
+      3 won out of 8 games | 37.5%
+   Avg points: 101.94 - 102.32
+      Last 10 games: 104.5 - 108.6
+   Losing streak against atl: 4
+      Losing streak away: 2
+
+
+   atlanta-hawks
+   Season: 4 on downtrend
+   Home-Away: 17-12 home
+      Last 10 home games: 5-5
+   10 Games: 4-6
+      6 won out of 12 games | 50.0%
+   Avg points: 102.48 - 100.25
+      Last 10 games: 105.4 - 102.1
+   Winning streak against chi: 4
+      Winning streak home: 2
+
+   Winner: atlanta-hawks | 103-88
+   ----------------------------------------
+
+
+   chicago-bulls
+   Season: 3 on downtrend
+   Home-Away: 18-10 home
+      Last 10 home games: 5-5
+   10 Games: 3-7
+      2 won out of 5 games | 40.0%
+   Avg points: 101.81 - 102.29
+      Last 10 games: 102.9 - 110.2
+   Losing streak against wsh: 1
+      Losing streak home: 1
+
+
+   washington-wizards
+   Season: -3 on downtrend
+   Home-Away: 12-13 away
+      Last 10 away games: 5-5
+   10 Games: 5-5
+      10 won out of 22 games | 45.45454545454545%
+   Avg points: 102.56 - 104.58
+      Last 10 games: 103.6 - 103.5
+   Winning streak against chi: 1
+      Winning streak away: 1
+
+   Winner: chicago-bulls | 109-104
+   ----------------------------------------
+
+
+   chicago-bulls
+   Season: 2 on downtrend
+   Home-Away: 17-10 home
+      Last 10 home games: 5-5
+   10 Games: 3-7
+      1 won out of 4 games | 25.0%
+   Avg points: 101.37 - 102.05
+      Last 10 games: 101.7 - 107.8
+   Winning streak against lal: 1
+      Winning streak home: 4
+
+
+   los-angeles-lakers
+   Season: -34 on uptrend
+   Home-Away: 5-26 away
+      Last 10 away games: 2-8
+   10 Games: 2-8
+      2 won out of 20 games | 10.0%
+   Avg points: 96.8 - 106.35
+      Last 10 games: 98.7 - 105.7
+   Losing streak against chi: 1
+      Losing streak away: 4
+
+   Winner: chicago-bulls | 126-115
+   ----------------------------------------
+
+
+   chicago-bulls
+   Season: 1 on downtrend
+   Home-Away: 16-10 home
+      Last 10 home games: 5-5
+   10 Games: 2-8
+      0 won out of 0 games | N/A%
+   Avg points: 101.09 - 101.98
+      Last 10 games: 98.5 - 106.1
+   Winning streak against tor: 7
+      Winning streak home: 3
+
+
+   toronto-raptors
+   Season: 18 on uptrend
+   Home-Away: 17-11 away
+      Last 10 away games: 7-3
+   10 Games: 8-2
+      3 won out of 3 games | 100.0%
+   Avg points: 101.82 - 97.38
+      Last 10 games: 105.5 - 98.2
+   Losing streak against chi: 7
+      Losing streak away: 3
+
+   Winner: chicago-bulls | 116-106
+   ----------------------------------------
+
+
+   chicago-bulls
+   Season: 2 on downtrend
+   Home-Away: 11-15 away
+      Last 10 away games: 4-6
+   10 Games: 3-7
+      1 won out of 3 games | 33.33333333333333%
+   Avg points: 101.21 - 101.9
+      Last 10 games: 98.6 - 103.8
+   Winning streak against cle: 2
+      Winning streak away: 1
+
+
+   cleveland-cavaliers
+   Season: 24 on uptrend
+   Home-Away: 22-4 home
+      Last 10 home games: 7-3
+   10 Games: 8-2
+      12 won out of 17 games | 70.58823529411765%
+   Avg points: 102.88 - 96.94
+      Last 10 games: 111.0 - 102.0
+   Losing streak against chi: 2
+      Losing streak home: 1
+
+   Winner: cleveland-cavaliers | 106-95
+   ----------------------------------------
+

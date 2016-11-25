@@ -1,0 +1,109 @@
+
+Date: 3-8-2016
+Away: brooklyn-nets | Home: toronto-raptors
+Seasonal Record:      -48.0/10 = -4.8
+Home Away:            -32.0/10 = -3.2
+Home away 10:         -12.0/5 = -2.4
+Last 10 games:        -4.0/5 = -0.8
+Avg points:           -10.88/8 = -1.36
+Avg points 10:        -6.96/8 = -0.87
+Win streak:           -4.0/3 = -1.3333333333333333
+Win streak home away: -2.0/3 = -0.6666666666666666
+--------
+Total: -15.44
+--------
+Perc chance to win: 81.83792482853224%
+Favorable team odds: -450.5978752752763
+Underdog team odds: +450.5978752752763
+
+
+Date: 3-8-2016
+Away: san-antonio-spurs | Home: minnesota-timberwolves
+Seasonal Record:      67.0/10 = 6.7
+Home Away:            23.0/10 = 2.3
+Home away 10:         4.0/5 = 0.8
+Last 10 games:        10.0/5 = 2.0
+Avg points:           16.08/8 = 2.01
+Avg points 10:        12.08/8 = 1.51
+Win streak:           12.0/3 = 4.0
+Win streak home away: 6.0/3 = 2.0
+--------
+Total: 21.33
+--------
+Perc chance to win: 90.82069999999999%
+Favorable team odds: -989.4076890394679
+Underdog team odds: +989.4076890394679
+
+
+Date: 3-8-2016
+Away: new-york-knicks | Home: denver-nuggets
+Seasonal Record:      1.0/10 = 0.1
+Home Away:            -4.0/10 = -0.4
+Home away 10:         -8.0/5 = -1.6
+Last 10 games:        -2.0/5 = -0.4
+Avg points:           0.32/8 = 0.04
+Avg points 10:        -3.12/8 = -0.39
+Win streak:           -4.0/3 = -1.3333333333333333
+Win streak home away: -14.0/3 = -4.666666666666667
+--------
+Total: -8.65
+--------
+Perc chance to win: 68.76619684499315%
+Favorable team odds: -220.16594170015367
+Underdog team odds: +220.16594170015367
+
+
+Date: 3-8-2016
+Away: atlanta-hawks | Home: utah-jazz
+Seasonal Record:      11.0/10 = 1.1
+Home Away:            -7.0/10 = -0.7
+Home away 10:         -4.0/5 = -0.8
+Last 10 games:        4.0/5 = 0.8
+Avg points:           2.24/8 = 0.28
+Avg points 10:        8.08/8 = 1.01
+Win streak:           -2.0/3 = -0.6666666666666666
+Win streak home away: 10.0/3 = 3.3333333333333335
+--------
+Total: 4.36
+--------
+Perc chance to win: 59.00765322359396%
+Favorable team odds: -143.94797532684075
+Underdog team odds: +143.94797532684075
+
+
+Date: 3-8-2016
+Away: washington-wizards | Home: portland-trail-blazers
+Seasonal Record:      -4.0/10 = -0.4
+Home Away:            -8.0/10 = -0.8
+Home away 10:         -8.0/5 = -1.6
+Last 10 games:        0.0/5 = 0.0
+Avg points:           -2.48/8 = -0.31
+Avg points 10:        -0.24/8 = -0.03
+Win streak:           -2.0/3 = -0.6666666666666666
+Win streak home away: -4.0/3 = -1.3333333333333333
+--------
+Total: -5.15
+--------
+Perc chance to win: 60.891917009602196%
+Favorable team odds: -155.7016155063212
+Underdog team odds: +155.7016155063212
+
+
+Date: 3-8-2016
+Away: orlando-magic | Home: los-angeles-lakers
+Seasonal Record:      30.0/10 = 3.0
+Home Away:            4.0/10 = 0.4
+Home away 10:         -2.0/5 = -0.4
+Last 10 games:        4.0/5 = 0.8
+Avg points:           7.68/8 = 0.96
+Avg points 10:        4.72/8 = 0.59
+Win streak:           4.0/3 = 1.3333333333333333
+Win streak home away: -4.0/3 = -1.3333333333333333
+--------
+Total: 5.36
+--------
+Perc chance to win: 61.38617174211248%
+Favorable team odds: -158.97458115817184
+Underdog team odds: +158.97458115817184
+
+

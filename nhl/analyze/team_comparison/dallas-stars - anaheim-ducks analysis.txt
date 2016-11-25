@@ -1,0 +1,17 @@
+
+Date: 4-11-2014
+Away: dallas-stars | Home: anaheim-ducks
+Seasonal Record:      -54.19%
+Home Away:            -61.1%
+Home away 10:         -53.37%
+Last 10 games:        53.28%
+Avg points:           -52.29%
+Avg points 10:        53.46%
+Win streak home away: 50%
+--------
+Total: -57.64%
+--------
+Perc chance to win: 57.64%
+Favorable team odds: -136.07176581680832
+Underdog team odds: +136.07176581680832
+

@@ -1,0 +1,16 @@
+
+Date: 3-28-2016
+Away: atlanta-hawks | Home: chicago-bulls
+Seasonal Record:      60.74%
+Home Away:            -61.25%
+Home away 10:         -58.7%
+Last 10 games:        59.69%
+Avg points:           62.09%
+Avg points 10:        75.19%
+--------
+Total: 68.64%
+--------
+Perc chance to win: 68.64%
+Favorable team odds: -218.8775510204082
+Underdog team odds: +218.8775510204082
+

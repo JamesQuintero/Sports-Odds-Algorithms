@@ -1,0 +1,17 @@
+
+Date: 6-30-2016
+Away: chicago-cubs | Home: new-york-mets
+Seasonal Record:      56.15%
+Home Away:            52.01%
+Home away 10:         50.62%
+Last 10 games:        51.6%
+Avg points:           61.88%
+Avg points 10:        51.4%
+--------
+Total: 59.01%
+--------
+Perc chance to win: 59.01%
+Favorable team odds: -143.96194193705782
+Underdog team odds: +143.96194193705782
+
+Actual: -140, +130

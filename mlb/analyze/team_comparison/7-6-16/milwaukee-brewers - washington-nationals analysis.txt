@@ -1,0 +1,17 @@
+
+Date: 7-6-2016
+Away: milwaukee-brewers | Home: washington-nationals
+Seasonal Record:      -56.56%
+Home Away:            -58.75%
+Home away 10:         -55.55%
+Last 10 games:        -53.04%
+Avg points:           -61.52%
+Avg points 10:        -53.12%
+Win streak home away: 50%
+--------
+Total: -60.13%
+--------
+Perc chance to win: 60.13%
+Favorable team odds: -150.81514923501382
+Underdog team odds: +150.81514923501382
+

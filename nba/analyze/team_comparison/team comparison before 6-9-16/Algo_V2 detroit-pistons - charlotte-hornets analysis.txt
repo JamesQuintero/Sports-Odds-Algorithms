@@ -1,0 +1,16 @@
+
+Date: 3-11-2016
+Away: detroit-pistons | Home: charlotte-hornets
+Seasonal Record:      -55.47%
+Home Away:            -75.33%
+Home away 10:         -70.85%
+Last 10 games:        -56.04%
+Avg points:           53.09%
+Avg points 10:        -50.3%
+--------
+Total: -73.09%
+--------
+Perc chance to win: 73.09%
+Favorable team odds: -271.60906726124125
+Underdog team odds: +271.60906726124125
+

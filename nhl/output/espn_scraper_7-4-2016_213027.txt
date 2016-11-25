@@ -1,0 +1,12 @@
+---- Start output ----
+[21:30:27] Scraping game scores from http://espn.go.com/nhl/team/schedule/_/name/tb/year/2014/tampa-bay-lightning
+[21:30:31] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:30:31] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[21:30:31] Loading existing data
+[21:30:31] Saving data to ./nhl/team_data/2014/tampa-bay-lightning.csv
+[21:30:31] Scraping game scores from http://espn.go.com/nhl/team/schedule/_/name/bos/year/2014/boston-bruins
+[21:30:38] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:30:38] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[21:30:38] Loading existing data
+[21:30:38] Saving data to ./nhl/team_data/2014/boston-bruins.csv
+

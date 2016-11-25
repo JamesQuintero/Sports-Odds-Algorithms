@@ -1,0 +1,17 @@
+
+Date: 3-12-2016
+Away: toronto-maple-leafs | Home: ottawa-senators
+Seasonal Record:      -55.67%
+Home Away:            -58.15%
+Home away 10:         -54.05%
+Last 10 games:        -53.2%
+Avg points:           -50.21%
+Avg points 10:        -53.89%
+--------
+Total: -56.91%
+--------
+Perc chance to win: 56.91%
+Favorable team odds: -132.07240659085633
+Underdog team odds: +132.07240659085633
+Maple Leafs (+130)
+Senators (-180)

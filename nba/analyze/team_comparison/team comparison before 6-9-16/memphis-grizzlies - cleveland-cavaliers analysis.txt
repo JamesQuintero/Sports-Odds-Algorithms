@@ -1,0 +1,18 @@
+
+Date: 3-7-2016
+Away: memphis-grizzlies | Home: cleveland-cavaliers
+Seasonal Record:      -15.0/10 = -1.5
+Home Away:            -23.0/10 = -2.3
+Home away 10:         -4.0/5 = -0.8
+Last 10 games:        0.0/5 = 0.0
+Avg points:           -6.56/8 = -0.82
+Avg points 10:        -3.36/8 = -0.42
+Win streak:           -6.0/3 = -2.0
+Win streak home away: -4.0/3 = -1.3333333333333333
+--------
+Total: -9.17
+--------
+Perc chance to win: 69.87013758573389%
+Favorable team odds: -231.8966367156434
+Underdog team odds: +231.8966367156434
+

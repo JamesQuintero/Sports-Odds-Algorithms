@@ -1,0 +1,18 @@
+
+Date: 3-9-2016
+Away: utah-jazz | Home: golden-state-warriors
+Seasonal Record:      -55.0/10 = -5.5
+Home Away:            -38.0/10 = -3.8
+Home away 10:         -12.0/5 = -2.4
+Last 10 games:        -10.0/5 = -2.0
+Avg points:           -10.08/8 = -1.26
+Avg points 10:        -3.28/8 = -0.41
+Win streak:           -6.0/3 = -2.0
+Win streak home away: -10.0/3 = -3.3333333333333335
+--------
+Total: -20.7
+--------
+Perc chance to win: 89.96444444444444%
+Favorable team odds: -896.4570416297603
+Underdog team odds: +896.4570416297603
+

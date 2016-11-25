@@ -1,0 +1,17 @@
+
+Date: 4-11-2014
+Away: tampa-bay-lightning | Home: boston-bruins
+Seasonal Record:      52.09%
+Home Away:            55.16%
+Home away 10:         -52.0%
+Last 10 games:        -53.28%
+Avg points:           -50.22%
+Avg points 10:        -52.43%
+Win streak home away: 50%
+--------
+Total: 50.94%
+--------
+Perc chance to win: 50.94%
+Favorable team odds: -103.83204239706481
+Underdog team odds: +103.83204239706481
+

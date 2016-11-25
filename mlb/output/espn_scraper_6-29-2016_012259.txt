@@ -1,0 +1,403 @@
+---- Start output ----
+[01:22:59] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/pit/year/2016/seasontype/2/half/1/pittsburgh-pirates
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[01:23:00] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/pit/year/2016/seasontype/2/half/2/pittsburgh-pirates
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:00] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[01:23:00] Loading existing data
+[01:23:00] Returned 6-15-2016's game results
+[01:23:00] Scraping 6-15-2016's period data: http://espn.go.com/mlb/playbyplay?id=360615121
+[01:23:01] Game url: http://espn.go.com/mlb/playbyplay?id=360615121
+[01:23:01] Team1: pit | Team2: nym
+[01:23:01] Cur team: pit | pittsburgh-pirates
+[01:23:01] Other team: nym
+[01:23:01] URL: http://espn.go.com/mlb/team/schedule/_/name/pit/year/2016/seasontype/2/half/1/pittsburgh-pirates
+[01:23:01] Scores: [['http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates">PIT</a>', '0', '0', '0', '0', '0', '0', '0', '0', '2'], ['http://espn.go.com/mlb/team/_/name/nym/new-york-mets">NYM</a>', '3', '0', '1', '0', '3', '3', '0', '1', '-']]
+[01:23:01] Returned 6-16-2016's game results
+[01:23:01] Scraping 6-16-2016's period data: http://espn.go.com/mlb/playbyplay?id=360616121
+[01:23:01] Game url: http://espn.go.com/mlb/playbyplay?id=360616121
+[01:23:01] Team1: pit | Team2: nym
+[01:23:01] Cur team: pit | pittsburgh-pirates
+[01:23:01] Other team: nym
+[01:23:01] URL: http://espn.go.com/mlb/team/schedule/_/name/pit/year/2016/seasontype/2/half/1/pittsburgh-pirates
+[01:23:01] Scores: [['http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates">PIT</a>', '0', '0', '0', '0', '0', '0', '0', '2', '2'], ['http://espn.go.com/mlb/team/_/name/nym/new-york-mets">NYM</a>', '1', '0', '4', '0', '1', '0', '0', '0', '-']]
+[01:23:01] Returned 6-17-2016's game results
+[01:23:01] Scraping 6-17-2016's period data: http://espn.go.com/mlb/playbyplay?id=360617116
+[01:23:01] Game url: http://espn.go.com/mlb/playbyplay?id=360617116
+[01:23:01] Team1: pit | Team2: chc
+[01:23:01] Cur team: pit | pittsburgh-pirates
+[01:23:01] Other team: chc
+[01:23:01] URL: http://espn.go.com/mlb/team/schedule/_/name/pit/year/2016/seasontype/2/half/1/pittsburgh-pirates
+[01:23:01] Scores: [['http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates">PIT</a>', '0', '0', '0', '0', '0', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/chc/chicago-cubs">CHC</a>', '2', '0', '0', '0', '0', '3', '1', '0', '-']]
+[01:23:01] Returned 6-18-2016's game results
+[01:23:01] Scraping 6-18-2016's period data: http://espn.go.com/mlb/playbyplay?id=360618116
+[01:23:02] Game url: http://espn.go.com/mlb/playbyplay?id=360618116
+[01:23:02] Team1: pit | Team2: chc
+[01:23:02] Cur team: pit | pittsburgh-pirates
+[01:23:02] Other team: chc
+[01:23:02] URL: http://espn.go.com/mlb/team/schedule/_/name/pit/year/2016/seasontype/2/half/1/pittsburgh-pirates
+[01:23:02] Scores: [['http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates">PIT</a>', '1', '0', '1', '1', '0', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/chc/chicago-cubs">CHC</a>', '0', '1', '0', '1', '1', '1', '0', '0', '-']]
+[01:23:02] Returned 6-19-2016's game results
+[01:23:02] Scraping 6-19-2016's period data: http://espn.go.com/mlb/playbyplay?id=360619116
+[01:23:02] Game url: http://espn.go.com/mlb/playbyplay?id=360619116
+[01:23:02] Team1: pit | Team2: chc
+[01:23:02] Cur team: pit | pittsburgh-pirates
+[01:23:02] Other team: chc
+[01:23:02] URL: http://espn.go.com/mlb/team/schedule/_/name/pit/year/2016/seasontype/2/half/1/pittsburgh-pirates
+[01:23:02] Scores: [['http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates">PIT</a>', '0', '0', '0', '1', '0', '0', '3', '0', '1'], ['http://espn.go.com/mlb/team/_/name/chc/chicago-cubs">CHC</a>', '1', '1', '2', '0', '0', '2', '4', '0', '-']]
+[01:23:02] Returned 6-20-2016's game results
+[01:23:02] Scraping 6-20-2016's period data: http://espn.go.com/mlb/playbyplay?id=360620123
+[01:23:02] Game url: http://espn.go.com/mlb/playbyplay?id=360620123
+[01:23:02] Team1: sf | Team2: pit
+[01:23:02] Cur team: pit | pittsburgh-pirates
+[01:23:02] Other team: sf
+[01:23:02] URL: http://espn.go.com/mlb/team/schedule/_/name/pit/year/2016/seasontype/2/half/1/pittsburgh-pirates
+[01:23:02] Scores: [['http://espn.go.com/mlb/team/_/name/sf/san-francisco-giants">SF</a>', '0', '0', '0', '0', '0', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates">PIT</a>', '0', '0', '0', '0', '1', '0', '0', '0', '-']]
+[01:23:02] Returned 6-21-2016's game results
+[01:23:02] Scraping 6-21-2016's period data: http://espn.go.com/mlb/playbyplay?id=360621123
+[01:23:03] Game url: http://espn.go.com/mlb/playbyplay?id=360621123
+[01:23:03] Team1: sf | Team2: pit
+[01:23:03] Cur team: pit | pittsburgh-pirates
+[01:23:03] Other team: sf
+[01:23:03] URL: http://espn.go.com/mlb/team/schedule/_/name/pit/year/2016/seasontype/2/half/1/pittsburgh-pirates
+[01:23:03] Scores: [['http://espn.go.com/mlb/team/_/name/sf/san-francisco-giants">SF</a>', '0', '0', '0', '7', '1', '1', '1', '5', '0'], ['http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates">PIT</a>', '0', '0', '0', '0', '0', '0', '1', '2', '1']]
+[01:23:03] Returned 6-22-2016's game results
+[01:23:03] Scraping 6-22-2016's period data: http://espn.go.com/mlb/playbyplay?id=360622123
+[01:23:03] Game url: http://espn.go.com/mlb/playbyplay?id=360622123
+[01:23:03] Team1: sf | Team2: pit
+[01:23:03] Cur team: pit | pittsburgh-pirates
+[01:23:03] Other team: sf
+[01:23:03] URL: http://espn.go.com/mlb/team/schedule/_/name/pit/year/2016/seasontype/2/half/1/pittsburgh-pirates
+[01:23:03] Scores: [['http://espn.go.com/mlb/team/_/name/sf/san-francisco-giants">SF</a>', '0', '1', '0', '1', '2', '3', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates">PIT</a>', '2', '3', '1', '0', '0', '0', '0', '0', '0']]
+[01:23:03] Returned 6-23-2016's game results
+[01:23:03] Scraping 6-23-2016's period data: http://espn.go.com/mlb/playbyplay?id=360623123
+[01:23:03] Game url: http://espn.go.com/mlb/playbyplay?id=360623123
+[01:23:03] Team1: sf | Team2: pit
+[01:23:03] Cur team: pit | pittsburgh-pirates
+[01:23:03] Other team: sf
+[01:23:03] URL: http://espn.go.com/mlb/team/schedule/_/name/pit/year/2016/seasontype/2/half/1/pittsburgh-pirates
+[01:23:03] Scores: [['http://espn.go.com/mlb/team/_/name/sf/san-francisco-giants">SF</a>', '0', '0', '4', '0', '0', '1', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates">PIT</a>', '1', '0', '2', '0', '0', '0', '0', '0', '0']]
+[01:23:03] Returned 6-24-2016's game results
+[01:23:03] Scraping 6-24-2016's period data: http://espn.go.com/mlb/playbyplay?id=360624123
+[01:23:03] Game url: http://espn.go.com/mlb/playbyplay?id=360624123
+[01:23:03] Team1: lad | Team2: pit
+[01:23:03] Cur team: pit | pittsburgh-pirates
+[01:23:03] Other team: lad
+[01:23:03] URL: http://espn.go.com/mlb/team/schedule/_/name/pit/year/2016/seasontype/2/half/1/pittsburgh-pirates
+[01:23:03] Scores: [['http://espn.go.com/mlb/team/_/name/lad/los-angeles-dodgers">LAD</a>', '0', '0', '2', '0', '2', '2', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates">PIT</a>', '0', '4', '1', '0', '2', '0', '1', '0', '-']]
+[01:23:04] Returned 6-25-2016's game results
+[01:23:04] Scraping 6-25-2016's period data: http://espn.go.com/mlb/playbyplay?id=360625123
+[01:23:04] Game url: http://espn.go.com/mlb/playbyplay?id=360625123
+[01:23:04] Team1: lad | Team2: pit
+[01:23:04] Cur team: pit | pittsburgh-pirates
+[01:23:04] Other team: lad
+[01:23:04] URL: http://espn.go.com/mlb/team/schedule/_/name/pit/year/2016/seasontype/2/half/1/pittsburgh-pirates
+[01:23:04] Scores: [['http://espn.go.com/mlb/team/_/name/lad/los-angeles-dodgers">LAD</a>', '0', '0', '0', '0', '0', '1', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates">PIT</a>', '0', '0', '0', '1', '0', '5', '0', '0', '-']]
+[01:23:04] Returned 6-26-2016's game results
+[01:23:04] Scraping 6-26-2016's period data: http://espn.go.com/mlb/playbyplay?id=360626123
+[01:23:04] Game url: http://espn.go.com/mlb/playbyplay?id=360626123
+[01:23:04] Team1: lad | Team2: pit
+[01:23:04] Cur team: pit | pittsburgh-pirates
+[01:23:04] Other team: lad
+[01:23:04] URL: http://espn.go.com/mlb/team/schedule/_/name/pit/year/2016/seasontype/2/half/1/pittsburgh-pirates
+[01:23:04] Scores: [['http://espn.go.com/mlb/team/_/name/lad/los-angeles-dodgers">LAD</a>', '0', '0', '2', '0', '1', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates">PIT</a>', '0', '4', '0', '0', '0', '0', '0', '0', '-']]
+[01:23:04] Returned 6-27-2016's game results
+[01:23:04] Scraping 6-27-2016's period data: http://espn.go.com/mlb/playbyplay?id=360627123
+[01:23:04] Game url: http://espn.go.com/mlb/playbyplay?id=360627123
+[01:23:04] Team1: lad | Team2: pit
+[01:23:04] Cur team: pit | pittsburgh-pirates
+[01:23:04] Other team: lad
+[01:23:04] URL: http://espn.go.com/mlb/team/schedule/_/name/pit/year/2016/seasontype/2/half/1/pittsburgh-pirates
+[01:23:04] Scores: [['http://espn.go.com/mlb/team/_/name/lad/los-angeles-dodgers">LAD</a>', '0', '0', '1', '0', '4', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates">PIT</a>', '4', '0', '0', '0', '0', '0', '0', '0', '0']]
+[01:23:04] Returned 6-28-2016's game results
+[01:23:04] Scraping 6-28-2016's period data: http://espn.go.com/mlb/playbyplay?id=360628112
+[01:23:05] Game url: http://espn.go.com/mlb/playbyplay?id=360628112
+[01:23:05] Team1: pit | Team2: sea
+[01:23:05] Cur team: pit | pittsburgh-pirates
+[01:23:05] Other team: sea
+[01:23:05] URL: http://espn.go.com/mlb/team/schedule/_/name/pit/year/2016/seasontype/2/half/1/pittsburgh-pirates
+[01:23:05] Scores: [['http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates">PIT</a>', '0', '0', '0', '0', '0', '0', '2', '0', '0'], ['http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">SEA</a>', '0', '0', '1', '1', '3', '0', '0', '0', '-']]
+[01:23:05] Saving data to ./mlb/team_data/2016/pittsburgh-pirates.csv
+[01:23:05] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/sea/year/2016/seasontype/2/half/1/seattle-mariners
+[01:23:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:05] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[01:23:05] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/sea/year/2016/seasontype/2/half/2/seattle-mariners
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[01:23:06] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[01:23:06] Loading existing data
+[01:23:06] Returned 6-15-2016's game results
+[01:23:06] Scraping 6-15-2016's period data: http://espn.go.com/mlb/playbyplay?id=360615130
+[01:23:06] Game url: http://espn.go.com/mlb/playbyplay?id=360615130
+[01:23:06] Team1: sea | Team2: tb
+[01:23:06] Cur team: sea | seattle-mariners
+[01:23:06] Other team: tb
+[01:23:06] URL: http://espn.go.com/mlb/team/schedule/_/name/sea/year/2016/seasontype/2/half/1/seattle-mariners
+[01:23:06] Scores: [['http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">SEA</a>', '0', '2', '0', '0', '0', '0', '0', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/tb/tampa-bay-rays">TB</a>', '0', '1', '0', '1', '0', '0', '0', '0', '0', '0', '1']]
+[01:23:06] Returned 6-16-2016's game results
+[01:23:06] Scraping 6-16-2016's period data: http://espn.go.com/mlb/playbyplay?id=360616130
+[01:23:06] Game url: http://espn.go.com/mlb/playbyplay?id=360616130
+[01:23:06] Team1: sea | Team2: tb
+[01:23:06] Cur team: sea | seattle-mariners
+[01:23:06] Other team: tb
+[01:23:06] URL: http://espn.go.com/mlb/team/schedule/_/name/sea/year/2016/seasontype/2/half/1/seattle-mariners
+[01:23:06] Scores: [['http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">SEA</a>', '3', '0', '0', '2', '0', '0', '0', '0', '1'], ['http://espn.go.com/mlb/team/_/name/tb/tampa-bay-rays">TB</a>', '0', '0', '2', '1', '0', '0', '0', '1', '0']]
+[01:23:06] Returned 6-17-2016's game results
+[01:23:06] Scraping 6-17-2016's period data: http://espn.go.com/mlb/playbyplay?id=360617102
+[01:23:07] Game url: http://espn.go.com/mlb/playbyplay?id=360617102
+[01:23:07] Team1: sea | Team2: bos
+[01:23:07] Cur team: sea | seattle-mariners
+[01:23:07] Other team: bos
+[01:23:07] URL: http://espn.go.com/mlb/team/schedule/_/name/sea/year/2016/seasontype/2/half/1/seattle-mariners
+[01:23:07] Scores: [['http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">SEA</a>', '2', '0', '1', '4', '0', '0', '1', '0', '0'], ['http://espn.go.com/mlb/team/_/name/bos/boston-red-sox">BOS</a>', '0', '0', '0', '2', '0', '0', '2', '0', '0']]
+[01:23:07] Returned 6-18-2016's game results
+[01:23:07] Scraping 6-18-2016's period data: http://espn.go.com/mlb/playbyplay?id=360618102
+[01:23:07] Game url: http://espn.go.com/mlb/playbyplay?id=360618102
+[01:23:07] Team1: sea | Team2: bos
+[01:23:07] Cur team: sea | seattle-mariners
+[01:23:07] Other team: bos
+[01:23:07] URL: http://espn.go.com/mlb/team/schedule/_/name/sea/year/2016/seasontype/2/half/1/seattle-mariners
+[01:23:07] Scores: [['http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">SEA</a>', '1', '1', '0', '0', '0', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/bos/boston-red-sox">BOS</a>', '0', '0', '0', '1', '3', '1', '0', '1', '-']]
+[01:23:07] Returned 6-19-2016's game results
+[01:23:07] Scraping 6-19-2016's period data: http://espn.go.com/mlb/playbyplay?id=360619102
+[01:23:07] Game url: http://espn.go.com/mlb/playbyplay?id=360619102
+[01:23:07] Team1: sea | Team2: bos
+[01:23:07] Cur team: sea | seattle-mariners
+[01:23:07] Other team: bos
+[01:23:07] URL: http://espn.go.com/mlb/team/schedule/_/name/sea/year/2016/seasontype/2/half/1/seattle-mariners
+[01:23:07] Scores: [['http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">SEA</a>', '0', '0', '0', '1', '0', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/bos/boston-red-sox">BOS</a>', '0', '0', '0', '0', '0', '1', '1', '0', '-']]
+[01:23:07] Returned 6-20-2016's game results
+[01:23:07] Scraping 6-20-2016's period data: http://espn.go.com/mlb/playbyplay?id=360620106
+[01:23:08] Game url: http://espn.go.com/mlb/playbyplay?id=360620106
+[01:23:08] Team1: sea | Team2: det
+[01:23:08] Cur team: sea | seattle-mariners
+[01:23:08] Other team: det
+[01:23:08] URL: http://espn.go.com/mlb/team/schedule/_/name/sea/year/2016/seasontype/2/half/1/seattle-mariners
+[01:23:08] Scores: [['http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">SEA</a>', '4', '0', '0', '2', '0', '0', '1', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/det/detroit-tigers">DET</a>', '1', '0', '2', '0', '0', '2', '0', '0', '0', '0', '1']]
+[01:23:08] Returned 6-21-2016's game results
+[01:23:08] Scraping 6-21-2016's period data: http://espn.go.com/mlb/playbyplay?id=360621106
+[01:23:08] Game url: http://espn.go.com/mlb/playbyplay?id=360621106
+[01:23:08] Team1: sea | Team2: det
+[01:23:08] Cur team: sea | seattle-mariners
+[01:23:08] Other team: det
+[01:23:08] URL: http://espn.go.com/mlb/team/schedule/_/name/sea/year/2016/seasontype/2/half/1/seattle-mariners
+[01:23:08] Scores: [['http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">SEA</a>', '0', '0', '0', '0', '0', '2', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/det/detroit-tigers">DET</a>', '0', '0', '0', '0', '0', '1', '1', '2', '-']]
+[01:23:08] Returned 6-22-2016's game results
+[01:23:08] Scraping 6-22-2016's period data: http://espn.go.com/mlb/playbyplay?id=360622106
+[01:23:09] Game url: http://espn.go.com/mlb/playbyplay?id=360622106
+[01:23:09] Team1: sea | Team2: det
+[01:23:09] Cur team: sea | seattle-mariners
+[01:23:09] Other team: det
+[01:23:09] URL: http://espn.go.com/mlb/team/schedule/_/name/sea/year/2016/seasontype/2/half/1/seattle-mariners
+[01:23:09] Scores: [['http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">SEA</a>', '0', '0', '0', '0', '1', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/det/detroit-tigers">DET</a>', '1', '2', '0', '1', '1', '0', '0', '0', '-']]
+[01:23:09] Returned 6-23-2016's game results
+[01:23:09] Scraping 6-23-2016's period data: http://espn.go.com/mlb/playbyplay?id=360623106
+[01:23:09] Game url: http://espn.go.com/mlb/playbyplay?id=360623106
+[01:23:09] Team1: sea | Team2: det
+[01:23:09] Cur team: sea | seattle-mariners
+[01:23:09] Other team: det
+[01:23:09] URL: http://espn.go.com/mlb/team/schedule/_/name/sea/year/2016/seasontype/2/half/1/seattle-mariners
+[01:23:09] Scores: [['http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">SEA</a>', '0', '0', '0', '1', '2', '1', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/det/detroit-tigers">DET</a>', '0', '2', '0', '2', '0', '0', '0', '0', '0', '1']]
+[01:23:09] Returned 6-24-2016's game results
+[01:23:09] Scraping 6-24-2016's period data: http://espn.go.com/mlb/playbyplay?id=360624112
+[01:23:09] Game url: http://espn.go.com/mlb/playbyplay?id=360624112
+[01:23:09] Team1: stl | Team2: sea
+[01:23:09] Cur team: sea | seattle-mariners
+[01:23:09] Other team: stl
+[01:23:09] URL: http://espn.go.com/mlb/team/schedule/_/name/sea/year/2016/seasontype/2/half/1/seattle-mariners
+[01:23:09] Scores: [['http://espn.go.com/mlb/team/_/name/stl/st.-louis-cardinals">STL</a>', '0', '0', '0', '0', '0', '0', '0', '3', '0'], ['http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">SEA</a>', '0', '0', '0', '0', '0', '1', '0', '0', '3']]
+[01:23:09] Returned 6-25-2016's game results
+[01:23:09] Scraping 6-25-2016's period data: http://espn.go.com/mlb/playbyplay?id=360625112
+[01:23:09] Game url: http://espn.go.com/mlb/playbyplay?id=360625112
+[01:23:09] Team1: stl | Team2: sea
+[01:23:09] Cur team: sea | seattle-mariners
+[01:23:09] Other team: stl
+[01:23:09] URL: http://espn.go.com/mlb/team/schedule/_/name/sea/year/2016/seasontype/2/half/1/seattle-mariners
+[01:23:09] Scores: [['http://espn.go.com/mlb/team/_/name/stl/st.-louis-cardinals">STL</a>', '0', '0', '1', '0', '3', '0', '0', '0', '0'], ['http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">SEA</a>', '3', '2', '0', '0', '0', '0', '0', '0', '-']]
+[01:23:09] Returned 6-26-2016's game results
+[01:23:09] Scraping 6-26-2016's period data: http://espn.go.com/mlb/playbyplay?id=360626112
+[01:23:10] Game url: http://espn.go.com/mlb/playbyplay?id=360626112
+[01:23:10] Team1: stl | Team2: sea
+[01:23:10] Cur team: sea | seattle-mariners
+[01:23:10] Other team: stl
+[01:23:10] URL: http://espn.go.com/mlb/team/schedule/_/name/sea/year/2016/seasontype/2/half/1/seattle-mariners
+[01:23:10] Scores: [['http://espn.go.com/mlb/team/_/name/stl/st.-louis-cardinals">STL</a>', '1', '0', '0', '0', '4', '1', '2', '1', '2'], ['http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">SEA</a>', '1', '1', '1', '0', '0', '3', '0', '0', '0']]
+[01:23:10] Returned 6-28-2016's game results
+[01:23:10] Scraping 6-28-2016's period data: http://espn.go.com/mlb/playbyplay?id=360628112
+[01:23:10] Game url: http://espn.go.com/mlb/playbyplay?id=360628112
+[01:23:10] Team1: pit | Team2: sea
+[01:23:10] Cur team: sea | seattle-mariners
+[01:23:10] Other team: pit
+[01:23:10] URL: http://espn.go.com/mlb/team/schedule/_/name/sea/year/2016/seasontype/2/half/1/seattle-mariners
+[01:23:10] Scores: [['http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates">PIT</a>', '0', '0', '0', '0', '0', '0', '2', '0', '0'], ['http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">SEA</a>', '0', '0', '1', '1', '3', '0', '0', '0', '-']]
+[01:23:10] Saving data to ./mlb/team_data/2016/seattle-mariners.csv
+

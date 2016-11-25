@@ -1,0 +1,16 @@
+
+Date: 3-26-2016
+Away: atlanta-hawks | Home: detroit-pistons
+Seasonal Record:      57.24%
+Home Away:            -63.83%
+Home away 10:         52.19%
+Last 10 games:        53.69%
+Avg points:           53.68%
+Avg points 10:        63.61%
+--------
+Total: -50.11%
+--------
+Perc chance to win: 50.11%
+Favorable team odds: -100.44097013429543
+Underdog team odds: +100.44097013429543
+

@@ -1,0 +1,21 @@
+---- Start output ----
+[14:12:28] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2015/seasontype/2/half/1/arizona-diamondbacks
+[14:12:29] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[14:12:29] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[14:12:29] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[14:12:29] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[14:12:29] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2015/seasontype/2/half/2/arizona-diamondbacks
+[14:12:30] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[14:12:30] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[14:12:30] Loading existing data
+[14:12:30] Saving data to ./mlb/team_data/2015/arizona-diamondbacks.csv
+[14:12:30] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/sd/year/2015/seasontype/2/half/1/san-diego-padres
+[14:12:30] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[14:12:30] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[14:12:30] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/sd/year/2015/seasontype/2/half/2/san-diego-padres
+[14:12:31] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[14:12:31] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[14:12:31] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[14:12:31] Loading existing data
+[14:12:31] Saving data to ./mlb/team_data/2015/san-diego-padres.csv
+

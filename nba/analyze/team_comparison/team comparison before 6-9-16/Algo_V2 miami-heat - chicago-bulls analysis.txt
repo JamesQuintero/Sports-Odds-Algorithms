@@ -1,0 +1,16 @@
+
+Date: 3-11-2016
+Away: miami-heat | Home: chicago-bulls
+Seasonal Record:      57.83%
+Home Away:            -62.55%
+Home away 10:         54.02%
+Last 10 games:        56.04%
+Avg points:           50.64%
+Avg points 10:        52.14%
+--------
+Total: -52.36%
+--------
+Perc chance to win: 52.36%
+Favorable team odds: -109.90764063811925
+Underdog team odds: +109.90764063811925
+

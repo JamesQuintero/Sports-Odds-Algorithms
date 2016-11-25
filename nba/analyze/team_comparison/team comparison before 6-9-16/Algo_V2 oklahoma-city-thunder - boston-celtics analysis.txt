@@ -1,0 +1,16 @@
+
+Date: 3-16-2016
+Away: oklahoma-city-thunder | Home: boston-celtics
+Seasonal Record:      59.58%
+Home Away:            -59.92%
+Home away 10:         -65.54%
+Last 10 games:        -56.04%
+Avg points:           53.61%
+Avg points 10:        -50.14%
+--------
+Total: -62.73%
+--------
+Perc chance to win: 62.73%
+Favorable team odds: -168.31231553528303
+Underdog team odds: +168.31231553528303
+

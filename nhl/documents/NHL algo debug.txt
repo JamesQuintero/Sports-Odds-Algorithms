@@ -1,0 +1,35 @@
+columbus-blue-jackets
+Season: -11 on downtrend
+Home-Away: 13-19 away
+   Last 10 away games: 5-5
+10 Games: 6-4
+   5 won out of 14 games | 35.714285714285715%
+Avg points: 2.63 - 3.07
+   Last 10 games: 3.0 - 2.5
+Losing streak against nyr: 5
+   Losing streak away: 3
+
+new-york-rangers
+Season: 10 on downtrend
+Home-Away: 22-9 home
+   Last 10 home games: 7-3
+10 Games: 7-3
+   6 won out of 10 games | 60.0%
+Avg points: 2.87 - 2.54
+   Last 10 games: 2.7 - 2.2
+Winning streak against cbj: 5
+   Winning streak home: 3
+
+
+Algo
+
+Record: -11 - 10 = -21/5 = -4.2
+Home away: (13-19) - (22-9) = -6 - 13 = -19/5 = -3.8
+10 home away: (5-5) - (7-3) = 0-4 = -4/5 = -0.8
+10 games: (6-4) - (7-3) = 2 - 4 = -2/5 = -0.4
+Avg points: (2.63-3.07) - (2.87-2.54) = -0.44 - 0.33 = -0.77/0.5 = -1.54
+10 Avg points: (3.0-2.5) - (2.7-2.2) = 0.5-0.5 = 0/0.5 = 0
+Win streak: -5 - 5 = -10/3 = -3.3
+Win streak home away: -3 - 3 = -6/3 = -2
+
+Total: -4.2 -3.8 -0.8 -1.54 + 0 -3.3 -2 =  -15.64

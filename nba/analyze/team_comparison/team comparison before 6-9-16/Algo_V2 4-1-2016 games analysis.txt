@@ -1,0 +1,161 @@
+
+Date: 4-1-2016
+Away: philadelphia-76ers | Home: charlotte-hornets
+Seasonal Record:      -90.07%
+Home Away:            -95.12%
+Home away 10:         -84.96%
+Last 10 games:        -62.57%
+Avg points:           -80.7%
+Avg points 10:        -74.87%
+--------
+Total: -92.59%
+--------
+Perc chance to win: 92.59%
+Favorable team odds: -1249.5276653171397
+Underdog team odds: +1249.5276653171397
+
+
+Date: 4-1-2016
+Away: dallas-mavericks | Home: detroit-pistons
+Seasonal Record:      -56.07%
+Home Away:            -72.12%
+Home away 10:         -70.85%
+Last 10 games:        -58.04%
+Avg points:           50.76%
+Avg points 10:        -53.4%
+--------
+Total: -71.48%
+--------
+Perc chance to win: 71.48%
+Favorable team odds: -250.63113604488083
+Underdog team odds: +250.63113604488083
+
+
+Date: 4-1-2016
+Away: brooklyn-nets | Home: new-york-knicks
+Seasonal Record:      -62.46%
+Home Away:            -75.33%
+Home away 10:         -54.02%
+Last 10 games:        51.0%
+Avg points:           -56.78%
+Avg points 10:        -50.46%
+--------
+Total: -68.89%
+--------
+Perc chance to win: 68.89%
+Favorable team odds: -221.44005143040823
+Underdog team odds: +221.44005143040823
+
+
+Date: 4-1-2016
+Away: cleveland-cavaliers | Home: atlanta-hawks
+Seasonal Record:      62.46%
+Home Away:            -55.81%
+Home away 10:         -54.02%
+Last 10 games:        -56.04%
+Avg points:           51.64%
+Avg points 10:        -57.62%
+--------
+Total: 52.42%
+--------
+Perc chance to win: 52.42%
+Favorable team odds: -110.17234131988229
+Underdog team odds: +110.17234131988229
+
+
+Date: 4-1-2016
+Away: toronto-raptors | Home: memphis-grizzlies
+Seasonal Record:      63.61%
+Home Away:            -58.58%
+Home away 10:         52.19%
+Last 10 games:        59.69%
+Avg points:           63.26%
+Avg points 10:        70.22%
+--------
+Total: 66.91%
+--------
+Perc chance to win: 66.91%
+Favorable team odds: -202.20610456331215
+Underdog team odds: +202.20610456331215
+
+
+Date: 4-1-2016
+Away: orlando-magic | Home: milwaukee-bucks
+Seasonal Record:      53.69%
+Home Away:            -76.35%
+Home away 10:         -59.94%
+Last 10 games:        51.0%
+Avg points:           51.77%
+Avg points 10:        58.11%
+--------
+Total: -68.14%
+--------
+Perc chance to win: 68.14%
+Favorable team odds: -213.87319522912742
+Underdog team odds: +213.87319522912742
+
+
+Date: 4-1-2016
+Away: minnesota-timberwolves | Home: utah-jazz
+Seasonal Record:      -66.43%
+Home Away:            -77.35%
+Home away 10:         -54.02%
+Last 10 games:        -56.04%
+Avg points:           -61.74%
+Avg points 10:        -65.23%
+--------
+Total: -71.89%
+--------
+Perc chance to win: 71.89%
+Favorable team odds: -255.74528637495555
+Underdog team odds: +255.74528637495555
+
+
+Date: 4-1-2016
+Away: miami-heat | Home: sacramento-kings
+Seasonal Record:      68.11%
+Home Away:            54.39%
+Home away 10:         54.02%
+Last 10 games:        53.69%
+Avg points:           55.83%
+Avg points 10:        53.56%
+--------
+Total: 61.97%
+--------
+Perc chance to win: 61.97%
+Favorable team odds: -162.95030239284776
+Underdog team odds: +162.95030239284776
+
+
+Date: 4-1-2016
+Away: boston-celtics | Home: golden-state-warriors
+Seasonal Record:      -80.49%
+Home Away:            -90.15%
+Home away 10:         -80.56%
+Last 10 games:        -61.0%
+Avg points:           -67.89%
+Avg points 10:        -73.91%
+--------
+Total: -85.35%
+--------
+Perc chance to win: 85.35%
+Favorable team odds: -582.5938566552899
+Underdog team odds: +582.5938566552899
+
+
+Date: 4-1-2016
+Away: washington-wizards | Home: phoenix-suns
+Seasonal Record:      70.87%
+Home Away:            61.25%
+Home away 10:         -52.19%
+Last 10 games:        58.04%
+Avg points:           63.52%
+Avg points 10:        70.7%
+--------
+Total: 70.78%
+--------
+Perc chance to win: 70.78%
+Favorable team odds: -242.23134839151265
+Underdog team odds: +242.23134839151265
+
+

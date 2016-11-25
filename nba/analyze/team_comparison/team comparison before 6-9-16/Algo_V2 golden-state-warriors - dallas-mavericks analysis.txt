@@ -1,0 +1,16 @@
+
+Date: 3-18-2016
+Away: golden-state-warriors | Home: dallas-mavericks
+Seasonal Record:      83.07%
+Home Away:            75.33%
+Home away 10:         65.54%
+Last 10 games:        61.0%
+Avg points:           77.65%
+Avg points 10:        63.61%
+--------
+Total: 80.36%
+--------
+Perc chance to win: 80.36%
+Favorable team odds: -409.1649694501018
+Underdog team odds: +409.1649694501018
+

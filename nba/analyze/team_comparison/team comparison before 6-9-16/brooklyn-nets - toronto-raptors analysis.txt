@@ -1,0 +1,18 @@
+
+Date: 3-8-2016
+Away: brooklyn-nets | Home: toronto-raptors
+Seasonal Record:      -48.0/10 = -4.8
+Home Away:            -32.0/10 = -3.2
+Home away 10:         -12.0/5 = -2.4
+Last 10 games:        -4.0/5 = -0.8
+Avg points:           -10.88/8 = -1.36
+Avg points 10:        -6.96/8 = -0.87
+Win streak:           -4.0/3 = -1.3333333333333333
+Win streak home away: -2.0/3 = -0.6666666666666666
+--------
+Total: -15.44
+--------
+Perc chance to win: 81.83792482853224%
+Favorable team odds: -450.5978752752763
+Underdog team odds: +450.5978752752763
+

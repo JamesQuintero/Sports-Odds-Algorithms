@@ -1,0 +1,332 @@
+---- Start output ----
+[00:54:26] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/seasontype/2/half/1/los-angeles-angels
+[00:54:27] Date: 4-4-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 4-5-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360404103
+[00:54:27] Date: 4-7-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360405103
+[00:54:27] Date: 4-8-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360407103
+[00:54:27] Date: 4-9-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360408103
+[00:54:27] Date: 4-10-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360409103
+[00:54:27] Date: 4-11-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360410103
+[00:54:27] Date: 4-12-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360411111
+[00:54:27] Date: 4-13-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360412111
+[00:54:27] Date: 4-15-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360413111
+[00:54:27] Date: 4-16-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360415109
+[00:54:27] Date: 4-17-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360416109
+[00:54:27] Date: 4-18-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360417109
+[00:54:27] Date: 4-19-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360418104
+[00:54:27] Date: 4-20-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360419104
+[00:54:27] Date: 4-21-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360420104
+[00:54:27] Date: 4-22-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360421104
+[00:54:27] Date: 4-23-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360422103
+[00:54:27] Date: 4-24-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360423103
+[00:54:27] Date: 4-25-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360424103
+[00:54:27] Date: 4-26-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360425103
+[00:54:27] Date: 4-27-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360426103
+[00:54:27] Date: 4-29-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360427103
+[00:54:27] Date: 4-30-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360429113
+[00:54:27] Date: 5-1-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360430113
+[00:54:27] Date: 5-2-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360501113
+[00:54:27] Date: 5-3-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360502108
+[00:54:27] Date: 5-4-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360503108
+[00:54:27] Date: 5-6-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360504108
+[00:54:27] Date: 5-7-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360506103
+[00:54:27] Date: 5-8-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360507103
+[00:54:27] Date: 5-10-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360508103
+[00:54:27] Date: 5-11-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360510103
+[00:54:27] Date: 5-12-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360511103
+[00:54:27] Date: 5-13-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360512103
+[00:54:27] Date: 5-14-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360513112
+[00:54:27] Date: 5-15-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360514112
+[00:54:27] Date: 5-16-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360515112
+[00:54:27] Date: 5-17-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360516119
+[00:54:27] Date: 5-18-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360517119
+[00:54:27] Date: 5-19-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360518103
+[00:54:27] Date: 5-20-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360519103
+[00:54:27] Date: 5-21-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360520103
+[00:54:27] Date: 5-22-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360521103
+[00:54:27] Date: 5-23-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360522103
+[00:54:27] Date: 5-24-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360523113
+[00:54:27] Date: 5-25-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360524113
+[00:54:27] Date: 5-27-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360525113
+[00:54:27] Date: 5-28-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360527103
+[00:54:27] Date: 5-29-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360528103
+[00:54:27] Date: 5-30-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360529103
+[00:54:27] Date: 5-31-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360530103
+[00:54:27] Date: 6-1-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360531103
+[00:54:27] Date: 6-3-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360601103
+[00:54:27] Date: 6-4-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360603123
+[00:54:27] Date: 6-5-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360604123
+[00:54:27] Date: 6-6-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360605123
+[00:54:27] Date: 6-7-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360606110
+[00:54:27] Date: 6-8-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360607110
+[00:54:27] Date: 6-9-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360608110
+[00:54:27] Date: 6-10-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360609110
+[00:54:27] Date: 6-11-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360610103
+[00:54:27] Date: 6-12-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360611103
+[00:54:27] Date: 6-13-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360612103
+[00:54:27] Date: 6-14-2016
+[00:54:27] Game link: http://espn.go.com/mlb/recap?id=360613103
+[00:54:27] Date: 6-15-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 6-17-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 6-18-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 6-19-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 6-20-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 6-21-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 6-22-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 6-23-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 6-24-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 6-25-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 6-26-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 6-27-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 6-28-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 6-29-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-1-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-2-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-3-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-4-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-5-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-6-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-7-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-8-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-9-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-10-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[00:54:27] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/seasontype/2/half/2/los-angeles-angels
+[00:54:27] Date: 7-15-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-16-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-17-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-18-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-19-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-20-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-22-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-23-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-24-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-25-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-26-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-27-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-28-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-29-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-30-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 7-31-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-2-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-3-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-4-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-5-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-6-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-7-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-9-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-10-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-11-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-12-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-13-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-14-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-15-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-16-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-17-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-18-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-19-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-20-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-21-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-23-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-24-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-25-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-26-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-27-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-28-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-29-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-30-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 8-31-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-2-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-3-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-4-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-5-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-6-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-7-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-9-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-10-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-11-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-12-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-13-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-14-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-15-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-16-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-17-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-18-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-19-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-20-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-21-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-22-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-23-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-24-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-25-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-26-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-27-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-28-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 9-30-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 10-1-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] Date: 10-2-2016
+[00:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[00:54:27] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[00:54:27] Loading existing data
+[00:54:27] Saving data to ./mlb/team_data/2016/los-angeles-angels.csv
+

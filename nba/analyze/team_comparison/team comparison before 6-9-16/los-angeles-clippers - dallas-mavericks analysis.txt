@@ -1,0 +1,18 @@
+
+Date: 3-7-2016
+Away: los-angeles-clippers | Home: dallas-mavericks
+Seasonal Record:      16.0/10 = 1.6
+Home Away:            3.0/10 = 0.3
+Home away 10:         4.0/5 = 0.8
+Last 10 games:        2.0/5 = 0.4
+Avg points:           4.48/8 = 0.56
+Avg points 10:        1.52/8 = 0.19
+Win streak:           -2.0/3 = -0.6666666666666666
+Win streak home away: -4.0/3 = -1.3333333333333333
+--------
+Total: 1.86
+--------
+Perc chance to win: 52.785293827160494%
+Favorable team odds: -111.79841643815101
+Underdog team odds: +111.79841643815101
+

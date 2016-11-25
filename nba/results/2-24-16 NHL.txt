@@ -1,0 +1,66 @@
+montreal-canadiens
+Season: -4 on downtrend
+Home-Away: 12-18 away
+   Last 10 away games: 2-8
+10 Games: 4-6
+   0 won out of 5 games | 0.0%
+Avg points: 2.71 - 2.75
+   Last 10 games: 2.7 - 3.1
+
+
+washington-capitals
+Season: 30 on uptrend
+Home-Away: 23-6 home
+   Last 10 home games: 8-2
+10 Games: 9-1
+   1 won out of 3 games | 33.33333333333333%
+Avg points: 3.34 - 2.29
+   Last 10 games: 3.4 - 2.4
+
+
+Capitals (Really good)
+
+
+
+
+pittsburgh-penguins
+Season: 2 on downtrend
+Home-Away: 13-15 away
+   Last 10 away games: 4-6
+10 Games: 6-4
+   5 won out of 7 games | 71.42857142857143%
+Avg points: 2.65 - 2.6
+   Last 10 games: 3.3 - 3.1
+
+boston-bruins
+Season: 4 on uptrend
+Home-Away: 12-18 home
+   Last 10 home games: 3-7
+10 Games: 6-4
+   11 won out of 24 games | 45.83333333333333%
+Avg points: 3.08 - 2.81
+   Last 10 games: 3.5 - 3.4
+
+Anyone's game
+
+
+
+
+
+buffalo-sabres
+Season: -12 on uptrend
+Home-Away: 13-16 away
+   Last 10 away games: 5-5
+10 Games: 4-6
+   7 won out of 19 games | 36.84210526315789%
+Avg points: 2.4 - 2.76
+   Last 10 games: 3.0 - 3.0
+
+anaheim-ducks
+Season: 4 on downtrend
+Home-Away: 17-12 home
+   Last 10 home games: 7-3
+10 Games: 8-2
+   6 won out of 8 games | 75.0%
+Avg points: 2.51 - 2.43
+   Last 10 games: 4.2 - 2.8

@@ -1,0 +1,16 @@
+
+Date: 4-1-2016
+Away: washington-wizards | Home: phoenix-suns
+Seasonal Record:      70.87%
+Home Away:            61.25%
+Home away 10:         -52.19%
+Last 10 games:        58.04%
+Avg points:           63.52%
+Avg points 10:        70.7%
+--------
+Total: 70.78%
+--------
+Perc chance to win: 70.78%
+Favorable team odds: -242.23134839151265
+Underdog team odds: +242.23134839151265
+

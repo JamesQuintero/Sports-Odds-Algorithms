@@ -1,0 +1,16 @@
+
+Date: 4-1-2016
+Away: minnesota-timberwolves | Home: utah-jazz
+Seasonal Record:      -66.43%
+Home Away:            -77.35%
+Home away 10:         -54.02%
+Last 10 games:        -56.04%
+Avg points:           -61.74%
+Avg points 10:        -65.23%
+--------
+Total: -71.89%
+--------
+Perc chance to win: 71.89%
+Favorable team odds: -255.74528637495555
+Underdog team odds: +255.74528637495555
+

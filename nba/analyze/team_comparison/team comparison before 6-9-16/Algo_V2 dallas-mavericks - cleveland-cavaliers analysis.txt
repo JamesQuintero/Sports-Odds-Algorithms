@@ -1,0 +1,16 @@
+
+Date: 3-16-2016
+Away: dallas-mavericks | Home: cleveland-cavaliers
+Seasonal Record:      -68.11%
+Home Away:            -78.32%
+Home away 10:         -65.54%
+Last 10 games:        -56.04%
+Avg points:           -64.5%
+Avg points 10:        -58.11%
+--------
+Total: -73.21%
+--------
+Perc chance to win: 73.21%
+Favorable team odds: -273.27360955580434
+Underdog team odds: +273.27360955580434
+

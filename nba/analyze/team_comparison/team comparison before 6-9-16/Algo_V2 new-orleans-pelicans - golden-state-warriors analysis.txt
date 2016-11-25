@@ -1,0 +1,16 @@
+
+Date: 3-14-2016
+Away: new-orleans-pelicans | Home: golden-state-warriors
+Seasonal Record:      -90.56%
+Home Away:            -95.48%
+Home away 10:         -84.96%
+Last 10 games:        -62.57%
+Avg points:           -83.01%
+Avg points 10:        -72.31%
+--------
+Total: -93.02%
+--------
+Perc chance to win: 93.02%
+Favorable team odds: -1332.6647564469906
+Underdog team odds: +1332.6647564469906
+

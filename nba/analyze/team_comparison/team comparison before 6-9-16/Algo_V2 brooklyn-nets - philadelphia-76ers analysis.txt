@@ -1,0 +1,16 @@
+
+Date: 3-11-2016
+Away: brooklyn-nets | Home: philadelphia-76ers
+Seasonal Record:      64.17%
+Home Away:            55.81%
+Home away 10:         54.02%
+Last 10 games:        59.69%
+Avg points:           57.42%
+Avg points 10:        55.66%
+--------
+Total: 61.93%
+--------
+Perc chance to win: 61.93%
+Favorable team odds: -162.67402153926977
+Underdog team odds: +162.67402153926977
+

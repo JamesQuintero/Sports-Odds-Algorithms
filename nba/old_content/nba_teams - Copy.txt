@@ -1,0 +1,65 @@
+por | portland-trail-blazers
+mil | milwaukee-bucks
+chi | chicago-bulls
+cle | cleveland-cavaliers
+bos | boston-celtics
+lac | los-angeles-clippers
+mem | memphis-grizzlies
+atl | atlanta-hawks
+mia | miami-heat
+cha | charlotte-hornets
+utah | utah-jazz
+sac | sacramento-kings
+ny | new-york-knicks
+lal | los-angeles-lakers
+orl | orlando-magic
+dal | dallas-mavericks
+bkn | brooklyn-nets
+den | denver-nuggets
+ind | indiana-pacers
+no | new-orleans-pelicans
+det | detroit-pistons
+tor | toronto-raptors
+hou | houston-rockets
+phi | philadelphia-76ers
+sa | san-antonio-spurs
+phx | phoenix-suns
+okc | oklahoma-city-thunder
+min | minnesota-timberwolves
+gs | golden-state-warriors
+wsh | washington-wizards
+
+
+
+
+
+atl | atlanta-hawks
+bos | boston-celtics
+bkn | brooklyn-nets
+cha | charlotte-hornets
+chi | chicago-bulls
+cle | cleveland-cavaliers
+dal | dallas-mavericks
+den | denver-nuggets
+det | detroit-pistons
+gs | golden-state-warriors
+hou | houston-rockets
+ind | indiana-pacers
+lac | los-angeles-clippers
+lal | los-angeles-lakers
+mem | memphis-grizzlies
+mia | miami-heat
+mil | milwaukee-bucks
+min | minnesota-timberwolves
+no | new-orleans-pelicans
+ny | new-york-knicks
+okc | oklahoma-city-thunder
+orl | orlando-magic
+phi | philadelphia-76ers
+phx | phoenix-suns
+por | portland-trail-blazers
+sac | sacramento-kings
+sa | san-antonio-spurs
+tor | toronto-raptors
+utah | utah-jazz
+wsh | washington-wizards

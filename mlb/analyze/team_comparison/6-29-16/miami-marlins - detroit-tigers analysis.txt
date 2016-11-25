@@ -1,0 +1,17 @@
+
+Date: 6-29-2016
+Away: miami-marlins | Home: detroit-tigers
+Seasonal Record:      51.54%
+Home Away:            50.26%
+Home away 10:         -51.99%
+Last 10 games:        51.81%
+Avg points:           50.53%
+Avg points 10:        52.41%
+--------
+Total: 50.2%
+--------
+Perc chance to win: 50.2%
+Favorable team odds: -100.80321285140563
+Underdog team odds: +100.80321285140563
+
+Actual: +105, -125

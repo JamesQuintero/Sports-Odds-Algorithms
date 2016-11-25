@@ -1,0 +1,16 @@
+
+Date: 3-12-2016
+Away: indiana-pacers | Home: dallas-mavericks
+Seasonal Record:      54.29%
+Home Away:            -61.25%
+Home away 10:         -52.19%
+Last 10 games:        53.69%
+Avg points:           51.38%
+Avg points 10:        -54.21%
+--------
+Total: -53.48%
+--------
+Perc chance to win: 53.48%
+Favorable team odds: -114.96130696474634
+Underdog team odds: +114.96130696474634
+

@@ -1,0 +1,17 @@
+
+Date: 7-2-2016
+Away: detroit-tigers | Home: tampa-bay-rays
+Seasonal Record:      54.63%
+Home Away:            -50.86%
+Home away 10:         51.99%
+Last 10 games:        55.36%
+Avg points:           55.12%
+Avg points 10:        55.57%
+Win streak home away: 50%
+--------
+Total: 55.46%
+--------
+Perc chance to win: 55.46%
+Favorable team odds: -124.51728783116303
+Underdog team odds: +124.51728783116303
+

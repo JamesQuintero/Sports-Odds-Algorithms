@@ -1,0 +1,16 @@
+
+Date: 3-23-2016
+Away: milwaukee-bucks | Home: cleveland-cavaliers
+Seasonal Record:      -75.75%
+Home Away:            -91.88%
+Home away 10:         -75.86%
+Last 10 games:        -56.04%
+Avg points:           -72.8%
+Avg points 10:        -59.41%
+--------
+Total: -83.87%
+--------
+Perc chance to win: 83.87%
+Favorable team odds: -519.9628022318664
+Underdog team odds: +519.9628022318664
+

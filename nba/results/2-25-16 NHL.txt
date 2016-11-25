@@ -1,0 +1,241 @@
+minnesota-wild
+Season: -6 on downtrend
+Home-Away: 12-18 away
+   Last 10 away games: 4-6
+10 Games: 4-6
+   5 won out of 12 games | 41.66666666666667%
+Avg points: 2.61 - 2.53
+   Last 10 games: 3.3 - 3.2
+
+philadelphia-flyers
+Season: -7 on uptrend
+Home-Away: 13-15 home
+   Last 10 home games: 4-6
+10 Games: 3-7
+   2 won out of 5 games | 40.0%
+Avg points: 2.45 - 2.72
+   Last 10 games: 2.6 - 2.9
+
+Anyone's game
+
+
+
+
+new-jersey-devils
+Season: -1 on uptrend
+Home-Away: 15-15 away
+   Last 10 away games: 4-6
+10 Games: 4-6
+   10 won out of 15 games | 66.66666666666666%
+Avg points: 2.26 - 2.34
+   Last 10 games: 2.1 - 2.29
+columbus-blue-jackets
+Season: -13 on downtrend
+Home-Away: 11-18 home
+   Last 10 home games: 4-6
+10 Games: 5-5
+   6 won out of 7 games | 85.71428571428571%
+Avg points: 2.55 - 3.11
+   Last 10 games: 2.29 - 2.7
+
+Devils (ok)
+
+
+
+
+
+
+
+carolina-hurricanes
+Season: -5 on uptrend
+Home-Away: 12-17 away
+   Last 10 away games: 4-6
+10 Games: 5-5
+   11 won out of 22 games | 50.0%
+Avg points: 2.47 - 2.63
+   Last 10 games: 2.8 - 2.6
+
+
+toronto-maple-leafs
+Season: -18 on uptrend
+Home-Away: 8-18 home
+   Last 10 home games: 2-8
+10 Games: 3-7
+   3 won out of 11 games | 27.27272727272727%
+Avg points: 2.44 - 3.01
+   Last 10 games: 2.8 - 4.09
+
+
+Hurricanes (ok)
+
+
+
+
+
+
+arizona-coyotes
+Season: -6 on uptrend
+Home-Away: 11-17 away
+   Last 10 away games: 4-6
+10 Games: 3-7
+   5 won out of 10 games | 50.0%
+Avg points: 2.73 - 3.08
+   Last 10 games: 3.1 - 3.3
+
+florida-panthers
+Season: 9 on uptrend
+Home-Away: 19-13 home
+   Last 10 home games: 6-4
+10 Games: 5-5
+   4 won out of 6 games | 66.66666666666666%
+Avg points: 2.77 - 2.32
+   Last 10 games: 2.9 - 2.9
+
+Panthers (ok)
+
+
+
+
+new-york-rangers
+Season: 8 on downtrend
+Home-Away: 12-17 away
+   Last 10 away games: 5-5
+10 Games: 7-3
+   4 won out of 8 games | 50.0%
+Avg points: 2.88 - 2.58
+   Last 10 games: 2.9 - 2.29
+
+st-louis-blues
+Season: 8 on downtrend
+Home-Away: 19-14 home
+   Last 10 home games: 6-4
+10 Games: 7-3
+   4 won out of 10 games | 40.0%
+Avg points: 2.51 - 2.41
+   Last 10 games: 2.7 - 2.2
+
+Anyone's game. Probably blues though since they're at home.
+
+
+
+
+
+nashville-predators
+Season: -3 on downtrend
+Home-Away: 14-17 away
+   Last 10 away games: 7-3
+10 Games: 5-5
+   6 won out of 13 games | 46.15384615384615%
+Avg points: 2.6 - 2.57
+   Last 10 games: 3.0 - 2.5
+
+chicago-blackhawks
+Season: 14 on uptrend
+Home-Away: 22-9 home
+   Last 10 home games: 7-3
+10 Games: 5-5
+   12 won out of 18 games | 66.66666666666666%
+Avg points: 2.83 - 2.38
+   Last 10 games: 2.9 - 3.1
+
+Blackhawks (little).
+
+
+
+
+
+
+winnipeg-jets
+Season: -9 on downtrend
+Home-Away: 12-19 away
+   Last 10 away games: 5-5
+10 Games: 3-7
+   5 won out of 10 games | 50.0%
+Avg points: 2.57 - 2.98
+   Last 10 games: 2.6 - 3.6
+
+dallas-stars
+Season: 15 on uptrend
+Home-Away: 20-8 home
+   Last 10 home games: 6-4
+10 Games: 6-4
+   8 won out of 11 games | 72.72727272727273%
+Avg points: 3.26 - 2.81
+   Last 10 games: 3.2 - 3.6
+
+Stars (good)
+
+
+
+
+
+
+
+new-york-islanders
+Season: 6 on downtrend
+Home-Away: 13-14 away
+   Last 10 away games: 5-5
+10 Games: 6-4
+   8 won out of 17 games | 47.05882352941176%
+Avg points: 2.89 - 2.5
+   Last 10 games: 3.3 - 2.4
+
+calgary-flames
+Season: -7 on downtrend
+Home-Away: 17-13 home
+   Last 10 home games: 4-6
+10 Games: 4-6
+   8 won out of 15 games | 53.333333333333336%
+Avg points: 2.72 - 3.08
+   Last 10 games: 3.1 - 3.5
+
+Islanders (little-good)
+
+
+
+
+
+
+ottawa-senators
+Season: -3 on downtrend
+Home-Away: 12-18 away
+   Last 10 away games: 4-6
+10 Games: 6-4
+   3 won out of 6 games | 50.0%
+Avg points: 2.88 - 3.06
+   Last 10 games: 3.2 - 2.6
+
+vancouver-canucks
+Season: -13 on downtrend
+Home-Away: 10-18 home
+   Last 10 home games: 3-7
+10 Games: 3-7
+   4 won out of 15 games | 26.666666666666668%
+Avg points: 2.4 - 2.84
+   Last 10 games: 2.1 - 3.1
+
+Senators (little)
+
+
+
+
+
+edmonton-oilers
+Season: -17 on uptrend
+Home-Away: 7-23 away
+   Last 10 away games: 2-8
+10 Games: 2-8
+   2 won out of 2 games | 100.0%
+Avg points: 2.47 - 3.08
+   Last 10 games: 2.4 - 3.8
+
+los-angeles-kings
+Season: 11 on uptrend
+Home-Away: 16-11 home
+   Last 10 home games: 5-5
+10 Games: 5-5
+   6 won out of 10 games | 60.0%
+Avg points: 2.69 - 2.33
+   Last 10 games: 3.0 - 2.5
+
+Kings (good)

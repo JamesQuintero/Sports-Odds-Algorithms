@@ -1,0 +1,75 @@
+---- Western Conference ----
+
+--Round 1--
+GS vs HOU: 89.75%
+GS @ Hou: 83.0%
+Conclusion: GS Sweep in 4 games
+
+LAC vs POR: 78.5%
+LAC @ POR: 50%
+Conclusion: LAC Win in 6 games
+
+OKC vs DAL: 74.37%
+OKC @ DAL: 67.6%
+Conclusion: OKC Win in 5 games
+
+SAS vs MEM: 89.95%
+SAS @ MEM: 80%
+Conclusion: SAS Sweep in 4 games
+
+--Round 2--
+GS vs LAC: 78.5%
+GS @ LAC: 69.0%
+Conclusion: GS Win in 5 games
+
+OKC vs SAS: 50%
+OKC @ SAS: -76%
+Conclusion: SAS Win in 6 games
+
+--Conference Finals--
+GS vs SAS: 69.6%
+GS @ SAS: 53.2%
+Conclusion: GS Win in 5-6 games
+
+
+--- Eastern Conference ---
+
+--Round 1--
+CLE vs DET: 77.36%
+CLE @ DET: 65%
+Conclusion: CLE Win in 5 games
+
+ATL vs BOS: 67.12%
+ATL @ BOS: -53.2%
+Conclusion: ATL Win in 6-7 games
+
+MIA vs CHA: 67.63%
+MIA @ CHA: -69.4%
+Conclusion: ? in 7 games
+
+TOR vs IND: 73.65%
+TOR @ IND: 54.05%
+Conclusion: TOR Win in 5-6 games
+
+--Round 2--
+CLE vs ATL: 71.16%
+CLE @ ATL: 51.55%
+Conclusion: CLE Win in 5-6 games
+
+MIA vs TOR: 64.04%
+MIA @ TOR: -71.93%
+Conclusion: TOR Win in 7 games
+
+--Round 3--
+CLE vs TOR: 67.63%
+CLE @ TOR: -65.5%
+Conclusion: CLE Win in 7 games
+
+
+
+
+
+------ FINALS ------
+GS vs CLE: 76.72%
+GS @ CLE: 64.26%
+Conclusion: GS win in 5 games

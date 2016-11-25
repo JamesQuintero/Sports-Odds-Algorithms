@@ -1,0 +1,17 @@
+
+Date: 7-6-2016
+Away: los-angeles-angels | Home: tampa-bay-rays
+Seasonal Record:      -51.28%
+Home Away:            -51.47%
+Home away 10:         50.62%
+Last 10 games:        51.6%
+Avg points:           52.25%
+Avg points 10:        52.17%
+Win streak home away: 50%
+--------
+Total: 52.21%
+--------
+Perc chance to win: 52.21%
+Favorable team odds: -109.24879681941829
+Underdog team odds: +109.24879681941829
+

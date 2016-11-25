@@ -1,0 +1,18 @@
+
+Date: 3-11-2016
+Away: houston-rockets | Home: boston-celtics
+Seasonal Record:      -13.0/10 = -1.3
+Home Away:            -16.0/10 = -1.6
+Home away 10:         -10.0/5 = -2.0
+Last 10 games:        -4.0/5 = -0.8
+Avg points:           -5.36/8 = -0.67
+Avg points 10:        -3.44/8 = -0.43
+Win streak:           -2.0/3 = -0.6666666666666666
+Win streak home away: 4.0/3 = 1.3333333333333333
+--------
+Total: -6.14
+--------
+Perc chance to win: 63.19761207133058%
+Favorable team odds: -171.72149859900537
+Underdog team odds: +171.72149859900537
+

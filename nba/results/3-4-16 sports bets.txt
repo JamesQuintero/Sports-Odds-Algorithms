@@ -1,0 +1,168 @@
+Date: 3-4-2016
+Away: indiana-pacers | Home: charlotte-hornets
+Seasonal Record:      -1.0/10 = -0.1
+Home Away:            -15.0/10 = -1.5
+Home away 10:         -4.0/5 = -0.8
+Last 10 games:        -6.0/5 = -1.2
+Avg points:           0.08/8 = 0.01
+Avg points 10:        -11.44/8 = -1.43
+Win streak:           -4.0/3 = -1.3333333333333333
+Win streak home away: 2.0/3 = 0.6666666666666666
+--------
+Total: -5.69
+--------
+Perc chance to win: 62.157235528120715%
+Favorable team odds: -164.25130773495513
+Underdog team odds: +164.25130773495513
+($5 Hornets -145)
+
+
+Date: 3-4-2016
+Away: phoenix-suns | Home: orlando-magic
+Seasonal Record:      -25.0/10 = -2.5
+Home Away:            -23.0/10 = -2.3
+Home away 10:         -10.0/5 = -2.0
+Last 10 games:        -8.0/5 = -1.6
+Avg points:           -6.16/8 = -0.77
+Avg points 10:        -15.28/8 = -1.91
+Win streak:           4.0/3 = 1.3333333333333333
+Win streak home away: 4.0/3 = 1.3333333333333333
+--------
+Total: -8.42
+--------
+Perc chance to win: 68.27247297668038%
+Favorable team odds: -215.18372020138963
+Underdog team odds: +215.18372020138963
+
+
+Date: 3-4-2016
+Away: new-york-knicks | Home: boston-celtics
+Seasonal Record:      -24.0/10 = -2.4
+Home Away:            -20.0/10 = -2.0
+Home away 10:         -16.0/5 = -3.2
+Last 10 games:        -10.0/5 = -2.0
+Avg points:           -7.28/8 = -0.91
+Avg points 10:        -12.72/8 = -1.59
+Win streak:           -2.0/3 = -0.6666666666666666
+Win streak home away: -4.0/3 = -1.3333333333333333
+--------
+Total: -14.11
+--------
+Perc chance to win: 79.50659355281206%
+Favorable team odds: -387.9618244907341
+Underdog team odds: +387.9618244907341
+
+
+Date: 3-4-2016
+Away: portland-trail-blazers | Home: toronto-raptors
+Seasonal Record:      -17.0/10 = -1.7
+Home Away:            -19.0/10 = -1.9
+Home away 10:         -4.0/5 = -0.8
+Last 10 games:        2.0/5 = 0.4
+Avg points:           -3.36/8 = -0.42
+Avg points 10:        0.72/8 = 0.09
+Win streak:           -2.0/3 = -0.6666666666666666
+Win streak home away: 4.0/3 = 1.3333333333333333
+--------
+Total: -3.65
+--------
+Perc chance to win: 57.28060013717421%
+Favorable team odds: -134.0856854756977
+Underdog team odds: +134.0856854756977
+($5 Trail Blazers +210)
+($5 Trail Blazers +6 (-110))
+
+
+Date: 3-4-2016
+Away: minnesota-timberwolves | Home: milwaukee-bucks
+Seasonal Record:      -12.0/10 = -1.2
+Home Away:            -18.0/10 = -1.8
+Home away 10:         -8.0/5 = -1.6
+Last 10 games:        -2.0/5 = -0.4
+Avg points:           0.16/8 = 0.02
+Avg points 10:        -5.52/8 = -0.69
+Win streak:           -6.0/3 = -2.0
+Win streak home away: -2.0/3 = -0.6666666666666666
+--------
+Total: -8.34
+--------
+Perc chance to win: 68.09996049382715%
+Favorable team odds: -213.47923559984747
+Underdog team odds: +213.47923559984747
+(Real odds were +190 and -230, so not favorable to bet)
+
+
+Date: 3-4-2016
+Away: utah-jazz | Home: memphis-grizzlies
+Seasonal Record:      -16.0/10 = -1.6
+Home Away:            -24.0/10 = -2.4
+Home away 10:         -10.0/5 = -2.0
+Last 10 games:        -6.0/5 = -1.2
+Avg points:           0.96/8 = 0.12
+Avg points 10:        -6.88/8 = -0.86
+Win streak:           4.0/3 = 1.3333333333333333
+Win streak home away: 4.0/3 = 1.3333333333333333
+--------
+Total: -5.26
+--------
+Perc chance to win: 61.15115939643347%
+Favorable team odds: -157.40793919811208
+Underdog team odds: +157.40793919811208
+($5 Grizzlies PICK(-110))
+
+
+Date: 3-4-2016
+Away: washington-wizards | Home: cleveland-cavaliers
+Seasonal Record:      -25.0/10 = -2.5
+Home Away:            -20.0/10 = -2.0
+Home away 10:         -8.0/5 = -1.6
+Last 10 games:        0.0/5 = 0.0
+Avg points:           -6.96/8 = -0.87
+Avg points 10:        -1.76/8 = -0.22
+Win streak:           2.0/3 = 0.6666666666666666
+Win streak home away: 2.0/3 = 0.6666666666666666
+--------
+Total: -5.86
+--------
+Perc chance to win: 62.551768449931416%
+Favorable team odds: -167.03530677089304
+Underdog team odds: +167.03530677089304
+($
+
+
+Date: 3-4-2016
+Away: brooklyn-nets | Home: denver-nuggets
+Seasonal Record:      -14.0/10 = -1.4
+Home Away:            -10.0/10 = -1.0
+Home away 10:         -4.0/5 = -0.8
+Last 10 games:        0.0/5 = 0.0
+Avg points:           -3.52/8 = -0.44
+Avg points 10:        -2.0/8 = -0.25
+Win streak:           8.0/3 = 2.6666666666666665
+Win streak home away: 4.0/3 = 1.3333333333333333
+--------
+Total: 0.1
+--------
+Perc chance to win: 50%
+Favorable team odds: -100.0
+Underdog team odds: +100.0
+($5 Nets +6(-115))
+($5 Nets +190)
+
+
+Date: 3-4-2016
+Away: atlanta-hawks | Home: los-angeles-lakers
+Seasonal Record:      43.0/10 = 4.3
+Home Away:            11.0/10 = 1.1
+Home away 10:         4.0/5 = 0.8
+Last 10 games:        6.0/5 = 1.2
+Avg points:           11.84/8 = 1.48
+Avg points 10:        8.88/8 = 1.11
+Win streak:           4.0/3 = 1.3333333333333333
+Win streak home away: 2.0/3 = 0.6666666666666666
+--------
+Total: 11.99
+--------
+Perc chance to win: 75.5597293552812%
+Favorable team odds: -309.1607718002445
+Underdog team odds: +309.1607718002445

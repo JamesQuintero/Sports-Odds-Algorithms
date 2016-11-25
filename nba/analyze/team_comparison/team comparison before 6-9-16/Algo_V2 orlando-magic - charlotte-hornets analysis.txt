@@ -1,0 +1,16 @@
+
+Date: 3-16-2016
+Away: orlando-magic | Home: charlotte-hornets
+Seasonal Record:      -61.89%
+Home Away:            -80.2%
+Home away 10:         -70.85%
+Last 10 games:        -59.69%
+Avg points:           -57.78%
+Avg points 10:        -71.83%
+--------
+Total: -76.01%
+--------
+Perc chance to win: 76.01%
+Favorable team odds: -316.84035014589426
+Underdog team odds: +316.84035014589426
+

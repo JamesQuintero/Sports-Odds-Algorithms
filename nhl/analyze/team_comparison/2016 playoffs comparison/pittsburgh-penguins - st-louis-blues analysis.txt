@@ -1,0 +1,16 @@
+
+Date: 4-18-2016
+Away: pittsburgh-penguins | Home: st-louis-blues
+Seasonal Record:      -51.9%
+Home Away:            -53.44%
+Home away 10:         53.37%
+Last 10 games:        53.28%
+Avg points:           52.09%
+Avg points 10:        52.97%
+--------
+Total: -50.03%
+--------
+Perc chance to win: 50.03%
+Favorable team odds: -100.12007204322595
+Underdog team odds: +100.12007204322595
+

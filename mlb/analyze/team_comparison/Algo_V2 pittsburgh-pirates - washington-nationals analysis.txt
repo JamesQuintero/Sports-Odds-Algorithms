@@ -1,0 +1,17 @@
+
+Date: 7-16-2016
+Away: pittsburgh-pirates | Home: washington-nationals
+Seasonal Record:      -55.07%
+Home Away:            -55.95%
+Home away 10:         -50.49%
+Last 10 games:        51.81%
+Avg points:           -58.87%
+Avg points 10:        -51.2%
+Win streak home away: 50%
+--------
+Total: -57.41%
+--------
+Perc chance to win: 57.41%
+Favorable team odds: -134.79690068091102
+Underdog team odds: +134.79690068091102
+

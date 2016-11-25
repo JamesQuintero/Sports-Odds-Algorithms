@@ -1,0 +1,53 @@
+---- Start output ----
+[14:10:20] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2015/seasontype/2/half/1/arizona-diamondbacks
+[14:10:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[14:10:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[14:10:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[14:10:20] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[14:10:20] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2015/seasontype/2/half/2/arizona-diamondbacks
+[14:10:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[14:10:21] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[14:10:21] Loading existing data
+[14:10:21] Returned 7-12-2015's game results
+[14:10:21] Scraping 7-12-2015's period data: http://espn.go.com/mlb/playbyplay?id=350712121
+[14:10:22] Game url: http://espn.go.com/mlb/playbyplay?id=350712121
+[14:10:22] Team1: ari | Team2: nym
+[14:10:22] Cur team: ari | arizona-diamondbacks
+[14:10:22] Other team: nym
+[14:10:22] URL: http://espn.go.com/mlb/team/schedule/_/name/ari/year/2015/seasontype/2/half/1/arizona-diamondbacks
+[14:10:22] Scores: [['http://espn.go.com/mlb/team/_/name/ari/arizona-diamondbacks">ARI</a>', '0', '0', '1', '1', '0', '0', '1', '0', '0'], ['http://espn.go.com/mlb/team/_/name/nym/new-york-mets">NYM</a>', '0', '1', '3', '0', '1', '0', '0', '0', '-']]
+[14:10:22] Returned 10-4-2015's game results
+[14:10:22] Scraping 10-4-2015's period data: http://espn.go.com/mlb/playbyplay?id=351004129
+[14:10:23] Game url: http://espn.go.com/mlb/playbyplay?id=351004129
+[14:10:23] Team1: hou | Team2: ari
+[14:10:23] Cur team: ari | arizona-diamondbacks
+[14:10:23] Other team: hou
+[14:10:23] URL: http://espn.go.com/mlb/team/schedule/_/name/ari/year/2015/seasontype/2/half/1/arizona-diamondbacks
+[14:10:23] Scores: [['http://espn.go.com/mlb/team/_/name/hou/houston-astros">HOU</a>', '0', '0', '1', '0', '1', '0', '1', '0', '0'], ['http://espn.go.com/mlb/team/_/name/ari/arizona-diamondbacks">ARI</a>', '1', '0', '0', '1', '1', '0', '2', '0', '-']]
+[14:10:23] Saving data to ./mlb/team_data/2015/arizona-diamondbacks.csv
+[14:10:23] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/sd/year/2015/seasontype/2/half/1/san-diego-padres
+[14:10:23] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[14:10:23] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[14:10:23] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/sd/year/2015/seasontype/2/half/2/san-diego-padres
+[14:10:24] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[14:10:24] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[14:10:24] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[14:10:24] Loading existing data
+[14:10:24] Returned 7-12-2015's game results
+[14:10:24] Scraping 7-12-2015's period data: http://espn.go.com/mlb/playbyplay?id=350712113
+[14:10:24] Game url: http://espn.go.com/mlb/playbyplay?id=350712113
+[14:10:24] Team1: sd | Team2: tex
+[14:10:24] Cur team: sd | san-diego-padres
+[14:10:24] Other team: tex
+[14:10:24] URL: http://espn.go.com/mlb/team/schedule/_/name/sd/year/2015/seasontype/2/half/1/san-diego-padres
+[14:10:24] Scores: [['http://espn.go.com/mlb/team/_/name/sd/san-diego-padres">SD</a>', '0', '1', '0', '0', '0', '0', '1', '0', '0'], ['http://espn.go.com/mlb/team/_/name/tex/texas-rangers">TEX</a>', '0', '0', '0', '0', '0', '0', '0', '0', '1']]
+[14:10:24] Returned 10-4-2015's game results
+[14:10:24] Scraping 10-4-2015's period data: http://espn.go.com/mlb/playbyplay?id=351004119
+[14:10:25] Game url: http://espn.go.com/mlb/playbyplay?id=351004119
+[14:10:25] Team1: sd | Team2: lad
+[14:10:25] Cur team: sd | san-diego-padres
+[14:10:25] Other team: lad
+[14:10:25] URL: http://espn.go.com/mlb/team/schedule/_/name/sd/year/2015/seasontype/2/half/1/san-diego-padres
+[14:10:25] Scores: [['http://espn.go.com/mlb/team/_/name/sd/san-diego-padres">SD</a>', '0', '0', '0', '0', '0', '0', '3', '0', '0'], ['http://espn.go.com/mlb/team/_/name/lad/los-angeles-dodgers">LAD</a>', '0', '2', '0', '0', '0', '3', '0', '1', '-']]
+[14:10:25] Saving data to ./mlb/team_data/2015/san-diego-padres.csv
+

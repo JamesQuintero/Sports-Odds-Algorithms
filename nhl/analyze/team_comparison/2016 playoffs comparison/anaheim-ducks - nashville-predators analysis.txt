@@ -1,0 +1,16 @@
+
+Date: 4-19-2016
+Away: anaheim-ducks | Home: nashville-predators
+Seasonal Record:      53.26%
+Home Away:            -54.32%
+Home away 10:         -53.37%
+Last 10 games:        53.93%
+Avg points:           51.07%
+Avg points 10:        52.53%
+--------
+Total: -50.19%
+--------
+Perc chance to win: 50.19%
+Favorable team odds: -100.76289901626177
+Underdog team odds: +100.76289901626177
+

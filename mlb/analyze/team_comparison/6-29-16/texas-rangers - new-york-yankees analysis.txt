@@ -1,0 +1,16 @@
+
+Date: 6-30-2016
+Away: texas-rangers | Home: new-york-yankees
+Seasonal Record:      56.36%
+Home Away:            -50.86%
+Home away 10:         55.55%
+Last 10 games:        52.29%
+Avg points:           58.27%
+Avg points 10:        52.54%
+--------
+Total: 57.31%
+--------
+Perc chance to win: 57.31%
+Favorable team odds: -134.246896228625
+Underdog team odds: +134.246896228625
+

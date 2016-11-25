@@ -1,0 +1,16 @@
+
+Date: 3-12-2016
+Away: new-orleans-pelicans | Home: milwaukee-bucks
+Seasonal Record:      -55.47%
+Home Away:            -80.2%
+Home away 10:         -65.54%
+Last 10 games:        -56.04%
+Avg points:           -53.22%
+Avg points 10:        -57.95%
+--------
+Total: -72.87%
+--------
+Perc chance to win: 72.87%
+Favorable team odds: -268.5956505713233
+Underdog team odds: +268.5956505713233
+

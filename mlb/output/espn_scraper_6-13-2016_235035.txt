@@ -1,0 +1,831 @@
+---- Start output ----
+[23:50:35] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/laa/year/2002/seasontype/2/half/1/los-angeles-angels
+[23:50:36] Date: 3-31-2002
+[23:50:36] Old date: 3-31-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[23:50:36] Date: 4-2-2002
+[23:50:36] Old date: 4-2-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 6-0
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220331103
+[23:50:36] Date: 4-3-2002
+[23:50:36] Old date: 4-3-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 7-5
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220402103
+[23:50:36] Date: 4-5-2002
+[23:50:36] Old date: 4-5-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 6-5
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220403103
+[23:50:36] Date: 4-6-2002
+[23:50:36] Old date: 4-6-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 3-1
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220405113
+[23:50:36] Date: 4-7-2002
+[23:50:36] Old date: 4-7-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 6-3
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220406113
+[23:50:36] Date: 4-8-2002
+[23:50:36] Old date: 4-8-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[23:50:36] Date: 4-9-2002
+[23:50:36] Old date: 4-9-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 5-4
+[23:50:36] Game link: http://espn.go.com/mlb/boxscore?id=220408103
+[23:50:36] Date: 4-10-2002
+[23:50:36] Old date: 4-10-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 5-1
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220409103
+[23:50:36] Date: 4-11-2002
+[23:50:36] Old date: 4-11-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 8-1
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220410103
+[23:50:36] Date: 4-12-2002
+[23:50:36] Old date: 4-12-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 8-4
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220411103
+[23:50:36] Date: 4-13-2002
+[23:50:36] Old date: 4-13-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 5-1
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220412103
+[23:50:36] Date: 4-14-2002
+[23:50:36] Old date: 4-14-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 7-2
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220413103
+[23:50:36] Date: 4-16-2002
+[23:50:36] Old date: 4-16-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 4-1
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220414103
+[23:50:36] Date: 4-17-2002
+[23:50:36] Old date: 4-17-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 6-5 F/10
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220416103
+[23:50:36] Date: 4-18-2002
+[23:50:36] Old date: 4-18-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 4-1
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220417103
+[23:50:36] Date: 4-19-2002
+[23:50:36] Old date: 4-19-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 4-2
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220418111
+[23:50:36] Date: 4-20-2002
+[23:50:36] Old date: 4-20-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 9-7
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220419111
+[23:50:36] Date: 4-21-2002
+[23:50:36] Old date: 4-21-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 8-7
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220420111
+[23:50:36] Date: 4-22-2002
+[23:50:36] Old date: 4-22-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 6-5
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220421111
+[23:50:36] Date: 4-23-2002
+[23:50:36] Old date: 4-23-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 16-5
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220422112
+[23:50:36] Date: 4-24-2002
+[23:50:36] Old date: 4-24-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 1-0
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220423112
+[23:50:36] Date: 4-26-2002
+[23:50:36] Old date: 4-26-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 10-6
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220424112
+[23:50:36] Date: 4-27-2002
+[23:50:36] Old date: 4-27-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 4-0
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220426103
+[23:50:36] Date: 4-28-2002
+[23:50:36] Old date: 4-28-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 11-4
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220427103
+[23:50:36] Date: 4-30-2002
+[23:50:36] Old date: 4-30-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 8-5 F/14
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220428103
+[23:50:36] Date: 5-1-2002
+[23:50:36] Old date: 5-1-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 21-2
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220430105
+[23:50:36] Date: 5-2-2002
+[23:50:36] Old date: 5-2-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 7-2
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220501105
+[23:50:36] Date: 5-3-2002
+[23:50:36] Old date: 5-3-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 8-0
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220502105
+[23:50:36] Date: 5-4-2002
+[23:50:36] Old date: 5-4-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 6-4
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220503114
+[23:50:36] Date: 5-5-2002
+[23:50:36] Old date: 5-5-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 4-1
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220504114
+[23:50:36] Date: 5-7-2002
+[23:50:36] Old date: 5-7-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 8-2
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220505114
+[23:50:36] Date: 5-8-2002
+[23:50:36] Old date: 5-8-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 3-0
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220507103
+[23:50:36] Date: 5-9-2002
+[23:50:36] Old date: 5-9-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 3-2
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220508103
+[23:50:36] Date: 5-10-2002
+[23:50:36] Old date: 5-10-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 7-6
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220509103
+[23:50:36] Date: 5-11-2002
+[23:50:36] Old date: 5-11-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 19-0
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220510103
+[23:50:36] Date: 5-12-2002
+[23:50:36] Old date: 5-12-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 6-3
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220511103
+[23:50:36] Date: 5-14-2002
+[23:50:36] Old date: 5-14-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 5-4
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220512103
+[23:50:36] Date: 5-15-2002
+[23:50:36] Old date: 5-15-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 9-2
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220514106
+[23:50:36] Date: 5-16-2002
+[23:50:36] Old date: 5-16-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 10-1
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220515106
+[23:50:36] Date: 5-17-2002
+[23:50:36] Old date: 5-17-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[23:50:36] Date: 5-18-2002
+[23:50:36] Old date: 5-18-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 8-4
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220517104
+[23:50:36] Date: 5-19-2002
+[23:50:36] Old date: 5-19-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 10-4
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220518104
+[23:50:36] Date: 5-20-2002
+[23:50:36] Old date: 5-20-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 6-1
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220519104
+[23:50:36] Date: 5-21-2002
+[23:50:36] Old date: 5-21-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 6-3
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220520103
+[23:50:36] Date: 5-22-2002
+[23:50:36] Old date: 5-22-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 5-1
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220521103
+[23:50:36] Date: 5-24-2002
+[23:50:36] Old date: 5-24-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 7-6
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220522103
+[23:50:36] Date: 5-25-2002
+[23:50:36] Old date: 5-25-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 5-1
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220524103
+[23:50:36] Date: 5-26-2002
+[23:50:36] Old date: 5-26-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 4-3 F/13
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220525103
+[23:50:36] Date: 5-28-2002
+[23:50:36] Old date: 5-28-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 5-2
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220526103
+[23:50:36] Date: 5-29-2002
+[23:50:36] Old date: 5-29-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 7-4
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220528107
+[23:50:36] Date: 5-30-2002
+[23:50:36] Old date: 5-30-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 12-2
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220529107
+[23:50:36] Date: 5-31-2002
+[23:50:36] Old date: 5-31-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 7-6 F/10
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220530109
+[23:50:36] Date: 6-1-2002
+[23:50:36] Old date: 6-1-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 11-3
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220531109
+[23:50:36] Date: 6-2-2002
+[23:50:36] Old date: 6-2-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 4-2
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220601109
+[23:50:36] Date: 6-3-2002
+[23:50:36] Old date: 6-3-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 5-4
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220602109
+[23:50:36] Date: 6-4-2002
+[23:50:36] Old date: 6-4-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 5-2
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220603103
+[23:50:36] Date: 6-5-2002
+[23:50:36] Old date: 6-5-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 3-0
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220604103
+[23:50:36] Date: 6-6-2002
+[23:50:36] Old date: 6-6-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 7-5 F/10
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220605103
+[23:50:36] Date: 6-7-2002
+[23:50:36] Old date: 6-7-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 9-8
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220606103
+[23:50:36] Date: 6-8-2002
+[23:50:36] Old date: 6-8-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 4-3
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220607103
+[23:50:36] Date: 6-9-2002
+[23:50:36] Old date: 6-9-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 4-3
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220608103
+[23:50:36] Date: 6-10-2002
+[23:50:36] Old date: 6-10-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 7-4
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220609103
+[23:50:36] Date: 6-11-2002
+[23:50:36] Old date: 6-11-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 4-3
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220610103
+[23:50:36] Date: 6-12-2002
+[23:50:36] Old date: 6-12-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 7-3
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220611103
+[23:50:36] Date: 6-14-2002
+[23:50:36] Old date: 6-14-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 8-5
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220612103
+[23:50:36] Date: 6-15-2002
+[23:50:36] Old date: 6-15-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 8-4
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220614119
+[23:50:36] Date: 6-16-2002
+[23:50:36] Old date: 6-16-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 10-5
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220615119
+[23:50:36] Date: 6-18-2002
+[23:50:36] Old date: 6-18-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 5-4
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220616119
+[23:50:36] Date: 6-19-2002
+[23:50:36] Old date: 6-19-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 7-2
+[23:50:36] Game link: http://espn.go.com/mlb/boxscore?id=220618124
+[23:50:36] Date: 6-20-2002
+[23:50:36] Old date: 6-20-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 6-2
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220619124
+[23:50:36] Date: 6-21-2002
+[23:50:36] Old date: 6-21-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 3-2
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220620124
+[23:50:36] Date: 6-22-2002
+[23:50:36] Old date: 6-22-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 11-4
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220621108
+[23:50:36] Date: 6-23-2002
+[23:50:36] Old date: 6-23-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 8-2
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220622108
+[23:50:36] Date: 6-24-2002
+[23:50:36] Old date: 6-24-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 5-2
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220623108
+[23:50:36] Date: 6-24-2002
+[23:50:36] Old date: 6-24-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 8-5
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220624213
+[23:50:36] Date: 6-25-2002
+[23:50:36] Old date: 6-25-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 3-2
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220624313
+[23:50:36] Date: 6-26-2002
+[23:50:36] Old date: 6-26-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 11-5
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220625113
+[23:50:36] Date: 6-27-2002
+[23:50:36] Old date: 6-27-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 7-6
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220626113
+[23:50:36] Date: 6-28-2002
+[23:50:36] Old date: 6-28-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 6-3
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220627113
+[23:50:36] Date: 6-29-2002
+[23:50:36] Old date: 6-29-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 7-5
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220628103
+[23:50:36] Date: 6-30-2002
+[23:50:36] Old date: 6-30-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 7-0
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220629103
+[23:50:36] Date: 7-2-2002
+[23:50:36] Old date: 7-2-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 5-1
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220630103
+[23:50:36] Date: 7-3-2002
+[23:50:36] Old date: 7-3-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 3-0
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220702103
+[23:50:36] Date: 7-4-2002
+[23:50:36] Old date: 7-4-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 1-0
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220703103
+[23:50:36] Date: 7-5-2002
+[23:50:36] Old date: 7-5-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 7-2
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220704103
+[23:50:36] Date: 7-6-2002
+[23:50:36] Old date: 7-6-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 6-5 F/10
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220705103
+[23:50:36] Date: 7-7-2002
+[23:50:36] Old date: 7-7-2002
+[23:50:36] String to find: <li class="score"><a href="
+[23:50:36] Score: 4-3
+[23:50:36] Game link: http://espn.go.com/mlb/recap?id=220706103
+[23:50:36] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[23:50:36] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/laa/year/2002/seasontype/2/half/2/los-angeles-angels
+[23:50:37] Date: 7-11-2002
+[23:50:37] Old date: 7-11-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[23:50:37] Date: 7-12-2002
+[23:50:37] Old date: 7-12-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 1-0
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220711107
+[23:50:37] Date: 7-13-2002
+[23:50:37] Old date: 7-13-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 11-3
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220712107
+[23:50:37] Date: 7-14-2002
+[23:50:37] Old date: 7-14-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 4-0
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220713107
+[23:50:37] Date: 7-15-2002
+[23:50:37] Old date: 7-15-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 12-3
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220714107
+[23:50:37] Date: 7-16-2002
+[23:50:37] Old date: 7-16-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 10-8
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220715109
+[23:50:37] Date: 7-17-2002
+[23:50:37] Old date: 7-17-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 4-2
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220716109
+[23:50:37] Date: 7-18-2002
+[23:50:37] Old date: 7-18-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 10-4
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220717111
+[23:50:37] Date: 7-19-2002
+[23:50:37] Old date: 7-19-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 2-0
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220718111
+[23:50:37] Date: 7-20-2002
+[23:50:37] Old date: 7-20-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 15-3
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220719103
+[23:50:37] Date: 7-21-2002
+[23:50:37] Old date: 7-21-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 7-6
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220720103
+[23:50:37] Date: 7-23-2002
+[23:50:37] Old date: 7-23-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 7-5
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220721103
+[23:50:37] Date: 7-24-2002
+[23:50:37] Old date: 7-24-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 2-1
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220723103
+[23:50:37] Date: 7-25-2002
+[23:50:37] Old date: 7-25-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 5-1
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220724103
+[23:50:37] Date: 7-26-2002
+[23:50:37] Old date: 7-26-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 5-4
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220725103
+[23:50:37] Date: 7-27-2002
+[23:50:37] Old date: 7-27-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 8-0
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220726112
+[23:50:37] Date: 7-28-2002
+[23:50:37] Old date: 7-28-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 3-1
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220727112
+[23:50:37] Date: 7-29-2002
+[23:50:37] Old date: 7-29-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 1-0
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220728112
+[23:50:37] Date: 7-30-2002
+[23:50:37] Old date: 7-30-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 5-4
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220729103
+[23:50:37] Date: 7-31-2002
+[23:50:37] Old date: 7-31-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 6-0
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220730103
+[23:50:37] Date: 8-1-2002
+[23:50:37] Old date: 8-1-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 2-1
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220731103
+[23:50:37] Date: 8-2-2002
+[23:50:37] Old date: 8-2-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 2-1
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220801103
+[23:50:37] Date: 8-3-2002
+[23:50:37] Old date: 8-3-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 4-0
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220802103
+[23:50:37] Date: 8-4-2002
+[23:50:37] Old date: 8-4-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 5-4
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220803103
+[23:50:37] Date: 8-5-2002
+[23:50:37] Old date: 8-5-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 7-5 F/12
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220804103
+[23:50:37] Date: 8-6-2002
+[23:50:37] Old date: 8-6-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 6-3
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220805106
+[23:50:37] Date: 8-7-2002
+[23:50:37] Old date: 8-7-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 11-2
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220806104
+[23:50:37] Date: 8-8-2002
+[23:50:37] Old date: 8-8-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 7-6
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220807104
+[23:50:37] Date: 8-9-2002
+[23:50:37] Old date: 8-9-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 3-2
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220808104
+[23:50:37] Date: 8-10-2002
+[23:50:37] Old date: 8-10-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 5-4
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220809114
+[23:50:37] Date: 8-11-2002
+[23:50:37] Old date: 8-11-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 11-4
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220810114
+[23:50:37] Date: 8-12-2002
+[23:50:37] Old date: 8-12-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 1-0
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220811114
+[23:50:37] Date: 8-13-2002
+[23:50:37] Old date: 8-13-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 7-0
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220812103
+[23:50:37] Date: 8-14-2002
+[23:50:37] Old date: 8-14-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 7-6 F/12
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220813103
+[23:50:37] Date: 8-16-2002
+[23:50:37] Old date: 8-16-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 5-4
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220814103
+[23:50:37] Date: 8-17-2002
+[23:50:37] Old date: 8-17-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 5-4
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220816103
+[23:50:37] Date: 8-18-2002
+[23:50:37] Old date: 8-18-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 9-4
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220817103
+[23:50:37] Date: 8-20-2002
+[23:50:37] Old date: 8-20-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 4-1
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220818103
+[23:50:37] Date: 8-21-2002
+[23:50:37] Old date: 8-21-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 7-5
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220820110
+[23:50:37] Date: 8-22-2002
+[23:50:37] Old date: 8-22-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 5-1 F/11
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220821110
+[23:50:37] Date: 8-23-2002
+[23:50:37] Old date: 8-23-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 4-2
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220822110
+[23:50:37] Date: 8-24-2002
+[23:50:37] Old date: 8-24-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 4-1
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220823102
+[23:50:37] Date: 8-25-2002
+[23:50:37] Old date: 8-25-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 2-0
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220824102
+[23:50:37] Date: 8-26-2002
+[23:50:37] Old date: 8-26-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 8-3
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220825102
+[23:50:37] Date: 8-27-2002
+[23:50:37] Old date: 8-27-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 10-9 F/10
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220826102
+[23:50:37] Date: 8-28-2002
+[23:50:37] Old date: 8-28-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 7-3
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220827103
+[23:50:37] Date: 8-29-2002
+[23:50:37] Old date: 8-29-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 8-5 F/10
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220828103
+[23:50:37] Date: 8-30-2002
+[23:50:37] Old date: 8-30-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 6-1
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220829103
+[23:50:37] Date: 8-31-2002
+[23:50:37] Old date: 8-31-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 6-2
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220830103
+[23:50:37] Date: 9-1-2002
+[23:50:37] Old date: 9-1-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 9-0
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220831103
+[23:50:37] Date: 9-3-2002
+[23:50:37] Old date: 9-3-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 9-3
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220901103
+[23:50:37] Date: 9-4-2002
+[23:50:37] Old date: 9-4-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 10-2
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220903130
+[23:50:37] Date: 9-5-2002
+[23:50:37] Old date: 9-5-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 4-2
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220904130
+[23:50:37] Date: 9-6-2002
+[23:50:37] Old date: 9-6-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 10-1
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220905130
+[23:50:37] Date: 9-7-2002
+[23:50:37] Old date: 9-7-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 6-3
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220906101
+[23:50:37] Date: 9-8-2002
+[23:50:37] Old date: 9-8-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 4-2 F/10
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220907101
+[23:50:37] Date: 9-9-2002
+[23:50:37] Old date: 9-9-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 6-2
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220908101
+[23:50:37] Date: 9-10-2002
+[23:50:37] Old date: 9-10-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 2-1
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220909103
+[23:50:37] Date: 9-11-2002
+[23:50:37] Old date: 9-11-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 5-2
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220910103
+[23:50:37] Date: 9-12-2002
+[23:50:37] Old date: 9-12-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 6-5
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220911103
+[23:50:37] Date: 9-13-2002
+[23:50:37] Old date: 9-13-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 7-6
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220912103
+[23:50:37] Date: 9-14-2002
+[23:50:37] Old date: 9-14-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 3-2
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220913103
+[23:50:37] Date: 9-15-2002
+[23:50:37] Old date: 9-15-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 8-6
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220914103
+[23:50:37] Date: 9-16-2002
+[23:50:37] Old date: 9-16-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 13-4
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220915103
+[23:50:37] Date: 9-17-2002
+[23:50:37] Old date: 9-17-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 4-3
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220916111
+[23:50:37] Date: 9-18-2002
+[23:50:37] Old date: 9-18-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 1-0 F/10
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220917111
+[23:50:37] Date: 9-19-2002
+[23:50:37] Old date: 9-19-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 7-4
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220918111
+[23:50:37] Date: 9-20-2002
+[23:50:37] Old date: 9-20-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 5-3
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220919111
+[23:50:37] Date: 9-21-2002
+[23:50:37] Old date: 9-21-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 8-1
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220920112
+[23:50:37] Date: 9-22-2002
+[23:50:37] Old date: 9-22-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 6-4
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220921112
+[23:50:37] Date: 9-24-2002
+[23:50:37] Old date: 9-24-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 3-2
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220922112
+[23:50:37] Date: 9-25-2002
+[23:50:37] Old date: 9-25-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 2-1
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220924113
+[23:50:37] Date: 9-26-2002
+[23:50:37] Old date: 9-26-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 4-3
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220925113
+[23:50:37] Date: 9-27-2002
+[23:50:37] Old date: 9-27-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 10-5
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220926113
+[23:50:37] Date: 9-28-2002
+[23:50:37] Old date: 9-28-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 7-6 F/12
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220927103
+[23:50:37] Date: 9-29-2002
+[23:50:37] Old date: 9-29-2002
+[23:50:37] String to find: <li class="score"><a href="
+[23:50:37] Score: 8-4
+[23:50:37] Game link: http://espn.go.com/mlb/recap?id=220928103
+[23:50:37] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[23:50:37] Loading existing data
+[23:50:37] Returned 5-1-2002's game results
+[23:50:37] Scraping 5-1-2002's period data: http://espn.go.com/mlb/playbyplay?id=220501105
+[23:50:37] Game url: http://espn.go.com/mlb/playbyplay?id=220501105
+[23:50:37] Team1: ana | Team2: cle
+[23:50:37] Cur team: laa | los-angeles-angels
+[23:50:37] Other team: ana
+[23:50:37] URL: http://espn.go.com/mlb/team/schedule/_/name/laa/year/2002/seasontype/2/half/1/los-angeles-angels
+[23:50:37] Scores: [['ANA'], ['http://espn.go.com/mlb/team/_/name/cle/cleveland------------indians-------------">CLE</a>']]
+

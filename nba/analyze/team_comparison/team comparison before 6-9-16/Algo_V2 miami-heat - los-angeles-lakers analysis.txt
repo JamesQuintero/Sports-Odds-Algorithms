@@ -1,0 +1,16 @@
+
+Date: 3-30-2016
+Away: miami-heat | Home: los-angeles-lakers
+Seasonal Record:      84.09%
+Home Away:            73.22%
+Home away 10:         59.94%
+Last 10 games:        59.69%
+Avg points:           75.57%
+Avg points 10:        71.51%
+--------
+Total: 79.83%
+--------
+Perc chance to win: 79.83%
+Favorable team odds: -395.7858205255329
+Underdog team odds: +395.7858205255329
+

@@ -1,0 +1,18 @@
+
+Date: 6-30-2016
+Away: minnesota-twins | Home: chicago-white-sox
+Seasonal Record:      -57.17%
+Home Away:            -57.23%
+Home away 10:         -51.99%
+Last 10 games:        -51.81%
+Avg points:           -59.46%
+Avg points 10:        51.2%
+--------
+Total: -58.34%
+--------
+Perc chance to win: 58.34%
+Favorable team odds: -140.0384061449832
+Underdog team odds: +140.0384061449832
+
+
+Actual: +145, -160

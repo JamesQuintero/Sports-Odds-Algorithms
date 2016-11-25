@@ -1,0 +1,16 @@
+
+Date: 3-30-2016
+Away: golden-state-warriors | Home: utah-jazz
+Seasonal Record:      85.61%
+Home Away:            68.71%
+Home away 10:         -58.7%
+Last 10 games:        53.69%
+Avg points:           72.05%
+Avg points 10:        50.3%
+--------
+Total: 78.83%
+--------
+Perc chance to win: 78.83%
+Favorable team odds: -372.3665564478035
+Underdog team odds: +372.3665564478035
+

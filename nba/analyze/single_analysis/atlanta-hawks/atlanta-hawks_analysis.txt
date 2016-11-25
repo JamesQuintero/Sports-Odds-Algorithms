@@ -1,0 +1,283 @@
+
+
+atlanta-hawks
+Season: 14 on downtrend
+Home-Away: 24-13 home
+   Last 10 home games: 7-3
+10 Games: 8-2
+   6 won out of 9 games | 66.66666666666666%
+Avg points: 102.85 - 99.01
+   Last 10 games: 108.3 - 99.2
+Winning streak against lal: 3
+   Winning streak home: 1
+
+
+   atlanta-hawks
+   Season: 15 on downtrend
+   Home-Away: 21-17 away
+      Last 10 away games: 8-2
+   10 Games: 9-1
+      0 won out of 0 games | N/A%
+   Avg points: 102.93 - 98.93
+      Last 10 games: 108.1 - 97.0
+   Losing streak against tor: 3
+      Losing streak away: 1
+
+
+   toronto-raptors
+   Season: 25 on uptrend
+   Home-Away: 28-9 home
+      Last 10 home games: 7-3
+   10 Games: 6-4
+      8 won out of 14 games | 57.14285714285714%
+   Avg points: 102.89 - 98.53
+      Last 10 games: 104.0 - 100.0
+   Winning streak against atl: 3
+      Winning streak home: 1
+
+   Winner: toronto-raptors | 105-97
+   ----------------------------------------
+
+
+   atlanta-hawks
+   Season: 14 on downtrend
+   Home-Away: 20-17 away
+      Last 10 away games: 7-3
+   10 Games: 8-2
+      5 won out of 8 games | 62.5%
+   Avg points: 102.94 - 98.91
+      Last 10 games: 107.5 - 97.4
+   Winning streak against chi: 5
+      Winning streak away: 2
+
+
+   chicago-bulls
+   Season: 0 on downtrend
+   Home-Away: 24-13 home
+      Last 10 home games: 7-3
+   10 Games: 4-6
+      6 won out of 14 games | 42.857142857142854%
+   Avg points: 101.54 - 103.18
+      Last 10 games: 101.1 - 107.2
+   Losing streak against atl: 5
+      Losing streak home: 2
+
+   Winner: atlanta-hawks | 102-100
+   ----------------------------------------
+
+
+   atlanta-hawks
+   Season: 13 on downtrend
+   Home-Away: 19-17 away
+      Last 10 away games: 7-3
+   10 Games: 8-2
+      4 won out of 7 games | 57.14285714285714%
+   Avg points: 102.82 - 98.97
+      Last 10 games: 105.4 - 96.3
+   Winning streak against det: 2
+      Winning streak away: 1
+
+
+   detroit-pistons
+   Season: 5 on uptrend
+   Home-Away: 24-12 home
+      Last 10 home games: 8-2
+   10 Games: 7-3
+      3 won out of 5 games | 60.0%
+   Avg points: 102.47 - 101.5
+      Last 10 games: 107.7 - 107.6
+   Losing streak against atl: 2
+      Losing streak home: 1
+
+   Winner: atlanta-hawks | 112-95
+   ----------------------------------------
+
+
+   atlanta-hawks
+   Season: 12 on downtrend
+   Home-Away: 23-13 home
+      Last 10 home games: 6-4
+   10 Games: 8-2
+      3 won out of 6 games | 50.0%
+   Avg points: 102.84 - 99.09
+      Last 10 games: 106.0 - 97.0
+   Losing streak against mil: 2
+      Losing streak home: 1
+
+
+   milwaukee-bucks
+   Season: -12 on downtrend
+   Home-Away: 9-28 away
+      Last 10 away games: 2-8
+   10 Games: 4-6
+      8 won out of 22 games | 36.36363636363637%
+   Avg points: 99.12 - 102.75
+      Last 10 games: 97.7 - 99.6
+   Winning streak against atl: 2
+      Winning streak away: 1
+
+   Winner: atlanta-hawks | 101-90
+   ----------------------------------------
+
+
+   atlanta-hawks
+   Season: 11 on downtrend
+   Home-Away: 18-17 away
+      Last 10 away games: 6-4
+   10 Games: 8-2
+      2 won out of 5 games | 40.0%
+   Avg points: 102.57 - 99.07
+      Last 10 games: 104.4 - 94.6
+   Losing streak against wsh: 1
+      Losing streak away: 1
+
+
+   washington-wizards
+   Season: 0 on downtrend
+   Home-Away: 19-17 home
+      Last 10 home games: 9-1
+   10 Games: 5-5
+      15 won out of 30 games | 50.0%
+   Avg points: 103.15 - 103.94
+      Last 10 games: 104.0 - 101.6
+   Winning streak against atl: 1
+      Winning streak home: 1
+
+   Winner: atlanta-hawks | 122-101
+   ----------------------------------------
+
+
+   atlanta-hawks
+   Season: 12 on downtrend
+   Home-Away: 23-12 home
+      Last 10 home games: 6-4
+   10 Games: 8-2
+      2 won out of 4 games | 50.0%
+   Avg points: 102.58 - 98.81
+      Last 10 games: 104.7 - 93.8
+   Winning streak against wsh: 2
+      Winning streak home: 3
+
+
+   washington-wizards
+   Season: -1 on downtrend
+   Home-Away: 15-18 away
+      Last 10 away games: 3-7
+   10 Games: 5-5
+      14 won out of 29 games | 48.275862068965516%
+   Avg points: 102.95 - 103.97
+      Last 10 games: 102.7 - 101.2
+   Losing streak against atl: 1
+      Losing streak away: 3
+
+   Winner: washington-wizards | 117-102
+   ----------------------------------------
+
+
+   atlanta-hawks
+   Season: 11 on downtrend
+   Home-Away: 22-12 home
+      Last 10 home games: 6-4
+   10 Games: 8-2
+      1 won out of 3 games | 33.33333333333333%
+   Avg points: 102.49 - 98.84
+      Last 10 games: 102.5 - 91.7
+   Winning streak against hou: 4
+      Winning streak home: 2
+
+
+   houston-rockets
+   Season: 1 on downtrend
+   Home-Away: 16-19 away
+      Last 10 away games: 5-5
+   10 Games: 6-4
+      5 won out of 14 games | 35.714285714285715%
+   Avg points: 106.27 - 106.92
+      Last 10 games: 111.5 - 107.9
+   Losing streak against atl: 4
+      Losing streak away: 2
+
+   Winner: atlanta-hawks | 109-97
+   ----------------------------------------
+
+
+   atlanta-hawks
+   Season: 10 on downtrend
+   Home-Away: 21-12 home
+      Last 10 home games: 6-4
+   10 Games: 8-2
+      0 won out of 2 games | 0.0%
+   Avg points: 102.29 - 98.85
+      Last 10 games: 101.2 - 90.7
+   Winning streak against den: 1
+      Winning streak home: 3
+
+
+   denver-nuggets
+   Season: -12 on uptrend
+   Home-Away: 12-21 away
+      Last 10 away games: 3-7
+   10 Games: 5-5
+      4 won out of 19 games | 21.052631578947366%
+   Avg points: 102.5 - 104.64
+      Last 10 games: 113.6 - 109.9
+   Losing streak against atl: 1
+      Losing streak away: 3
+
+   Winner: atlanta-hawks | 116-98
+   ----------------------------------------
+
+
+   atlanta-hawks
+   Season: 9 on downtrend
+   Home-Away: 17-17 away
+      Last 10 away games: 5-5
+   10 Games: 7-3
+      3 won out of 8 games | 37.5%
+   Avg points: 102.05 - 98.62
+      Last 10 games: 98.6 - 89.5
+   Winning streak against det: 1
+      Winning streak away: 0
+
+
+   detroit-pistons
+   Season: 1 on uptrend
+   Home-Away: 19-11 home
+      Last 10 home games: 5-5
+   10 Games: 6-4
+      5 won out of 12 games | 41.66666666666667%
+   Avg points: 101.71 - 101.23
+      Last 10 games: 103.1 - 103.4
+   Losing streak against atl: 1
+      Losing streak home: 0
+
+   Winner: atlanta-hawks | 118-114
+   ----------------------------------------
+
+
+   atlanta-hawks
+   Season: 8 on downtrend
+   Home-Away: 20-12 home
+      Last 10 home games: 5-5
+   10 Games: 6-4
+      4 won out of 10 games | 40.0%
+   Avg points: 102.03 - 98.98
+      Last 10 games: 99.1 - 93.7
+   Winning streak against ind: 1
+      Winning streak home: 3
+
+
+   indiana-pacers
+   Season: 5 on uptrend
+   Home-Away: 16-19 away
+      Last 10 away games: 6-4
+   10 Games: 5-5
+      8 won out of 17 games | 47.05882352941176%
+   Avg points: 102.32 - 100.47
+      Last 10 games: 101.0 - 101.5
+   Losing streak against atl: 1
+      Losing streak away: 3
+
+   Winner: atlanta-hawks | 104-75
+   ----------------------------------------
+

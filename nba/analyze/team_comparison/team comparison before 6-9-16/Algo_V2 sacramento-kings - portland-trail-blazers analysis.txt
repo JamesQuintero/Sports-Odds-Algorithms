@@ -1,0 +1,16 @@
+
+Date: 3-28-2016
+Away: sacramento-kings | Home: portland-trail-blazers
+Seasonal Record:      -62.46%
+Home Away:            -77.35%
+Home away 10:         -65.54%
+Last 10 games:        -53.69%
+Avg points:           -53.01%
+Avg points 10:        52.26%
+--------
+Total: -71.44%
+--------
+Perc chance to win: 71.44%
+Favorable team odds: -250.1400560224089
+Underdog team odds: +250.1400560224089
+

@@ -1,0 +1,17 @@
+
+Date: 7-8-2016
+Away: arizona-diamondbacks | Home: san-francisco-giants
+Seasonal Record:      -57.95%
+Home Away:            50.86%
+Home away 10:         50.62%
+Last 10 games:        -53.04%
+Avg points:           -58.87%
+Avg points 10:        -51.53%
+Win streak home away: 50%
+--------
+Total: -58.41%
+--------
+Perc chance to win: 58.41%
+Favorable team odds: -140.44241404183694
+Underdog team odds: +140.44241404183694
+

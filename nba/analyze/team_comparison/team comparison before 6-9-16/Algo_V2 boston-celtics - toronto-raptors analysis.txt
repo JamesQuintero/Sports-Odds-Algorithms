@@ -1,0 +1,16 @@
+
+Date: 3-18-2016
+Away: boston-celtics | Home: toronto-raptors
+Seasonal Record:      -61.31%
+Home Away:            -74.28%
+Home away 10:         -65.54%
+Last 10 games:        -53.69%
+Avg points:           52.62%
+Avg points 10:        -51.93%
+--------
+Total: -69.91%
+--------
+Perc chance to win: 69.91%
+Favorable team odds: -232.33632436025255
+Underdog team odds: +232.33632436025255
+

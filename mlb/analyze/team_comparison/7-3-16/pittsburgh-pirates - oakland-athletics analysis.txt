@@ -1,0 +1,17 @@
+
+Date: 7-3-2016
+Away: pittsburgh-pirates | Home: oakland-athletics
+Seasonal Record:      53.25%
+Home Away:            -50.26%
+Home away 10:         50.62%
+Last 10 games:        51.6%
+Avg points:           54.81%
+Avg points 10:        51.12%
+Win streak home away: 50%
+--------
+Total: 54.03%
+--------
+Perc chance to win: 54.03%
+Favorable team odds: -117.53317380900587
+Underdog team odds: +117.53317380900587
+

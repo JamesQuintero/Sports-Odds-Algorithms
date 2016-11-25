@@ -1,0 +1,18 @@
+[21:17:40] Loading existing data
+[21:17:40] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/lal/year/2016/los-angeles-lakers
+[21:17:41] Returned 3-30-2016's game results
+[21:17:41] Scraping 3-30-2016's period data
+[21:17:42] Returned 4-3-2016's game results
+[21:17:42] Scraping 4-3-2016's period data
+[21:17:44] Returned 4-5-2016's game results
+[21:17:44] Scraping 4-5-2016's period data
+[21:17:46] Returned 4-6-2016's game results
+[21:17:46] Scraping 4-6-2016's period data
+[21:17:47] Returned 4-8-2016's game results
+[21:17:47] Scraping 4-8-2016's period data
+[21:17:49] Returned 4-10-2016's game results
+[21:17:49] Scraping 4-10-2016's period data
+[21:17:50] Returned 4-11-2016's game results
+[21:17:50] Scraping 4-11-2016's period data
+[21:17:52] Saving data to ./nba/team_data/2016/los-angeles-lakers.csv
+

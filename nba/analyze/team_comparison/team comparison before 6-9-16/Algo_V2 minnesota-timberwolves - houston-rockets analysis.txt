@@ -1,0 +1,16 @@
+
+Date: 3-18-2016
+Away: minnesota-timberwolves | Home: houston-rockets
+Seasonal Record:      -66.43%
+Home Away:            -71.01%
+Home away 10:         52.19%
+Last 10 games:        -53.69%
+Avg points:           -54.9%
+Avg points 10:        -61.51%
+--------
+Total: -68.72%
+--------
+Perc chance to win: 68.72%
+Favorable team odds: -219.69309462915598
+Underdog team odds: +219.69309462915598
+

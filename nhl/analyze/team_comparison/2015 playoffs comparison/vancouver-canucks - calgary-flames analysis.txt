@@ -1,0 +1,17 @@
+
+Date: 4-11-2015
+Away: vancouver-canucks | Home: calgary-flames
+Seasonal Record:      -53.26%
+Home Away:            -57.46%
+Home away 10:         -52.0%
+Last 10 games:        53.28%
+Avg points:           -51.38%
+Avg points 10:        54.1%
+Win streak home away: 50%
+--------
+Total: -51.68%
+--------
+Perc chance to win: 51.68%
+Favorable team odds: -106.95364238410593
+Underdog team odds: +106.95364238410593
+

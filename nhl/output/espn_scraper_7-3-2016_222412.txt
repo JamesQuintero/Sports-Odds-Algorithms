@@ -1,0 +1,12 @@
+---- Start output ----
+[22:24:12] Scraping game scores from http://espn.go.com/nhl/team/schedule/_/name/van/year/2015/vancouver-canucks
+[22:24:15] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[22:24:15] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[22:24:15] Loading existing data
+[22:24:15] Saving data to ./nhl/team_data/2015/vancouver-canucks.csv
+[22:24:15] Scraping game scores from http://espn.go.com/nhl/team/schedule/_/name/cgy/year/2015/calgary-flames
+[22:24:18] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[22:24:18] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[22:24:18] Loading existing data
+[22:24:19] Saving data to ./nhl/team_data/2015/calgary-flames.csv
+

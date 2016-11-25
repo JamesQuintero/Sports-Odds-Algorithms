@@ -1,0 +1,18 @@
+
+Date: 3-7-2016
+Away: san-antonio-spurs | Home: indiana-pacers
+Seasonal Record:      41.0/10 = 4.1
+Home Away:            7.0/10 = 0.7
+Home away 10:         8.0/5 = 1.6
+Last 10 games:        8.0/5 = 1.6
+Avg points:           10.8/8 = 1.35
+Avg points 10:        8.8/8 = 1.1
+Win streak:           8.0/3 = 2.6666666666666665
+Win streak home away: 14.0/3 = 4.666666666666667
+--------
+Total: 17.78
+--------
+Perc chance to win: 85.66871989026063%
+Favorable team odds: -597.774373498158
+Underdog team odds: +597.774373498158
+

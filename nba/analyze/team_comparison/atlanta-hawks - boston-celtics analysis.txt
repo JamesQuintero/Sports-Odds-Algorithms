@@ -1,0 +1,16 @@
+
+Date: 4-16-2016
+Away: atlanta-hawks | Home: boston-celtics
+Seasonal Record:      53.69%
+Home Away:            -66.31%
+Home away 10:         -58.7%
+Last 10 games:        53.69%
+Avg points:           -53.53%
+Avg points 10:        59.89%
+--------
+Total: -53.21%
+--------
+Perc chance to win: 53.21%
+Favorable team odds: -113.72088053002778
+Underdog team odds: +113.72088053002778
+

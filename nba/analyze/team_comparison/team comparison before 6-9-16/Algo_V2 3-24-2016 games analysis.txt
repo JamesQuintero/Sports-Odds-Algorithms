@@ -1,0 +1,81 @@
+
+Date: 3-24-2016
+Away: new-orleans-pelicans | Home: indiana-pacers
+Seasonal Record:      -65.31%
+Home Away:            -81.99%
+Home away 10:         -54.02%
+Last 10 games:        -58.04%
+Avg points:           -59.34%
+Avg points 10:        -56.97%
+--------
+Total: -73.65%
+--------
+Perc chance to win: 73.65%
+Favorable team odds: -279.50664136622396
+Underdog team odds: +279.50664136622396
+
+
+Date: 3-24-2016
+Away: cleveland-cavaliers | Home: brooklyn-nets
+Seasonal Record:      87.11%
+Home Away:            74.28%
+Home away 10:         -52.19%
+Last 10 games:        61.0%
+Avg points:           79.74%
+Avg points 10:        67.81%
+--------
+Total: 83.42%
+--------
+Perc chance to win: 83.42%
+Favorable team odds: -503.13630880579024
+Underdog team odds: +503.13630880579024
+
+
+Date: 3-24-2016
+Away: chicago-bulls | Home: new-york-knicks
+Seasonal Record:      61.89%
+Home Away:            -58.58%
+Home away 10:         52.19%
+Last 10 games:        56.04%
+Avg points:           -50.6%
+Avg points 10:        51.28%
+--------
+Total: 51.65%
+--------
+Perc chance to win: 51.65%
+Favorable team odds: -106.82523267838677
+Underdog team odds: +106.82523267838677
+
+
+Date: 3-24-2016
+Away: utah-jazz | Home: oklahoma-city-thunder
+Seasonal Record:      -68.67%
+Home Away:            -83.68%
+Home away 10:         -54.02%
+Last 10 games:        51.0%
+Avg points:           -62.44%
+Avg points 10:        -50.63%
+--------
+Total: -76.17%
+--------
+Perc chance to win: 76.17%
+Favorable team odds: -319.639110365086
+Underdog team odds: +319.639110365086
+
+
+Date: 3-24-2016
+Away: portland-trail-blazers | Home: los-angeles-clippers
+Seasonal Record:      -60.74%
+Home Away:            -73.22%
+Home away 10:         -54.02%
+Last 10 games:        53.69%
+Avg points:           -53.3%
+Avg points 10:        52.09%
+--------
+Total: -66.98%
+--------
+Perc chance to win: 66.98%
+Favorable team odds: -202.84675953967297
+Underdog team odds: +202.84675953967297
+
+

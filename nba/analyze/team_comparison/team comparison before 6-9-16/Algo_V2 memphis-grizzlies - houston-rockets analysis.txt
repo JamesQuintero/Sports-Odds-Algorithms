@@ -1,0 +1,16 @@
+
+Date: 3-14-2016
+Away: memphis-grizzlies | Home: houston-rockets
+Seasonal Record:      59.58%
+Home Away:            -57.2%
+Home away 10:         -52.19%
+Last 10 games:        53.69%
+Avg points:           -53.93%
+Avg points 10:        -50.84%
+--------
+Total: 51.19%
+--------
+Perc chance to win: 51.19%
+Favorable team odds: -104.87604998975617
+Underdog team odds: +104.87604998975617
+

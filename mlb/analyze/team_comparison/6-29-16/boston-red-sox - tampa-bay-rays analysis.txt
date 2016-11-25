@@ -1,0 +1,18 @@
+
+Date: 6-29-2016
+Away: boston-red-sox | Home: tampa-bay-rays
+Seasonal Record:      54.85%
+Home Away:            50.9%
+Home away 10:         50.62%
+Last 10 games:        53.04%
+Avg points:           59.41%
+Avg points 10:        51.59%
+--------
+Total: 57.13%
+--------
+Perc chance to win: 57.13%
+Favorable team odds: -133.26335432703522
+Underdog team odds: +133.26335432703522
+
+Actual: -170, +150
+

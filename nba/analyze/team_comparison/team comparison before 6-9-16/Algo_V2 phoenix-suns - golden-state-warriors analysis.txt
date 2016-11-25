@@ -1,0 +1,16 @@
+
+Date: 3-12-2016
+Away: phoenix-suns | Home: golden-state-warriors
+Seasonal Record:      -96.77%
+Home Away:            -95.48%
+Home away 10:         -84.96%
+Last 10 games:        -61.96%
+Avg points:           -90.65%
+Avg points 10:        -81.9%
+--------
+Total: -96.12%
+--------
+Perc chance to win: 96.12%
+Favorable team odds: -2477.3195876288687
+Underdog team odds: +2477.3195876288687
+

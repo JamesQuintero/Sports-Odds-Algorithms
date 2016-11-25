@@ -1,0 +1,17 @@
+
+Date: 6-29-2016
+Away: toronto-blue-jays | Home: colorado-rockies
+Seasonal Record:      52.77%
+Home Away:            -50.26%
+Home away 10:         -51.99%
+Last 10 games:        -51.81%
+Avg points:           53.75%
+Avg points 10:        -51.17%
+--------
+Total: 53.26%
+--------
+Perc chance to win: 53.26%
+Favorable team odds: -113.94950791613176
+Underdog team odds: +113.94950791613176
+
+Actual: -135, +115

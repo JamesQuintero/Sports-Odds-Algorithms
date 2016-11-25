@@ -1,0 +1,16 @@
+
+Date: 4-1-2016
+Away: philadelphia-76ers | Home: charlotte-hornets
+Seasonal Record:      -90.07%
+Home Away:            -95.12%
+Home away 10:         -84.96%
+Last 10 games:        -62.57%
+Avg points:           -80.7%
+Avg points 10:        -74.87%
+--------
+Total: -92.59%
+--------
+Perc chance to win: 92.59%
+Favorable team odds: -1249.5276653171397
+Underdog team odds: +1249.5276653171397
+

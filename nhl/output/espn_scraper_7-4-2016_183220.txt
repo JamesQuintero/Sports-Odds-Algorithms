@@ -1,0 +1,13 @@
+---- Start output ----
+[18:32:20] Scraping game scores from http://espn.go.com/nhl/team/schedule/_/name/dal/year/2014/dallas-stars
+[18:32:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[18:32:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[18:32:22] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[18:32:22] Loading existing data
+[18:32:22] Saving data to ./nhl/team_data/2014/dallas-stars.csv
+[18:32:22] Scraping game scores from http://espn.go.com/nhl/team/schedule/_/name/ana/year/2014/anaheim-ducks
+[18:32:22] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[18:32:22] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[18:32:22] Loading existing data
+[18:32:22] Saving data to ./nhl/team_data/2014/anaheim-ducks.csv
+

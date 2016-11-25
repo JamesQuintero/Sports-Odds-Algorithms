@@ -1,0 +1,17 @@
+
+Date: 4-11-2015
+Away: new-york-islanders | Home: washington-capitals
+Seasonal Record:      -58.96%
+Home Away:            -62.81%
+Home away 10:         -53.37%
+Last 10 games:        53.2%
+Avg points:           -55.03%
+Avg points 10:        53.79%
+Win streak home away: 50%
+--------
+Total: -60.88%
+--------
+Perc chance to win: 60.88%
+Favorable team odds: -155.6237218813906
+Underdog team odds: +155.6237218813906
+

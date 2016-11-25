@@ -1,0 +1,18 @@
+
+Date: 3-9-2016
+Away: new-orleans-pelicans | Home: charlotte-hornets
+Seasonal Record:      -20.0/10 = -2.0
+Home Away:            -29.0/10 = -2.9
+Home away 10:         -10.0/5 = -2.0
+Last 10 games:        -8.0/5 = -1.6
+Avg points:           -4.8/8 = -0.6
+Avg points 10:        -13.12/8 = -1.64
+Win streak:           2.0/3 = 0.6666666666666666
+Win streak home away: -4.0/3 = -1.3333333333333333
+--------
+Total: -11.42
+--------
+Perc chance to win: 74.45016844993141%
+Favorable team odds: -291.39201291419687
+Underdog team odds: +291.39201291419687
+

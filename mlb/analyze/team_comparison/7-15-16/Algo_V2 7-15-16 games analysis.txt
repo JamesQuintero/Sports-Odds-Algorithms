@@ -1,0 +1,256 @@
+
+Date: 7-15-16
+Away: texas-rangers | Home: chicago-cubs
+Seasonal Record:      -51.03%
+Home Away:            -52.55%
+Home away 10:         -50.49%
+Last 10 games:        51.81%
+Avg points:           -59.78%
+Avg points 10:        -51.11%
+Win streak home away: 50%
+--------
+Total: -56.16%
+--------
+Perc chance to win: 56.16%
+Favorable team odds: -128.10218978102185
+Underdog team odds: +128.10218978102185
+
+
+Date: 7-15-16
+Away: boston-red-sox | Home: new-york-yankees
+Seasonal Record:      53.25%
+Home Away:            -50.33%
+Home away 10:         -50.62%
+Last 10 games:        52.29%
+Avg points:           58.21%
+Avg points 10:        51.23%
+Win streak home away: 50%
+--------
+Total: 55.73%
+--------
+Perc chance to win: 55.73%
+Favorable team odds: -125.88660492432795
+Underdog team odds: +125.88660492432795
+
+
+Date: 7-15-16
+Away: pittsburgh-pirates | Home: washington-nationals
+Seasonal Record:      -54.63%
+Home Away:            -55.04%
+Home away 10:         -50.49%
+Last 10 games:        52.29%
+Avg points:           -58.49%
+Avg points 10:        51.12%
+Win streak home away: 50%
+--------
+Total: -56.76%
+--------
+Perc chance to win: 56.76%
+Favorable team odds: -131.26734505087882
+Underdog team odds: +131.26734505087882
+
+
+Date: 7-15-16
+Away: new-york-mets | Home: philadelphia-phillies
+Seasonal Record:      53.71%
+Home Away:            -51.47%
+Home away 10:         -51.99%
+Last 10 games:        -51.81%
+Avg points:           58.65%
+Avg points 10:        51.11%
+Win streak home away: 50%
+--------
+Total: 56.18%
+--------
+Perc chance to win: 56.18%
+Favorable team odds: -128.20629849383843
+Underdog team odds: +128.20629849383843
+
+
+Date: 7-15-16
+Away: kansas-city-royals | Home: detroit-tigers
+Seasonal Record:      50.77%
+Home Away:            -58.02%
+Home away 10:         -53.64%
+Last 10 games:        -52.29%
+Avg points:           -51.6%
+Avg points 10:        -51.19%
+Win streak home away: 50%
+--------
+Total: -55.83%
+--------
+Perc chance to win: 55.83%
+Favorable team odds: -126.39800769753226
+Underdog team odds: +126.39800769753226
+
+
+Date: 7-15-16
+Away: milwaukee-brewers | Home: cincinnati-reds
+Seasonal Record:      54.18%
+Home Away:            -50.33%
+Home away 10:         -50.49%
+Last 10 games:        51.6%
+Avg points:           56.58%
+Avg points 10:        -51.2%
+Win streak home away: 50%
+--------
+Total: 55.38%
+--------
+Perc chance to win: 55.38%
+Favorable team odds: -124.1147467503362
+Underdog team odds: +124.1147467503362
+
+
+Date: 7-15-16
+Away: baltimore-orioles | Home: tampa-bay-rays
+Seasonal Record:      58.14%
+Home Away:            50.9%
+Home away 10:         51.99%
+Last 10 games:        53.04%
+Avg points:           59.07%
+Avg points 10:        51.69%
+Win streak home away: 50%
+--------
+Total: 58.6%
+--------
+Perc chance to win: 58.6%
+Favorable team odds: -141.54589371980677
+Underdog team odds: +141.54589371980677
+
+
+Date: 7-15-16
+Away: colorado-rockies | Home: atlanta-braves
+Seasonal Record:      55.29%
+Home Away:            55.5%
+Home away 10:         -50.49%
+Last 10 games:        -51.81%
+Avg points:           57.8%
+Avg points 10:        -51.11%
+Win streak home away: 50%
+--------
+Total: 56.65%
+--------
+Perc chance to win: 56.65%
+Favorable team odds: -130.6805074971165
+Underdog team odds: +130.6805074971165
+
+
+Date: 7-15-16
+Away: cleveland-indians | Home: minnesota-twins
+Seasonal Record:      59.23%
+Home Away:            54.57%
+Home away 10:         50.62%
+Last 10 games:        -53.04%
+Avg points:           60.81%
+Avg points 10:        -57.75%
+Win streak home away: 50%
+--------
+Total: 60.02%
+--------
+Perc chance to win: 60.02%
+Favorable team odds: -150.12506253126566
+Underdog team odds: +150.12506253126566
+
+
+Date: 7-15-16
+Away: miami-marlins | Home: st.-louis-cardinals
+Seasonal Record:      51.03%
+Home Away:            51.46%
+Home away 10:         -50.62%
+Last 10 games:        51.6%
+Avg points:           -57.98%
+Avg points 10:        -51.3%
+Win streak home away: 50%
+--------
+Total: -53.19%
+--------
+Perc chance to win: 53.19%
+Favorable team odds: -113.62956633198031
+Underdog team odds: +113.62956633198031
+
+
+Date: 7-15-16
+Away: los-angeles-dodgers | Home: arizona-diamondbacks
+Seasonal Record:      56.56%
+Home Away:            55.95%
+Home away 10:         53.64%
+Last 10 games:        55.36%
+Avg points:           58.55%
+Avg points 10:        52.97%
+Win streak home away: 50%
+--------
+Total: 57.55%
+--------
+Perc chance to win: 57.55%
+Favorable team odds: -135.57126030624264
+Underdog team odds: +135.57126030624264
+
+
+Date: 7-15-16
+Away: chicago-white-sox | Home: los-angeles-angels
+Seasonal Record:      55.07%
+Home Away:            53.07%
+Home away 10:         51.99%
+Last 10 games:        51.81%
+Avg points:           50.43%
+Avg points 10:        -52.69%
+Win streak home away: 50%
+--------
+Total: 54.07%
+--------
+Perc chance to win: 54.07%
+Favorable team odds: -117.7226213803614
+Underdog team odds: +117.7226213803614
+
+
+Date: 7-15-16
+Away: toronto-blue-jays | Home: oakland-athletics
+Seasonal Record:      56.36%
+Home Away:            54.57%
+Home away 10:         51.99%
+Last 10 games:        55.36%
+Avg points:           60.46%
+Avg points 10:        58.71%
+Win streak home away: 50%
+--------
+Total: 59.58%
+--------
+Perc chance to win: 59.58%
+Favorable team odds: -147.4022761009401
+Underdog team odds: +147.4022761009401
+
+
+Date: 7-15-16
+Away: houston-astros | Home: seattle-mariners
+Seasonal Record:      52.28%
+Home Away:            50.26%
+Home away 10:         50.62%
+Last 10 games:        51.81%
+Avg points:           -51.41%
+Avg points 10:        -51.13%
+Win streak home away: 50%
+--------
+Total: 52.04%
+--------
+Perc chance to win: 52.04%
+Favorable team odds: -108.50708924103421
+Underdog team odds: +108.50708924103421
+
+
+Date: 7-15-16
+Away: san-francisco-giants | Home: san-diego-padres
+Seasonal Record:      59.06%
+Home Away:            56.39%
+Home away 10:         51.99%
+Last 10 games:        53.04%
+Avg points:           59.51%
+Avg points 10:        51.19%
+Win streak home away: 50%
+--------
+Total: 59.28%
+--------
+Perc chance to win: 59.28%
+Favorable team odds: -145.57956777996074
+Underdog team odds: +145.57956777996074
+
+

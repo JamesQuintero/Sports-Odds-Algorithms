@@ -1,0 +1,17 @@
+
+Date: 7-9-2016
+Away: chicago-cubs | Home: pittsburgh-pirates
+Seasonal Record:      54.63%
+Home Away:            -51.47%
+Home away 10:         -51.99%
+Last 10 games:        -56.92%
+Avg points:           60.77%
+Avg points 10:        -54.01%
+Win streak home away: 50%
+--------
+Total: 51.92%
+--------
+Perc chance to win: 51.92%
+Favorable team odds: -107.98668885191347
+Underdog team odds: +107.98668885191347
+

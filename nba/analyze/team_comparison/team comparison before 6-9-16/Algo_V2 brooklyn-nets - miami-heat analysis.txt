@@ -1,0 +1,16 @@
+
+Date: 3-28-2016
+Away: brooklyn-nets | Home: miami-heat
+Seasonal Record:      -76.28%
+Home Away:            -85.28%
+Home away 10:         -70.85%
+Last 10 games:        -58.04%
+Avg points:           -66.79%
+Avg points 10:        -60.06%
+--------
+Total: -80.78%
+--------
+Perc chance to win: 80.78%
+Favorable team odds: -420.2913631633715
+Underdog team odds: +420.2913631633715
+

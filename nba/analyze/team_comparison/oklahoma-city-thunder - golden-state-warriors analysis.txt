@@ -1,0 +1,16 @@
+
+Date: 4-16-2016
+Away: oklahoma-city-thunder | Home: golden-state-warriors
+Seasonal Record:      -71.97%
+Home Away:            -84.5%
+Home away 10:         -59.94%
+Last 10 games:        -56.04%
+Avg points:           -54.71%
+Avg points 10:        53.56%
+--------
+Total: -78.23%
+--------
+Perc chance to win: 78.23%
+Favorable team odds: -359.3477262287553
+Underdog team odds: +359.3477262287553
+

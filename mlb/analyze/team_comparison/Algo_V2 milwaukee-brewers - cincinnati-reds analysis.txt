@@ -1,0 +1,17 @@
+
+Date: 7-16-2016
+Away: milwaukee-brewers | Home: cincinnati-reds
+Seasonal Record:      53.71%
+Home Away:            -51.46%
+Home away 10:         -50.49%
+Last 10 games:        -51.81%
+Avg points:           56.37%
+Avg points 10:        -51.12%
+Win streak home away: 50%
+--------
+Total: 55.04%
+--------
+Perc chance to win: 55.04%
+Favorable team odds: -122.41992882562278
+Underdog team odds: +122.41992882562278
+

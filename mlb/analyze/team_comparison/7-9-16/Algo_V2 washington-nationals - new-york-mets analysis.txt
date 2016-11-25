@@ -1,0 +1,17 @@
+
+Date: 7-9-2016
+Away: washington-nationals | Home: new-york-mets
+Seasonal Record:      53.01%
+Home Away:            50.26%
+Home away 10:         -60.18%
+Last 10 games:        -51.81%
+Avg points:           56.85%
+Avg points 10:        -51.17%
+Win streak home away: 50%
+--------
+Total: -51.66%
+--------
+Perc chance to win: 51.66%
+Favorable team odds: -106.8680182043856
+Underdog team odds: +106.8680182043856
+

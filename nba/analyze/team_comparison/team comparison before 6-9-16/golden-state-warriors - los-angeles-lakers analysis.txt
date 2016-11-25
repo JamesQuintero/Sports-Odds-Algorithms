@@ -1,0 +1,18 @@
+
+Date: 3-6-2016
+Away: golden-state-warriors | Home: los-angeles-lakers
+Seasonal Record:      89.0/10 = 8.9
+Home Away:            38.0/10 = 3.8
+Home away 10:         14.0/5 = 2.8
+Last 10 games:        16.0/5 = 3.2
+Avg points:           20.96/8 = 2.62
+Avg points 10:        13.92/8 = 1.74
+Win streak:           8.0/3 = 2.6666666666666665
+Win streak home away: 2.0/3 = 0.6666666666666666
+--------
+Total: 26.4
+--------
+Perc chance to win: 96.79975308641974%
+Favorable team odds: -3024.7588920607864
+Underdog team odds: +3024.7588920607864
+

@@ -1,0 +1,16 @@
+
+Date: 3-14-2016
+Away: chicago-bulls | Home: toronto-raptors
+Seasonal Record:      -66.43%
+Home Away:            -82.85%
+Home away 10:         -84.96%
+Last 10 games:        -59.69%
+Avg points:           -62.52%
+Avg points 10:        -65.55%
+--------
+Total: -83.9%
+--------
+Perc chance to win: 83.9%
+Favorable team odds: -521.1180124223605
+Underdog team odds: +521.1180124223605
+

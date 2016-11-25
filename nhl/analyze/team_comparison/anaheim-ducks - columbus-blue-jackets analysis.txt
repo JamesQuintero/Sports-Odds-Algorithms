@@ -1,0 +1,17 @@
+
+Date: 4-11-2014
+Away: anaheim-ducks | Home: columbus-blue-jackets
+Seasonal Record:      52.5%
+Home Away:            -52.54%
+Home away 10:         50.81%
+Last 10 games:        -53.28%
+Avg points:           50.97%
+Avg points 10:        -53.76%
+Win streak home away: 50%
+--------
+Total: -53.52%
+--------
+Perc chance to win: 53.52%
+Favorable team odds: -115.14629948364892
+Underdog team odds: +115.14629948364892
+

@@ -1,0 +1,2086 @@
+---- Start output ----
+[16:38:03] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels
+[16:38:04] Date: 4-4-2016
+[16:38:04] Old date: 4-4-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] Regular Season Schedule/Results</td></tr>
+<tr class="colhead">
+<td>APRIL</td>
+<td>OPPONENT</td>
+<td width="15%">RESULT</td>
+<td align="center">W-L</td>
+<td>WIN</td>
+<td>LOSS</td>
+<td>SAVE</td>
+<td>ATT</td>
+</tr>
+<tr class="oddrow team-10-16"><td><nobr>Mon, Apr 4</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/chc/chicago-cubs"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/ChC.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 4-5-2016
+[16:38:04] Old date: 4-5-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/chc/chicago-cubs">Cubs</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360404103">9-0</a></li></ul></td>
+<td align="center">0-1</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30145/jake-arrieta">Arrieta</a> (1-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30892/garrett-richards">Richards</a> (0-1) </td>
+<td><nobr></td>
+<td>44,020</td>
+</tr>
+<tr class="evenrow team-10-16"><td><nobr>Tue, Apr 5</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/chc/chicago-cubs"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/ChC.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360404103
+[16:38:04] Date: 4-7-2016
+[16:38:04] Old date: 4-7-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/chc/chicago-cubs">Cubs</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360405103">6-1</a></li></ul></td>
+<td align="center">0-2</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/28487/jon-lester">Lester</a> (1-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32672/andrew-heaney">Heaney</a> (0-1) </td>
+<td><nobr></td>
+<td>37,042</td>
+</tr>
+<tr class="oddrow team-10-13"><td><nobr>Thu, Apr 7</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tex.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360405103
+[16:38:04] Date: 4-8-2016
+[16:38:04] Old date: 4-8-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers">Texas</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360407103">4-3</a></li></ul></td>
+<td align="center">1-2</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6175/huston-street">Street</a> (1-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31745/sam-dyson">Dyson</a> (0-1) </td>
+<td><nobr></td>
+<td>39,089</td>
+</tr>
+<tr class="evenrow team-10-13"><td><nobr>Fri, Apr 8</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tex.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360407103
+[16:38:04] Date: 4-9-2016
+[16:38:04] Old date: 4-9-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers">Texas</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360408103">7-3</a></li></ul></td>
+<td align="center">1-3</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32559/a.j.-griffin">Griffin</a> (1-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32058/matt-shoemaker">Shoemaker</a> (0-1) </td>
+<td><nobr></td>
+<td>35,207</td>
+</tr>
+<tr class="oddrow team-10-13"><td><nobr>Sat, Apr 9</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tex.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360408103
+[16:38:04] Date: 4-10-2016
+[16:38:04] Old date: 4-10-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers">Texas</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360409103">4-1</a></li></ul></td>
+<td align="center">1-4</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6216/cole-hamels">Hamels</a> (2-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30892/garrett-richards">Richards</a> (0-2) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31886/shawn-tolleson">Tolleson</a>
+ (2) </td>
+<td>38,106</td>
+</tr>
+<tr class="evenrow team-10-13"><td><nobr>Sun, Apr 10</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tex.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360409103
+[16:38:04] Date: 4-11-2016
+[16:38:04] Old date: 4-11-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers">Texas</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360410103">3-1</a></li></ul></td>
+<td align="center">2-4</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6479/jered-weaver">Weaver</a> (1-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31098/martin-perez">Perez</a> (0-1) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6175/huston-street">Street</a>
+ (1) </td>
+<td>35,097</td>
+</tr>
+<tr class="oddrow team-10-11"><td><nobr>Mon, Apr 11</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Oak.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360410103
+[16:38:04] Date: 4-12-2016
+[16:38:04] Old date: 4-12-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics">Oakland</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360411111">4-1</a></li></ul></td>
+<td align="center">3-4</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/33170/nick-tropeano">Tropeano</a> (1-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32082/sonny-gray">Gray</a> (1-1) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6175/huston-street">Street</a>
+ (2) </td>
+<td>13,371</td>
+</tr>
+<tr class="evenrow team-10-11"><td><nobr>Tue, Apr 12</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Oak.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360411111
+[16:38:04] Date: 4-13-2016
+[16:38:04] Old date: 4-13-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics">Oakland</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360412111">5-4</a></li></ul></td>
+<td align="center">4-4</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32949/mike-morin">Morin</a> (1-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30283/sean-doolittle">Doolittle</a> (1-2) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6175/huston-street">Street</a>
+ (3) </td>
+<td>13,492</td>
+</tr>
+<tr class="oddrow team-10-11"><td><nobr>Wed, Apr 13</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Oak.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360412111
+[16:38:04] Date: 4-15-2016
+[16:38:04] Old date: 4-15-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics">Oakland</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360413111">5-1</a></li></ul></td>
+<td align="center">5-4</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32058/matt-shoemaker">Shoemaker</a> (1-1) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31800/eric-surkamp">Surkamp</a> (0-1) </td>
+<td><nobr></td>
+<td>11,216</td>
+</tr>
+<tr class="evenrow team-10-9"><td><nobr>Fri, Apr 15</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/min/minnesota-twins"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Min.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360413111
+[16:38:04] Date: 4-16-2016
+[16:38:04] Old date: 4-16-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/min/minnesota-twins">Minnesota</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360415109">5-4</a></li></ul></td>
+<td align="center">5-5</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/29376/casey-fien">Fien</a> (1-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30650/fernando-salas">Salas</a> (0-1) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/29265/kevin-jepsen">Jepsen</a>
+ (1) </td>
+<td>22,461</td>
+</tr>
+<tr class="oddrow team-10-9"><td><nobr>Sat, Apr 16</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/min/minnesota-twins"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Min.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360415109
+[16:38:04] Date: 4-17-2016
+[16:38:04] Old date: 4-17-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/min/minnesota-twins">Minnesota</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360416109">6-4</a></li></ul></td>
+<td align="center">5-6</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/33072/ryan-pressly">Pressly</a> (1-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/28729/joe-smith">Smith</a> (0-1) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/29265/kevin-jepsen">Jepsen</a>
+ (2) </td>
+<td>27,464</td>
+</tr>
+<tr class="evenrow team-10-9"><td><nobr>Sun, Apr 17</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/min/minnesota-twins"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Min.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360416109
+[16:38:04] Date: 4-18-2016
+[16:38:04] Old date: 4-18-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/min/minnesota-twins">Minnesota</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360417109">3-2 F/12</a></li></ul></td>
+<td align="center">5-7</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32594/michael-tonkin">Tonkin</a> (1-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31984/cory-rasmus">Rasmus</a> (0-1) </td>
+<td><nobr></td>
+<td>25,932</td>
+</tr>
+<tr class="oddrow team-10-4"><td><nobr>Mon, Apr 18</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/chw/chicago-white-sox"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/CHW.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360417109
+[16:38:04] Date: 4-19-2016
+[16:38:04] Old date: 4-19-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/chw/chicago-white-sox">White Sox</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360418104">7-0</a></li></ul></td>
+<td align="center">6-7</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30744/hector-santiago">Santiago</a> (1-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/33696/carlos-rodon">Rodon</a> (1-2) </td>
+<td><nobr></td>
+<td>14,706</td>
+</tr>
+<tr class="evenrow team-10-4"><td><nobr>Tue, Apr 19</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/chw/chicago-white-sox"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/CHW.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360418104
+[16:38:04] Date: 4-20-2016
+[16:38:04] Old date: 4-20-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/chw/chicago-white-sox">White Sox</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360419104">5-0</a></li></ul></td>
+<td align="center">6-8</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30196/mat-latos">Latos</a> (3-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32058/matt-shoemaker">Shoemaker</a> (1-2) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31136/nate-jones">Jones</a>
+ (1) </td>
+<td>12,093</td>
+</tr>
+<tr class="oddrow team-10-4"><td><nobr>Wed, Apr 20</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/chw/chicago-white-sox"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/CHW.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360419104
+[16:38:04] Date: 4-21-2016
+[16:38:04] Old date: 4-21-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/chw/chicago-white-sox">White Sox</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360420104">2-1</a></li></ul></td>
+<td align="center">6-9</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30948/chris-sale">Sale</a> (4-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30892/garrett-richards">Richards</a> (0-3) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/29172/david-robertson">Robertson</a>
+ (6) </td>
+<td>12,785</td>
+</tr>
+<tr class="evenrow team-10-4"><td><nobr>Thu, Apr 21</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/chw/chicago-white-sox"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/CHW.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360420104
+[16:38:04] Date: 4-22-2016
+[16:38:04] Old date: 4-22-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/chw/chicago-white-sox">White Sox</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360421104">3-2</a></li></ul></td>
+<td align="center">7-9</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6479/jered-weaver">Weaver</a> (2-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/28508/john-danks">Danks</a> (0-3) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6175/huston-street">Street</a>
+ (4) </td>
+<td>11,418</td>
+</tr>
+<tr class="oddrow team-10-12"><td><nobr>Fri, Apr 22</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Sea.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360421104
+[16:38:04] Date: 4-23-2016
+[16:38:04] Old date: 4-23-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">Seattle</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360422103">5-2 F/10</a></li></ul></td>
+<td align="center">7-10</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6287/joel-peralta">Peralta</a> (1-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32099/jose-alvarez">Alvarez</a> (0-1) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30963/steve-cishek">Cishek</a>
+ (4) </td>
+<td>40,755</td>
+</tr>
+<tr class="evenrow team-10-12"><td><nobr>Sat, Apr 23</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Sea.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360422103
+[16:38:04] Date: 4-24-2016
+[16:38:04] Old date: 4-24-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">Seattle</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360423103">4-2</a></li></ul></td>
+<td align="center">8-10</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30744/hector-santiago">Santiago</a> (2-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6194/felix-hernandez">Hernandez</a> (1-2) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6175/huston-street">Street</a>
+ (5) </td>
+<td>41,058</td>
+</tr>
+<tr class="oddrow team-10-12"><td><nobr>Sun, Apr 24</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Sea.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360423103
+[16:38:04] Date: 4-25-2016
+[16:38:04] Old date: 4-25-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">Seattle</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360424103">9-4</a></li></ul></td>
+<td align="center">8-11</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31094/wade-miley">Miley</a> (1-2) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32058/matt-shoemaker">Shoemaker</a> (1-3) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31540/nick-vincent">Vincent</a>
+ (1) </td>
+<td>37,754</td>
+</tr>
+<tr class="evenrow team-10-7"><td><nobr>Mon, Apr 25</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/kc/kansas-city-royals"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/KC.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360424103
+[16:38:04] Date: 4-26-2016
+[16:38:04] Old date: 4-26-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/kc/kansas-city-royals">Kansas City</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360425103">6-1</a></li></ul></td>
+<td align="center">9-11</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30892/garrett-richards">Richards</a> (1-3) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/28864/ian-kennedy">Kennedy</a> (2-2) </td>
+<td><nobr></td>
+<td>31,061</td>
+</tr>
+<tr class="oddrow team-10-7"><td><nobr>Tue, Apr 26</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/kc/kansas-city-royals"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/KC.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360425103
+[16:38:04] Date: 4-27-2016
+[16:38:04] Old date: 4-27-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/kc/kansas-city-royals">Kansas City</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360426103">9-4</a></li></ul></td>
+<td align="center">10-11</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6479/jered-weaver">Weaver</a> (3-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6401/edinson-volquez">Volquez</a> (3-1) </td>
+<td><nobr></td>
+<td>34,428</td>
+</tr>
+<tr class="evenrow team-10-7"><td><nobr>Wed, Apr 27</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/kc/kansas-city-royals"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/KC.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360426103
+[16:38:04] Date: 4-29-2016
+[16:38:04] Old date: 4-29-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/kc/kansas-city-royals">Kansas City</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360427103">4-2</a></li></ul></td>
+<td align="center">11-11</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30650/fernando-salas">Salas</a> (1-1) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6073/chris-young">Young</a> (1-4) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/28729/joe-smith">Smith</a>
+ (1) </td>
+<td>35,142</td>
+</tr>
+<tr class="oddrow team-10-13"><td><nobr>Fri, Apr 29</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tex.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360427103
+[16:38:04] Date: 4-30-2016
+[16:38:04] Old date: 4-30-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers">Texas</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360429113">4-2</a></li></ul></td>
+<td align="center">11-12</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/5067/colby-lewis">Lewis</a> (2-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30744/hector-santiago">Santiago</a> (2-1) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31886/shawn-tolleson">Tolleson</a>
+ (8) </td>
+<td>29,589</td>
+</tr>
+<tr class="evenrow team-10-13"><td><nobr>Sat, Apr 30</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tex.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360429113
+[16:38:04] Date: 5-1-2016
+[16:38:04] Old date: 5-1-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers">Texas</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360430113">7-2</a></li></ul></td>
+<td align="center">11-13</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30148/derek-holland">Holland</a> (3-1) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32058/matt-shoemaker">Shoemaker</a> (1-4) </td>
+<td><nobr></td>
+<td>41,571</td>
+</tr>
+<tr class="colhead">
+<td>MAY</td>
+<td>OPPONENT</td>
+<td width="15%">RESULT</td>
+<td align="center">W-L</td>
+<td>WIN</td>
+<td>LOSS</td>
+<td>SAVE</td>
+<td>ATT</td>
+</tr>
+<tr class="oddrow team-10-13"><td><nobr>Sun, May 1</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tex.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360430113
+[16:38:04] Date: 5-2-2016
+[16:38:04] Old date: 5-2-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers">Texas</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360501113">9-6</a></li></ul></td>
+<td align="center">12-13</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/33982/greg-mahle">Mahle</a> (1-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31517/tom-wilhelmsen">Wilhelmsen</a> (1-2) </td>
+<td><nobr></td>
+<td>39,401</td>
+</tr>
+<tr class="evenrow team-10-8"><td><nobr>Mon, May 2</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/mil/milwaukee-brewers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Mil.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360501113
+[16:38:04] Date: 5-3-2016
+[16:38:04] Old date: 5-3-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/mil/milwaukee-brewers">Milwaukee</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360502108">8-5</a></li></ul></td>
+<td align="center">12-14</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32738/jimmy-nelson">Nelson</a> (4-2) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6479/jered-weaver">Weaver</a> (3-1) </td>
+<td><nobr></td>
+<td>21,352</td>
+</tr>
+<tr class="oddrow team-10-8"><td><nobr>Tue, May 3</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/mil/milwaukee-brewers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Mil.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360502108
+[16:38:04] Date: 5-4-2016
+[16:38:04] Old date: 5-4-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/mil/milwaukee-brewers">Milwaukee</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360503108">5-4</a></li></ul></td>
+<td align="center">12-15</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/34241/junior-guerra">Guerra</a> (1-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/33170/nick-tropeano">Tropeano</a> (1-1) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30954/jeremy-jeffress">Jeffress</a>
+ (7) </td>
+<td>28,180</td>
+</tr>
+<tr class="evenrow team-10-8"><td><nobr>Wed, May 4</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/mil/milwaukee-brewers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Mil.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360503108
+[16:38:04] Date: 5-6-2016
+[16:38:04] Old date: 5-6-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/mil/milwaukee-brewers">Milwaukee</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360504108">7-3</a></li></ul></td>
+<td align="center">13-15</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30650/fernando-salas">Salas</a> (2-1) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31887/tyler-thornburg">Thornburg</a> (2-1) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/28729/joe-smith">Smith</a>
+ (2) </td>
+<td>21,907</td>
+</tr>
+<tr class="oddrow team-10-30"><td><nobr>Fri, May 6</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tb/tampa-bay-rays"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/TB.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360504108
+[16:38:04] Date: 5-7-2016
+[16:38:04] Old date: 5-7-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/tb/tampa-bay-rays">Tampa Bay</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360506103">5-2</a></li></ul></td>
+<td align="center">13-16</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31003/chris-archer">Archer</a> (2-4) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31984/cory-rasmus">Rasmus</a> (0-2) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31255/alex-colome">Colome</a>
+ (7) </td>
+<td>41,253</td>
+</tr>
+<tr class="evenrow team-10-30"><td><nobr>Sat, May 7</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tb/tampa-bay-rays"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/TB.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360506103
+[16:38:04] Date: 5-8-2016
+[16:38:04] Old date: 5-8-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/tb/tampa-bay-rays">Tampa Bay</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360507103">4-2</a></li></ul></td>
+<td align="center">13-17</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31983/erasmo-ramirez">Ramirez</a> (6-1) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/28729/joe-smith">Smith</a> (0-2) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31255/alex-colome">Colome</a>
+ (8) </td>
+<td>40,142</td>
+</tr>
+<tr class="oddrow team-10-30"><td><nobr>Sun, May 8</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tb/tampa-bay-rays"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/TB.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360507103
+[16:38:04] Date: 5-10-2016
+[16:38:04] Old date: 5-10-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/tb/tampa-bay-rays">Tampa Bay</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360508103">3-1</a></li></ul></td>
+<td align="center">13-18</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32549/matt-andriese">Andriese</a> (1-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/33170/nick-tropeano">Tropeano</a> (1-2) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31255/alex-colome">Colome</a>
+ (9) </td>
+<td>41,086</td>
+</tr>
+<tr class="evenrow team-10-24"><td><nobr>Tue, May 10</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/stl/st.-louis-cardinals"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/StL.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360508103
+[16:38:04] Date: 5-11-2016
+[16:38:04] Old date: 5-11-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/stl/st.-louis-cardinals">St. Louis</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360510103">8-1</a></li></ul></td>
+<td align="center">13-19</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30465/mike-leake">Leake</a> (1-3) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30744/hector-santiago">Santiago</a> (2-2) </td>
+<td><nobr></td>
+<td>30,679</td>
+</tr>
+<tr class="oddrow team-10-24"><td><nobr>Wed, May 11</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/stl/st.-louis-cardinals"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/StL.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360510103
+[16:38:04] Date: 5-12-2016
+[16:38:04] Old date: 5-12-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/stl/st.-louis-cardinals">St. Louis</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360511103">5-2</a></li></ul></td>
+<td align="center">13-20</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/29185/jaime-garcia">Garcia</a> (3-2) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32058/matt-shoemaker">Shoemaker</a> (1-5) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31945/trevor-rosenthal">Rosenthal</a>
+ (6) </td>
+<td>33,378</td>
+</tr>
+<tr class="evenrow team-10-24"><td><nobr>Thu, May 12</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/stl/st.-louis-cardinals"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/StL.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360511103
+[16:38:04] Date: 5-13-2016
+[16:38:04] Old date: 5-13-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/stl/st.-louis-cardinals">St. Louis</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360512103">12-10</a></li></ul></td>
+<td align="center">13-21</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/5403/adam-wainwright">Wainwright</a> (3-3) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6479/jered-weaver">Weaver</a> (3-2) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32059/kevin-siegrist">Siegrist</a>
+ (1) </td>
+<td>35,413</td>
+</tr>
+<tr class="oddrow team-10-12"><td><nobr>Fri, May 13</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Sea.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360512103
+[16:38:04] Date: 5-14-2016
+[16:38:04] Old date: 5-14-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">Seattle</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360513112">7-6</a></li></ul></td>
+<td align="center">14-21</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/28729/joe-smith">Smith</a> (1-2) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30963/steve-cishek">Cishek</a> (2-2) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30650/fernando-salas">Salas</a>
+ (1) </td>
+<td>34,579</td>
+</tr>
+<tr class="evenrow team-10-12"><td><nobr>Sat, May 14</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Sea.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360513112
+[16:38:04] Date: 5-15-2016
+[16:38:04] Old date: 5-15-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">Seattle</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360514112">9-7</a></li></ul></td>
+<td align="center">15-21</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31716/cam-bedrosian">Bedrosian</a> (1-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30963/steve-cishek">Cishek</a> (2-3) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/28729/joe-smith">Smith</a>
+ (3) </td>
+<td>42,038</td>
+</tr>
+<tr class="oddrow team-10-12"><td><nobr>Sun, May 15</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Sea.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360514112
+[16:38:04] Date: 5-16-2016
+[16:38:04] Old date: 5-16-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">Seattle</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360515112">3-0</a></li></ul></td>
+<td align="center">16-21</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30744/hector-santiago">Santiago</a> (3-2) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6194/felix-hernandez">Hernandez</a> (3-3) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/28729/joe-smith">Smith</a>
+ (4) </td>
+<td>40,852</td>
+</tr>
+<tr class="evenrow team-10-19"><td><nobr>Mon, May 16</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/lad/los-angeles-dodgers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/LAD.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360515112
+[16:38:04] Date: 5-17-2016
+[16:38:04] Old date: 5-17-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/lad/los-angeles-dodgers">LA Dodgers</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360516119">7-6</a></li></ul></td>
+<td align="center">17-21</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32058/matt-shoemaker">Shoemaker</a> (2-5) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/34892/kenta-maeda">Maeda</a> (3-3) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30650/fernando-salas">Salas</a>
+ (2) </td>
+<td>39,583</td>
+</tr>
+<tr class="oddrow team-10-19"><td><nobr>Tue, May 17</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/lad/los-angeles-dodgers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/LAD.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360516119
+[16:38:04] Date: 5-18-2016
+[16:38:04] Old date: 5-18-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/lad/los-angeles-dodgers">LA Dodgers</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360517119">5-1</a></li></ul></td>
+<td align="center">17-22</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/28963/clayton-kershaw">Kershaw</a> (6-1) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6479/jered-weaver">Weaver</a> (3-3) </td>
+<td><nobr></td>
+<td>42,514</td>
+</tr>
+<tr class="evenrow team-10-19"><td><nobr>Wed, May 18</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/lad/los-angeles-dodgers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/LAD.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360517119
+[16:38:04] Date: 5-19-2016
+[16:38:04] Old date: 5-19-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/lad/los-angeles-dodgers">LA Dodgers</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360518103">8-1</a></li></ul></td>
+<td align="center">18-22</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/33170/nick-tropeano">Tropeano</a> (2-2) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32737/mike-bolsinger">Bolsinger</a> (0-1) </td>
+<td><nobr></td>
+<td>44,006</td>
+</tr>
+<tr class="oddrow team-10-19"><td><nobr>Thu, May 19</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/lad/los-angeles-dodgers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/LAD.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360518103
+[16:38:04] Date: 5-20-2016
+[16:38:04] Old date: 5-20-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/lad/los-angeles-dodgers">LA Dodgers</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360519103">7-4</a></li></ul></td>
+<td align="center">19-22</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32099/jose-alvarez">Alvarez</a> (1-1) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32789/ross-stripling">Stripling</a> (1-3) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/28729/joe-smith">Smith</a>
+ (5) </td>
+<td>45,007</td>
+</tr>
+<tr class="evenrow team-10-1"><td><nobr>Fri, May 20</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/bal/baltimore-orioles"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Bal.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360519103
+[16:38:04] Date: 5-21-2016
+[16:38:04] Old date: 5-21-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/bal/baltimore-orioles">Baltimore</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360520103">9-4</a></li></ul></td>
+<td align="center">19-23</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31618/mychal-givens">Givens</a> (3-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32099/jose-alvarez">Alvarez</a> (1-2) </td>
+<td><nobr></td>
+<td>40,987</td>
+</tr>
+<tr class="oddrow team-10-1"><td><nobr>Sat, May 21</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/bal/baltimore-orioles"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Bal.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360520103
+[16:38:04] Date: 5-22-2016
+[16:38:04] Old date: 5-22-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/bal/baltimore-orioles">Baltimore</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360521103">3-1</a></li></ul></td>
+<td align="center">19-24</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31000/brad-brach">Brach</a> (4-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/28729/joe-smith">Smith</a> (1-3) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31054/zach-britton">Britton</a>
+ (12) </td>
+<td>40,137</td>
+</tr>
+<tr class="evenrow team-10-1"><td><nobr>Sun, May 22</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/bal/baltimore-orioles"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Bal.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360521103
+[16:38:04] Date: 5-23-2016
+[16:38:04] Old date: 5-23-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/bal/baltimore-orioles">Baltimore</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360522103">10-2</a></li></ul></td>
+<td align="center">20-24</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6479/jered-weaver">Weaver</a> (4-3) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/28625/ubaldo-jimenez">Jimenez</a> (2-5) </td>
+<td><nobr></td>
+<td>41,280</td>
+</tr>
+<tr class="oddrow team-10-13"><td><nobr>Mon, May 23</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tex.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360522103
+[16:38:04] Date: 5-24-2016
+[16:38:04] Old date: 5-24-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers">Texas</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360523113">2-0</a></li></ul></td>
+<td align="center">21-24</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/33170/nick-tropeano">Tropeano</a> (3-2) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30148/derek-holland">Holland</a> (3-4) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/28729/joe-smith">Smith</a>
+ (6) </td>
+<td>25,298</td>
+</tr>
+<tr class="evenrow team-10-13"><td><nobr>Tue, May 24</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tex.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360523113
+[16:38:04] Date: 5-25-2016
+[16:38:04] Old date: 5-25-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers">Texas</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360524113">4-1</a></li></ul></td>
+<td align="center">21-25</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31098/martin-perez">Perez</a> (2-4) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30147/jhoulys-chacin">Chacin</a> (0-1) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31745/sam-dyson">Dyson</a>
+ (5) </td>
+<td>26,125</td>
+</tr>
+<tr class="oddrow team-10-13"><td><nobr>Wed, May 25</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tex.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360524113
+[16:38:04] Date: 5-27-2016
+[16:38:04] Old date: 5-27-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers">Texas</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360525113">15-9</a></li></ul></td>
+<td align="center">21-26</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/5067/colby-lewis">Lewis</a> (4-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30744/hector-santiago">Santiago</a> (3-3) </td>
+<td><nobr></td>
+<td>32,480</td>
+</tr>
+<tr class="evenrow team-10-18"><td><nobr>Fri, May 27</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Hou.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360525113
+[16:38:04] Date: 5-28-2016
+[16:38:04] Old date: 5-28-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros">Houston</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360527103">7-2</a></li></ul></td>
+<td align="center">22-26</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32058/matt-shoemaker">Shoemaker</a> (3-5) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30773/mike-fiers">Fiers</a> (3-3) </td>
+<td><nobr></td>
+<td>39,047</td>
+</tr>
+<tr class="oddrow team-10-18"><td><nobr>Sat, May 28</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Hou.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360527103
+[16:38:04] Date: 5-29-2016
+[16:38:04] Old date: 5-29-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros">Houston</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360528103">4-2</a></li></ul></td>
+<td align="center">22-27</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31815/dallas-keuchel">Keuchel</a> (3-6) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6479/jered-weaver">Weaver</a> (4-4) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30276/luke-gregerson">Gregerson</a>
+ (11) </td>
+<td>38,176</td>
+</tr>
+<tr class="evenrow team-10-18"><td><nobr>Sun, May 29</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Hou.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360528103
+[16:38:04] Date: 5-30-2016
+[16:38:04] Old date: 5-30-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros">Houston</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360529103">8-6 F/13</a></li></ul></td>
+<td align="center">22-28</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/33235/michael-feliz">Feliz</a> (3-1) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32949/mike-morin">Morin</a> (1-1) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30276/luke-gregerson">Gregerson</a>
+ (12) </td>
+<td>36,538</td>
+</tr>
+<tr class="oddrow team-10-6"><td><nobr>Mon, May 30</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/det/detroit-tigers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Det.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360529103
+[16:38:04] Date: 5-31-2016
+[16:38:04] Old date: 5-31-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/det/detroit-tigers">Detroit</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360530103">5-1</a></li></ul></td>
+<td align="center">23-28</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30147/jhoulys-chacin">Chacin</a> (1-1) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6341/justin-verlander">Verlander</a> (4-5) </td>
+<td><nobr></td>
+<td>38,541</td>
+</tr>
+<tr class="evenrow team-10-6"><td><nobr>Tue, May 31</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/det/detroit-tigers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Det.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360530103
+[16:38:04] Date: 6-1-2016
+[16:38:04] Old date: 6-1-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/det/detroit-tigers">Detroit</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360531103">11-9</a></li></ul></td>
+<td align="center">24-28</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6175/huston-street">Street</a> (2-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/28511/mark-lowe">Lowe</a> (1-3) </td>
+<td><nobr></td>
+<td>35,125</td>
+</tr>
+<tr class="colhead">
+<td>JUNE</td>
+<td>OPPONENT</td>
+<td width="15%">RESULT</td>
+<td align="center">W-L</td>
+<td>WIN</td>
+<td>LOSS</td>
+<td>SAVE</td>
+<td>ATT</td>
+</tr>
+<tr class="oddrow team-10-6"><td><nobr>Wed, Jun 1</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/det/detroit-tigers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Det.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360531103
+[16:38:04] Date: 6-3-2016
+[16:38:04] Old date: 6-3-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/det/detroit-tigers">Detroit</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360601103">3-0</a></li></ul></td>
+<td align="center">24-29</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/34842/michael-fulmer">Fulmer</a> (5-1) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32058/matt-shoemaker">Shoemaker</a> (3-6) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/5357/francisco-rodriguez">Rodriguez</a>
+ (15) </td>
+<td>35,053</td>
+</tr>
+<tr class="evenrow team-10-23"><td><nobr>Fri, Jun 3</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Pit.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360601103
+[16:38:04] Date: 6-4-2016
+[16:38:04] Old date: 6-4-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates">Pittsburgh</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360603123">9-2</a></li></ul></td>
+<td align="center">25-29</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6479/jered-weaver">Weaver</a> (5-4) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6211/francisco-liriano">Liriano</a> (4-5) </td>
+<td><nobr></td>
+<td>27,643</td>
+</tr>
+<tr class="oddrow team-10-23"><td><nobr>Sat, Jun 4</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Pit.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360603123
+[16:38:04] Date: 6-5-2016
+[16:38:04] Old date: 6-5-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates">Pittsburgh</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360604123">8-7</a></li></ul></td>
+<td align="center">25-30</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31068/jeff-locke">Locke</a> (5-3) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30650/fernando-salas">Salas</a> (2-2) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/29446/mark-melancon">Melancon</a>
+ (17) </td>
+<td>31,505</td>
+</tr>
+<tr class="evenrow team-10-23"><td><nobr>Sun, Jun 5</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Pit.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360604123
+[16:38:04] Date: 6-6-2016
+[16:38:04] Old date: 6-6-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/pit/pittsburgh-pirates">Pittsburgh</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status win"><span class="greenfont">W</span></li><li class="score"><a href="/mlb/recap?id=360605123">5-4</a></li></ul></td>
+<td align="center">26-30</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/29430/deolis-guerra">Guerra</a> (1-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/31513/tony-watson">Watson</a> (1-2) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6175/huston-street">Street</a>
+ (6) </td>
+<td>27,754</td>
+</tr>
+<tr class="oddrow team-10-10"><td><nobr>Mon, Jun 6</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/nyy/new-york-yankees"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/NYY.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360605123
+[16:38:04] Date: 6-7-2016
+[16:38:04] Old date: 6-7-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/nyy/new-york-yankees">NY Yankees</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360606110">5-2</a></li></ul></td>
+<td align="center">26-31</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/28563/andrew-miller">Miller</a> (3-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/32058/matt-shoemaker">Shoemaker</a> (3-7) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30442/aroldis-chapman">Chapman</a>
+ (10) </td>
+<td>34,648</td>
+</tr>
+<tr class="evenrow team-10-10"><td><nobr>Tue, Jun 7</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/nyy/new-york-yankees"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/NYY.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360606110
+[16:38:04] Date: 6-8-2016
+[16:38:04] Old date: 6-8-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/nyy/new-york-yankees">NY Yankees</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360607110">6-3</a></li></ul></td>
+<td align="center">26-32</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30937/michael-pineda">Pineda</a> (3-6) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30127/david-huff">Huff</a> (0-1) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/28563/andrew-miller">Miller</a>
+ (7) </td>
+<td>31,034</td>
+</tr>
+<tr class="oddrow team-10-10"><td><nobr>Wed, Jun 8</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/nyy/new-york-yankees"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/NYY.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360607110
+[16:38:04] Date: 6-9-2016
+[16:38:04] Old date: 6-9-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/nyy/new-york-yankees">NY Yankees</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360608110">12-6</a></li></ul></td>
+<td align="center">26-33</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30153/anthony-swarzak">Swarzak</a> (1-0) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/6479/jered-weaver">Weaver</a> (5-5) </td>
+<td><nobr></td>
+<td>31,557</td>
+</tr>
+<tr class="evenrow team-10-10"><td><nobr>Thu, Jun 9</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/nyy/new-york-yankees"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/NYY.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360608110
+[16:38:04] Date: 6-10-2016
+[16:38:04] Old date: 6-10-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/nyy/new-york-yankees">NY Yankees</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360609110">6-3</a></li></ul></td>
+<td align="center">26-34</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30400/ivan-nova">Nova</a> (5-3) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30147/jhoulys-chacin">Chacin</a> (1-2) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30442/aroldis-chapman">Chapman</a>
+ (11) </td>
+<td>34,971</td>
+</tr>
+<tr class="oddrow team-10-5"><td><nobr>Fri, Jun 10</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/cle/cleveland-indians"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Cle.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360609110
+[16:38:04] Date: 6-11-2016
+[16:38:04] Old date: 6-11-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/cle/cleveland-indians">Cleveland</a></li></ul></td>
+<td nowrap><ul class="game-schedule"><li class="game-status loss"><span class="redfont">L</span></li><li class="score"><a href="/mlb/recap?id=360610103">6-2</a></li></ul></td>
+<td align="center">26-35</td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30981/corey-kluber">Kluber</a> (6-6) </td>
+<td><nobr><a href="http://espn.go.com/mlb/player/_/id/30744/hector-santiago">Santiago</a> (3-4) </td>
+<td><nobr></td>
+<td>39,487</td>
+</tr>
+<tr class="colhead">
+<td width="10%">JUNE</td>
+<td width="20%">OPPONENT</td>
+<td align="right" width="10%">TIME  (ET)</td>
+<td align="center" width="10%">TV</td>
+<td width="14%">LAA PITCHER</td>
+<td width="14%">OPP. PITCHER</td>
+<td width="22%" colspan="2">TICKETS</td>
+</tr>
+<tr class="evenrow team-10-5"><td><nobr>Sat, Jun 11</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/cle/cleveland-indians"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Cle.png&h=80&w=80"></a></li>
+[16:38:04] Game link: http://espn.go.com/mlb/recap?id=360610103
+[16:38:04] Date: 6-12-2016
+[16:38:04] Old date: 6-12-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/cle/cleveland-indians">Cleveland</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td><a href="http://espn.go.com/mlb/player/_/id/32058/matt-shoemaker">Shoemaker</a> (3-7)</td>
+<td><a href="http://espn.go.com/mlb/player/_/id/32014/trevor-bauer">Bauer</a> (4-2)</td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-indians-6-11-2016/event/9442962/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160611">4,172 available</a></td></tr>
+<tr class="oddrow team-10-5"><td><nobr>Sun, Jun 12</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/cle/cleveland-indians"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Cle.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 6-13-2016
+[16:38:04] Old date: 6-13-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/cle/cleveland-indians">Cleveland</a></li></ul></td>
+<td align="right">3:35 PM</td>
+<td align="center"></td><td><a href="http://espn.go.com/mlb/player/_/id/30127/david-huff">Huff</a> (0-1)</td>
+<td><a href="http://espn.go.com/mlb/player/_/id/32095/danny-salazar">Salazar</a> (6-3)</td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-indians-6-12-2016/event/9442963/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160612">3,304 available</a></td></tr>
+<tr class="evenrow team-10-9"><td><nobr>Mon, Jun 13</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/min/minnesota-twins"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Min.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 6-14-2016
+[16:38:04] Old date: 6-14-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/min/minnesota-twins">Minnesota</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td><a href="http://espn.go.com/mlb/player/_/id/6479/jered-weaver">Weaver</a> (5-5)</td>
+<td><a href="http://espn.go.com/mlb/player/_/id/6491/ricky-nolasco">Nolasco</a> (2-4)</td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-twins-6-13-2016/event/9443006/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160613">3,201 available</a></td></tr>
+<tr class="oddrow team-10-9"><td><nobr>Tue, Jun 14</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/min/minnesota-twins"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Min.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 6-15-2016
+[16:38:04] Old date: 6-15-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/min/minnesota-twins">Minnesota</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td><a href="http://espn.go.com/mlb/player/_/id/30147/jhoulys-chacin">Chacin</a> (2-4)</td>
+<td><a href="http://espn.go.com/mlb/player/_/id/6280/ervin-santana">Santana</a> (1-6)</td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-twins-6-14-2016/event/9443007/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160614">3,375 available</a></td></tr>
+<tr class="evenrow team-10-9"><td><nobr>Wed, Jun 15</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/min/minnesota-twins"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Min.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 6-17-2016
+[16:38:04] Old date: 6-17-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/min/minnesota-twins">Minnesota</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td><a href="http://espn.go.com/mlb/player/_/id/30744/hector-santiago">Santiago</a> (3-4)</td>
+<td><a href="http://espn.go.com/mlb/player/_/id/33668/tyler-duffey">Duffey</a> (2-5)</td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-twins-6-15-2016/event/9443008/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160615">2,612 available</a></td></tr>
+<tr class="oddrow team-10-11"><td><nobr>Fri, Jun 17</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Oak.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 6-18-2016
+[16:38:04] Old date: 6-18-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics">Oakland</a></li></ul></td>
+<td align="right">9:35 PM</td>
+<td align="center"></td><td><a href="http://espn.go.com/mlb/player/_/id/32058/matt-shoemaker">Shoemaker</a> (3-7)</td>
+<td><a href="http://espn.go.com/mlb/player/_/id/33636/kendall-graveman">Graveman</a> (2-6)</td>
+<td colspan="2"><a href="http://www.stubhub.com/oakland-athletics-tickets-athletics-vs-angels-6-17-2016/event/9443112/?gcid=C12289x451&keyword=MLB+Team+Schedule+Oakland+Athletics+20160617">1,263 available</a></td></tr>
+<tr class="evenrow team-10-11"><td><nobr>Sat, Jun 18</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Oak.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 6-19-2016
+[16:38:04] Old date: 6-19-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics">Oakland</a></li></ul></td>
+<td align="right">4:05 PM</td>
+<td align="center"></td><td><a href="http://espn.go.com/mlb/player/_/id/28705/tim-lincecum">Lincecum</a> (0-0)</td>
+<td><a href="http://espn.go.com/mlb/player/_/id/33244/sean-manaea">Manaea</a> (2-4)</td>
+<td colspan="2"><a href="http://www.stubhub.com/oakland-athletics-tickets-athletics-vs-angels-6-18-2016/event/9443113/?gcid=C12289x451&keyword=MLB+Team+Schedule+Oakland+Athletics+20160618">919 available</a></td></tr>
+<tr class="oddrow team-10-11"><td><nobr>Sun, Jun 19</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Oak.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 6-20-2016
+[16:38:04] Old date: 6-20-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics">Oakland</a></li></ul></td>
+<td align="right">4:05 PM</td>
+<td align="center"></td><td><a href="http://espn.go.com/mlb/player/_/id/6479/jered-weaver">Weaver</a> (5-5)</td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/oakland-athletics-tickets-athletics-vs-angels-6-19-2016/event/9443114/?gcid=C12289x451&keyword=MLB+Team+Schedule+Oakland+Athletics+20160619">743 available</a></td></tr>
+<tr class="evenrow team-10-18"><td><nobr>Mon, Jun 20</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Hou.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 6-21-2016
+[16:38:04] Old date: 6-21-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros">Houston</a></li></ul></td>
+<td align="right">8:10 PM</td>
+<td align="center"></td><td><a href="http://espn.go.com/mlb/player/_/id/30147/jhoulys-chacin">Chacin</a> (2-4)</td>
+<td><a href="http://espn.go.com/mlb/player/_/id/30370/doug-fister">Fister</a> (6-3)</td>
+<td colspan="2"><a href="http://www.stubhub.com/houston-astros-tickets-astros-vs-angels-6-20-2016/event/9443028/?gcid=C12289x451&keyword=MLB+Team+Schedule+Houston+Astros+20160620">2,868 available</a></td></tr>
+<tr class="oddrow team-10-18"><td><nobr>Tue, Jun 21</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Hou.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 6-22-2016
+[16:38:04] Old date: 6-22-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros">Houston</a></li></ul></td>
+<td align="right">8:10 PM</td>
+<td align="center"></td><td><a href="http://espn.go.com/mlb/player/_/id/30744/hector-santiago">Santiago</a> (3-4)</td>
+<td><a href="http://espn.go.com/mlb/player/_/id/32569/collin-mchugh">McHugh</a> (5-5)</td>
+<td colspan="2"><a href="http://www.stubhub.com/houston-astros-tickets-astros-vs-angels-6-21-2016/event/9443029/?gcid=C12289x451&keyword=MLB+Team+Schedule+Houston+Astros+20160621">3,069 available</a></td></tr>
+<tr class="evenrow team-10-18"><td><nobr>Wed, Jun 22</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Hou.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 6-23-2016
+[16:38:04] Old date: 6-23-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros">Houston</a></li></ul></td>
+<td align="right">2:10 PM</td>
+<td align="center"></td><td><a href="http://espn.go.com/mlb/player/_/id/32058/matt-shoemaker">Shoemaker</a> (3-7)</td>
+<td><a href="http://espn.go.com/mlb/player/_/id/32764/lance-mccullers">McCullers</a> (3-2)</td>
+<td colspan="2"><a href="http://www.stubhub.com/houston-astros-tickets-astros-vs-angels-6-22-2016/event/9443030/?gcid=C12289x451&keyword=MLB+Team+Schedule+Houston+Astros+20160622">2,606 available</a></td></tr>
+<tr class="oddrow team-10-11"><td><nobr>Thu, Jun 23</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Oak.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 6-24-2016
+[16:38:04] Old date: 6-24-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics">Oakland</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td><a href="http://espn.go.com/mlb/player/_/id/28705/tim-lincecum">Lincecum</a> (0-0)</td>
+<td><a href="http://espn.go.com/mlb/player/_/id/33636/kendall-graveman">Graveman</a> (2-6)</td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-athletics-6-23-2016/event/9442938/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160623">3,755 available</a></td></tr>
+<tr class="evenrow team-10-11"><td><nobr>Fri, Jun 24</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Oak.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 6-25-2016
+[16:38:04] Old date: 6-25-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics">Oakland</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td><a href="http://espn.go.com/mlb/player/_/id/6479/jered-weaver">Weaver</a> (5-5)</td>
+<td><a href="http://espn.go.com/mlb/player/_/id/33244/sean-manaea">Manaea</a> (2-4)</td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-athletics-6-24-2016/event/9442939/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160624">4,038 available</a></td></tr>
+<tr class="oddrow team-10-11"><td><nobr>Sat, Jun 25</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Oak.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 6-26-2016
+[16:38:04] Old date: 6-26-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics">Oakland</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-athletics-6-25-2016/event/9442940/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160625">4,029 available</a></td></tr>
+<tr class="evenrow team-10-11"><td><nobr>Sun, Jun 26</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Oak.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 6-27-2016
+[16:38:04] Old date: 6-27-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics">Oakland</a></li></ul></td>
+<td align="right">3:35 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-athletics-6-26-2016/event/9442941/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160626">3,519 available</a></td></tr>
+<tr class="oddrow team-10-18"><td><nobr>Mon, Jun 27</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Hou.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 6-28-2016
+[16:38:04] Old date: 6-28-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros">Houston</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-astros-6-27-2016/event/9442833/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160627">3,266 available</a></td></tr>
+<tr class="evenrow team-10-18"><td><nobr>Tue, Jun 28</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Hou.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 6-29-2016
+[16:38:04] Old date: 6-29-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros">Houston</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-astros-6-28-2016/event/9442834/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160628">3,389 available</a></td></tr>
+<tr class="oddrow team-10-18"><td><nobr>Wed, Jun 29</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Hou.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 7-1-2016
+[16:38:04] Old date: 7-1-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros">Houston</a></li></ul></td>
+<td align="right">3:35 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-astros-6-29-2016/event/9442835/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160629">3,236 available</a></td></tr>
+<tr class="colhead">
+<td width="10%">JULY</td>
+<td width="20%">OPPONENT</td>
+<td align="right" width="10%">TIME  (ET)</td>
+<td align="center" width="10%">TV</td>
+<td width="14%">LAA PITCHER</td>
+<td width="14%">OPP. PITCHER</td>
+<td width="22%" colspan="2">TICKETS</td>
+</tr>
+<tr class="evenrow team-10-2"><td><nobr>Fri, Jul 1</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/bos/boston-red-sox"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Bos.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 7-2-2016
+[16:38:04] Old date: 7-2-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/bos/boston-red-sox">Boston</a></li></ul></td>
+<td align="right">7:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/boston-red-sox-tickets-red-sox-vs-angels-7-1-2016/event/9441861/?gcid=C12289x451&keyword=MLB+Team+Schedule+Boston+Red+Sox+20160701">4,985 available</a></td></tr>
+<tr class="oddrow team-10-2"><td><nobr>Sat, Jul 2</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/bos/boston-red-sox"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Bos.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 7-3-2016
+[16:38:04] Old date: 7-3-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/bos/boston-red-sox">Boston</a></li></ul></td>
+<td align="right">7:15 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/boston-red-sox-tickets-red-sox-vs-angels-7-2-2016/event/9441864/?gcid=C12289x451&keyword=MLB+Team+Schedule+Boston+Red+Sox+20160702">5,093 available</a></td></tr>
+<tr class="evenrow team-10-2"><td><nobr>Sun, Jul 3</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/bos/boston-red-sox"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Bos.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 7-4-2016
+[16:38:04] Old date: 7-4-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/bos/boston-red-sox">Boston</a></li></ul></td>
+<td align="right">1:35 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/boston-red-sox-tickets-red-sox-vs-angels-7-3-2016/event/9441865/?gcid=C12289x451&keyword=MLB+Team+Schedule+Boston+Red+Sox+20160703">5,134 available</a></td></tr>
+<tr class="oddrow team-10-30"><td><nobr>Mon, Jul 4</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tb/tampa-bay-rays"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/TB.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 7-5-2016
+[16:38:04] Old date: 7-5-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/tb/tampa-bay-rays">Tampa Bay</a></li></ul></td>
+<td align="right">1:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/tampa-bay-rays-tickets-rays-vs-angels-7-4-2016/event/9444859/?gcid=C12289x451&keyword=MLB+Team+Schedule+Tampa+Bay+Rays+20160704">687 available</a></td></tr>
+<tr class="evenrow team-10-30"><td><nobr>Tue, Jul 5</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tb/tampa-bay-rays"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/TB.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 7-6-2016
+[16:38:04] Old date: 7-6-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/tb/tampa-bay-rays">Tampa Bay</a></li></ul></td>
+<td align="right">7:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/tampa-bay-rays-tickets-rays-vs-angels-7-5-2016/event/9444860/?gcid=C12289x451&keyword=MLB+Team+Schedule+Tampa+Bay+Rays+20160705">641 available</a></td></tr>
+<tr class="oddrow team-10-30"><td><nobr>Wed, Jul 6</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tb/tampa-bay-rays"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/TB.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 7-7-2016
+[16:38:04] Old date: 7-7-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/tb/tampa-bay-rays">Tampa Bay</a></li></ul></td>
+<td align="right">7:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/tampa-bay-rays-tickets-rays-vs-angels-7-6-2016/event/9444861/?gcid=C12289x451&keyword=MLB+Team+Schedule+Tampa+Bay+Rays+20160706">604 available</a></td></tr>
+<tr class="evenrow team-10-30"><td><nobr>Thu, Jul 7</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tb/tampa-bay-rays"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/TB.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 7-8-2016
+[16:38:04] Old date: 7-8-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/tb/tampa-bay-rays">Tampa Bay</a></li></ul></td>
+<td align="right">12:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/tampa-bay-rays-tickets-rays-vs-angels-7-7-2016/event/9444862/?gcid=C12289x451&keyword=MLB+Team+Schedule+Tampa+Bay+Rays+20160707">604 available</a></td></tr>
+<tr class="oddrow team-10-1"><td><nobr>Fri, Jul 8</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/bal/baltimore-orioles"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Bal.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 7-9-2016
+[16:38:04] Old date: 7-9-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/bal/baltimore-orioles">Baltimore</a></li></ul></td>
+<td align="right">7:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/baltimore-orioles-tickets-orioles-vs-angels-7-8-2016/event/9444778/?gcid=C12289x451&keyword=MLB+Team+Schedule+Baltimore+Orioles+20160708">2,241 available</a></td></tr>
+<tr class="evenrow team-10-1"><td><nobr>Sat, Jul 9</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/bal/baltimore-orioles"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Bal.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] Date: 7-10-2016
+[16:38:04] Old date: 7-10-2016
+[16:38:04] String to find: <li class="score"><a href="
+[16:38:04] <a href="http://espn.go.com/mlb/team/_/name/bal/baltimore-orioles">Baltimore</a></li></ul></td>
+<td align="right">4:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/baltimore-orioles-tickets-orioles-vs-angels-7-9-2016/event/9444779/?gcid=C12289x451&keyword=MLB+Team+Schedule+Baltimore+Orioles+20160709">2,062 available</a></td></tr>
+<tr class="oddrow team-10-1"><td><nobr>Sun, Jul 10</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/bal/baltimore-orioles"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Bal.png&h=80&w=80"></a></li>
+[16:38:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:04] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[16:38:04] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/2/los-angeles-angels
+[16:38:05] Date: 7-15-2016
+[16:38:05] Old date: 7-15-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] Regular Season Schedule/Results</td></tr>
+<tr class="colhead">
+<td width="10%">JULY</td>
+<td width="20%">OPPONENT</td>
+<td align="right" width="10%">TIME  (ET)</td>
+<td align="center" width="10%">TV</td>
+<td width="14%">LAA PITCHER</td>
+<td width="14%">OPP. PITCHER</td>
+<td width="22%" colspan="2">TICKETS</td>
+</tr>
+<tr class="oddrow team-10-4"><td><nobr>Fri, Jul 15</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/chw/chicago-white-sox"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/CHW.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 7-16-2016
+[16:38:05] Old date: 7-16-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/chw/chicago-white-sox">White Sox</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-white-sox-7-15-2016/event/9443009/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160715">3,899 available</a></td></tr>
+<tr class="evenrow team-10-4"><td><nobr>Sat, Jul 16</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/chw/chicago-white-sox"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/CHW.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 7-17-2016
+[16:38:05] Old date: 7-17-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/chw/chicago-white-sox">White Sox</a></li></ul></td>
+<td align="right">9:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-white-sox-7-16-2016/event/9443010/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160716">4,011 available</a></td></tr>
+<tr class="oddrow team-10-4"><td><nobr>Sun, Jul 17</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/chw/chicago-white-sox"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/CHW.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 7-18-2016
+[16:38:05] Old date: 7-18-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/chw/chicago-white-sox">White Sox</a></li></ul></td>
+<td align="right">3:35 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-white-sox-7-17-2016/event/9443011/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160717">3,343 available</a></td></tr>
+<tr class="evenrow team-10-13"><td><nobr>Mon, Jul 18</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tex.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 7-19-2016
+[16:38:05] Old date: 7-19-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers">Texas</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-rangers-7-18-2016/event/9442982/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160718">3,009 available</a></td></tr>
+<tr class="oddrow team-10-13"><td><nobr>Tue, Jul 19</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tex.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 7-20-2016
+[16:38:05] Old date: 7-20-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers">Texas</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-rangers-7-19-2016/event/9442983/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160719">3,172 available</a></td></tr>
+<tr class="evenrow team-10-13"><td><nobr>Wed, Jul 20</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tex.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 7-22-2016
+[16:38:05] Old date: 7-22-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers">Texas</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-rangers-7-20-2016/event/9442984/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160720">3,232 available</a></td></tr>
+<tr class="oddrow team-10-18"><td><nobr>Fri, Jul 22</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Hou.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 7-23-2016
+[16:38:05] Old date: 7-23-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros">Houston</a></li></ul></td>
+<td align="right">8:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/houston-astros-tickets-astros-vs-angels-7-22-2016/event/9443031/?gcid=C12289x451&keyword=MLB+Team+Schedule+Houston+Astros+20160722">3,030 available</a></td></tr>
+<tr class="evenrow team-10-18"><td><nobr>Sat, Jul 23</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Hou.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 7-24-2016
+[16:38:05] Old date: 7-24-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros">Houston</a></li></ul></td>
+<td align="right">7:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/houston-astros-tickets-astros-vs-angels-7-23-2016/event/9443032/?gcid=C12289x451&keyword=MLB+Team+Schedule+Houston+Astros+20160723">3,282 available</a></td></tr>
+<tr class="oddrow team-10-18"><td><nobr>Sun, Jul 24</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Hou.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 7-25-2016
+[16:38:05] Old date: 7-25-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros">Houston</a></li></ul></td>
+<td align="right">2:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/houston-astros-tickets-astros-vs-angels-7-24-2016/event/9443033/?gcid=C12289x451&keyword=MLB+Team+Schedule+Houston+Astros+20160724">3,173 available</a></td></tr>
+<tr class="evenrow team-10-7"><td><nobr>Mon, Jul 25</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/kc/kansas-city-royals"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/KC.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 7-26-2016
+[16:38:05] Old date: 7-26-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/kc/kansas-city-royals">Kansas City</a></li></ul></td>
+<td align="right">8:15 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/kansas-city-royals-tickets-royals-vs-angels-7-25-2016/event/9445015/?gcid=C12289x451&keyword=MLB+Team+Schedule+Kansas+City+Royals+20160725">2,332 available</a></td></tr>
+<tr class="oddrow team-10-7"><td><nobr>Tue, Jul 26</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/kc/kansas-city-royals"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/KC.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 7-27-2016
+[16:38:05] Old date: 7-27-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/kc/kansas-city-royals">Kansas City</a></li></ul></td>
+<td align="right">8:15 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/kansas-city-royals-tickets-royals-vs-angels-7-26-2016/event/9445016/?gcid=C12289x451&keyword=MLB+Team+Schedule+Kansas+City+Royals+20160726">2,447 available</a></td></tr>
+<tr class="evenrow team-10-7"><td><nobr>Wed, Jul 27</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/kc/kansas-city-royals"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/KC.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 7-28-2016
+[16:38:05] Old date: 7-28-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/kc/kansas-city-royals">Kansas City</a></li></ul></td>
+<td align="right">8:15 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/kansas-city-royals-tickets-royals-vs-angels-7-27-2016/event/9445017/?gcid=C12289x451&keyword=MLB+Team+Schedule+Kansas+City+Royals+20160727">2,363 available</a></td></tr>
+<tr class="oddrow team-10-2"><td><nobr>Thu, Jul 28</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/bos/boston-red-sox"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Bos.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 7-29-2016
+[16:38:05] Old date: 7-29-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/bos/boston-red-sox">Boston</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-red-sox-7-28-2016/event/9442991/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160728">4,565 available</a></td></tr>
+<tr class="evenrow team-10-2"><td><nobr>Fri, Jul 29</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/bos/boston-red-sox"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Bos.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 7-30-2016
+[16:38:05] Old date: 7-30-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/bos/boston-red-sox">Boston</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-red-sox-7-29-2016/event/9442992/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160729">4,975 available</a></td></tr>
+<tr class="oddrow team-10-2"><td><nobr>Sat, Jul 30</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/bos/boston-red-sox"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Bos.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 7-31-2016
+[16:38:05] Old date: 7-31-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/bos/boston-red-sox">Boston</a></li></ul></td>
+<td align="right">9:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-red-sox-7-30-2016/event/9442993/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160730">4,485 available</a></td></tr>
+<tr class="evenrow team-10-2"><td><nobr>Sun, Jul 31</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/bos/boston-red-sox"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Bos.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-2-2016
+[16:38:05] Old date: 8-2-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/bos/boston-red-sox">Boston</a></li></ul></td>
+<td align="right">3:35 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-red-sox-7-31-2016/event/9442994/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160731">5,062 available</a></td></tr>
+<tr class="colhead">
+<td width="10%">AUGUST</td>
+<td width="20%">OPPONENT</td>
+<td align="right" width="10%">TIME  (ET)</td>
+<td align="center" width="10%">TV</td>
+<td width="14%">LAA PITCHER</td>
+<td width="14%">OPP. PITCHER</td>
+<td width="22%" colspan="2">TICKETS</td>
+</tr>
+<tr class="oddrow team-10-11"><td><nobr>Tue, Aug 2</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Oak.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-3-2016
+[16:38:05] Old date: 8-3-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics">Oakland</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-athletics-8-2-2016/event/9442942/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160802">3,613 available</a></td></tr>
+<tr class="evenrow team-10-11"><td><nobr>Wed, Aug 3</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Oak.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-4-2016
+[16:38:05] Old date: 8-4-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics">Oakland</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-athletics-8-3-2016/event/9442943/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160803">3,448 available</a></td></tr>
+<tr class="oddrow team-10-11"><td><nobr>Thu, Aug 4</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Oak.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-5-2016
+[16:38:05] Old date: 8-5-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics">Oakland</a></li></ul></td>
+<td align="right">7:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-athletics-8-4-2016/event/9442944/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160804">3,385 available</a></td></tr>
+<tr class="evenrow team-10-12"><td><nobr>Fri, Aug 5</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Sea.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-6-2016
+[16:38:05] Old date: 8-6-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">Seattle</a></li></ul></td>
+<td align="right">10:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/seattle-mariners-tickets-mariners-vs-angels-8-5-2016/event/9444138/?gcid=C12289x451&keyword=MLB+Team+Schedule+Seattle+Mariners+20160805">4,032 available</a></td></tr>
+<tr class="oddrow team-10-12"><td><nobr>Sat, Aug 6</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Sea.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-7-2016
+[16:38:05] Old date: 8-7-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">Seattle</a></li></ul></td>
+<td align="right">9:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/seattle-mariners-tickets-mariners-vs-angels-8-6-2016/event/9444140/?gcid=C12289x451&keyword=MLB+Team+Schedule+Seattle+Mariners+20160806">5,284 available</a></td></tr>
+<tr class="evenrow team-10-12"><td><nobr>Sun, Aug 7</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Sea.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-9-2016
+[16:38:05] Old date: 8-9-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">Seattle</a></li></ul></td>
+<td align="right">4:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/seattle-mariners-tickets-mariners-vs-angels-8-7-2016/event/9444141/?gcid=C12289x451&keyword=MLB+Team+Schedule+Seattle+Mariners+20160807">3,449 available</a></td></tr>
+<tr class="oddrow team-10-16"><td><nobr>Tue, Aug 9</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/chc/chicago-cubs"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/ChC.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-10-2016
+[16:38:05] Old date: 8-10-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/chc/chicago-cubs">Cubs</a></li></ul></td>
+<td align="right">8:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/chicago-cubs-tickets-cubs-vs-angeles-8-9-2016/event/9445290/?gcid=C12289x451&keyword=MLB+Team+Schedule+Chicago+Cubs+20160809">3,841 available</a></td></tr>
+<tr class="evenrow team-10-16"><td><nobr>Wed, Aug 10</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/chc/chicago-cubs"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/ChC.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-11-2016
+[16:38:05] Old date: 8-11-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/chc/chicago-cubs">Cubs</a></li></ul></td>
+<td align="right">8:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/chicago-cubs-tickets-cubs-vs-angeles-8-10-2016/event/9445291/?gcid=C12289x451&keyword=MLB+Team+Schedule+Chicago+Cubs+20160810">3,962 available</a></td></tr>
+<tr class="oddrow team-10-5"><td><nobr>Thu, Aug 11</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/cle/cleveland-indians"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Cle.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-12-2016
+[16:38:05] Old date: 8-12-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/cle/cleveland-indians">Cleveland</a></li></ul></td>
+<td align="right">7:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/cleveland-indians-tickets-indians-vs-angels-8-11-2016/event/9445179/?gcid=C12289x451&keyword=MLB+Team+Schedule+Cleveland+Indians+20160811">1,450 available</a></td></tr>
+<tr class="evenrow team-10-5"><td><nobr>Fri, Aug 12</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/cle/cleveland-indians"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Cle.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-13-2016
+[16:38:05] Old date: 8-13-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/cle/cleveland-indians">Cleveland</a></li></ul></td>
+<td align="right">7:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/cleveland-indians-tickets-indians-vs-angels-8-12-2016/event/9445180/?gcid=C12289x451&keyword=MLB+Team+Schedule+Cleveland+Indians+20160812">1,466 available</a></td></tr>
+<tr class="oddrow team-10-5"><td><nobr>Sat, Aug 13</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/cle/cleveland-indians"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Cle.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-14-2016
+[16:38:05] Old date: 8-14-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/cle/cleveland-indians">Cleveland</a></li></ul></td>
+<td align="right">7:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/cleveland-indians-tickets-indians-vs-angels-8-13-2016/event/9445183/?gcid=C12289x451&keyword=MLB+Team+Schedule+Cleveland+Indians+20160813">1,427 available</a></td></tr>
+<tr class="evenrow team-10-5"><td><nobr>Sun, Aug 14</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/cle/cleveland-indians"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Cle.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-15-2016
+[16:38:05] Old date: 8-15-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/cle/cleveland-indians">Cleveland</a></li></ul></td>
+<td align="right">1:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/cleveland-indians-tickets-indians-vs-angels-8-14-2016/event/9445184/?gcid=C12289x451&keyword=MLB+Team+Schedule+Cleveland+Indians+20160814">1,515 available</a></td></tr>
+<tr class="oddrow team-10-12"><td><nobr>Mon, Aug 15</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Sea.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-16-2016
+[16:38:05] Old date: 8-16-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">Seattle</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-mariners-8-15-2016/event/9442967/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160815">3,598 available</a></td></tr>
+<tr class="evenrow team-10-12"><td><nobr>Tue, Aug 16</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Sea.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-17-2016
+[16:38:05] Old date: 8-17-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">Seattle</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-mariners-8-16-2016/event/9442968/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160816">2,360 available</a></td></tr>
+<tr class="oddrow team-10-12"><td><nobr>Wed, Aug 17</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Sea.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-18-2016
+[16:38:05] Old date: 8-18-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">Seattle</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-mariners-8-17-2016/event/9442969/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160817">3,413 available</a></td></tr>
+<tr class="evenrow team-10-12"><td><nobr>Thu, Aug 18</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Sea.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-19-2016
+[16:38:05] Old date: 8-19-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">Seattle</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-mariners-8-18-2016/event/9442970/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160818">3,670 available</a></td></tr>
+<tr class="oddrow team-10-10"><td><nobr>Fri, Aug 19</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/nyy/new-york-yankees"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/NYY.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-20-2016
+[16:38:05] Old date: 8-20-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/nyy/new-york-yankees">NY Yankees</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-yankees-8-19-2016/event/9443012/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160819">4,853 available</a></td></tr>
+<tr class="evenrow team-10-10"><td><nobr>Sat, Aug 20</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/nyy/new-york-yankees"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/NYY.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-21-2016
+[16:38:05] Old date: 8-21-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/nyy/new-york-yankees">NY Yankees</a></li></ul></td>
+<td align="right">9:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-yankees-8-20-2016/event/9443013/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160820">4,100 available</a></td></tr>
+<tr class="oddrow team-10-10"><td><nobr>Sun, Aug 21</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/nyy/new-york-yankees"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/NYY.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-23-2016
+[16:38:05] Old date: 8-23-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/nyy/new-york-yankees">NY Yankees</a></li></ul></td>
+<td align="right">TBA</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-yankees-8-21-2016/event/9443015/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160821">5,067 available</a></td></tr>
+<tr class="evenrow team-10-14"><td><nobr>Tue, Aug 23</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tor/toronto-blue-jays"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tor.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-24-2016
+[16:38:05] Old date: 8-24-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/tor/toronto-blue-jays">Toronto</a></li></ul></td>
+<td align="right">7:07 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/toronto-blue-jays-tickets-blue-jays-vs-angels-8-23-2016/event/9443432/?gcid=C12289x451&keyword=MLB+Team+Schedule+Toronto+Blue+Jays+20160823">5,883 available</a></td></tr>
+<tr class="oddrow team-10-14"><td><nobr>Wed, Aug 24</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tor/toronto-blue-jays"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tor.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-25-2016
+[16:38:05] Old date: 8-25-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/tor/toronto-blue-jays">Toronto</a></li></ul></td>
+<td align="right">7:07 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/toronto-blue-jays-tickets-blue-jays-vs-angels-8-24-2016/event/9443433/?gcid=C12289x451&keyword=MLB+Team+Schedule+Toronto+Blue+Jays+20160824">5,987 available</a></td></tr>
+<tr class="evenrow team-10-14"><td><nobr>Thu, Aug 25</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tor/toronto-blue-jays"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tor.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-26-2016
+[16:38:05] Old date: 8-26-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/tor/toronto-blue-jays">Toronto</a></li></ul></td>
+<td align="right">7:07 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/toronto-blue-jays-tickets-blue-jays-vs-angels-8-25-2016/event/9443434/?gcid=C12289x451&keyword=MLB+Team+Schedule+Toronto+Blue+Jays+20160825">5,948 available</a></td></tr>
+<tr class="oddrow team-10-6"><td><nobr>Fri, Aug 26</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/det/detroit-tigers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Det.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-27-2016
+[16:38:05] Old date: 8-27-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/det/detroit-tigers">Detroit</a></li></ul></td>
+<td align="right">7:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/detroit-tigers-tickets-tigers-vs-angels-8-26-2016/event/9448024/?gcid=C12289x451&keyword=MLB+Team+Schedule+Detroit+Tigers+20160826">4,444 available</a></td></tr>
+<tr class="evenrow team-10-6"><td><nobr>Sat, Aug 27</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/det/detroit-tigers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Det.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-28-2016
+[16:38:05] Old date: 8-28-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/det/detroit-tigers">Detroit</a></li></ul></td>
+<td align="right">7:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/detroit-tigers-tickets-tigers-vs-angels-8-27-2016/event/9448025/?gcid=C12289x451&keyword=MLB+Team+Schedule+Detroit+Tigers+20160827">4,834 available</a></td></tr>
+<tr class="oddrow team-10-6"><td><nobr>Sun, Aug 28</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/det/detroit-tigers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Det.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-29-2016
+[16:38:05] Old date: 8-29-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/det/detroit-tigers">Detroit</a></li></ul></td>
+<td align="right">1:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/detroit-tigers-tickets-tigers-vs-angels-8-28-2016/event/9448026/?gcid=C12289x451&keyword=MLB+Team+Schedule+Detroit+Tigers+20160828">4,465 available</a></td></tr>
+<tr class="evenrow team-10-17"><td><nobr>Mon, Aug 29</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/cin/cincinnati-reds"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Cin.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-30-2016
+[16:38:05] Old date: 8-30-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/cin/cincinnati-reds">Cincinnati</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-reds-8-29-2016/event/9442995/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160829">3,198 available</a></td></tr>
+<tr class="oddrow team-10-17"><td><nobr>Tue, Aug 30</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/cin/cincinnati-reds"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Cin.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 8-31-2016
+[16:38:05] Old date: 8-31-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/cin/cincinnati-reds">Cincinnati</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-reds-8-30-2016/event/9442996/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160830">3,241 available</a></td></tr>
+<tr class="evenrow team-10-17"><td><nobr>Wed, Aug 31</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/cin/cincinnati-reds"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Cin.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-2-2016
+[16:38:05] Old date: 9-2-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/cin/cincinnati-reds">Cincinnati</a></li></ul></td>
+<td align="right">7:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-reds-8-31-2016/event/9442997/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160831">1,687 available</a></td></tr>
+<tr class="colhead">
+<td width="10%">SEPTEMBER</td>
+<td width="20%">OPPONENT</td>
+<td align="right" width="10%">TIME  (ET)</td>
+<td align="center" width="10%">TV</td>
+<td width="14%">LAA PITCHER</td>
+<td width="14%">OPP. PITCHER</td>
+<td width="22%" colspan="2">TICKETS</td>
+</tr>
+<tr class="oddrow team-10-12"><td><nobr>Fri, Sep 2</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Sea.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-3-2016
+[16:38:05] Old date: 9-3-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">Seattle</a></li></ul></td>
+<td align="right">10:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/seattle-mariners-tickets-mariners-vs-angels-9-2-2016/event/9444143/?gcid=C12289x451&keyword=MLB+Team+Schedule+Seattle+Mariners+20160902">2,199 available</a></td></tr>
+<tr class="evenrow team-10-12"><td><nobr>Sat, Sep 3</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Sea.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-4-2016
+[16:38:05] Old date: 9-4-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">Seattle</a></li></ul></td>
+<td align="right">9:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/seattle-mariners-tickets-mariners-vs-angels-9-3-2016/event/9444144/?gcid=C12289x451&keyword=MLB+Team+Schedule+Seattle+Mariners+20160903">2,586 available</a></td></tr>
+<tr class="oddrow team-10-12"><td><nobr>Sun, Sep 4</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Sea.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-5-2016
+[16:38:05] Old date: 9-5-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">Seattle</a></li></ul></td>
+<td align="right">4:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/seattle-mariners-tickets-mariners-vs-angels-9-4-2016/event/9444147/?gcid=C12289x451&keyword=MLB+Team+Schedule+Seattle+Mariners+20160904">2,606 available</a></td></tr>
+<tr class="evenrow team-10-11"><td><nobr>Mon, Sep 5</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Oak.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-6-2016
+[16:38:05] Old date: 9-6-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics">Oakland</a></li></ul></td>
+<td align="right">4:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/oakland-athletics-tickets-athletics-vs-angels-9-5-2016/event/9443115/?gcid=C12289x451&keyword=MLB+Team+Schedule+Oakland+Athletics+20160905">1,081 available</a></td></tr>
+<tr class="oddrow team-10-11"><td><nobr>Tue, Sep 6</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Oak.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-7-2016
+[16:38:05] Old date: 9-7-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics">Oakland</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/oakland-athletics-tickets-athletics-vs-angels-9-6-2016/event/9443116/?gcid=C12289x451&keyword=MLB+Team+Schedule+Oakland+Athletics+20160906">794 available</a></td></tr>
+<tr class="evenrow team-10-11"><td><nobr>Wed, Sep 7</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Oak.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-9-2016
+[16:38:05] Old date: 9-9-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics">Oakland</a></li></ul></td>
+<td align="right">3:35 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/oakland-athletics-tickets-athletics-vs-angels-9-7-2016/event/9443117/?gcid=C12289x451&keyword=MLB+Team+Schedule+Oakland+Athletics+20160907">769 available</a></td></tr>
+<tr class="oddrow team-10-13"><td><nobr>Fri, Sep 9</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tex.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-10-2016
+[16:38:05] Old date: 9-10-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers">Texas</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-rangers-9-9-2016/event/9442985/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160909">3,486 available</a></td></tr>
+<tr class="evenrow team-10-13"><td><nobr>Sat, Sep 10</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tex.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-11-2016
+[16:38:05] Old date: 9-11-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers">Texas</a></li></ul></td>
+<td align="right">9:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-rangers-9-10-2016/event/9442986/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160910">4,020 available</a></td></tr>
+<tr class="oddrow team-10-13"><td><nobr>Sun, Sep 11</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tex.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-12-2016
+[16:38:05] Old date: 9-12-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers">Texas</a></li></ul></td>
+<td align="right">TBA</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-rangers-9-11-2016/event/9442987/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160911">3,328 available</a></td></tr>
+<tr class="evenrow team-10-12"><td><nobr>Mon, Sep 12</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Sea.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-13-2016
+[16:38:05] Old date: 9-13-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">Seattle</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-mariners-9-12-2016/event/9442971/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160912">3,352 available</a></td></tr>
+<tr class="oddrow team-10-12"><td><nobr>Tue, Sep 13</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Sea.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-14-2016
+[16:38:05] Old date: 9-14-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">Seattle</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-mariners-9-13-2016/event/9442972/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160913">3,391 available</a></td></tr>
+<tr class="evenrow team-10-12"><td><nobr>Wed, Sep 14</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Sea.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-15-2016
+[16:38:05] Old date: 9-15-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/sea/seattle-mariners">Seattle</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-mariners-9-14-2016/event/9442973/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160914">3,319 available</a></td></tr>
+<tr class="oddrow team-10-14"><td><nobr>Thu, Sep 15</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tor/toronto-blue-jays"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tor.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-16-2016
+[16:38:05] Old date: 9-16-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/tor/toronto-blue-jays">Toronto</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-blue-jays-9-15-2016/event/9442948/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160915">3,121 available</a></td></tr>
+<tr class="evenrow team-10-14"><td><nobr>Fri, Sep 16</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tor/toronto-blue-jays"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tor.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-17-2016
+[16:38:05] Old date: 9-17-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/tor/toronto-blue-jays">Toronto</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-blue-jays-9-16-2016/event/9442949/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160916">3,474 available</a></td></tr>
+<tr class="oddrow team-10-14"><td><nobr>Sat, Sep 17</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tor/toronto-blue-jays"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tor.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-18-2016
+[16:38:05] Old date: 9-18-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/tor/toronto-blue-jays">Toronto</a></li></ul></td>
+<td align="right">9:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-blue-jays-9-17-2016/event/9442950/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160917">3,917 available</a></td></tr>
+<tr class="evenrow team-10-14"><td><nobr>Sun, Sep 18</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tor/toronto-blue-jays"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tor.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-19-2016
+[16:38:05] Old date: 9-19-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/tor/toronto-blue-jays">Toronto</a></li></ul></td>
+<td align="right">3:35 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-blue-jays-9-18-2016/event/9442951/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160918">3,184 available</a></td></tr>
+<tr class="oddrow team-10-13"><td><nobr>Mon, Sep 19</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tex.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-20-2016
+[16:38:05] Old date: 9-20-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers">Texas</a></li></ul></td>
+<td align="right">8:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/texas-rangers-tickets-rangers-vs-angels-9-19-2016/event/9442847/?gcid=C12289x451&keyword=MLB+Team+Schedule+Texas+Rangers+20160919">3,995 available</a></td></tr>
+<tr class="evenrow team-10-13"><td><nobr>Tue, Sep 20</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tex.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-21-2016
+[16:38:05] Old date: 9-21-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers">Texas</a></li></ul></td>
+<td align="right">8:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/texas-rangers-tickets-rangers-vs-angels-9-20-2016/event/9442848/?gcid=C12289x451&keyword=MLB+Team+Schedule+Texas+Rangers+20160920">3,984 available</a></td></tr>
+<tr class="oddrow team-10-13"><td><nobr>Wed, Sep 21</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Tex.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-22-2016
+[16:38:05] Old date: 9-22-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/tex/texas-rangers">Texas</a></li></ul></td>
+<td align="right">8:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/texas-rangers-tickets-rangers-vs-angels-9-21-2016/event/9442849/?gcid=C12289x451&keyword=MLB+Team+Schedule+Texas+Rangers+20160921">3,973 available</a></td></tr>
+<tr class="evenrow team-10-18"><td><nobr>Thu, Sep 22</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Hou.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-23-2016
+[16:38:05] Old date: 9-23-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros">Houston</a></li></ul></td>
+<td align="right">8:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/houston-astros-tickets-astros-vs-angels-9-22-2016/event/9443034/?gcid=C12289x451&keyword=MLB+Team+Schedule+Houston+Astros+20160922">2,728 available</a></td></tr>
+<tr class="oddrow team-10-18"><td><nobr>Fri, Sep 23</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Hou.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-24-2016
+[16:38:05] Old date: 9-24-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros">Houston</a></li></ul></td>
+<td align="right">8:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/houston-astros-tickets-astros-vs-angels-9-23-2016/event/9443035/?gcid=C12289x451&keyword=MLB+Team+Schedule+Houston+Astros+20160923">2,855 available</a></td></tr>
+<tr class="evenrow team-10-18"><td><nobr>Sat, Sep 24</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Hou.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-25-2016
+[16:38:05] Old date: 9-25-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros">Houston</a></li></ul></td>
+<td align="right">7:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/houston-astros-tickets-astros-vs-angels-9-24-2016/event/9443036/?gcid=C12289x451&keyword=MLB+Team+Schedule+Houston+Astros+20160924">3,175 available</a></td></tr>
+<tr class="oddrow team-10-18"><td><nobr>Sun, Sep 25</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">@</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Hou.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-26-2016
+[16:38:05] Old date: 9-26-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros">Houston</a></li></ul></td>
+<td align="right">2:10 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/houston-astros-tickets-astros-vs-angels-9-25-2016/event/9443037/?gcid=C12289x451&keyword=MLB+Team+Schedule+Houston+Astros+20160925">3,055 available</a></td></tr>
+<tr class="evenrow team-10-11"><td><nobr>Mon, Sep 26</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Oak.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-27-2016
+[16:38:05] Old date: 9-27-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics">Oakland</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-athletics-9-26-2016/event/9442945/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160926">3,305 available</a></td></tr>
+<tr class="oddrow team-10-11"><td><nobr>Tue, Sep 27</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Oak.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-28-2016
+[16:38:05] Old date: 9-28-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics">Oakland</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-athletics-9-27-2016/event/9442946/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160927">3,362 available</a></td></tr>
+<tr class="evenrow team-10-11"><td><nobr>Wed, Sep 28</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Oak.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 9-30-2016
+[16:38:05] Old date: 9-30-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/oak/oakland-athletics">Oakland</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-athletics-9-28-2016/event/9442947/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160928">3,393 available</a></td></tr>
+<tr class="oddrow team-10-18"><td><nobr>Fri, Sep 30</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Hou.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 10-1-2016
+[16:38:05] Old date: 10-1-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros">Houston</a></li></ul></td>
+<td align="right">10:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-astros-9-30-2016/event/9442836/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20160930">3,418 available</a></td></tr>
+<tr class="colhead">
+<td width="10%">OCTOBER</td>
+<td width="20%">OPPONENT</td>
+<td align="right" width="10%">TIME  (ET)</td>
+<td align="center" width="10%">TV</td>
+<td width="14%">LAA PITCHER</td>
+<td width="14%">OPP. PITCHER</td>
+<td width="22%" colspan="2">TICKETS</td>
+</tr>
+<tr class="evenrow team-10-18"><td><nobr>Sat, Oct 1</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Hou.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] Date: 10-2-2016
+[16:38:05] Old date: 10-2-2016
+[16:38:05] String to find: <li class="score"><a href="
+[16:38:05] <a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros">Houston</a></li></ul></td>
+<td align="right">9:05 PM</td>
+<td align="center"></td><td> </td>
+<td> </td>
+<td colspan="2"><a href="http://www.stubhub.com/los-angeles-angels-tickets-angels-vs-astros-10-1-2016/event/9442837/?gcid=C12289x451&keyword=MLB+Team+Schedule+Los+Angeles+Angels+20161001">3,806 available</a></td></tr>
+<tr class="oddrow team-10-18"><td><nobr>Sun, Oct 2</td>
+<td align="left"><ul class="game-schedule"><li class="game-status">vs</li><li class="team-logo-small logo-mlb-small"><a href="http://espn.go.com/mlb/team/_/name/hou/houston-astros"><img src="http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/Hou.png&h=80&w=80"></a></li>
+[16:38:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[16:38:05] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[16:38:05] Loading existing data
+[16:38:05] Saving data to ./mlb/team_data/2016/los-angeles-angels.csv
+

@@ -1,0 +1,501 @@
+---- Start output ----
+[20:42:20] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2002/seasontype/2/half/1/arizona-diamondbacks
+[20:42:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:21] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:42:21] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2002/seasontype/2/half/2/arizona-diamondbacks
+[20:42:22] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:22] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:22] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:42:22] Loading existing data
+[20:42:22] Returned 5-1-2002's game results
+[20:42:22] Scraping 5-1-2002's period data: http://espn.go.com/mlb/playbyplay?id=220501129
+[20:42:22] Game url: http://espn.go.com/mlb/playbyplay?id=220501129
+[20:42:22] Team1: nym | Team2: ari
+[20:42:22] Cur team: ari | arizona-diamondbacks
+[20:42:22] Other team: nym
+[20:42:22] URL: http://espn.go.com/mlb/team/schedule/_/name/ari/year/2002/seasontype/2/half/1/arizona-diamondbacks
+[20:42:22] Scores: [['http://espn.go.com/mlb/team/_/name/nym/new-york-------------mets----------------">NYM</a>'], ['http://espn.go.com/mlb/team/_/name/ari/arizona--------------diamondbacks--------">ARI</a>']]
+[20:42:22] Saving data to ./mlb/team_data/2002/arizona-diamondbacks.csv
+[20:42:22] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2003/seasontype/2/half/1/arizona-diamondbacks
+[20:42:23] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:23] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:23] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:23] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:42:23] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2003/seasontype/2/half/2/arizona-diamondbacks
+[20:42:24] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:24] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:42:24] Loading existing data
+[20:42:24] Returned 9-13-2003's game results
+[20:42:24] Scraping 9-13-2003's period data: http://espn.go.com/mlb/playbyplay?id=230913129
+[20:42:25] Game url: http://espn.go.com/mlb/playbyplay?id=230913129
+[20:42:33] Team1: col | Team2: ari
+[20:42:33] Cur team: ari | arizona-diamondbacks
+[20:42:33] Other team: col
+[20:42:33] URL: http://espn.go.com/mlb/team/schedule/_/name/ari/year/2003/seasontype/2/half/1/arizona-diamondbacks
+[20:42:33] Scores: [['http://espn.go.com/mlb/team/_/name/col/colorado-rockies">COL</a>'], ['http://espn.go.com/mlb/team/_/name/ari/arizona-diamondbacks">ARI</a>']]
+[20:42:33] Saving data to ./mlb/team_data/2003/arizona-diamondbacks.csv
+[20:42:33] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2004/seasontype/2/half/1/arizona-diamondbacks
+[20:42:34] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:34] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:42:34] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2004/seasontype/2/half/2/arizona-diamondbacks
+[20:42:35] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:35] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:35] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:42:35] Loading existing data
+[20:42:35] Returned 6-30-2004's game results
+[20:42:35] Scraping 6-30-2004's period data: http://espn.go.com/mlb/playbyplay?id=240630129
+[20:42:36] Game url: http://espn.go.com/mlb/playbyplay?id=240630129
+[20:42:36] Team1: sd | Team2: ari
+[20:42:36] Cur team: ari | arizona-diamondbacks
+[20:42:36] Other team: sd
+[20:42:36] URL: http://espn.go.com/mlb/team/schedule/_/name/ari/year/2004/seasontype/2/half/1/arizona-diamondbacks
+[20:42:36] Scores: [['http://espn.go.com/mlb/team/_/name/sd/san-diego-padres">SD</a>'], ['http://espn.go.com/mlb/team/_/name/ari/arizona-diamondbacks">ARI</a>']]
+[20:42:36] Returned 7-10-2004's game results
+[20:42:36] Scraping 7-10-2004's period data: http://espn.go.com/mlb/playbyplay?id=240710126
+[20:42:36] Game url: http://espn.go.com/mlb/playbyplay?id=240710126
+[20:42:36] Team1: ari | Team2: sf
+[20:42:36] Cur team: ari | arizona-diamondbacks
+[20:42:36] Other team: sf
+[20:42:36] URL: http://espn.go.com/mlb/team/schedule/_/name/ari/year/2004/seasontype/2/half/1/arizona-diamondbacks
+[20:42:36] Scores: [['http://espn.go.com/mlb/team/_/name/ari/arizona-diamondbacks">ARI</a>'], ['http://espn.go.com/mlb/team/_/name/sf/san-francisco-giants">SF</a>']]
+[20:42:36] Returned 7-22-2004's game results
+[20:42:36] Scraping 7-22-2004's period data: http://espn.go.com/mlb/playbyplay?id=240722129
+[20:42:37] Game url: http://espn.go.com/mlb/playbyplay?id=240722129
+[20:42:37] Team1: hou | Team2: ari
+[20:42:37] Cur team: ari | arizona-diamondbacks
+[20:42:37] Other team: hou
+[20:42:37] URL: http://espn.go.com/mlb/team/schedule/_/name/ari/year/2004/seasontype/2/half/1/arizona-diamondbacks
+[20:42:37] Scores: [['http://espn.go.com/mlb/team/_/name/hou/houston-astros">HOU</a>'], ['http://espn.go.com/mlb/team/_/name/ari/arizona-diamondbacks">ARI</a>']]
+[20:42:37] Returned 7-28-2004's game results
+[20:42:37] Scraping 7-28-2004's period data: http://espn.go.com/mlb/playbyplay?id=240728118
+[20:42:38] Game url: http://espn.go.com/mlb/playbyplay?id=240728118
+[20:42:38] Team1: ari | Team2: hou
+[20:42:38] Cur team: ari | arizona-diamondbacks
+[20:42:38] Other team: hou
+[20:42:38] URL: http://espn.go.com/mlb/team/schedule/_/name/ari/year/2004/seasontype/2/half/1/arizona-diamondbacks
+[20:42:38] Scores: [['http://espn.go.com/mlb/team/_/name/ari/arizona-diamondbacks">ARI</a>'], ['http://espn.go.com/mlb/team/_/name/hou/houston-astros">HOU</a>']]
+[20:42:38] Returned 8-5-2004's game results
+[20:42:38] Scraping 8-5-2004's period data: http://espn.go.com/mlb/playbyplay?id=240805129
+[20:42:38] Game url: http://espn.go.com/mlb/playbyplay?id=240805129
+[20:42:38] Team1: fla | Team2: ari
+[20:42:38] Cur team: ari | arizona-diamondbacks
+[20:42:38] Other team: fla
+[20:42:38] URL: http://espn.go.com/mlb/team/schedule/_/name/ari/year/2004/seasontype/2/half/1/arizona-diamondbacks
+[20:42:38] Scores: [['FLA'], ['http://espn.go.com/mlb/team/_/name/ari/arizona-diamondbacks">ARI</a>']]
+[20:42:38] Returned 8-20-2004's game results
+[20:42:38] Scraping 8-20-2004's period data: http://espn.go.com/mlb/playbyplay?id=240820129
+[20:42:39] Game url: http://espn.go.com/mlb/playbyplay?id=240820129
+[20:42:39] Team1: cin | Team2: ari
+[20:42:39] Cur team: ari | arizona-diamondbacks
+[20:42:39] Other team: cin
+[20:42:39] URL: http://espn.go.com/mlb/team/schedule/_/name/ari/year/2004/seasontype/2/half/1/arizona-diamondbacks
+[20:42:39] Scores: [['http://espn.go.com/mlb/team/_/name/cin/cincinnati-reds">CIN</a>'], ['http://espn.go.com/mlb/team/_/name/ari/arizona-diamondbacks">ARI</a>']]
+[20:42:39] Returned 9-3-2004's game results
+[20:42:39] Scraping 9-3-2004's period data: http://espn.go.com/mlb/playbyplay?id=240903126
+[20:42:40] Game url: http://espn.go.com/mlb/playbyplay?id=240903126
+[20:42:40] Team1: ari | Team2: sf
+[20:42:40] Cur team: ari | arizona-diamondbacks
+[20:42:40] Other team: sf
+[20:42:40] URL: http://espn.go.com/mlb/team/schedule/_/name/ari/year/2004/seasontype/2/half/1/arizona-diamondbacks
+[20:42:40] Scores: [['http://espn.go.com/mlb/team/_/name/ari/arizona-diamondbacks">ARI</a>'], ['http://espn.go.com/mlb/team/_/name/sf/san-francisco-giants">SF</a>']]
+[20:42:40] Returned 9-5-2004's game results
+[20:42:40] Scraping 9-5-2004's period data: http://espn.go.com/mlb/playbyplay?id=240905126
+[20:42:40] Game url: http://espn.go.com/mlb/playbyplay?id=240905126
+[20:42:40] Team1: ari | Team2: sf
+[20:42:40] Cur team: ari | arizona-diamondbacks
+[20:42:40] Other team: sf
+[20:42:40] URL: http://espn.go.com/mlb/team/schedule/_/name/ari/year/2004/seasontype/2/half/1/arizona-diamondbacks
+[20:42:40] Scores: [['http://espn.go.com/mlb/team/_/name/ari/arizona-diamondbacks">ARI</a>'], ['http://espn.go.com/mlb/team/_/name/sf/san-francisco-giants">SF</a>']]
+[20:42:40] Returned 9-11-2004's game results
+[20:42:40] Scraping 9-11-2004's period data: http://espn.go.com/mlb/playbyplay?id=240911129
+[20:42:41] Game url: http://espn.go.com/mlb/playbyplay?id=240911129
+[20:42:41] Team1: sf | Team2: ari
+[20:42:41] Cur team: ari | arizona-diamondbacks
+[20:42:41] Other team: sf
+[20:42:41] URL: http://espn.go.com/mlb/team/schedule/_/name/ari/year/2004/seasontype/2/half/1/arizona-diamondbacks
+[20:42:41] Scores: [['http://espn.go.com/mlb/team/_/name/sf/san-francisco-giants">SF</a>'], ['http://espn.go.com/mlb/team/_/name/ari/arizona-diamondbacks">ARI</a>']]
+[20:42:41] Returned 9-28-2004's game results
+[20:42:41] Scraping 9-28-2004's period data: http://espn.go.com/mlb/playbyplay?id=240928129
+[20:42:42] Game url: http://espn.go.com/mlb/playbyplay?id=240928129
+[20:42:42] Team1: mil | Team2: ari
+[20:42:42] Cur team: ari | arizona-diamondbacks
+[20:42:42] Other team: mil
+[20:42:42] URL: http://espn.go.com/mlb/team/schedule/_/name/ari/year/2004/seasontype/2/half/1/arizona-diamondbacks
+[20:42:42] Scores: [['http://espn.go.com/mlb/team/_/name/mil/milwaukee-brewers">MIL</a>'], ['http://espn.go.com/mlb/team/_/name/ari/arizona-diamondbacks">ARI</a>']]
+[20:42:42] Saving data to ./mlb/team_data/2004/arizona-diamondbacks.csv
+[20:42:42] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2005/seasontype/2/half/1/arizona-diamondbacks
+[20:42:42] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:42] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:42] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:42:42] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2005/seasontype/2/half/2/arizona-diamondbacks
+[20:42:43] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:43] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:42:43] Loading existing data
+[20:42:43] Returned 8-11-2005's game results
+[20:42:43] Scraping 8-11-2005's period data: http://espn.go.com/mlb/playbyplay?id=250811128
+[20:42:44] Game url: http://espn.go.com/mlb/playbyplay?id=250811128
+[20:42:44] Team1: ari | Team2: fla
+[20:42:44] Cur team: ari | arizona-diamondbacks
+[20:42:44] Other team: fla
+[20:42:44] URL: http://espn.go.com/mlb/team/schedule/_/name/ari/year/2005/seasontype/2/half/1/arizona-diamondbacks
+[20:42:44] Scores: [['http://espn.go.com/mlb/team/_/name/ari/arizona-diamondbacks">ARI</a>'], ['FLA']]
+[20:42:44] Returned 8-21-2005's game results
+[20:42:44] Scraping 8-21-2005's period data: http://espn.go.com/mlb/playbyplay?id=250821117
+[20:42:44] Game url: http://espn.go.com/mlb/playbyplay?id=250821117
+[20:42:44] Team1: ari | Team2: cin
+[20:42:44] Cur team: ari | arizona-diamondbacks
+[20:42:44] Other team: cin
+[20:42:44] URL: http://espn.go.com/mlb/team/schedule/_/name/ari/year/2005/seasontype/2/half/1/arizona-diamondbacks
+[20:42:44] Scores: [['http://espn.go.com/mlb/team/_/name/ari/arizona-diamondbacks">ARI</a>'], ['http://espn.go.com/mlb/team/_/name/cin/cincinnati-reds">CIN</a>']]
+[20:42:44] Saving data to ./mlb/team_data/2005/arizona-diamondbacks.csv
+[20:42:44] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2006/seasontype/2/half/1/arizona-diamondbacks
+[20:42:45] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:45] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:45] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:45] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:42:45] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2006/seasontype/2/half/2/arizona-diamondbacks
+[20:42:46] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:46] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:46] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:46] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:42:46] Loading existing data
+[20:42:46] Saving data to ./mlb/team_data/2006/arizona-diamondbacks.csv
+[20:42:46] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2007/seasontype/2/half/1/arizona-diamondbacks
+[20:42:47] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:47] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:42:47] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2007/seasontype/2/half/2/arizona-diamondbacks
+[20:42:48] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:48] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:42:48] Loading existing data
+[20:42:48] Saving data to ./mlb/team_data/2007/arizona-diamondbacks.csv
+[20:42:48] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2008/seasontype/2/half/1/arizona-diamondbacks
+[20:42:49] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:49] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:42:49] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2008/seasontype/2/half/2/arizona-diamondbacks
+[20:42:50] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:50] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:42:50] Loading existing data
+[20:42:50] Saving data to ./mlb/team_data/2008/arizona-diamondbacks.csv
+[20:42:50] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2009/seasontype/2/half/1/arizona-diamondbacks
+[20:42:51] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:51] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:51] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:51] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:42:51] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2009/seasontype/2/half/2/arizona-diamondbacks
+[20:42:52] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:52] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:42:52] Loading existing data
+[20:42:52] Saving data to ./mlb/team_data/2009/arizona-diamondbacks.csv
+[20:42:52] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2010/seasontype/2/half/1/arizona-diamondbacks
+[20:42:53] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:53] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:42:53] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2010/seasontype/2/half/2/arizona-diamondbacks
+[20:42:53] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:53] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:42:53] Loading existing data
+[20:42:53] Saving data to ./mlb/team_data/2010/arizona-diamondbacks.csv
+[20:42:53] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2011/seasontype/2/half/1/arizona-diamondbacks
+[20:42:55] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:55] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:42:55] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:42:55] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2011/seasontype/2/half/2/arizona-diamondbacks
+[20:42:56] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:00] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:43:00] Loading existing data
+[20:43:00] Saving data to ./mlb/team_data/2011/arizona-diamondbacks.csv
+[20:43:00] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2012/seasontype/2/half/1/arizona-diamondbacks
+[20:43:01] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:01] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:43:01] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2012/seasontype/2/half/2/arizona-diamondbacks
+[20:43:02] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:02] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:43:02] Loading existing data
+[20:43:02] Saving data to ./mlb/team_data/2012/arizona-diamondbacks.csv
+[20:43:02] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2013/seasontype/2/half/1/arizona-diamondbacks
+[20:43:03] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:03] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:03] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:43:03] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2013/seasontype/2/half/2/arizona-diamondbacks
+[20:43:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:04] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:43:04] Loading existing data
+[20:43:04] Saving data to ./mlb/team_data/2013/arizona-diamondbacks.csv
+[20:43:04] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2014/seasontype/2/half/1/arizona-diamondbacks
+[20:43:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:05] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:05] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:43:05] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2014/seasontype/2/half/2/arizona-diamondbacks
+[20:43:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:06] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:43:06] Loading existing data
+[20:43:06] Saving data to ./mlb/team_data/2014/arizona-diamondbacks.csv
+[20:43:06] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2015/seasontype/2/half/1/arizona-diamondbacks
+[20:43:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:06] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:43:06] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2015/seasontype/2/half/2/arizona-diamondbacks
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:43:07] Loading existing data
+[20:43:07] Saving data to ./mlb/team_data/2015/arizona-diamondbacks.csv
+[20:43:07] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2016/seasontype/2/half/1/arizona-diamondbacks
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:07] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:43:07] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/ari/year/2016/seasontype/2/half/2/arizona-diamondbacks
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:08] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:43:08] Loading existing data
+[20:43:08] Returned 6-14-2016's game results
+[20:43:08] Scraping 6-14-2016's period data: http://espn.go.com#
+[20:43:09] Game url: http://espn.go.com#
+[20:43:09] Scraping 6-14-2016's period data again
+[20:43:14] Game url: http://espn.go.com#
+[20:43:14] Saving data to ./mlb/team_data/2016/arizona-diamondbacks.csv
+[20:43:14] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/atl/year/2002/seasontype/2/half/1/atlanta-braves
+[20:43:15] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:15] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:15] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:15] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:43:15] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/atl/year/2002/seasontype/2/half/2/atlanta-braves
+[20:43:16] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:16] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:43:16] Loading existing data
+[20:43:16] Returned 5-16-2002's game results
+[20:43:16] Scraping 5-16-2002's period data: http://espn.go.com/mlb/playbyplay?id=220516126
+[20:43:17] Game url: http://espn.go.com/mlb/playbyplay?id=220516126
+[20:43:17] Team1: atl | Team2: sf
+[20:43:17] Cur team: atl | atlanta-braves
+[20:43:17] Other team: sf
+[20:43:17] URL: http://espn.go.com/mlb/team/schedule/_/name/atl/year/2002/seasontype/2/half/1/atlanta-braves
+[20:43:17] Scores: [['http://espn.go.com/mlb/team/_/name/atl/atlanta--------------braves--------------">ATL</a>'], ['http://espn.go.com/mlb/team/_/name/sf/san-francisco--------giants--------------">SF</a>']]
+[20:43:17] Saving data to ./mlb/team_data/2002/atlanta-braves.csv
+[20:43:17] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/atl/year/2003/seasontype/2/half/1/atlanta-braves
+[20:43:19] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:19] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:19] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:43:19] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/atl/year/2003/seasontype/2/half/2/atlanta-braves
+[20:43:19] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:19] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:43:19] Loading existing data
+[20:43:19] Returned 9-15-2003's game results
+[20:43:19] Scraping 9-15-2003's period data: http://espn.go.com/mlb/playbyplay?id=230915120
+[20:43:20] Game url: http://espn.go.com/mlb/playbyplay?id=230915120
+[20:43:20] Team1: atl | Team2: mon
+[20:43:20] Cur team: atl | atlanta-braves
+[20:43:20] Other team: mon
+[20:43:20] URL: http://espn.go.com/mlb/team/schedule/_/name/atl/year/2003/seasontype/2/half/1/atlanta-braves
+[20:43:20] Scores: [['http://espn.go.com/mlb/team/_/name/atl/atlanta-braves">ATL</a>'], ['MON']]
+[20:43:20] Returned 9-16-2003's game results
+[20:43:20] Scraping 9-16-2003's period data: http://espn.go.com/mlb/playbyplay?id=230916120
+[20:43:21] Game url: http://espn.go.com/mlb/playbyplay?id=230916120
+[20:43:21] Team1: atl | Team2: mon
+[20:43:21] Cur team: atl | atlanta-braves
+[20:43:21] Other team: mon
+[20:43:21] URL: http://espn.go.com/mlb/team/schedule/_/name/atl/year/2003/seasontype/2/half/1/atlanta-braves
+[20:43:21] Scores: [['http://espn.go.com/mlb/team/_/name/atl/atlanta-braves">ATL</a>'], ['MON']]
+[20:43:21] Returned 9-26-2003's game results
+[20:43:21] Scraping 9-26-2003's period data: http://espn.go.com/mlb/playbyplay?id=230926122
+[20:43:22] Game url: http://espn.go.com/mlb/playbyplay?id=230926122
+[20:43:22] Team1: atl | Team2: phi
+[20:43:22] Cur team: atl | atlanta-braves
+[20:43:22] Other team: phi
+[20:43:22] URL: http://espn.go.com/mlb/team/schedule/_/name/atl/year/2003/seasontype/2/half/1/atlanta-braves
+[20:43:22] Scores: [['http://espn.go.com/mlb/team/_/name/atl/atlanta-braves">ATL</a>'], ['http://espn.go.com/mlb/team/_/name/phi/philadelphia-phillies">PHI</a>']]
+[20:43:22] Saving data to ./mlb/team_data/2003/atlanta-braves.csv
+[20:43:22] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/atl/year/2004/seasontype/2/half/1/atlanta-braves
+[20:43:23] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:23] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:23] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:43:23] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/atl/year/2004/seasontype/2/half/2/atlanta-braves
+[20:43:24] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:24] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:24] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:24] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:24] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:43:24] Loading existing data
+[20:43:24] Returned 4-21-2004's game results
+[20:43:24] Scraping 4-21-2004's period data: http://espn.go.com/mlb/playbyplay?id=240421117
+[20:43:25] Game url: http://espn.go.com/mlb/playbyplay?id=240421117
+[20:43:25] Team1: atl | Team2: cin
+[20:43:25] Cur team: atl | atlanta-braves
+[20:43:25] Other team: cin
+[20:43:25] URL: http://espn.go.com/mlb/team/schedule/_/name/atl/year/2004/seasontype/2/half/1/atlanta-braves
+[20:43:25] Scores: [['http://espn.go.com/mlb/team/_/name/atl/atlanta-braves">ATL</a>'], ['http://espn.go.com/mlb/team/_/name/cin/cincinnati-reds">CIN</a>']]
+[20:43:25] Returned 5-8-2004's game results
+[20:43:25] Scraping 5-8-2004's period data: http://espn.go.com/mlb/playbyplay?id=240508115
+[20:43:25] Game url: http://espn.go.com/mlb/playbyplay?id=240508115
+[20:43:25] Team1: hou | Team2: atl
+[20:43:25] Cur team: atl | atlanta-braves
+[20:43:25] Other team: hou
+[20:43:25] URL: http://espn.go.com/mlb/team/schedule/_/name/atl/year/2004/seasontype/2/half/1/atlanta-braves
+[20:43:25] Scores: [['http://espn.go.com/mlb/team/_/name/hou/houston-astros">HOU</a>'], ['http://espn.go.com/mlb/team/_/name/atl/atlanta-braves">ATL</a>']]
+[20:43:25] Returned 6-6-2004's game results
+[20:43:25] Scraping 6-6-2004's period data: http://espn.go.com/mlb/playbyplay?id=240606115
+[20:43:26] Game url: http://espn.go.com/mlb/playbyplay?id=240606115
+[20:43:26] Team1: phi | Team2: atl
+[20:43:26] Cur team: atl | atlanta-braves
+[20:43:26] Other team: phi
+[20:43:26] URL: http://espn.go.com/mlb/team/schedule/_/name/atl/year/2004/seasontype/2/half/1/atlanta-braves
+[20:43:26] Scores: [['http://espn.go.com/mlb/team/_/name/phi/philadelphia-phillies">PHI</a>'], ['http://espn.go.com/mlb/team/_/name/atl/atlanta-braves">ATL</a>']]
+[20:43:26] Returned 6-8-2004's game results
+[20:43:26] Scraping 6-8-2004's period data: http://espn.go.com/mlb/playbyplay?id=240608106
+[20:43:27] Game url: http://espn.go.com/mlb/playbyplay?id=240608106
+[20:43:27] Team1: atl | Team2: det
+[20:43:27] Cur team: atl | atlanta-braves
+[20:43:27] Other team: det
+[20:43:27] URL: http://espn.go.com/mlb/team/schedule/_/name/atl/year/2004/seasontype/2/half/1/atlanta-braves
+[20:43:27] Scores: [['http://espn.go.com/mlb/team/_/name/atl/atlanta-braves">ATL</a>'], ['http://espn.go.com/mlb/team/_/name/det/detroit-tigers">DET</a>']]
+[20:43:27] Returned 8-20-2004's game results
+[20:43:27] Scraping 8-20-2004's period data: http://espn.go.com/mlb/playbyplay?id=240820119
+[20:43:27] Game url: http://espn.go.com/mlb/playbyplay?id=240820119
+[20:43:27] Team1: atl | Team2: la
+[20:43:27] Cur team: atl | atlanta-braves
+[20:43:27] Other team: la
+[20:43:27] URL: http://espn.go.com/mlb/team/schedule/_/name/atl/year/2004/seasontype/2/half/1/atlanta-braves
+[20:43:27] Scores: [['http://espn.go.com/mlb/team/_/name/atl/atlanta-braves">ATL</a>'], ['http://espn.go.com/mlb/team/_/name/la/los-angeles-dodgers">LA</a>']]
+[20:43:27] Returned 8-21-2004's game results
+[20:43:27] Scraping 8-21-2004's period data: http://espn.go.com/mlb/playbyplay?id=240821119
+[20:43:28] Game url: http://espn.go.com/mlb/playbyplay?id=240821119
+[20:43:28] Team1: atl | Team2: la
+[20:43:28] Cur team: atl | atlanta-braves
+[20:43:28] Other team: la
+[20:43:28] URL: http://espn.go.com/mlb/team/schedule/_/name/atl/year/2004/seasontype/2/half/1/atlanta-braves
+[20:43:28] Scores: [['http://espn.go.com/mlb/team/_/name/atl/atlanta-braves">ATL</a>'], ['http://espn.go.com/mlb/team/_/name/la/los-angeles-dodgers">LA</a>']]
+[20:43:28] Returned 8-28-2004's game results
+[20:43:28] Scraping 8-28-2004's period data: http://espn.go.com/mlb/playbyplay?id=240828115
+[20:43:28] Game url: http://espn.go.com/mlb/playbyplay?id=240828115
+[20:43:28] Team1: sf | Team2: atl
+[20:43:28] Cur team: atl | atlanta-braves
+[20:43:28] Other team: sf
+[20:43:28] URL: http://espn.go.com/mlb/team/schedule/_/name/atl/year/2004/seasontype/2/half/1/atlanta-braves
+[20:43:28] Scores: [['http://espn.go.com/mlb/team/_/name/sf/san-francisco-giants">SF</a>'], ['http://espn.go.com/mlb/team/_/name/atl/atlanta-braves">ATL</a>']]
+[20:43:28] Returned 9-22-2004's game results
+[20:43:28] Scraping 9-22-2004's period data: http://espn.go.com/mlb/playbyplay?id=240922115
+[20:43:29] Game url: http://espn.go.com/mlb/playbyplay?id=240922115
+[20:43:29] Team1: cin | Team2: atl
+[20:43:29] Cur team: atl | atlanta-braves
+[20:43:29] Other team: cin
+[20:43:29] URL: http://espn.go.com/mlb/team/schedule/_/name/atl/year/2004/seasontype/2/half/1/atlanta-braves
+[20:43:29] Scores: [['http://espn.go.com/mlb/team/_/name/cin/cincinnati-reds">CIN</a>'], ['http://espn.go.com/mlb/team/_/name/atl/atlanta-braves">ATL</a>']]
+[20:43:29] Returned 9-24-2004's game results
+[20:43:29] Scraping 9-24-2004's period data: http://espn.go.com/mlb/playbyplay?id=240924115
+[20:43:30] Game url: http://espn.go.com/mlb/playbyplay?id=240924115
+[20:43:30] Team1: fla | Team2: atl
+[20:43:30] Cur team: atl | atlanta-braves
+[20:43:30] Other team: fla
+[20:43:30] URL: http://espn.go.com/mlb/team/schedule/_/name/atl/year/2004/seasontype/2/half/1/atlanta-braves
+[20:43:30] Scores: [['FLA'], ['http://espn.go.com/mlb/team/_/name/atl/atlanta-braves">ATL</a>']]
+[20:43:30] Saving data to ./mlb/team_data/2004/atlanta-braves.csv
+[20:43:30] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/atl/year/2005/seasontype/2/half/1/atlanta-braves
+[20:43:31] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:31] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:31] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:43:31] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/atl/year/2005/seasontype/2/half/2/atlanta-braves
+[20:43:32] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:32] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 397)
+[20:43:32] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 373)
+[20:43:32] Loading existing data
+[20:43:32] Returned 8-11-2005's game results
+[20:43:32] Scraping 8-11-2005's period data: http://espn.go.com/mlb/playbyplay?id=250811115
+[20:43:33] Game url: http://espn.go.com/mlb/playbyplay?id=250811115
+[20:43:33] Team1: sf | Team2: atl
+[20:43:33] Cur team: atl | atlanta-braves
+[20:43:33] Other team: sf
+[20:43:33] URL: http://espn.go.com/mlb/team/schedule/_/name/atl/year/2005/seasontype/2/half/1/atlanta-braves
+[20:43:33] Scores: [['http://espn.go.com/mlb/team/_/name/sf/san-francisco-giants">SF</a>'], ['http://espn.go.com/mlb/team/_/name/atl/atlanta-braves">ATL</a>']]
+

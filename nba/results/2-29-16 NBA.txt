@@ -1,0 +1,177 @@
+Date: 2-29-2016
+Away: indiana-pacers | Home: cleveland-cavaliers
+Seasonal Record:      -2.1
+Home Away:            -2.3
+Home away 10:         -1.6
+Last 10 games:        -0.4
+Avg points:           -0.47
+Avg points 10:        -1.13
+Win streak:           -2.0
+Win streak home away: -2.6666666666666665
+--------
+Total: -12.68
+
+Date: 2-29-2016
+Away: philadelphia-76ers | Home: washington-wizards
+Seasonal Record:      -4.1
+Home Away:            -2.4
+Home away 10:         -2.0
+Last 10 games:        -2.0
+Avg points:           -1.12
+Avg points 10:        -1.72
+Win streak:           -2.6666666666666665
+Win streak home away: -2.6666666666666665
+--------
+Total: -18.68
+
+Date: 2-29-2016
+Away: utah-jazz | Home: boston-celtics
+Seasonal Record:      -1.2
+Home Away:            -1.8
+Home away 10:         -2.4
+Last 10 games:        -0.8
+Avg points:           -0.4
+Avg points 10:        -0.56
+Win streak:           0.6666666666666666
+Win streak home away: -4.666666666666667
+--------
+Total: -11.16
+
+Date: 2-29-2016
+Away: houston-rockets | Home: milwaukee-bucks
+Seasonal Record:      1.0
+Home Away:            -0.9
+Home away 10:         -1.2
+Last 10 games:        0.0
+Avg points:           0.37
+Avg points 10:        0.12
+Win streak:           3.3333333333333335
+Win streak home away: 2.0
+--------
+Total: 4.73
+
+Date: 2-29-2016
+Away: memphis-grizzlies | Home: denver-nuggets
+Seasonal Record:      2.3
+Home Away:            0.4
+Home away 10:         0.8
+Last 10 games:        0.8
+Avg points:           0.32
+Avg points 10:        0.71
+Win streak:           2.6666666666666665
+Win streak home away: 0.6666666666666666
+--------
+Total: 8.67
+
+Date: 2-29-2016
+Away: oklahoma-city-thunder | Home: sacramento-kings
+Seasonal Record:      3.2
+Home Away:            0.7
+Home away 10:         1.2
+Last 10 games:        0.4
+Avg points:           1.17
+Avg points 10:        1.01
+Win streak:           -0.6666666666666666
+Win streak home away: -0.6666666666666666
+--------
+Total: 6.34
+
+Date: 2-29-2016
+Away: brooklyn-nets | Home: los-angeles-clippers
+Seasonal Record:      -4.3
+Home Away:            -2.3
+Home away 10:         -1.2
+Last 10 games:        -0.4
+Avg points:           -1.39
+Avg points 10:        -1.21
+Win streak:           -0.6666666666666666
+Win streak home away: -2.3333333333333335
+--------
+Total: -13.81
+
+
+
+
+
+-----------------------------NHL-----------------------------
+Date: 2-29-2016
+Away: arizona-coyotes | Home: pittsburgh-penguins
+Seasonal Record:      -2.0
+Home Away:            -2.6
+Home away 10:         -2.0
+Last 10 games:        -1.2
+Avg points:           -0.85
+Avg points 10:        -0.79
+Win streak:           0.6666666666666666
+Win streak home away: -0.6666666666666666
+--------
+Total: -9.46
+(Bet on Penguins 3-way moneyline)
+
+Date: 2-29-2016
+Away: columbus-blue-jackets | Home: new-york-rangers
+Seasonal Record:      -4.2
+Home Away:            -3.8
+Home away 10:         -0.8
+Last 10 games:        -0.4
+Avg points:           -1.54
+Avg points 10:        0.0
+Win streak:           -3.3333333333333335
+Win streak home away: -2.0
+--------
+Total: -16.07
+(Bet on Rangers 3-way moneyline)
+
+Date: 2-29-2016
+Away: calgary-flames | Home: philadelphia-flyers
+Seasonal Record:      -0.8
+Home Away:            -2.2
+Home away 10:         -0.4
+Last 10 games:        -0.8
+Avg points:           -0.35
+Avg points 10:        -2.19
+Win streak:           2.0
+Win streak home away: 0.6666666666666666
+--------
+Total: -4.09
+(Bet on flames 3-way moneyline)
+
+Date: 2-29-2016
+Away: tampa-bay-lightning | Home: toronto-maple-leafs
+Seasonal Record:      5.6
+Home Away:            2.2
+Home away 10:         1.6
+Last 10 games:        2.0
+Avg points:           1.89
+Avg points 10:        4.97
+Win streak:           1.3333333333333333
+Win streak home away: 0.6666666666666666
+--------
+Total: 20.28
+(Bet on lightning 3-way moneyline and regular moneyline)
+
+Date: 2-29-2016
+Away: detroit-red-wings | Home: dallas-stars
+Seasonal Record:      -2.6
+Home Away:            -2.0
+Home away 10:         0.0
+Last 10 games:        0.0
+Avg points:           -0.81
+Avg points 10:        1.0
+Win streak:           -0.6666666666666666
+Win streak home away: 3.3333333333333335
+--------
+Total: -1.75
+
+Date: 2-29-2016
+Away: montreal-canadiens | Home: san-jose-sharks
+Seasonal Record:      -1.4
+Home Away:            0.0
+Home away 10:         -1.6
+Last 10 games:        0.0
+Avg points:           -0.5
+Avg points 10:        -0.59
+Win streak:           -0.6666666666666666
+Win streak home away: -4.333333333333333
+--------
+Total: -9.1

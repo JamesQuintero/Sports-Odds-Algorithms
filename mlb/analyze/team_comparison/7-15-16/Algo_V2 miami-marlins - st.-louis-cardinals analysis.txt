@@ -1,0 +1,17 @@
+
+Date: 7-15-16
+Away: miami-marlins | Home: st.-louis-cardinals
+Seasonal Record:      51.03%
+Home Away:            51.46%
+Home away 10:         -50.62%
+Last 10 games:        51.6%
+Avg points:           -57.98%
+Avg points 10:        -51.3%
+Win streak home away: 50%
+--------
+Total: -53.19%
+--------
+Perc chance to win: 53.19%
+Favorable team odds: -113.62956633198031
+Underdog team odds: +113.62956633198031
+

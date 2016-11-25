@@ -1,0 +1,17 @@
+
+Date: 7-6-2016
+Away: atlanta-braves | Home: philadelphia-phillies
+Seasonal Record:      -55.72%
+Home Away:            50.26%
+Home away 10:         50.62%
+Last 10 games:        -55.36%
+Avg points:           -52.53%
+Avg points 10:        -52.97%
+Win streak home away: 50%
+--------
+Total: -55.54%
+--------
+Perc chance to win: 55.54%
+Favorable team odds: -124.9212775528565
+Underdog team odds: +124.9212775528565
+

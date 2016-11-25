@@ -1,0 +1,16 @@
+
+Date: 4-18-2016
+Away: los-angeles-kings | Home: san-jose-sharks
+Seasonal Record:      52.74%
+Home Away:            57.46%
+Home away 10:         -50.81%
+Last 10 games:        -53.28%
+Avg points:           50.11%
+Avg points 10:        -52.42%
+--------
+Total: 52.09%
+--------
+Perc chance to win: 52.09%
+Favorable team odds: -108.72469213107911
+Underdog team odds: +108.72469213107911
+

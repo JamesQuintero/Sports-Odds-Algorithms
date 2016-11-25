@@ -1,0 +1,18 @@
+
+Date: 3-5-2016
+Away: boston-celtics | Home: cleveland-cavaliers
+Seasonal Record:      -13.0/10 = -1.3
+Home Away:            -20.0/10 = -2.0
+Home away 10:         -6.0/5 = -1.2
+Last 10 games:        0.0/5 = 0.0
+Avg points:           -1.6/8 = -0.2
+Avg points 10:        -2.88/8 = -0.36
+Win streak:           2.0/3 = 0.6666666666666666
+Win streak home away: 4.0/3 = 1.3333333333333333
+--------
+Total: -3.06
+--------
+Perc chance to win: 55.821244444444446%
+Favorable team odds: -126.35313906533257
+Underdog team odds: +126.35313906533257
+

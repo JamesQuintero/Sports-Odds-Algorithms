@@ -1,0 +1,16 @@
+
+Date: 3-11-2016
+Away: orlando-magic | Home: sacramento-kings
+Seasonal Record:      54.88%
+Home Away:            -59.92%
+Home away 10:         -54.02%
+Last 10 games:        51.0%
+Avg points:           -52.86%
+Avg points 10:        50.42%
+--------
+Total: -52.52%
+--------
+Perc chance to win: 52.52%
+Favorable team odds: -110.61499578770011
+Underdog team odds: +110.61499578770011
+

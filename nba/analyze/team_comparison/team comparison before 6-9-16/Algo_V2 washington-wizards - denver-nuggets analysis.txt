@@ -1,0 +1,16 @@
+
+Date: 3-12-2016
+Away: washington-wizards | Home: denver-nuggets
+Seasonal Record:      56.66%
+Home Away:            51.48%
+Home away 10:         -59.94%
+Last 10 games:        51.0%
+Avg points:           -54.98%
+Avg points 10:        -51.61%
+--------
+Total: -51.64%
+--------
+Perc chance to win: 51.64%
+Favorable team odds: -106.78246484698097
+Underdog team odds: +106.78246484698097
+

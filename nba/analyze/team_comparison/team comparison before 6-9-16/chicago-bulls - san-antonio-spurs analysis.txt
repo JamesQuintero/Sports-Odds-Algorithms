@@ -1,0 +1,16 @@
+
+Date: 3-10-2016
+Away: chicago-bulls | Home: san-antonio-spurs
+Seasonal Record:      -76.28%
+Home Away:            -90.15%
+Home away 10:         -89.06%
+Last 10 games:        -59.69%
+Avg points:           -81.21%
+Avg points 10:        -70.54%
+--------
+Total: -89.6%
+--------
+Perc chance to win: 89.6%
+Favorable team odds: -861.538461538461
+Underdog team odds: +861.538461538461
+

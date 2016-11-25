@@ -1,0 +1,17 @@
+
+Date: 7-6-2016
+Away: colorado-rockies | Home: san-francisco-giants
+Seasonal Record:      -56.97%
+Home Away:            -54.57%
+Home away 10:         -53.64%
+Last 10 games:        -51.81%
+Avg points:           -56.58%
+Avg points 10:        -51.23%
+Win streak home away: 50%
+--------
+Total: -56.77%
+--------
+Perc chance to win: 56.77%
+Favorable team odds: -131.3208420078649
+Underdog team odds: +131.3208420078649
+

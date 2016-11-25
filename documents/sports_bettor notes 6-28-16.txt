@@ -1,0 +1,19 @@
+old NHL backtest "2-1-2015_4-1-2015_analysis 10 levels.csv" has all games played, algo points for those scores, and puts those scores on a 1-10 level scoring board. There are games that reach level 10. 
+
+new NHL backtest "Algo_V1_2-1-2015_4-1-2015_analysis.csv" has all games played, algo points for those scores, and puts those scores on a 1-10 level scoring board. There are games that reach level 10. 
+
+new NHL backtest "nhl_Algo_V2_2-1-2015_4-1-2015_analysis.csv" has all games played, percentage rank for those scores, and puts those scores on a 1-10 level scoring board. There are no games that pass level 4
+
+new MLB backtests "mlb_Algo_V2_7-1-2015_10-1-2015_analysis.csv" has all games played, percentage rank for those scores, and puts those scores on a 1-10 level scoring board. There are no games that pass level 4
+
+new NHL backtest "nba_Algo_V2_2-1-2015_4-1-2015_analysis.csv" has all games played, percentage rank for those scores, and puts those scores on a 1-10 level scoring board. Games can reach level 10
+
+
+Algo_V1: 
+NBA = [10, 10, 5, 5,   8,   8, 3, 3]
+NHL = [10, 3,  3, 3, 0.5, 0.5, 3, 3]
+
+Algo_V2:
+NBA = [9, 6, 3, 3,   3,   3, -1, -1]
+NHL = [3, 3, 3, 3, 0.3, 0.6,  6, -1]
+MLB = [6, 6, 3, 3, 0.3, 1.5, -1, -1]

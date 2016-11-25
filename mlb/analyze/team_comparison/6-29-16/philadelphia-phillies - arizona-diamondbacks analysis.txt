@@ -1,0 +1,17 @@
+
+Date: 6-29-2016
+Away: philadelphia-phillies | Home: arizona-diamondbacks
+Seasonal Record:      -51.54%
+Home Away:            52.55%
+Home away 10:         50.62%
+Last 10 games:        -51.81%
+Avg points:           -56.3%
+Avg points 10:        51.12%
+--------
+Total: -51.87%
+--------
+Perc chance to win: 51.87%
+Favorable team odds: -107.77062123415746
+Underdog team odds: +107.77062123415746
+
+Actual: +145, -165

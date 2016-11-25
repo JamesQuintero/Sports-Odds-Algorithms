@@ -1,0 +1,16 @@
+
+Date: 3-16-2016
+Away: new-york-knicks | Home: golden-state-warriors
+Seasonal Record:      -88.6%
+Home Away:            -91.88%
+Home away 10:         -80.56%
+Last 10 games:        -61.0%
+Avg points:           -81.08%
+Avg points 10:        -63.94%
+--------
+Total: -90.24%
+--------
+Perc chance to win: 90.24%
+Favorable team odds: -924.5901639344257
+Underdog team odds: +924.5901639344257
+

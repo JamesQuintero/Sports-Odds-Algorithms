@@ -1,0 +1,16 @@
+
+Date: 3-18-2016
+Away: sacramento-kings | Home: detroit-pistons
+Seasonal Record:      -61.31%
+Home Away:            -71.01%
+Home away 10:         52.19%
+Last 10 games:        -58.04%
+Avg points:           -54.68%
+Avg points 10:        -54.86%
+--------
+Total: -66.16%
+--------
+Perc chance to win: 66.16%
+Favorable team odds: -195.50827423167846
+Underdog team odds: +195.50827423167846
+

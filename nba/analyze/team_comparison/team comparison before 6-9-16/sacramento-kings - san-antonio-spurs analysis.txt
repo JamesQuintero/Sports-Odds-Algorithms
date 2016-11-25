@@ -1,0 +1,18 @@
+
+Date: 3-5-2016
+Away: sacramento-kings | Home: san-antonio-spurs
+Seasonal Record:      -53.0/10 = -5.3
+Home Away:            -37.0/10 = -3.7
+Home away 10:         -14.0/5 = -2.8
+Last 10 games:        -10.0/5 = -2.0
+Avg points:           -14.88/8 = -1.86
+Avg points 10:        -14.08/8 = -1.76
+Win streak:           -10.0/3 = -3.3333333333333335
+Win streak home away: -12.0/3 = -4.0
+--------
+Total: -24.75
+--------
+Perc chance to win: 95.03194444444443%
+Favorable team odds: -1912.8599384959423
+Underdog team odds: +1912.8599384959423
+

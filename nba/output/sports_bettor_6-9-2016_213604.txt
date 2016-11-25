@@ -1,0 +1,5 @@
+---- Start output ----
+[21:36:04] League: NBA
+[21:36:07] single_team_analysis()
+[21:36:17] User chose ['lal', 'los-angeles-lakers']
+

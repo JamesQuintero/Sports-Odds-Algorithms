@@ -1,0 +1,18 @@
+
+Date: 3-11-2016
+Away: new-york-knicks | Home: los-angeles-clippers
+Seasonal Record:      -31.0/10 = -3.1
+Home Away:            -20.0/10 = -2.0
+Home away 10:         -8.0/5 = -1.6
+Last 10 games:        -4.0/5 = -0.8
+Avg points:           -6.64/8 = -0.83
+Avg points 10:        -8.96/8 = -1.12
+Win streak:           -15.0/3 = -5.0
+Win streak home away: -6.0/3 = -2.0
+--------
+Total: -16.46
+--------
+Perc chance to win: 83.55023758573388%
+Favorable team odds: -507.9115155686056
+Underdog team odds: +507.9115155686056
+

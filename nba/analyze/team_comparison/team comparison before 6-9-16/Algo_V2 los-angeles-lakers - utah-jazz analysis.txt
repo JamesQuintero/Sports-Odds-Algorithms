@@ -1,0 +1,16 @@
+
+Date: 3-28-2016
+Away: los-angeles-lakers | Home: utah-jazz
+Seasonal Record:      -76.28%
+Home Away:            -88.2%
+Home away 10:         -75.86%
+Last 10 games:        -59.69%
+Avg points:           -73.44%
+Avg points 10:        -61.03%
+--------
+Total: -82.24%
+--------
+Perc chance to win: 82.24%
+Favorable team odds: -463.0630630630629
+Underdog team odds: +463.0630630630629
+

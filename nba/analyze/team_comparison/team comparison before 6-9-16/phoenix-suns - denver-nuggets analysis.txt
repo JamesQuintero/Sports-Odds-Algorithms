@@ -1,0 +1,18 @@
+
+Date: 3-10-2016
+Away: phoenix-suns | Home: denver-nuggets
+Seasonal Record:      -180/10 = -18
+Home Away:            -140/10 = -14
+Home away 10:         -30/5 = -6
+Last 10 games:        -10/5 = -2
+Avg points:           -36.32000000000005/8 = -4.540000000000006
+Avg points 10:        -89.59999999999991/8 = -11.199999999999989
+Win streak:           -6/3 = -2
+Win streak home away: 12/3 = 4
+--------
+Total: -61.346666666666664
+--------
+Perc chance to win: 61.346666666666664%
+Favorable team odds: -158.70989996550531
+Underdog team odds: +158.70989996550531
+

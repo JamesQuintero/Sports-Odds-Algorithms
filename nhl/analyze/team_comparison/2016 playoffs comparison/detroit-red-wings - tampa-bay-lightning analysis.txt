@@ -1,0 +1,16 @@
+
+Date: 4-13-2016
+Away: detroit-red-wings | Home: tampa-bay-lightning
+Seasonal Record:      -53.86%
+Home Away:            -58.81%
+Home away 10:         -53.37%
+Last 10 games:        53.93%
+Avg points:           -54.78%
+Avg points 10:        -52.43%
+--------
+Total: -56.79%
+--------
+Perc chance to win: 56.79%
+Favorable team odds: -131.42791020597082
+Underdog team odds: +131.42791020597082
+

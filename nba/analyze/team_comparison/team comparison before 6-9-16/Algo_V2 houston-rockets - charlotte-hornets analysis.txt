@@ -1,0 +1,16 @@
+
+Date: 3-12-2016
+Away: houston-rockets | Home: charlotte-hornets
+Seasonal Record:      -56.66%
+Home Away:            -72.12%
+Home away 10:         -65.54%
+Last 10 games:        -56.04%
+Avg points:           -54.74%
+Avg points 10:        -56.49%
+--------
+Total: -68.83%
+--------
+Perc chance to win: 68.83%
+Favorable team odds: -220.8213025344883
+Underdog team odds: +220.8213025344883
+

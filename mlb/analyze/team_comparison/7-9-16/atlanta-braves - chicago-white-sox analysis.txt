@@ -1,0 +1,17 @@
+
+Date: 7-9-2016
+Away: atlanta-braves | Home: chicago-white-sox
+Seasonal Record:      -57.56%
+Home Away:            -52.55%
+Home away 10:         -50.49%
+Last 10 games:        -52.29%
+Avg points:           -58.44%
+Avg points 10:        -51.2%
+Win streak home away: 50%
+--------
+Total: -58.0%
+--------
+Perc chance to win: 58.0%
+Favorable team odds: -138.0952380952381
+Underdog team odds: +138.0952380952381
+

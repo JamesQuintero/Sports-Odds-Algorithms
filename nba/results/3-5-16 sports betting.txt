@@ -1,0 +1,144 @@
+Date: 3-5-2016
+Away: boston-celtics | Home: cleveland-cavaliers
+Seasonal Record:      -13.0/10 = -1.3
+Home Away:            -20.0/10 = -2.0
+Home away 10:         -6.0/5 = -1.2
+Last 10 games:        0.0/5 = 0.0
+Avg points:           -1.6/8 = -0.2
+Avg points 10:        -2.88/8 = -0.36
+Win streak:           2.0/3 = 0.6666666666666666
+Win streak home away: 4.0/3 = 1.3333333333333333
+--------
+Total: -3.06
+--------
+Perc chance to win: 55.821244444444446%
+Favorable team odds: -126.35313906533257
+Underdog team odds: +126.35313906533257
+($3 Celtics +260)
+
+
+Date: 3-5-2016
+Away: detroit-pistons | Home: new-york-knicks
+Seasonal Record:      14.0/10 = 1.4
+Home Away:            -3.0/10 = -0.3
+Home away 10:         4.0/5 = 0.8
+Last 10 games:        4.0/5 = 0.8
+Avg points:           3.76/8 = 0.47
+Avg points 10:        5.04/8 = 0.63
+Win streak:           2.0/3 = 0.6666666666666666
+Win streak home away: -2.0/3 = -0.6666666666666666
+--------
+Total: 3.81
+--------
+Perc chance to win: 57.67257160493827%
+Favorable team odds: -136.2534266590758
+Underdog team odds: +136.2534266590758
+
+
+Date: 3-5-2016
+Away: indiana-pacers | Home: washington-wizards
+Seasonal Record:      3.0/10 = 0.3
+Home Away:            -5.0/10 = -0.5
+Home away 10:         -6.0/5 = -1.2
+Last 10 games:        -6.0/5 = -1.2
+Avg points:           3.36/8 = 0.42
+Avg points 10:        -6.96/8 = -0.87
+Win streak:           -2.0/3 = -0.6666666666666666
+Win streak home away: 4.0/3 = 1.3333333333333333
+--------
+Total: -2.38
+--------
+Perc chance to win: 54.11202853223594%
+Favorable team odds: -117.92203229172857
+Underdog team odds: +117.92203229172857
+
+
+Date: 3-5-2016
+Away: utah-jazz | Home: new-orleans-pelicans
+Seasonal Record:      9.0/10 = 0.9
+Home Away:            -14.0/10 = -1.4
+Home away 10:         -4.0/5 = -0.8
+Last 10 games:        -6.0/5 = -1.2
+Avg points:           3.44/8 = 0.43
+Avg points 10:        -1.44/8 = -0.18
+Win streak:           -4.0/3 = -1.3333333333333333
+Win streak home away: -2.0/3 = -0.6666666666666666
+--------
+Total: -4.25
+--------
+Perc chance to win: 58.74216392318244%
+Favorable team odds: -142.3781989288313
+Underdog team odds: +142.3781989288313
+
+Date: 3-5-2016
+Away: brooklyn-nets | Home: minnesota-timberwolves
+Seasonal Record:      -2.0/10 = -0.2
+Home Away:            -4.0/10 = -0.4
+Home away 10:         -4.0/5 = -0.8
+Last 10 games:        4.0/5 = 0.8
+Avg points:           -2.24/8 = -0.28
+Avg points 10:        4.88/8 = 0.61
+Win streak:           -2.0/3 = -0.6666666666666666
+Win streak home away: 2.0/3 = 0.6666666666666666
+--------
+Total: -0.27
+--------
+Perc chance to win: 50%
+Favorable team odds: -100.0
+Underdog team odds: +100.0
+($5 Nets +225)
+($3 nets +6.5(-110))
+
+
+Date: 3-5-2016
+Away: houston-rockets | Home: chicago-bulls
+Seasonal Record:      -1.0/10 = -0.1
+Home Away:            -12.0/10 = -1.2
+Home away 10:         0.0/5 = 0.0
+Last 10 games:        2.0/5 = 0.4
+Avg points:           -0.08/8 = -0.01
+Avg points 10:        5.68/8 = 0.71
+Win streak:           2.0/3 = 0.6666666666666666
+Win streak home away: -4.0/3 = -1.3333333333333333
+--------
+Total: -0.86
+--------
+Perc chance to win: 50.18592482853224%
+Favorable team odds: -100.74647507915083
+Underdog team odds: +100.74647507915083
+
+
+Date: 3-5-2016
+Away: sacramento-kings | Home: san-antonio-spurs
+Seasonal Record:      -53.0/10 = -5.3
+Home Away:            -37.0/10 = -3.7
+Home away 10:         -14.0/5 = -2.8
+Last 10 games:        -10.0/5 = -2.0
+Avg points:           -14.88/8 = -1.86
+Avg points 10:        -14.08/8 = -1.76
+Win streak:           -10.0/3 = -3.3333333333333335
+Win streak home away: -12.0/3 = -4.0
+--------
+Total: -24.75
+--------
+Perc chance to win: 95.03194444444443%
+Favorable team odds: -1912.8599384959423
+Underdog team odds: +1912.8599384959423
+
+
+Date: 3-5-2016
+Away: atlanta-hawks | Home: los-angeles-clippers
+Seasonal Record:      -14.0/10 = -1.4
+Home Away:            -12.0/10 = -1.2
+Home away 10:         -6.0/5 = -1.2
+Last 10 games:        -6.0/5 = -1.2
+Avg points:           -1.76/8 = -0.22
+Avg points 10:        -4.0/8 = -0.5
+Win streak:           -2.0/3 = -0.6666666666666666
+Win streak home away: 2.0/3 = 0.6666666666666666
+--------
+Total: -5.72
+--------
+Perc chance to win: 62.2269914951989%
+Favorable team odds: -164.7393044885202
+Underdog team odds: +164.7393044885202

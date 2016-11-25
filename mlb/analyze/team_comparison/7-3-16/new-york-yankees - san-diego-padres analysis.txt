@@ -1,0 +1,17 @@
+
+Date: 7-3-2016
+Away: new-york-yankees | Home: san-diego-padres
+Seasonal Record:      53.25%
+Home Away:            50.86%
+Home away 10:         -50.62%
+Last 10 games:        -51.81%
+Avg points:           51.79%
+Avg points 10:        -51.16%
+Win streak home away: 50%
+--------
+Total: 50.72%
+--------
+Perc chance to win: 50.72%
+Favorable team odds: -102.9220779220779
+Underdog team odds: +102.9220779220779
+

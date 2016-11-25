@@ -1,0 +1,16 @@
+
+Date: 3-23-2016
+Away: miami-heat | Home: san-antonio-spurs
+Seasonal Record:      -73.06%
+Home Away:            -86.79%
+Home away 10:         -59.94%
+Last 10 games:        -53.69%
+Avg points:           -74.78%
+Avg points 10:        -50.46%
+--------
+Total: -80.78%
+--------
+Perc chance to win: 80.78%
+Favorable team odds: -420.2913631633715
+Underdog team odds: +420.2913631633715
+

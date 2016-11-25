@@ -1,0 +1,16 @@
+
+Date: 3-30-2016
+Away: new-york-knicks | Home: dallas-mavericks
+Seasonal Record:      -60.16%
+Home Away:            -69.87%
+Home away 10:         52.19%
+Last 10 games:        53.69%
+Avg points:           -50.96%
+Avg points 10:        50.14%
+--------
+Total: -65.01%
+--------
+Perc chance to win: 65.01%
+Favorable team odds: -185.79594169762794
+Underdog team odds: +185.79594169762794
+

@@ -1,0 +1,17 @@
+
+Date: 7-6-2016
+Away: pittsburgh-pirates | Home: st.-louis-cardinals
+Seasonal Record:      -51.03%
+Home Away:            50.9%
+Home away 10:         53.64%
+Last 10 games:        53.04%
+Avg points:           -56.98%
+Avg points 10:        51.29%
+Win streak home away: 50%
+--------
+Total: -51.67%
+--------
+Perc chance to win: 51.67%
+Favorable team odds: -106.91082143596108
+Underdog team odds: +106.91082143596108
+

@@ -1,0 +1,16 @@
+
+Date: 4-1-2016
+Away: brooklyn-nets | Home: new-york-knicks
+Seasonal Record:      -62.46%
+Home Away:            -75.33%
+Home away 10:         -54.02%
+Last 10 games:        51.0%
+Avg points:           -56.78%
+Avg points 10:        -50.46%
+--------
+Total: -68.89%
+--------
+Perc chance to win: 68.89%
+Favorable team odds: -221.44005143040823
+Underdog team odds: +221.44005143040823
+

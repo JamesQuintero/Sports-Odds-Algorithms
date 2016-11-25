@@ -1,0 +1,16 @@
+
+Date: 3-26-2016
+Away: charlotte-hornets | Home: milwaukee-bucks
+Seasonal Record:      65.87%
+Home Away:            -67.52%
+Home away 10:         54.02%
+Last 10 games:        58.04%
+Avg points:           62.44%
+Avg points 10:        57.95%
+--------
+Total: -50.82%
+--------
+Perc chance to win: 50.82%
+Favorable team odds: -103.33468889792599
+Underdog team odds: +103.33468889792599
+

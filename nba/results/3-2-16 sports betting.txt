@@ -1,0 +1,173 @@
+Date: 3-2-2016
+Away: charlotte-hornets | Home: philadelphia-76ers
+Seasonal Record:      47.0/10 = 4.7
+Home Away:            10.0/10 = 1.0
+Home away 10:         6.0/5 = 1.2
+Last 10 games:        12.0/5 = 2.4
+Avg points:           11.92/8 = 1.49
+Avg points 10:        16.16/8 = 2.02
+Win streak:           3.0/3 = 1.0
+Win streak home away: -2.0/3 = -0.6666666666666666
+--------
+Total: 13.15
+--------
+Level: 5
+Perc chance to win: 79%
+Favorable team odds: -376.1904761904762
+Underdog team odds: +376.1904761904762
+($5 Hornets -10.0 (-110))
+
+
+Date: 3-2-2016
+Away: chicago-bulls | Home: orlando-magic
+Seasonal Record:      8.0/10 = 0.8
+Home Away:            -8.0/10 = -0.8
+Home away 10:         -4.0/5 = -0.8
+Last 10 games:        -4.0/5 = -0.8
+Avg points:           0.4/8 = 0.05
+Avg points 10:        -6.4/8 = -0.8
+Win streak:           2.0/3 = 0.6666666666666666
+Win streak home away: -2.0/3 = -0.6666666666666666
+--------
+Total: -2.34
+--------
+Level: 1
+Perc chance to win: 56%
+Favorable team odds: -127.2727272727273
+Underdog team odds: +127.2727272727273
+($5 Bulls (+160))
+
+
+Date: 3-2-2016
+Away: portland-trail-blazers | Home: boston-celtics
+Seasonal Record:      -6.0/10 = -0.6
+Home Away:            -12.0/10 = -1.2
+Home away 10:         -4.0/5 = -0.8
+Last 10 games:        4.0/5 = 0.8
+Avg points:           -2.56/8 = -0.32
+Avg points 10:        6.56/8 = 0.82
+Win streak:           -2.0/3 = -0.6666666666666666
+Win streak home away: 4.0/3 = 1.3333333333333333
+--------
+Total: -0.62
+--------
+Level: 1
+Perc chance to win: 56%
+Favorable team odds: -127.2727272727273
+Underdog team odds: +127.2727272727273
+($10 Trail Blazers 5.5 (-105))
+
+
+Date: 3-2-16
+Away: utah-jazz | Home: toronto-raptors
+Seasonal Record:      -23.0/10 = -2.3
+Home Away:            -25.0/10 = -2.5
+Home away 10:         -14.0/5 = -2.8
+Last 10 games:        -6.0/5 = -1.2
+Avg points:           -3.6/8 = -0.45
+Avg points 10:        -6.56/8 = -0.82
+Win streak:           2.0/3 = 0.6666666666666666
+Win streak home away: -4.0/3 = -1.3333333333333333
+--------
+Total: -10.74
+--------
+Level: 4
+Perc chance to win: 72%
+Favorable team odds: -257.14285714285717
+Underdog team odds: +257.14285714285717
+($10 Raptors (-225))
+
+
+Date: 3-2-2016
+Away: new-orleans-pelicans | Home: houston-rockets
+Seasonal Record:      -10.0/10 = -1.0
+Home Away:            -17.0/10 = -1.7
+Home away 10:         -4.0/5 = -0.8
+Last 10 games:        2.0/5 = 0.4
+Avg points:           -1.28/8 = -0.16
+Avg points 10:        -1.76/8 = -0.22
+Win streak:           -2.0/3 = -0.6666666666666666
+Win streak home away: -4.0/3 = -1.3333333333333333
+--------
+Total: -5.49
+--------
+Level: 2
+Perc chance to win: 60%
+Favorable team odds: -150.0
+Underdog team odds: +150.0
+
+
+Date: 3-2-2016
+Away: sacramento-kings | Home: memphis-grizzlies
+Seasonal Record:      -21.0/10 = -2.1
+Home Away:            -20.0/10 = -2.0
+Home away 10:         -8.0/5 = -1.6
+Last 10 games:        -6.0/5 = -1.2
+Avg points:           -1.92/8 = -0.24
+Avg points 10:        -10.48/8 = -1.31
+Win streak:           -6.0/3 = -2.0
+Win streak home away: -22.0/3 = -7.333333333333333
+--------
+Total: -17.78
+--------
+Level: 6
+Perc chance to win: 83%
+Favorable team odds: -488.2352941176471
+Underdog team odds: +488.2352941176471
+
+
+Date: 3-2-2016
+Away: indiana-pacers | Home: milwaukee-bucks
+Seasonal Record:      12.0/10 = 1.2
+Home Away:            -12.0/10 = -1.2
+Home away 10:         -6.0/5 = -1.2
+Last 10 games:        0.0/5 = 0.0
+Avg points:           5.92/8 = 0.74
+Avg points 10:        -2.08/8 = -0.26
+Win streak:           -2.0/3 = -0.6666666666666666
+Win streak home away: -2.0/3 = -0.6666666666666666
+--------
+Total: -2.04
+--------
+Level: 1
+Perc chance to win: 56%
+Favorable team odds: -127.2727272727273
+Underdog team odds: +127.2727272727273
+
+
+Date: 3-2-2016
+Away: washington-wizards | Home: minnesota-timberwolves
+Seasonal Record:      21.0/10 = 2.1
+Home Away:            9.0/10 = 0.9
+Home away 10:         -2.0/5 = -0.4
+Last 10 games:        4.0/5 = 0.8
+Avg points:           2.56/8 = 0.32
+Avg points 10:        8.88/8 = 1.11
+Win streak:           -2.0/3 = -0.6666666666666666
+Win streak home away: -10.0/3 = -3.3333333333333335
+--------
+Total: 0.83
+--------
+Level: 1
+Perc chance to win: 56%
+Favorable team odds: -127.2727272727273
+Underdog team odds: +127.2727272727273
+
+
+Date: 3-2-2016
+Away: detroit-pistons | Home: san-antonio-spurs
+Seasonal Record:      -39.0/10 = -3.9
+Home Away:            -33.0/10 = -3.3
+Home away 10:         -12.0/5 = -2.4
+Last 10 games:        -8.0/5 = -1.6
+Avg points:           -11.2/8 = -1.4
+Avg points 10:        -8.0/8 = -1.0
+Win streak:           -4.0/3 = -1.3333333333333333
+Win streak home away: 2.0/3 = 0.6666666666666666
+--------
+Total: -14.27
+--------
+Level: 5
+Perc chance to win: 79%
+Favorable team odds: -376.1904761904762
+Underdog team odds: +376.1904761904762

@@ -1,0 +1,16 @@
+
+Date: 3-11-2016
+Away: minnesota-timberwolves | Home: oklahoma-city-thunder
+Seasonal Record:      -79.97%
+Home Away:            -86.05%
+Home away 10:         -70.85%
+Last 10 games:        -53.69%
+Avg points:           -76.35%
+Avg points 10:        -67.05%
+--------
+Total: -83.01%
+--------
+Perc chance to win: 83.01%
+Favorable team odds: -488.581518540318
+Underdog team odds: +488.581518540318
+

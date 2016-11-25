@@ -1,0 +1,127 @@
+
+Date: 3-7-2016
+Away: minnesota-timberwolves | Home: charlotte-hornets
+Seasonal Record:      -28.0/10 = -2.8
+Home Away:            -25.0/10 = -2.5
+Home away 10:         -12.0/5 = -2.4
+Last 10 games:        -8.0/5 = -1.6
+Avg points:           -5.68/8 = -0.71
+Avg points 10:        -13.68/8 = -1.71
+Win streak:           -8.0/3 = -2.6666666666666665
+Win streak home away: -6.0/3 = -2.0
+--------
+Total: -16.39
+--------
+Perc chance to win: 83.43482400548697%
+Favorable team odds: -503.67604928027055
+Underdog team odds: +503.67604928027055
+
+
+Date: 3-7-2016
+Away: memphis-grizzlies | Home: cleveland-cavaliers
+Seasonal Record:      -15.0/10 = -1.5
+Home Away:            -23.0/10 = -2.3
+Home away 10:         -4.0/5 = -0.8
+Last 10 games:        0.0/5 = 0.0
+Avg points:           -6.56/8 = -0.82
+Avg points 10:        -3.36/8 = -0.42
+Win streak:           -6.0/3 = -2.0
+Win streak home away: -4.0/3 = -1.3333333333333333
+--------
+Total: -9.17
+--------
+Perc chance to win: 69.87013758573389%
+Favorable team odds: -231.8966367156434
+Underdog team odds: +231.8966367156434
+
+
+Date: 3-7-2016
+Away: san-antonio-spurs | Home: indiana-pacers
+Seasonal Record:      41.0/10 = 4.1
+Home Away:            7.0/10 = 0.7
+Home away 10:         8.0/5 = 1.6
+Last 10 games:        8.0/5 = 1.6
+Avg points:           10.8/8 = 1.35
+Avg points 10:        8.8/8 = 1.1
+Win streak:           8.0/3 = 2.6666666666666665
+Win streak home away: 14.0/3 = 4.666666666666667
+--------
+Total: 17.78
+--------
+Perc chance to win: 85.66871989026063%
+Favorable team odds: -597.774373498158
+Underdog team odds: +597.774373498158
+
+
+Date: 3-7-2016
+Away: milwaukee-bucks | Home: chicago-bulls
+Seasonal Record:      -12.0/10 = -1.2
+Home Away:            -26.0/10 = -2.6
+Home away 10:         -2.0/5 = -0.4
+Last 10 games:        2.0/5 = 0.4
+Avg points:           -2.8/8 = -0.35
+Avg points 10:        6.56/8 = 0.82
+Win streak:           2.0/3 = 0.6666666666666666
+Win streak home away: -8.0/3 = -2.6666666666666665
+--------
+Total: -5.33
+--------
+Perc chance to win: 61.31573429355281%
+Favorable team odds: -158.50303262531312
+Underdog team odds: +158.50303262531312
+
+
+Date: 3-7-2016
+Away: sacramento-kings | Home: new-orleans-pelicans
+Seasonal Record:      4.0/10 = 0.4
+Home Away:            -10.0/10 = -1.0
+Home away 10:         -4.0/5 = -0.8
+Last 10 games:        0.0/5 = 0.0
+Avg points:           0.56/8 = 0.07
+Avg points 10:        -0.64/8 = -0.08
+Win streak:           -8.0/3 = -2.6666666666666665
+Win streak home away: -4.0/3 = -1.3333333333333333
+--------
+Total: -5.41
+--------
+Perc chance to win: 61.50344128943758%
+Favorable team odds: -159.76347847570773
+Underdog team odds: +159.76347847570773
+
+
+Date: 3-7-2016
+Away: los-angeles-clippers | Home: dallas-mavericks
+Seasonal Record:      16.0/10 = 1.6
+Home Away:            3.0/10 = 0.3
+Home away 10:         4.0/5 = 0.8
+Last 10 games:        2.0/5 = 0.4
+Avg points:           4.48/8 = 0.56
+Avg points 10:        1.52/8 = 0.19
+Win streak:           -2.0/3 = -0.6666666666666666
+Win streak home away: -4.0/3 = -1.3333333333333333
+--------
+Total: 1.86
+--------
+Perc chance to win: 52.785293827160494%
+Favorable team odds: -111.79841643815101
+Underdog team odds: +111.79841643815101
+
+
+Date: 3-7-2016
+Away: orlando-magic | Home: golden-state-warriors
+Seasonal Record:      -56.0/10 = -5.6
+Home Away:            -34.0/10 = -3.4
+Home away 10:         -16.0/5 = -3.2
+Last 10 games:        -8.0/5 = -1.6
+Avg points:           -12.32/8 = -1.54
+Avg points 10:        -3.84/8 = -0.48
+Win streak:           -10.0/3 = -3.3333333333333335
+Win streak home away: -4.0/3 = -1.3333333333333333
+--------
+Total: -20.49
+--------
+Perc chance to win: 89.67346049382715%
+Favorable team odds: -868.3786126051564
+Underdog team odds: +868.3786126051564
+
+

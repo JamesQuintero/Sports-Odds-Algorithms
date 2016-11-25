@@ -1,0 +1,16 @@
+
+Date: 3-10-2016
+Away: cleveland-cavaliers | Home: los-angeles-lakers
+Seasonal Record:      87.61%
+Home Away:            73.22%
+Home away 10:         54.02%
+Last 10 games:        58.04%
+Avg points:           84.85%
+Avg points 10:        73.4%
+--------
+Total: 71.85666666666667%
+--------
+Perc chance to win: 71.85666666666667%
+Favorable team odds: -255.32393698922186
+Underdog team odds: +255.32393698922186
+

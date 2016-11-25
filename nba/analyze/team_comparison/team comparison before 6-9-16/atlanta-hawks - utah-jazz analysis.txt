@@ -1,0 +1,18 @@
+
+Date: 3-8-2016
+Away: atlanta-hawks | Home: utah-jazz
+Seasonal Record:      11.0/10 = 1.1
+Home Away:            -7.0/10 = -0.7
+Home away 10:         -4.0/5 = -0.8
+Last 10 games:        4.0/5 = 0.8
+Avg points:           2.24/8 = 0.28
+Avg points 10:        8.08/8 = 1.01
+Win streak:           -2.0/3 = -0.6666666666666666
+Win streak home away: 10.0/3 = 3.3333333333333335
+--------
+Total: 4.36
+--------
+Perc chance to win: 59.00765322359396%
+Favorable team odds: -143.94797532684075
+Underdog team odds: +143.94797532684075
+

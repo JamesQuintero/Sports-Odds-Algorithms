@@ -1,0 +1,5 @@
+---- Start output ----
+[21:36:21] Loading existing data
+[21:36:21] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/lal/year/2016/los-angeles-lakers
+[21:36:22] Saving data to ./nba/team_data/2016/los-angeles-lakers.csv
+

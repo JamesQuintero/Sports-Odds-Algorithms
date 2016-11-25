@@ -1,0 +1,16 @@
+
+Date: 3-12-2016
+Away: new-jersey-devils | Home: los-angeles-kings
+Seasonal Record:      -56.97%
+Home Away:            -57.46%
+Home away 10:         -52.64%
+Last 10 games:        -54.74%
+Avg points:           -50.64%
+Avg points 10:        -53.46%
+--------
+Total: -57.21%
+--------
+Perc chance to win: 57.21%
+Favorable team odds: -133.69946249123626
+Underdog team odds: +133.69946249123626
+

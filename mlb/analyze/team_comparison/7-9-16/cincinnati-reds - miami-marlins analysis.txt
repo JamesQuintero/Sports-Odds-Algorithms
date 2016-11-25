@@ -1,0 +1,17 @@
+
+Date: 7-9-2016
+Away: cincinnati-reds | Home: miami-marlins
+Seasonal Record:      -56.77%
+Home Away:            -57.23%
+Home away 10:         -53.64%
+Last 10 games:        -51.81%
+Avg points:           -60.35%
+Avg points 10:        -51.3%
+Win streak home away: 50%
+--------
+Total: -58.79%
+--------
+Perc chance to win: 58.79%
+Favorable team odds: -142.6595486532395
+Underdog team odds: +142.6595486532395
+

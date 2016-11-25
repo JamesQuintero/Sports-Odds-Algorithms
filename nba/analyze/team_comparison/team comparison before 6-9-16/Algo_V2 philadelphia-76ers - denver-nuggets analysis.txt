@@ -1,0 +1,16 @@
+
+Date: 3-23-2016
+Away: philadelphia-76ers | Home: denver-nuggets
+Seasonal Record:      -75.21%
+Home Away:            -81.11%
+Home away 10:         -75.86%
+Last 10 games:        -59.69%
+Avg points:           -68.59%
+Avg points 10:        -65.39%
+--------
+Total: -78.48%
+--------
+Perc chance to win: 78.48%
+Favorable team odds: -364.68401486988853
+Underdog team odds: +364.68401486988853
+

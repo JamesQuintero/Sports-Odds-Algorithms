@@ -1,0 +1,217 @@
+charlotte-hornets
+Season: 3 on uptrend
+Home-Away: 10-17 away
+   Last 10 away games: 6-4
+10 Games: 7-3
+   8 won out of 11 games | 72.72727272727273%
+Avg points: 102.01 - 100.72
+   Last 10 games: 100.1 - 96.9
+Winning streak against cle: 1
+   Winning streak away: 0
+
+cleveland-cavaliers
+Season: 25 on uptrend
+Home-Away: 23-5 home
+   Last 10 home games: 7-3
+10 Games: 7-3
+   12 won out of 15 games | 80.0%
+Avg points: 102.89 - 96.8
+   Last 10 games: 107.6 - 99.7
+Losing streak against cha: 1
+   Losing streak home: 0
+
+Cavaliers (good)
+
+
+
+
+new-york-knicks
+Season: -10 on uptrend
+Home-Away: 10-18 away
+   Last 10 away games: 3-7
+10 Games: 2-8
+   1 won out of 3 games | 33.33333333333333%
+Avg points: 99.12 - 101.68
+   Last 10 games: 97.6 - 103.7
+Losing streak against ind: 4
+   Losing streak away: 6
+
+indiana-pacers
+Season: 4 on uptrend
+Home-Away: 17-9 home
+   Last 10 home games: 6-4
+10 Games: 6-4
+   6 won out of 10 games | 60.0%
+Avg points: 102.39 - 100.3
+   Last 10 games: 102.0 - 102.7
+Winning streak against ny: 4
+   Winning streak home: 6
+
+Pacers (good)
+
+
+
+
+
+golden-state-warriors
+Season: 45 on downtrend
+Home-Away: 26-5 away
+   Last 10 away games: 8-2
+10 Games: 9-1
+   12 won out of 14 games | 85.71428571428571%
+Avg points: 115.01 - 103.54
+   Last 10 games: 115.8 - 109.1
+Winning streak against mia: 3
+   Winning streak away: 3
+
+miami-heat
+Season: 8 on uptrend
+Home-Away: 18-11 home
+   Last 10 home games: 5-5
+10 Games: 7-3
+   6 won out of 9 games | 66.66666666666666%
+Avg points: 96.78 - 96.5
+   Last 10 games: 102.9 - 100.7
+Losing streak against gs: 3
+   Losing streak home: 3
+
+Warriors (good)
+
+
+
+
+
+minnesota-timberwolves
+Season: -21 on uptrend
+Home-Away: 8-19 away
+   Last 10 away games: 1-9
+10 Games: 4-6
+   4 won out of 13 games | 30.76923076923077%
+Avg points: 100.82 - 104.45
+   Last 10 games: 106.0 - 108.7
+Winning streak against tor: 1
+   Winning streak away: 0
+
+toronto-raptors
+Season: 19 on uptrend
+Home-Away: 19-6 home
+   Last 10 home games: 9-1
+10 Games: 7-3
+   7 won out of 10 games | 70.0%
+Avg points: 102.2 - 97.45
+   Last 10 games: 106.2 - 101.4
+Losing streak against min: 1
+   Losing streak home: 0
+
+Raptors (really good)
+
+
+
+
+
+philadelphia-76ers
+Season: -40 on uptrend
+Home-Away: 3-26 away
+   Last 10 away games: 2-8
+10 Games: 1-9
+   1 won out of 12 games | 8.333333333333332%
+Avg points: 95.96 - 106.37
+   Last 10 games: 101.9 - 113.2
+Losing streak against det: 2
+   Losing streak away: 2
+
+detroit-pistons
+Season: -1 on uptrend
+Home-Away: 16-11 home
+   Last 10 home games: 4-6
+10 Games: 3-7
+   1 won out of 3 games | 33.33333333333333%
+Avg points: 101.47 - 100.85
+   Last 10 games: 99.1 - 103.3
+Winning streak against phi: 2
+   Winning streak home: 2
+
+Pistons (really good)
+
+
+
+
+washington-wizards
+Season: -3 on downtrend
+Home-Away: 12-13 away
+   Last 10 away games: 5-5
+10 Games: 5-5
+   10 won out of 22 games | 45.45454545454545%
+Avg points: 102.56 - 104.58
+   Last 10 games: 103.6 - 103.5
+Winning streak against chi: 1
+   Winning streak away: 1
+
+chicago-bulls
+Season: 3 on downtrend
+Home-Away: 18-10 home
+   Last 10 home games: 5-5
+10 Games: 3-7
+   2 won out of 5 games | 40.0%
+Avg points: 101.81 - 102.29
+   Last 10 games: 102.9 - 110.2
+Losing streak against wsh: 1
+   Losing streak home: 1
+
+Anyone's game
+
+
+
+
+
+los-angeles-lakers
+Season: -36 on uptrend
+Home-Away: 5-28 away
+   Last 10 away games: 1-9
+10 Games: 2-8
+   2 won out of 22 games | 9.090909090909092%
+Avg points: 97.18 - 106.72
+   Last 10 games: 102.2 - 108.5
+Losing streak against mem: 7
+   Losing streak away: 4
+
+memphis-grizzlies
+Season: 9 on downtrend
+Home-Away: 20-9 home
+   Last 10 home games: 7-3
+10 Games: 7-3
+   8 won out of 11 games | 72.72727272727273%
+Avg points: 98.1 - 99.12
+   Last 10 games: 105.2 - 100.0
+Winning streak against lal: 7
+   Winning streak home: 4
+
+Grizzlies (good)
+
+
+
+
+
+oklahoma-city-thunder
+Season: 24 on uptrend
+Home-Away: 15-9 away
+   Last 10 away games: 7-3
+10 Games: 7-3
+   8 won out of 10 games | 80.0%
+Avg points: 109.55 - 102.08
+   Last 10 games: 114.2 - 109.8
+Winning streak against dal: 3
+   Winning streak away: 1
+
+dallas-mavericks
+Season: 3 on downtrend
+Home-Away: 16-11 home
+   Last 10 home games: 5-5
+10 Games: 4-6
+   6 won out of 9 games | 66.66666666666666%
+Avg points: 101.35 - 101.84
+   Last 10 games: 103.2 - 104.9
+Losing streak against okc: 3
+   Losing streak home: 1
+
+Thunder (little-good)

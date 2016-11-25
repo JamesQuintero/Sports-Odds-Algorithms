@@ -1,0 +1,16 @@
+
+Date: 3-30-2016
+Away: denver-nuggets | Home: memphis-grizzlies
+Seasonal Record:      -64.74%
+Home Away:            -78.32%
+Home away 10:         -59.94%
+Last 10 games:        53.69%
+Avg points:           52.32%
+Avg points 10:        53.89%
+--------
+Total: -71.53%
+--------
+Perc chance to win: 71.53%
+Favorable team odds: -251.24692658939236
+Underdog team odds: +251.24692658939236
+

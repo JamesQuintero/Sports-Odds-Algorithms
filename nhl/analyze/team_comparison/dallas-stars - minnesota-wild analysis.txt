@@ -1,0 +1,16 @@
+
+Date: 4-18-2016
+Away: dallas-stars | Home: minnesota-wild
+Seasonal Record:      58.96%
+Home Away:            50.61%
+Home away 10:         -50.81%
+Last 10 games:        53.2%
+Avg points:           52.97%
+Avg points 10:        52.43%
+--------
+Total: 56.08%
+--------
+Perc chance to win: 56.08%
+Favorable team odds: -127.68670309653913
+Underdog team odds: +127.68670309653913
+

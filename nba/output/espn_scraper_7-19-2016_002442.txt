@@ -1,0 +1,12 @@
+---- Start output ----
+[00:24:42] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/gs/year/2016/seasontype/2/golden-state-warriors
+[00:24:42] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[00:24:42] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[00:24:42] Loading existing data
+[00:24:42] Saving data to ./nba/team_data/2016/golden-state-warriors.csv
+[00:24:42] Scraping game scores from http://espn.go.com/nba/team/schedule/_/name/atl/year/2016/seasontype/2/atlanta-hawks
+[00:24:43] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[00:24:43] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[00:24:43] Loading existing data
+[00:24:43] Saving data to ./nba/team_data/2016/atlanta-hawks.csv
+

@@ -1,0 +1,16 @@
+
+Date: 3-18-2016
+Away: portland-trail-blazers | Home: new-orleans-pelicans
+Seasonal Record:      63.04%
+Home Away:            -63.83%
+Home away 10:         52.19%
+Last 10 games:        56.04%
+Avg points:           56.38%
+Avg points 10:        52.75%
+--------
+Total: -50.39%
+--------
+Perc chance to win: 50.39%
+Favorable team odds: -101.57226365652087
+Underdog team odds: +101.57226365652087
+

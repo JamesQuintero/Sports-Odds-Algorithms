@@ -1,0 +1,18 @@
+
+Date: 3-9-2016
+Away: cleveland-cavaliers | Home: sacramento-kings
+Seasonal Record:      38.0/10 = 3.8
+Home Away:            7.0/10 = 0.7
+Home away 10:         4.0/5 = 0.8
+Last 10 games:        4.0/5 = 0.8
+Avg points:           8.48/8 = 1.06
+Avg points 10:        10.64/8 = 1.33
+Win streak:           4.0/3 = 1.3333333333333333
+Win streak home away: -6.0/3 = -2.0
+--------
+Total: 7.83
+--------
+Perc chance to win: 66.9907%
+Favorable team odds: -202.94492764160407
+Underdog team odds: +202.94492764160407
+

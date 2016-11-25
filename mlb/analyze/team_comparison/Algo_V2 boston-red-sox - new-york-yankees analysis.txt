@@ -1,0 +1,17 @@
+
+Date: 7-16-2016
+Away: boston-red-sox | Home: new-york-yankees
+Seasonal Record:      53.71%
+Home Away:            50.86%
+Home away 10:         -50.49%
+Last 10 games:        53.04%
+Avg points:           58.38%
+Avg points 10:        51.11%
+Win streak home away: 50%
+--------
+Total: 56.04%
+--------
+Perc chance to win: 56.04%
+Favorable team odds: -127.47952684258416
+Underdog team odds: +127.47952684258416
+

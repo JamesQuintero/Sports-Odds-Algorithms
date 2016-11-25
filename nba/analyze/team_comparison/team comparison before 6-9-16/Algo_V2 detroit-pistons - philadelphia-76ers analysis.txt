@@ -1,0 +1,16 @@
+
+Date: 3-12-2016
+Away: detroit-pistons | Home: philadelphia-76ers
+Seasonal Record:      79.45%
+Home Away:            67.52%
+Home away 10:         54.02%
+Last 10 games:        61.0%
+Avg points:           76.87%
+Avg points 10:        70.38%
+--------
+Total: 78.16%
+--------
+Perc chance to win: 78.16%
+Favorable team odds: -357.87545787545787
+Underdog team odds: +357.87545787545787
+

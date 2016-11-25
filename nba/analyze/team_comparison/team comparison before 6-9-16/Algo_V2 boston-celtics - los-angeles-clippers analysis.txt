@@ -1,0 +1,16 @@
+
+Date: 3-28-2016
+Away: boston-celtics | Home: los-angeles-clippers
+Seasonal Record:      -55.47%
+Home Away:            -66.31%
+Home away 10:         -54.02%
+Last 10 games:        53.69%
+Avg points:           -54.47%
+Avg points 10:        56.81%
+--------
+Total: -54.75%
+--------
+Perc chance to win: 54.75%
+Favorable team odds: -120.99447513812156
+Underdog team odds: +120.99447513812156
+

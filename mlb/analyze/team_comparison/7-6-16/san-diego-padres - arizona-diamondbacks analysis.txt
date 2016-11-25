@@ -1,0 +1,17 @@
+
+Date: 7-6-2016
+Away: san-diego-padres | Home: arizona-diamondbacks
+Seasonal Record:      -51.54%
+Home Away:            52.01%
+Home away 10:         53.64%
+Last 10 games:        53.04%
+Avg points:           -51.41%
+Avg points 10:        51.6%
+Win streak home away: 50%
+--------
+Total: 53.34%
+--------
+Perc chance to win: 53.34%
+Favorable team odds: -114.31633090441493
+Underdog team odds: +114.31633090441493
+

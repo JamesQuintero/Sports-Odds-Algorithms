@@ -1,0 +1,65 @@
+boston-bruins
+Season: 5 on uptrend
+Home-Away: 20-10 away
+   Last 10 away games: 8-2
+10 Games: 6-4
+   12 won out of 25 games | 48.0%
+Avg points: 3.11 - 2.78
+   Last 10 games: 3.7 - 3.3
+
+carolina-hurricanes
+Season: -6 on uptrend
+Home-Away: 16-16 home
+   Last 10 home games: 6-4
+10 Games: 5-5
+   11 won out of 23 games | 47.82608695652174%
+Avg points: 2.45 - 2.64
+   Last 10 games: 2.8 - 2.5
+
+Bruins (ok)
+
+
+
+
+
+
+minnesota-wild
+Season: -7 on downtrend
+Home-Away: 12-19 away
+   Last 10 away games: 4-6
+10 Games: 4-6
+   5 won out of 13 games | 38.46153846153847%
+Avg points: 2.6 - 2.54
+   Last 10 games: 3.3 - 3.1
+
+washington-capitals
+Season: 29 on uptrend
+Home-Away: 23-7 home
+   Last 10 home games: 7-3
+10 Games: 8-2
+   14 won out of 19 games | 73.68421052631578%
+Avg points: 3.33 - 2.32
+   Last 10 games: 3.4 - 2.6
+
+Capitals (great)
+
+
+
+
+tampa-bay-lightning
+Season: 8 on downtrend
+Home-Away: 14-14 away
+   Last 10 away games: 5-5
+10 Games: 6-4
+   7 won out of 13 games | 53.84615384615385%
+Avg points: 2.75 - 2.48
+   Last 10 games: 3.2 - 3.1
+
+new-jersey-devils
+Season: -2 on uptrend
+Home-Away: 15-16 home
+   Last 10 home games: 6-4
+10 Games: 4-6
+   10 won out of 16 games | 62.5%
+Avg points: 2.24 - 2.4
+   Last 10 games: 2.0 - 2.6

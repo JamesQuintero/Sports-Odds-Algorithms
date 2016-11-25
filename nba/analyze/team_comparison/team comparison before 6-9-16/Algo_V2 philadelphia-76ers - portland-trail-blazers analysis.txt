@@ -1,0 +1,16 @@
+
+Date: 3-26-2016
+Away: philadelphia-76ers | Home: portland-trail-blazers
+Seasonal Record:      -83.07%
+Home Away:            -91.33%
+Home away 10:         -84.96%
+Last 10 games:        -58.04%
+Avg points:           -76.07%
+Avg points 10:        -58.43%
+--------
+Total: -88.14%
+--------
+Perc chance to win: 88.14%
+Favorable team odds: -743.1703204047217
+Underdog team odds: +743.1703204047217
+

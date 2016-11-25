@@ -1,0 +1,16 @@
+
+Date: 4-18-2016
+Away: anaheim-ducks | Home: tampa-bay-lightning
+Seasonal Record:      -51.9%
+Home Away:            -57.46%
+Home away 10:         -50.81%
+Last 10 games:        -53.28%
+Avg points:           -50.65%
+Avg points 10:        54.1%
+--------
+Total: -51.68%
+--------
+Perc chance to win: 51.68%
+Favorable team odds: -106.95364238410593
+Underdog team odds: +106.95364238410593
+

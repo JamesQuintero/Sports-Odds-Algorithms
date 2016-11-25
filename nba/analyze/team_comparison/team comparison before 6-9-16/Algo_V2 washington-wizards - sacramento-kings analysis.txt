@@ -1,0 +1,16 @@
+
+Date: 3-30-2016
+Away: washington-wizards | Home: sacramento-kings
+Seasonal Record:      60.74%
+Home Away:            52.95%
+Home away 10:         54.02%
+Last 10 games:        56.04%
+Avg points:           -51.42%
+Avg points 10:        58.43%
+--------
+Total: 59.58%
+--------
+Perc chance to win: 59.58%
+Favorable team odds: -147.4022761009401
+Underdog team odds: +147.4022761009401
+

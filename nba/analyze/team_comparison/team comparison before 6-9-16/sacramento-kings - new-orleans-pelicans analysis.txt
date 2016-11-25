@@ -1,0 +1,18 @@
+
+Date: 3-7-2016
+Away: sacramento-kings | Home: new-orleans-pelicans
+Seasonal Record:      4.0/10 = 0.4
+Home Away:            -10.0/10 = -1.0
+Home away 10:         -4.0/5 = -0.8
+Last 10 games:        0.0/5 = 0.0
+Avg points:           0.56/8 = 0.07
+Avg points 10:        -0.64/8 = -0.08
+Win streak:           -8.0/3 = -2.6666666666666665
+Win streak home away: -4.0/3 = -1.3333333333333333
+--------
+Total: -5.41
+--------
+Perc chance to win: 61.50344128943758%
+Favorable team odds: -159.76347847570773
+Underdog team odds: +159.76347847570773
+

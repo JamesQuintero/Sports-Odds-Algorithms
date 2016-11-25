@@ -1,0 +1,17 @@
+
+Date: 7-16-2016
+Away: cleveland-indians | Home: minnesota-twins
+Seasonal Record:      59.58%
+Home Away:            55.5%
+Home away 10:         51.99%
+Last 10 games:        -53.04%
+Avg points:           60.93%
+Avg points 10:        -56.59%
+Win streak home away: 50%
+--------
+Total: 60.25%
+--------
+Perc chance to win: 60.25%
+Favorable team odds: -151.57232704402514
+Underdog team odds: +151.57232704402514
+

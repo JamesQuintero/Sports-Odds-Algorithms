@@ -1,0 +1,18 @@
+
+Date: 3-5-2016
+Away: atlanta-hawks | Home: los-angeles-clippers
+Seasonal Record:      -14.0/10 = -1.4
+Home Away:            -12.0/10 = -1.2
+Home away 10:         -6.0/5 = -1.2
+Last 10 games:        -6.0/5 = -1.2
+Avg points:           -1.76/8 = -0.22
+Avg points 10:        -4.0/8 = -0.5
+Win streak:           -2.0/3 = -0.6666666666666666
+Win streak home away: 2.0/3 = 0.6666666666666666
+--------
+Total: -5.72
+--------
+Perc chance to win: 62.2269914951989%
+Favorable team odds: -164.7393044885202
+Underdog team odds: +164.7393044885202
+

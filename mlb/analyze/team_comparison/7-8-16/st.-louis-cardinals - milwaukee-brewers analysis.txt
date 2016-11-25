@@ -1,0 +1,17 @@
+
+Date: 7-8-2016
+Away: st.-louis-cardinals | Home: milwaukee-brewers
+Seasonal Record:      53.95%
+Home Away:            52.01%
+Home away 10:         51.99%
+Last 10 games:        52.29%
+Avg points:           60.84%
+Avg points 10:        51.46%
+Win streak home away: 50%
+--------
+Total: 57.39%
+--------
+Perc chance to win: 57.39%
+Favorable team odds: -134.6866932644919
+Underdog team odds: +134.6866932644919
+

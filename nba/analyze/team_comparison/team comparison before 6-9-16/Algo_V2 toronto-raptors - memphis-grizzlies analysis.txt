@@ -1,0 +1,16 @@
+
+Date: 4-1-2016
+Away: toronto-raptors | Home: memphis-grizzlies
+Seasonal Record:      63.61%
+Home Away:            -58.58%
+Home away 10:         52.19%
+Last 10 games:        59.69%
+Avg points:           63.26%
+Avg points 10:        70.22%
+--------
+Total: 66.91%
+--------
+Perc chance to win: 66.91%
+Favorable team odds: -202.20610456331215
+Underdog team odds: +202.20610456331215
+

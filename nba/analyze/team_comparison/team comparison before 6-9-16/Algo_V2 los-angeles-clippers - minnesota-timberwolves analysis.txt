@@ -1,0 +1,16 @@
+
+Date: 3-30-2016
+Away: los-angeles-clippers | Home: minnesota-timberwolves
+Seasonal Record:      76.81%
+Home Away:            72.12%
+Home away 10:         52.19%
+Last 10 games:        51.0%
+Avg points:           66.9%
+Avg points 10:        50.46%
+--------
+Total: 74.46%
+--------
+Perc chance to win: 74.46%
+Favorable team odds: -291.54267815191844
+Underdog team odds: +291.54267815191844
+

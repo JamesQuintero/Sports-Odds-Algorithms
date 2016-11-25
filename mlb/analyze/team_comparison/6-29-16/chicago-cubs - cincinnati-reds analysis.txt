@@ -1,0 +1,17 @@
+
+Date: 6-29-2016
+Away: chicago-cubs | Home: cincinnati-reds
+Seasonal Record:      60.25%
+Home Away:            55.95%
+Home away 10:         51.99%
+Last 10 games:        52.29%
+Avg points:           61.36%
+Avg points 10:        51.53%
+--------
+Total: 60.8%
+--------
+Perc chance to win: 60.8%
+Favorable team odds: -155.10204081632654
+Underdog team odds: +155.10204081632654
+
+Actual: -220, +180

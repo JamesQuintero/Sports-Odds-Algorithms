@@ -1,0 +1,16 @@
+
+Date: 4-18-2016
+Away: pittsburgh-penguins | Home: tampa-bay-lightning
+Seasonal Record:      52.29%
+Home Away:            -54.32%
+Home away 10:         55.7%
+Last 10 games:        53.69%
+Avg points:           51.89%
+Avg points 10:        53.54%
+--------
+Total: 50.69%
+--------
+Perc chance to win: 50.69%
+Favorable team odds: -102.79862096937742
+Underdog team odds: +102.79862096937742
+

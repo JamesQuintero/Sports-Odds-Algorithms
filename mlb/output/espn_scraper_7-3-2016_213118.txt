@@ -1,0 +1,192 @@
+---- Start output ----
+[21:31:18] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/mil/year/2016/seasontype/2/half/1/milwaukee-brewers
+[21:31:19] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:19] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:19] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:19] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:19] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:19] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:19] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:19] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[21:31:19] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/mil/year/2016/seasontype/2/half/2/milwaukee-brewers
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:20] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:21] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[21:31:21] Loading existing data
+[21:31:21] Returned 7-3-2016's game results
+[21:31:21] Scraping 7-3-2016's period data: http://espn.go.com/mlb/playbyplay?id=360703124
+[21:31:22] Game url: http://espn.go.com/mlb/playbyplay?id=360703124
+[21:31:22] Team1: mil | Team2: stl
+[21:31:22] Cur team: mil | milwaukee-brewers
+[21:31:22] Other team: stl
+[21:31:22] URL: http://espn.go.com/mlb/team/schedule/_/name/mil/year/2016/seasontype/2/half/1/milwaukee-brewers
+[21:31:22] Scores: [['http://espn.go.com/mlb/team/_/name/mil/milwaukee-brewers">MIL</a>', '0', '0', '0', '2', '0', '0', '2', '0', '4'], ['http://espn.go.com/mlb/team/_/name/stl/st.-louis-cardinals">STL</a>', '1', '0', '0', '1', '2', '4', '1', '0', '-']]
+[21:31:22] Saving data to ./mlb/team_data/2016/milwaukee-brewers.csv
+[21:31:22] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/wsh/year/2016/seasontype/2/half/1/washington-nationals
+[21:31:24] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:24] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:24] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:24] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:24] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:24] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:24] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:24] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:24] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[21:31:24] Scraping game scores from http://espn.go.com/mlb/team/schedule/_/name/wsh/year/2016/seasontype/2/half/2/washington-nationals
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 398)
+[21:31:27] scrape_game_scores(): (<class 'IndexError'>, 'espn_scraper.py', 374)
+[21:31:27] Loading existing data
+[21:31:27] Returned 7-3-2016's game results
+[21:31:27] Scraping 7-3-2016's period data: http://espn.go.com/mlb/playbyplay?id=360703120
+[21:31:27] Game url: http://espn.go.com/mlb/playbyplay?id=360703120
+[21:31:27] Team1: cin | Team2: wsh
+[21:31:27] Cur team: wsh | washington-nationals
+[21:31:28] Other team: cin
+[21:31:28] URL: http://espn.go.com/mlb/team/schedule/_/name/wsh/year/2016/seasontype/2/half/1/washington-nationals
+[21:31:28] Scores: [['http://espn.go.com/mlb/team/_/name/cin/cincinnati-reds">CIN</a>', '0', '0', '0', '0', '0', '0', '0', '1', '0'], ['http://espn.go.com/mlb/team/_/name/wsh/washington-nationals">WSH</a>', '0', '1', '0', '4', '3', '1', '2', '1', '-']]
+[21:31:28] Saving data to ./mlb/team_data/2016/washington-nationals.csv
+

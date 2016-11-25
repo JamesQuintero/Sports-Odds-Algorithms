@@ -1,0 +1,16 @@
+
+Date: 3-11-2016
+Away: washington-wizards | Home: utah-jazz
+Seasonal Record:      54.29%
+Home Away:            -61.25%
+Home away 10:         -65.54%
+Last 10 games:        58.04%
+Avg points:           -51.0%
+Avg points 10:        52.32%
+--------
+Total: -63.39%
+--------
+Perc chance to win: 63.39%
+Favorable team odds: -173.14941272876263
+Underdog team odds: +173.14941272876263
+

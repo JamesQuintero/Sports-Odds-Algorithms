@@ -1,0 +1,16 @@
+
+Date: 3-23-2016
+Away: sacramento-kings | Home: minnesota-timberwolves
+Seasonal Record:      58.41%
+Home Away:            52.95%
+Home away 10:         -52.19%
+Last 10 games:        -53.69%
+Avg points:           -51.52%
+Avg points 10:        -50.63%
+--------
+Total: 52.36%
+--------
+Perc chance to win: 52.36%
+Favorable team odds: -109.90764063811925
+Underdog team odds: +109.90764063811925
+

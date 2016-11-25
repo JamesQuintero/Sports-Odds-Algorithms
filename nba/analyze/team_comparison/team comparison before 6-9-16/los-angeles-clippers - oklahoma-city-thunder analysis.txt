@@ -1,0 +1,18 @@
+
+Date: 3-9-2016
+Away: los-angeles-clippers | Home: oklahoma-city-thunder
+Seasonal Record:      -3.0/10 = -0.3
+Home Away:            -7.0/10 = -0.7
+Home away 10:         2.0/5 = 0.4
+Last 10 games:        4.0/5 = 0.8
+Avg points:           -2.0/8 = -0.25
+Avg points 10:        6.96/8 = 0.87
+Win streak:           2.0/3 = 0.6666666666666666
+Win streak home away: 2.0/3 = 0.6666666666666666
+--------
+Total: 2.15
+--------
+Perc chance to win: 53.52730795610425%
+Favorable team odds: -115.1801318192307
+Underdog team odds: +115.1801318192307
+

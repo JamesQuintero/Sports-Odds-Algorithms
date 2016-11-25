@@ -1,0 +1,16 @@
+
+Date: 3-11-2016
+Away: new-orleans-pelicans | Home: memphis-grizzlies
+Seasonal Record:      -68.11%
+Home Away:            -84.5%
+Home away 10:         -65.54%
+Last 10 games:        -56.04%
+Avg points:           -52.25%
+Avg points 10:        -52.96%
+--------
+Total: -76.3%
+--------
+Perc chance to win: 76.3%
+Favorable team odds: -321.9409282700421
+Underdog team odds: +321.9409282700421
+

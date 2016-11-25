@@ -1,0 +1,16 @@
+
+Date: 3-18-2016
+Away: cleveland-cavaliers | Home: orlando-magic
+Seasonal Record:      74.14%
+Home Away:            57.2%
+Home away 10:         -52.19%
+Last 10 games:        58.04%
+Avg points:           69.14%
+Avg points 10:        67.97%
+--------
+Total: 71.64%
+--------
+Perc chance to win: 71.64%
+Favorable team odds: -252.60930888575461
+Underdog team odds: +252.60930888575461
+

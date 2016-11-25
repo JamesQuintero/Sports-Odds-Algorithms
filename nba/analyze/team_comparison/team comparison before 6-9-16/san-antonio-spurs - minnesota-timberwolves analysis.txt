@@ -1,0 +1,18 @@
+
+Date: 3-8-2016
+Away: san-antonio-spurs | Home: minnesota-timberwolves
+Seasonal Record:      67.0/10 = 6.7
+Home Away:            23.0/10 = 2.3
+Home away 10:         4.0/5 = 0.8
+Last 10 games:        10.0/5 = 2.0
+Avg points:           16.08/8 = 2.01
+Avg points 10:        12.08/8 = 1.51
+Win streak:           12.0/3 = 4.0
+Win streak home away: 6.0/3 = 2.0
+--------
+Total: 21.33
+--------
+Perc chance to win: 90.82069999999999%
+Favorable team odds: -989.4076890394679
+Underdog team odds: +989.4076890394679
+

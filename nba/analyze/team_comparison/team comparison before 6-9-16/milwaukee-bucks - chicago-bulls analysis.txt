@@ -1,0 +1,18 @@
+
+Date: 3-7-2016
+Away: milwaukee-bucks | Home: chicago-bulls
+Seasonal Record:      -12.0/10 = -1.2
+Home Away:            -26.0/10 = -2.6
+Home away 10:         -2.0/5 = -0.4
+Last 10 games:        2.0/5 = 0.4
+Avg points:           -2.8/8 = -0.35
+Avg points 10:        6.56/8 = 0.82
+Win streak:           2.0/3 = 0.6666666666666666
+Win streak home away: -8.0/3 = -2.6666666666666665
+--------
+Total: -5.33
+--------
+Perc chance to win: 61.31573429355281%
+Favorable team odds: -158.50303262531312
+Underdog team odds: +158.50303262531312
+

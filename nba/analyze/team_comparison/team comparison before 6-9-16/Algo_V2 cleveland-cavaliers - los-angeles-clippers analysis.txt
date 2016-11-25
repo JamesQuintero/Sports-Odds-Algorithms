@@ -1,0 +1,16 @@
+
+Date: 3-13-2016
+Away: cleveland-cavaliers | Home: los-angeles-clippers
+Seasonal Record:      57.24%
+Home Away:            -55.81%
+Home away 10:         -52.19%
+Last 10 games:        51.0%
+Avg points:           -50.24%
+Avg points 10:        -50.46%
+--------
+Total: 50.71%
+--------
+Perc chance to win: 50.71%
+Favorable team odds: -102.8809089064719
+Underdog team odds: +102.8809089064719
+

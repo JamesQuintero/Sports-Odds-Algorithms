@@ -1,0 +1,17 @@
+
+Date: 7-3-2016
+Away: baltimore-orioles | Home: seattle-mariners
+Seasonal Record:      53.25%
+Home Away:            -50.33%
+Home away 10:         -51.99%
+Last 10 games:        51.6%
+Avg points:           50.07%
+Avg points 10:        51.35%
+Win streak home away: 50%
+--------
+Total: 50.63%
+--------
+Perc chance to win: 50.63%
+Favorable team odds: -102.55215718047398
+Underdog team odds: +102.55215718047398
+

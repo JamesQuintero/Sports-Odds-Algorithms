@@ -1,0 +1,17 @@
+
+Date: 7-15-16
+Away: chicago-white-sox | Home: los-angeles-angels
+Seasonal Record:      55.07%
+Home Away:            53.07%
+Home away 10:         51.99%
+Last 10 games:        51.81%
+Avg points:           50.43%
+Avg points 10:        -52.69%
+Win streak home away: 50%
+--------
+Total: 54.07%
+--------
+Perc chance to win: 54.07%
+Favorable team odds: -117.7226213803614
+Underdog team odds: +117.7226213803614
+

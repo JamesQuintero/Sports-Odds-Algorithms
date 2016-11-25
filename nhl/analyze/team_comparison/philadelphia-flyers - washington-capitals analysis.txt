@@ -1,0 +1,16 @@
+
+Date: 4-13-2016
+Away: philadelphia-flyers | Home: washington-capitals
+Seasonal Record:      -63.8%
+Home Away:            -64.16%
+Home away 10:         -53.37%
+Last 10 games:        53.93%
+Avg points:           -57.43%
+Avg points 10:        -52.75%
+--------
+Total: -63.98%
+--------
+Perc chance to win: 63.98%
+Favorable team odds: -177.62354247640198
+Underdog team odds: +177.62354247640198
+

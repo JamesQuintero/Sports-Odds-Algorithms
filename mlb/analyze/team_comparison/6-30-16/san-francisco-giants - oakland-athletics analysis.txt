@@ -1,0 +1,17 @@
+
+Date: 6-30-2016
+Away: san-francisco-giants | Home: oakland-athletics
+Seasonal Record:      56.77%
+Home Away:            55.5%
+Home away 10:         51.99%
+Last 10 games:        -52.29%
+Avg points:           58.92%
+Avg points 10:        -51.35%
+--------
+Total: 57.84%
+--------
+Perc chance to win: 57.84%
+Favorable team odds: -137.19165085388997
+Underdog team odds: +137.19165085388997
+
+Actual: -153, +138

@@ -1,0 +1,283 @@
+
+
+los-angeles-lakers
+Season: -49 on downtrend
+Home-Away: 11-29 home
+   Last 10 home games: 2-8
+10 Games: 1-9
+   4 won out of 17 games | 23.52941176470588%
+Avg points: 97.29 - 107.03
+   Last 10 games: 92.3 - 109.3
+Winning streak against gs: 1
+   Winning streak home: 1
+
+
+   los-angeles-lakers
+   Season: -48 on downtrend
+   Home-Away: 5-35 away
+      Last 10 away games: 0-10
+   10 Games: 1-9
+      4 won out of 16 games | 25.0%
+   Avg points: 97.52 - 106.97
+      Last 10 games: 95.1 - 110.0
+   Losing streak against okc: 7
+      Losing streak away: 7
+
+
+   oklahoma-city-thunder
+   Season: 29 on uptrend
+   Home-Away: 30-9 home
+      Last 10 home games: 6-4
+   10 Games: 8-2
+      18 won out of 22 games | 81.81818181818183%
+   Avg points: 110.23 - 102.75
+      Last 10 games: 112.0 - 100.1
+   Winning streak against lal: 7
+      Winning streak home: 7
+
+   Winner: oklahoma-city-thunder | 112-79
+   ----------------------------------------
+
+
+   los-angeles-lakers
+   Season: -47 on downtrend
+   Home-Away: 5-34 away
+      Last 10 away games: 0-10
+   10 Games: 2-8
+      5 won out of 32 games | 15.625%
+   Avg points: 97.36 - 106.68
+      Last 10 games: 94.8 - 107.0
+   Losing streak against hou: 4
+      Losing streak away: 1
+
+
+   houston-rockets
+   Season: -1 on downtrend
+   Home-Away: 19-15 home
+      Last 10 home games: 6-4
+   10 Games: 5-5
+      11 won out of 18 games | 61.111111111111114%
+   Avg points: 106.15 - 107.01
+      Last 10 games: 109.8 - 107.6
+   Winning streak against lal: 4
+      Winning streak home: 1
+
+   Winner: houston-rockets | 130-110
+   ----------------------------------------
+
+
+   los-angeles-lakers
+   Season: -46 on downtrend
+   Home-Away: 5-33 away
+      Last 10 away games: 0-10
+   10 Games: 2-8
+      5 won out of 31 games | 16.129032258064516%
+   Avg points: 97.3 - 106.64
+      Last 10 games: 93.6 - 105.5
+   Winning streak against no: 2
+      Winning streak away: 1
+
+
+   new-orleans-pelicans
+   Season: -19 on downtrend
+   Home-Away: 19-18 home
+      Last 10 home games: 4-6
+   10 Games: 3-7
+      7 won out of 14 games | 50.0%
+   Avg points: 102.72 - 106.2
+      Last 10 games: 103.0 - 109.0
+   Losing streak against lal: 2
+      Losing streak home: 1
+
+   Winner: new-orleans-pelicans | 110-102
+   ----------------------------------------
+
+
+   los-angeles-lakers
+   Season: -45 on downtrend
+   Home-Away: 11-28 home
+      Last 10 home games: 3-7
+   10 Games: 2-8
+      5 won out of 30 games | 16.666666666666664%
+   Avg points: 97.51 - 106.84
+      Last 10 games: 95.3 - 107.0
+   Losing streak against lac: 10
+      Losing streak home: 4
+
+
+   los-angeles-clippers
+   Season: 19 on downtrend
+   Home-Away: 21-15 away
+      Last 10 away games: 4-6
+   10 Games: 5-5
+      3 won out of 6 games | 50.0%
+   Avg points: 104.52 - 100.83
+      Last 10 games: 102.0 - 103.2
+   Winning streak against lal: 9
+      Winning streak away: 4
+
+   Winner: los-angeles-clippers | 91-81
+   ----------------------------------------
+
+
+   los-angeles-lakers
+   Season: -44 on downtrend
+   Home-Away: 5-32 away
+      Last 10 away games: 1-9
+   10 Games: 2-8
+      5 won out of 29 games | 17.24137931034483%
+   Avg points: 97.73 - 106.89
+      Last 10 games: 95.9 - 105.7
+   Losing streak against lac: 9
+      Losing streak away: 7
+
+
+   los-angeles-clippers
+   Season: 19 on downtrend
+   Home-Away: 25-12 home
+      Last 10 home games: 7-3
+   10 Games: 5-5
+      3 won out of 6 games | 50.0%
+   Avg points: 104.52 - 100.83
+      Last 10 games: 102.0 - 103.2
+   Winning streak against lal: 9
+      Winning streak home: 7
+
+   Winner: los-angeles-clippers | 103-81
+   ----------------------------------------
+
+
+   los-angeles-lakers
+   Season: -43 on downtrend
+   Home-Away: 11-27 home
+      Last 10 home games: 4-6
+   10 Games: 2-8
+      5 won out of 28 games | 17.857142857142858%
+   Avg points: 97.7 - 106.89
+      Last 10 games: 96.7 - 107.0
+   Winning streak against bos: 2
+      Winning streak home: 4
+
+
+   boston-celtics
+   Season: 11 on uptrend
+   Home-Away: 18-20 away
+      Last 10 away games: 3-7
+   10 Games: 4-6
+      5 won out of 7 games | 71.42857142857143%
+   Avg points: 105.6 - 102.32
+      Last 10 games: 101.5 - 104.9
+   Losing streak against lal: 2
+      Losing streak away: 4
+
+   Winner: boston-celtics | 107-100
+   ----------------------------------------
+
+
+   los-angeles-lakers
+   Season: -44 on downtrend
+   Home-Away: 10-27 home
+      Last 10 home games: 3-7
+   10 Games: 2-8
+      4 won out of 27 games | 14.814814814814813%
+   Avg points: 97.64 - 106.98
+      Last 10 games: 97.2 - 106.8
+   Losing streak against mia: 7
+      Losing streak home: 3
+
+
+   miami-heat
+   Season: 13 on uptrend
+   Home-Away: 18-17 away
+      Last 10 away games: 6-4
+   10 Games: 6-4
+      13 won out of 25 games | 52.0%
+   Avg points: 99.61 - 98.15
+      Last 10 games: 110.1 - 105.8
+   Winning streak against lal: 7
+      Winning streak away: 3
+
+   Winner: los-angeles-lakers | 102-100
+   ----------------------------------------
+
+
+   los-angeles-lakers
+   Season: -43 on downtrend
+   Home-Away: 5-31 away
+      Last 10 away games: 1-9
+   10 Games: 3-7
+      3 won out of 11 games | 27.27272727272727%
+   Avg points: 97.95 - 106.76
+      Last 10 games: 100.9 - 104.0
+   Losing streak against utah: 3
+      Losing streak away: 1
+
+
+   utah-jazz
+   Season: -1 on uptrend
+   Home-Away: 22-13 home
+      Last 10 home games: 7-3
+   10 Games: 7-3
+      4 won out of 6 games | 66.66666666666666%
+   Avg points: 97.52 - 96.41
+      Last 10 games: 96.5 - 92.2
+   Winning streak against lal: 3
+      Winning streak home: 1
+
+   Winner: utah-jazz | 123-75
+   ----------------------------------------
+
+
+   los-angeles-lakers
+   Season: -42 on downtrend
+   Home-Away: 10-26 home
+      Last 10 home games: 4-6
+   10 Games: 3-7
+      3 won out of 10 games | 30.0%
+   Avg points: 98.09 - 106.84
+      Last 10 games: 99.8 - 104.5
+   Winning streak against wsh: 1
+      Winning streak home: 0
+
+
+   washington-wizards
+   Season: -2 on downtrend
+   Home-Away: 16-18 away
+      Last 10 away games: 4-6
+   10 Games: 5-5
+      15 won out of 32 games | 46.875%
+   Avg points: 103.48 - 104.58
+      Last 10 games: 108.8 - 106.2
+   Losing streak against lal: 1
+      Losing streak away: 0
+
+   Winner: washington-wizards | 101-88
+   ----------------------------------------
+
+
+   los-angeles-lakers
+   Season: -41 on downtrend
+   Home-Away: 10-25 home
+      Last 10 home games: 4-6
+   10 Games: 3-7
+      3 won out of 9 games | 33.33333333333333%
+   Avg points: 98.0 - 106.71
+      Last 10 games: 100.0 - 104.6
+   Losing streak against den: 1
+      Losing streak home: 5
+
+
+   denver-nuggets
+   Season: -12 on uptrend
+   Home-Away: 13-23 away
+      Last 10 away games: 3-7
+   10 Games: 6-4
+      0 won out of 4 games | 0.0%
+   Avg points: 102.27 - 104.88
+      Last 10 games: 108.1 - 108.2
+   Winning streak against lal: 1
+      Winning streak away: 5
+
+   Winner: denver-nuggets | 116-105
+   ----------------------------------------
+
