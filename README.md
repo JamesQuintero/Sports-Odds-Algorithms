@@ -2,6 +2,13 @@
 System that calculates and uses algorithms to predict the outcome of NBA, NHL, and MLB games. Each league has its own unique algorithm to predict winners, with NBA having the most accurate algorithm. The system was originally intended to be used for sports betting, but its prediction can't beat the models used by oddsmakers. The algorithms are pretty good at predicting winners, but that's not enough to be profitable. 
 
 
+
+
+[The NHL algorithm predicted the 2016 Stanley Cup Champion team, and its NHL playoff bracket was in the top 99%](http://smartsoftware.technology/nhl.php)
+
+[Backtest results of betting strategies utilizing the algorithms' predictions](http://smartsoftware.technology/betting.php)
+
+
 ======
 
 ### Bare-bones information:
