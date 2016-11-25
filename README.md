@@ -82,4 +82,7 @@ Menu choices: 4) Backtest algorithm -> 1) Algo_V1 - Uses a point system -> 2) Ba
 * 
 
 	
-**...**
+**...(More information to be appended later)**
+
+
+* The new algorithm should be hardcoded into algo.py to be utilized for odds calculation. 
