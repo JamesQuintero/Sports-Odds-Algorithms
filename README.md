@@ -38,35 +38,36 @@ This will run a stats backtest for passed in algo_v1s that test each variable at
 
 ### Creating an algorithm: 
 **1)** Test each variable individually to create algo_V1
-	Menu choices: 4) Backtest algorithm -> 1) Algo_V1 - Uses a point system -> 2) Backtest Algo_V1 stats -> INPUT) Start Date: (middle of first season), End Date: (cur date if end 2nd half of current season, or end date of last season if in 1st half of current season)
 
-	* Default: algo_V1 = [-1, -1, -1, -1, -1, -1, -1, -1]
-	* Each parameter is respective to the variables.
-		test each param like [1, -1, -1, -1, -1, -1, -1, -1]
-		test each param like [2, -1, -1, -1, -1, -1, -1, -1]
-	* The results will be output to a txt file "./analyze/backtests/Algo_V1_-1,-1,0.5,-1,-1,-1,-1,-1_7-1-2003_10-1-2015.txt"
-		EX output: 
+Menu choices: 4) Backtest algorithm -> 1) Algo_V1 - Uses a point system -> 2) Backtest Algo_V1 stats -> INPUT) Start Date: (middle of first season), End Date: (cur date if end 2nd half of current season, or end date of last season if in 1st half of current season)
 
-		[1, -1, -1, -1, -1, -1, -1, -1]
+* Default: algo_V1 = [-1, -1, -1, -1, -1, -1, -1, -1]
+* Each parameter is respective to the variables.
+	test each param like [1, -1, -1, -1, -1, -1, -1, -1]
+	test each param like [2, -1, -1, -1, -1, -1, -1, -1]
+* The results will be output to a txt file "./analyze/backtests/Algo_V1_-1,-1,0.5,-1,-1,-1,-1,-1_7-1-2003_10-1-2015.txt"
+	EX output: 
 
-		1: 537 - 536: 49.95%
-		2: 615 - 716: 53.79%
-		3: 640 - 683: 51.62%
-		4: 572 - 696: 54.89%
-		5: 553 - 654: 54.18%
-		6: 506 - 631: 55.50%
-		7: 477 - 590: 55.30%
-		8: 369 - 586: 61.36%
-		9: 369 - 497: 57.39%
-		10: 1597 - 2351: 59.55%
+	[1, -1, -1, -1, -1, -1, -1, -1]
 
-		6235 - 7940
+	1: 537 - 536: 49.95%
+	2: 615 - 716: 53.79%
+	3: 640 - 683: 51.62%
+	4: 572 - 696: 54.89%
+	5: 553 - 654: 54.18%
+	6: 506 - 631: 55.50%
+	7: 477 - 590: 55.30%
+	8: 369 - 586: 61.36%
+	9: 369 - 497: 57.39%
+	10: 1597 - 2351: 59.55%
 
-	* 1-10 in the output file correspond to 1-10 levels in the program. Ideal to have a bell curve type distribution of total games from 1 (most games) to 10 (least games). 
-	* Also ideal if the percentage of games won start at 50 in level 1, and go to 100% by level 10. Level 10 should not have more games won than level 9. 
-	* The number used to create the ideal backtest output will be used in Algo_V1
-	*EX:* NHL = [3, 3, 3, 3, 0.3, 0.6, -1, 6]
-	* These will be the denominators for the variables. The maximum 1-10 level reached in the output will be the max_points. If level 10 isn't rached, the max level will be adjusted.
+	6235 - 7940
+
+* 1-10 in the output file correspond to 1-10 levels in the program. Ideal to have a bell curve type distribution of total games from 1 (most games) to 10 (least games). 
+* Also ideal if the percentage of games won start at 50 in level 1, and go to 100% by level 10. Level 10 should not have more games won than level 9. 
+* The number used to create the ideal backtest output will be used in Algo_V1
+*EX:* NHL = [3, 3, 3, 3, 0.3, 0.6, -1, 6]
+* These will be the denominators for the variables. The maximum 1-10 level reached in the output will be the max_points. If level 10 isn't rached, the max level will be adjusted.
 
 	
 ======
@@ -74,11 +75,11 @@ This will run a stats backtest for passed in algo_v1s that test each variable at
 	
 **2)** Create algo_V2
 	
-	* The games won percentage for each level in each output for each variable will create a polynomial equation for each variable. 
-	* Create a best-fit line for all perc_won numbers in the ideal output file. 
-	* The best-fit line will calculate the odds to win for that variable. 
-	* Best-fit line should start above 50%, and end below 100%
-	* 
+* The games won percentage for each level in each output for each variable will create a polynomial equation for each variable. 
+* Create a best-fit line for all perc_won numbers in the ideal output file. 
+* The best-fit line will calculate the odds to win for that variable. 
+* Best-fit line should start above 50%, and end below 100%
+* 
 
 	
 **...**
