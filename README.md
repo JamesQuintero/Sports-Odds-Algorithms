@@ -1,7 +1,8 @@
 # Sports-Odds-Algorithm
-System that calculates and uses algorithms to predict the outcome of NBA, NHL, and MLB games. Each league has its own unique algorithm to predict winners, with NBA having the most accurate algorithm. The system was originally intended to be used for sports betting, but its prediction can't be the models used by odds makers. The algorithms are pretty good at predicting winners, but that's not enough to be profitable. 
+System that calculates and uses algorithms to predict the outcome of NBA, NHL, and MLB games. Each league has its own unique algorithm to predict winners, with NBA having the most accurate algorithm. The system was originally intended to be used for sports betting, but its prediction can't beat the models used by oddsmakers. The algorithms are pretty good at predicting winners, but that's not enough to be profitable. 
 
 
+---
 
 Bare-bones information:
 
@@ -71,6 +72,7 @@ Create algorithm:
 	
 	
 2) Create algo_V2
+	
 	*) The games won percentage for each level in each output for each variable will create a polynomial equation for each variable. 
 	*) Create a best-fit line for all perc_won numbers in the ideal output file. 
 	*) The best-fit line will calculate the odds to win for that variable. 
