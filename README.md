@@ -1,12 +1,12 @@
-# Sports-Odds-Algorithm
+# Sports-Odds-Algorithms
 System that calculates and uses algorithms to predict the outcome of NBA, NHL, and MLB games. Each league has its own unique algorithm to predict winners, with NBA having the most accurate algorithm. The system was originally intended to be used for sports betting, but its prediction can't beat the models used by oddsmakers. The algorithms are pretty good at predicting winners, but that's not enough to be profitable. 
 
 
----
+======
 
-Bare-bones information:
+### Bare-bones information:
 
-Variables: 
+**Variables:** 
 1) Record_points = ( wins - losses ) - ( other_wins - other_losses)
 2) Home_away = (away_record - home_record) - (other tema's away record - other team's home record)
 3) Home_away_10_games = Home_away for last 10 games
@@ -16,27 +16,27 @@ Variables:
 7) Win_streak = num consecutive wins
 8) Win_streak_home_away = num consecutive wins home or away
 
-Example: 
+*Example:* 
 NBA's algo_V2 includes 1, 2, 3, 4, 5, 6
 NHL's algo_V2 includes 1, 2, 3, 4, 5, 6, 8
 MLB's algo_V2 includes 1, 2, 3, 4, 5, 6
 
-Backtests: 
-CSV_output = Backtest all games for 2nd half of seasons in specified timespan. The supplied algorithm will output a point system or percentage system accompanying its prediction. The results are returned in a csv file.
+**Backtests:** 
+*CSV_output* = Backtest all games for 2nd half of seasons in specified timespan. The supplied algorithm will output a point system or percentage system accompanying its prediction. The results are returned in a csv file.
 
-Stats = Backtest all games for 2nd half of seasons in specified timespan. The parameter algorithm will solely calculate wins vs losses for a 1-10 ranking system. The ranking sytem can be points or percentage based. The results are returned in a txt file. 
+*Stats* = Backtest all games for 2nd half of seasons in specified timespan. The parameter algorithm will solely calculate wins vs losses for a 1-10 ranking system. The ranking sytem can be points or percentage based. The results are returned in a txt file. 
 
-Running sports_bettor.py: Choose league, Backtest algorithm, Algo_V1, output to csv.
+*Running sports_bettor.py:* Choose league, Backtest algorithm, Algo_V1, output to csv.
 This will run a CSV_output backtest using a hardcoded algo_V1. EX: NBA = [10, 10, 5, 5,  8,  8,   3, 3];
 
-Running sports_bettor.py: Choose league, Backtest algorith, Algo_V1, stats.
+*Running sports_bettor.py:* Choose league, Backtest algorith, Algo_V1, stats.
 This will run a stats backtest for passed in algo_v1s that test each variable at a time. 
 
 
----
+======
 
-Create algorithm: 
-1) Test each variable individually to create algo_V1
+### Creating an algorithm: 
+*1)* Test each variable individually to create algo_V1
 	Menu choices: 4) Backtest algorithm -> 1) Algo_V1 - Uses a point system -> 2) Backtest Algo_V1 stats -> INPUT) Start Date: (middle of first season), End Date: (cur date if end 2nd half of current season, or end date of last season if in 1st half of current season)
 
 	*) Default: algo_V1 = [-1, -1, -1, -1, -1, -1, -1, -1]
@@ -68,10 +68,10 @@ Create algorithm:
 	*) These will be the denominators for the variables. The maximum 1-10 level reached in the output will be the max_points. If level 10 isn't rached, the max level will be adjusted.
 
 	
----
+======
 	
 	
-2) Create algo_V2
+*2)* Create algo_V2
 	
 	*) The games won percentage for each level in each output for each variable will create a polynomial equation for each variable. 
 	*) Create a best-fit line for all perc_won numbers in the ideal output file. 
