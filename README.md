@@ -4,7 +4,7 @@ System that calculates and uses algorithms to predict the outcome of NBA, NHL, a
 
 
 
-[The NHL algorithm predicted the 2016 Stanley Cup Champion team, and its NHL playoff bracket was in the top 99%](http://smartsoftware.technology/nhl.php)
+[The NHL algorithm predicted the 2016 Stanley Cup Champion team, and its NHL playoff bracket was in the 99th percentile](http://smartsoftware.technology/nhl.php)
 
 [Backtest results of betting strategies utilizing the algorithms' predictions](http://smartsoftware.technology/betting.php)
 
