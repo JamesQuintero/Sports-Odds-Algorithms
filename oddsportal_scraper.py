@@ -67,7 +67,9 @@ class Odds_Portal_Scraper:
 				while True:
 					url="http://fb.oddsportal.com/ajax-sport-country-tournament-archive/3/"+str(page_id)+"/X0/1/0/"+str(page_num)+"/"
 					print("Url: "+str(url))
-					data=self.universal.scrape_webpage(url)
+
+					headers=[('Referer', season_urls[x])]
+					data=self.universal.scrape_webpage(url, headers)
 					#if page timed out
 					if data=="":
 						time.sleep(10)
@@ -243,7 +245,7 @@ class Odds_Portal_Scraper:
 
 
 if __name__=="__main__":
-	odds_portal_scraper = Odds_Portal_Scraper("nhl")
+	odds_portal_scraper = Odds_Portal_Scraper("mlb")
 
 	odds_portal_scraper.scrape_historical_odds()
 	# seasons = odds_portal_scraper.get_seasons()

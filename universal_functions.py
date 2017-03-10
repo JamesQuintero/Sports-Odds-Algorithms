@@ -190,7 +190,7 @@ class Universal_Functions:
 			return [0,0]
 
 
-	def scrape_webpage(self, url):
+	def scrape_webpage(self, url, headers=[]):
 
 		user_agents=[]
 		user_agents.append("Mozilla/5.0 (X10; Ubuntu; Linux x86_64; rv:25.0)")
@@ -202,7 +202,10 @@ class Universal_Functions:
 
 		#initializes url variables
 		opener=urllib.request.build_opener(urllib.request.HTTPRedirectHandler(),urllib.request.HTTPHandler(debuglevel=0))
-		opener.addheaders = [('User-agent', random.choice(user_agents))]
+		#appends tuple of user-supplied headers to user-agent
+		headers = [('User-agent', random.choice(user_agents))] + headers
+		opener.addheaders = headers
+
 
 		try:
 			response = opener.open(url, timeout=30)
