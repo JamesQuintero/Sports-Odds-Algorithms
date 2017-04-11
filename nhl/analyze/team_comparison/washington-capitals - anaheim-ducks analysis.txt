@@ -1,0 +1,17 @@
+
+Date: 4-10-2017
+Away: washington-capitals | Home: anaheim-ducks
+Seasonal Record:      56.97%
+Home Away:            -59.44%
+Home away 10:         -55.7%
+Last 10 games:        53.93%
+Avg points:           56.48%
+Avg points 10:        -52.78%
+Win streak home away: 50%
+--------
+Total: -50.07%
+--------
+Perc chance to win: 50.07%
+Favorable team odds: -100.2803925495694
+Underdog team odds: +100.2803925495694
+

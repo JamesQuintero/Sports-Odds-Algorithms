@@ -1,0 +1,742 @@
+
+<!DOCTYPE html>
+<html xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app13.us.archive.org";archive_analytics.values.server_ms=329;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+<script src="/web/20160203150650js_/http://sports-ak.espn.go.com/sports/optimizely.js"></script><meta charset="iso-8859-1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<link rel="icon" sizes="any" mask href="http://a.espncdn.com/prod/assets/icons/E.svg">
+<meta name="theme-color" content="#CC0000">
+<script type="text/javascript">    
+    if(true && navigator && navigator.userAgent.toLowerCase().indexOf("teamstream") >= 0) {
+        window.location = '/web/20160203150650/http://a.m.espn.go.com/mobilecache/general/apps/sc';
+    }
+</script><title>Anaheim Ducks vs. San Jose Sharks - Boxscore - October 10, 2015 - ESPN</title>
+<meta name="google-site-verification" content="xuj1ODRluWa0frM-BjIr_aSHoUC7HB5C1MgmYAM_GkA" />
+<meta name="msvalidate.01" content="B1FEB7C682C46C8FCDA3130F3D18AC28" />
+<meta name="googlebot" content="noodp" />
+<meta name="robots" content="index, follow" />
+<meta name="description" content="NHL Hockey Boxscore: Final statistics from the Anaheim vs. San Jose game played on October 10, 2015" />
+<meta name="keywords" content="nhl hockey Boxscore, Anaheim stats, San Jose stats" />
+<meta property="fb:app_id" content="116656161708917">
+<meta property="og:site_name" content="ESPN.com">
+<!--
+<PageMap>
+	<DataObject type="document">
+		<Attribute name="title">Anaheim Ducks vs. San Jose Sharks - Boxscore - October 10, 2015</Attribute>
+	</DataObject>
+</PageMap>
+--><link rel="canonical" href="http://scores.espn.go.com/nhl/boxscore?gameId=400814790" />
+
+		<script>var _sf_startpt=(new Date()).getTime();</script>
+<link rel="search" type="application/opensearchdescription+xml" href="http://a.espncdn.com/search/opensearch.xml" title="ESPN Search" />
+<link rel="stylesheet" href="/web/20160203150650cs_/http://a.espncdn.com/combiner/c/201501211964?css=global_reset.r1.css,base.r236.css,modules.r465.css,global_header.r44.css,header_topbar.r1.css,modules/global_nav.r54.css,modules/insider_enhanced.r1.css,modules/mem/mem.r12.1.css,modules/mem/mem_espn360.r8.4.css,modules/mem/skirmish.r8.css,modules/twin.r1.css,modules/facebook/button.r2.css,universal_overlay/universal_overlay.css,universal_overlay/media_overlay.css,universal_overlay/video_overlay.css,universal_overlay/photo_overlay.css,universal_overlay/dyk_overlay.css,fonts/bentonsans.css,fonts/bentonsansmedium.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="/web/20160203150650cs_/http://a.espncdn.com/combiner/c/201508060924?css=sprites/teamlogos.r19.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="/web/20160203150650cs_/http://a.espncdn.com/combiner/c?v=201407081137&amp;css=/espn/espn/styles/gamepackage10/ootCSS,/espn/espn/styles/gamepackage10/gamepackage10CSS,/espn/espn/styles/gamepackage10/gamepackage10moduleCSS" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="/web/20160203150650cs_/http://a.espncdn.com/combiner/c?v=201308011131&amp;css=modules/playerpopup.r2.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="/web/20160203150650cs_/http://a.espncdn.com/combiner/c?v=201108152006&amp;css=modules/videoplayer12.r1.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="/web/20160203150650cs_/http://a.espncdn.com/prod/styles/social_upgrade.r1.css" type="text/css" media="screen" charset="utf-8" />
+<script src="/web/20160203150650js_/http://widgets.outbrain.com/outbrain.js"></script>
+<script type="text/javascript">
+var _vrq = _vrq || [];
+ _vrq.push(['id', 489]);
+ _vrq.push(['automate', false]);
+ _vrq.push(['track', function(){}]);
+ (function(d, a){var s = d.createElement(a),x = d.getElementsByTagName(a)[0];
+s.async = true;
+s.src = '/web/20160203150650/http://a.visualrevenue.com/vrs.js';
+ x.parentNode.insertBefore(s, x);})(document, 'script'); </script>
+<script src="/web/20160203150650js_/http://a.espncdn.com/combiner/c?js=jquery-1.7.1.js,plugins/json2.r3.js,plugins/teacrypt.js,plugins/jquery.metadata.js,plugins/jquery.bgiframe.r3.js,plugins/jquery.easing.1.3.js,plugins/jquery.hoverIntent.js,plugins/jquery.jcarousel.0.2.9.js,plugins/jquery.tinysort.r4.js,plugins/jquery.pubsub.r5.js,ui/1.8.16/jquery.ui.core.js,ui/1.8.16/jquery.ui.widget.js,ui/1.8.16/jquery.ui.tabs.js,ui/1.8.16/jquery.ui.accordion.js,plugins/ba-debug-0.4.js,espn.l10n.r12.js,swfobject/2.2/swfobject.js,flashObjWrapper.r7.js,plugins/jquery.colorbox.1.3.14.js,plugins/jquery.ba-postmessage.js,espn.core.duo.r57.js,m/beta/betacheck.r6.js,espn.mem.r39.js,stub.search.r9.js,espn.nav.mega.r39b.js,espn.storage.r6.js,espn.p13n.r20.js,espn.geo.r3.js,espn.video.r81.r5.js,registration/staticLogin.r12.06102014.js,espn.universal.overlay.r19.js,insider/espn.insider.20140915.js,espn.espn360.stub.r9.js,espn.myHeadlines.stub.r16.js,espn.myfaves.stub.r3.js,tsscoreboard.20090612.js,ie9pinning.r3.js,espn.f8.noauth.r3.js,espn.socialmediamod.r7.js,playerpopup.r14.js"></script>
+<script src="/web/20160203150650js_/http://a.espncdn.com/combiner/c?js=analytics/chartbeat/video/strategy_comprehensive.r1.js"></script>
+<script>espn.core.navVersion = 'a';</script>
+<script>var ad_site="espn.us.com.nhl",ad_zone="nhlboxscore",ad_kvps="pgtyp=nhlboxscore;sp=nhl;nav=true;",ad_swid="",ad_counter=1,ad_ord=Math.floor(9999999999*Math.random()),ad_seg="",ad_mnr=-1<document.cookie.indexOf("grif=1")?"t":"f",ad_ref="other",ad_sp="nhl",ad_pgtyp="nhlboxscore",ref=document.referrer,refsMap={"facebook.com":"facebook","twitter.com|t.co":"twitter","plus.url.google.com|plus.google.com":"googleplus","google.com":"google","bing.com":"bing","yahoo.com":"yahoo","espn.go.com":"espn"},refKey;for(refKey in refsMap)ref.match(refKey)&&(ad_ref=refsMap[refKey]);
+ad_kvps=ad_kvps+"ref="+ad_ref+";mnr="+ad_mnr+";";ad_swid=jQuery.cookie("SWID");"function"===typeof espn.core.ad_segments&&(ad_seg=espn.core.ad_segments(),null!=ad_seg&&""!=ad_seg&&(ad_kvps+=ad_seg));var ad_u="";null!=ad_swid&&""!=ad_swid&&(ad_u="swid="+ad_swid+";");</script>
+<link rel="stylesheet" href="/web/20160203150650cs_/http://a.espncdn.com/prod/styles/transitionalHeader/transitional-header.css" type="text/css" media="screen" charset="utf-8" />
+</head>
+<body class="game-package nhl {sportId:90}"  data-sport="nhl">
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(imgWidth,imgHeight,yearImgWidth,monthImgWidth){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://espn.go.com/nhl/boxscore?gameId=400814790";
+
+var firstYear = 1996;
+var displayDay = "3";
+var displayMonth = "Feb";
+var displayYear = "2016";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})(550, 27, 25, 2);//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://espn.go.com/nhl/boxscore?gameId=400814790" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20160203150650" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20160102095316/http://espn.go.com/nhl/boxscore?gameId=400814790" title="2 Jan 2016">JAN</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 15:06:50 Feb 3, 2016">FEB</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20160315160543/http://espn.go.com/nhl/boxscore?gameId=400814790" title="15 Mar 2016"><strong>MAR</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20160102095316/http://espn.go.com/nhl/boxscore?gameId=400814790" title="9:53:16 Jan 2, 2016"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 15:06:50 Feb 3, 2016">3</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20160207091517/http://espn.go.com/nhl/boxscore?gameId=400814790" title="9:15:17 Feb 7, 2016"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   2015
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 15:06:50 Feb 3, 2016">2016</td>
+	       <td class="f" nowrap="nowrap">
+               
+                   2017
+               
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20160203150650*/http://espn.go.com/nhl/boxscore?gameId=400814790" title="See a list of every capture for this URL">18 captures</a>
+           <div class="r" title="Timespan for captures of this URL">12 Oct 15 - 5 Apr 16</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="550"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=550_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000000000_2010:-1:000000000000_2011:-1:000000000000_2012:-1:000000000000_2013:-1:000000000000_2014:-1:000000000000_2015:-1:000000000540_2016:1:233100000000_2017:-1:000000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+<!--[if IE 5]><div class="ie5"><![endif]-->
+<!--[if IE 6]><div class="ie ie6"><![endif]-->
+<!--[if IE 7]><div class="ie ie7"><![endif]-->
+<!--[if IE 8]><div class="ie ie8"><![endif]-->
+<!--[if IE 9]><div class="ie9"><![endif]-->
+<!-- begin bg-elements -->
+<div class="bg-elements">
+
+<!-- gpt ad type: background_skin kvps: pgtyp=nhlboxscore;sp=nhl;nav=true;-->
+<div class="ad-slot ad-slot-background_skin" data-slot-type="background_skin" data-slot-kvps="pos=background_skin" data-exclude-bp="s,m" data-collapse-before-load="true"></div><!-- begin subheader -->
+<div id="subheader">
+<!-- begin content -->
+<div id="content-wrapper">
+<div id="ad-top" class="container">
+<!-- begin Banner ad -->
+<div class="span-6 ad banner top"><div class="ad-center"><div class="ad-wrapper">
+<!-- gpt ad type: banner kvps: pgtyp=nhlboxscore;sp=nhl;nav=true;-->
+<div class="ad-slot ad-slot-banner" data-slot-type="banner" data-slot-kvps="pos=banner"></div></div></div></div>
+<!-- end Banner ad -->
+</div>
+<div id="content" class="container">
+<div id="fb-root"></div><!--[if lte IE 7]><link rel="stylesheet" charset="utf-8" media="screen" href="/web/20160203150650/http://a.espncdn.com/combiner/c?css=modules/browser-alert.r7.css" type="text/css" /><div class="span-6" id="browser-alert-wrapper" style="display:none;"><div class="mod-container mod-no-header-footer browser-alert"><div class="mod-content"><div class="gradient-container"><h1><span>Your Web Browser</span> is no longer supported</h1><p>To experience everything that ESPN.com has to offer, we recommend that you upgrade to a newer version of your web browser. Click the upgrade button to the right or <a href="/web/20160203150650/http://espn.go.com/espn/news/story?id=5630562">learn more</a>.</p><ul><li><a class="btn-upgrade" href="/web/20160203150650/http://www.microsoft.com/windows/internet-explorer/default.aspx">Upgrade</a></li><li><a class="btn-faq" href="/web/20160203150650/http://espn.go.com/espn/news/story?id=5630562">FAQs</a></li></ul></div></div></div></div><script>(function(b){setTimeout(function(){var a=b("#browser-alert-wrapper");if(espn.cookie.get("browseralert")!="true"){b('<a class="btn-close" href="#">Close</a>').bind("click",function(){a.hide();espn.cookie.set("browseralert","true",30);return false}).appendTo(a.find(".gradient-container"));a.show();espn.cookie.set("browseralert","true")}},100)})(jQuery);</script><![endif]-->
+
+<div class="scoreboard-strip-wrapper" style="height:61px; width:916px;">
+    <div class="scoreboard-strip oot-wide" id="ootScoreboard">
+        <div id="ootShadow"></div>
+
+        <div class="scoreboard-title-hq">
+
+            <div class="subhead">
+
+                <span>
+                    <a name="&lpos=nhlGamePackageOOT&lid=scoreLinkOOT" href="/web/20160203150650/http://espn.go.com/nhl/scoreboard?date=20151010">Scores for Oct 10, 2015</a>
+                <span>
+
+        </div>
+
+        </div>
+
+        <div class="scoreboard-container" id="scoreboard2" style="width:auto !important; margin-left: 210px !important">
+            <div class="container">
+                <div style="display: block;" class="jcarousel-prev jcarousel-next-horizontal oot-prev"></div>
+                <div style="display: block;" class="jcarousel-next jcarousel-next-horizontal oot-next"></div>
+                <div class="mod-content mod-content-hq">
+                    <div id="nhl-scores" class="scores-carousel {note:'THERE ARE NO NHL GAMES TODAY'} ui-tabs-panel ui-widget-content ui-corner-bottom">
+                        <ul>
+                            <li id="nhl-400814896"><!-- url: /nhl/boxscore --><div name="&lpos=nhlGamePackageOOT&lid=gameLinkOOT" onclick="window.location = '/nhl/boxscore?gameId=400814896'" class="ootLink"><div class="game final" ><div class="game-status final "><div class="game-left"><span class="clock">Final</span><span class="hidden-clock"></span></div><div class="game-right"><span class="period"></span></div>&nbsp;</div><div class="clear"></div><div class="game-left"><div class="info away-winner"></div><div class="teams"><span class="away">TB</span><br/><span class="home">BUF</span></div><div class="hidden-scores"><span class="awayScore">4</span><br/><span class="homeScore">1</span></div><div class="scores"><span class="awayScore">4</span><br/><span class="homeScore">1</span></div></div><div class="clear"></div><span class="sort">0</span></div></div></li><li id="nhl-400814786"><!-- url: /nhl/boxscore --><div name="&lpos=nhlGamePackageOOT&lid=gameLinkOOT" onclick="window.location = '/nhl/boxscore?gameId=400814786'" class="ootLink"><div class="game final" ><div class="game-status final "><div class="game-left"><span class="clock">Final</span><span class="hidden-clock"></span></div><div class="game-right"><span class="period"></span></div>&nbsp;</div><div class="clear"></div><div class="game-left"><div class="info away-winner"></div><div class="teams"><span class="away">DET</span><br/><span class="home">CAR</span></div><div class="hidden-scores"><span class="awayScore">4</span><br/><span class="homeScore">3</span></div><div class="scores"><span class="awayScore">4</span><br/><span class="homeScore">3</span></div></div><div class="clear"></div><span class="sort">1</span></div></div></li><li id="nhl-400814787"><!-- url: /nhl/boxscore --><div name="&lpos=nhlGamePackageOOT&lid=gameLinkOOT" onclick="window.location = '/nhl/boxscore?gameId=400814787'" class="ootLink"><div class="game final" ><div class="game-status final "><div class="game-left"><span class="clock">Final</span><span class="hidden-clock"></span></div><div class="game-right"><span class="period"></span></div>&nbsp;</div><div class="clear"></div><div class="game-left"><div class="info home-winner"></div><div class="teams"><span class="away">PHI</span><br/><span class="home">FLA</span></div><div class="hidden-scores"><span class="awayScore">1</span><br/><span class="homeScore">7</span></div><div class="scores"><span class="awayScore">1</span><br/><span class="homeScore">7</span></div></div><div class="clear"></div><span class="sort">2</span></div></div></li><li id="nhl-400814789"><!-- url: /nhl/boxscore --><div name="&lpos=nhlGamePackageOOT&lid=gameLinkOOT" onclick="window.location = '/nhl/boxscore?gameId=400814789'" class="ootLink"><div class="game final" ><div class="game-status final "><div class="game-left"><span class="clock">Final</span><span class="hidden-clock"></span></div><div class="game-right"><span class="period"></span></div>&nbsp;</div><div class="clear"></div><div class="game-left"><div class="info home-winner"></div><div class="teams"><span class="away">CBJ</span><br/><span class="home">NYR</span></div><div class="hidden-scores"><span class="awayScore">2</span><br/><span class="homeScore">5</span></div><div class="scores"><span class="awayScore">2</span><br/><span class="homeScore">5</span></div></div><div class="clear"></div><span class="sort">3</span></div></div></li><li id="nhl-400814792"><!-- url: /nhl/boxscore --><div name="&lpos=nhlGamePackageOOT&lid=gameLinkOOT" onclick="window.location = '/nhl/boxscore?gameId=400814792'" class="ootLink"><div class="game final" ><div class="game-status final "><div class="game-left"><span class="clock">Final</span><span class="hidden-clock"></span></div><div class="game-right"><span class="period"></span></div>&nbsp;</div><div class="clear"></div><div class="game-left"><div class="info home-winner"></div><div class="teams"><span class="away">NJ</span><br/><span class="home">WSH</span></div><div class="hidden-scores"><span class="awayScore">3</span><br/><span class="homeScore">5</span></div><div class="scores"><span class="awayScore">3</span><br/><span class="homeScore">5</span></div></div><div class="clear"></div><span class="sort">4</span></div></div></li><li id="nhl-400814897"><!-- url: /nhl/boxscore --><div name="&lpos=nhlGamePackageOOT&lid=gameLinkOOT" onclick="window.location = '/nhl/boxscore?gameId=400814897'" class="ootLink"><div class="game final" ><div class="game-status final "><div class="game-left"><span class="clock">Final</span><span class="hidden-clock"></span></div><div class="game-right"><span class="period"></span></div>&nbsp;</div><div class="clear"></div><div class="game-left"><div class="info away-winner"></div><div class="teams"><span class="away">MTL</span><br/><span class="home">BOS</span></div><div class="hidden-scores"><span class="awayScore">4</span><br/><span class="homeScore">2</span></div><div class="scores"><span class="awayScore">4</span><br/><span class="homeScore">2</span></div></div><div class="clear"></div><span class="sort">5</span></div></div></li><li id="nhl-400814898"><!-- url: /nhl/boxscore --><div name="&lpos=nhlGamePackageOOT&lid=gameLinkOOT" onclick="window.location = '/nhl/boxscore?gameId=400814898'" class="ootLink"><div class="game final" ><div class="game-status final "><div class="game-left"><span class="clock">Final</span><span class="hidden-clock"> SO</span></div><div class="game-right"><span class="period"> SO</span></div>&nbsp;</div><div class="clear"></div><div class="game-left"><div class="info away-winner"></div><div class="teams"><span class="away">OTT</span><br/><span class="home">TOR</span></div><div class="hidden-scores"><span class="awayScore">5</span><br/><span class="homeScore">4</span></div><div class="scores"><span class="awayScore">5</span><br/><span class="homeScore">4</span></div></div><div class="clear"></div><span class="sort">6</span></div></div></li><li id="nhl-400814899"><!-- url: /nhl/boxscore --><div name="&lpos=nhlGamePackageOOT&lid=gameLinkOOT" onclick="window.location = '/nhl/boxscore?gameId=400814899'" class="ootLink"><div class="game final" ><div class="game-status final "><div class="game-left"><span class="clock">Final</span><span class="hidden-clock"></span></div><div class="game-right"><span class="period"></span></div>&nbsp;</div><div class="clear"></div><div class="game-left"><div class="info home-winner"></div><div class="teams"><span class="away">EDM</span><br/><span class="home">NSH</span></div><div class="hidden-scores"><span class="awayScore">0</span><br/><span class="homeScore">2</span></div><div class="scores"><span class="awayScore">0</span><br/><span class="homeScore">2</span></div></div><div class="clear"></div><span class="sort">7</span></div></div></li><li id="nhl-400814788"><!-- url: /nhl/boxscore --><div name="&lpos=nhlGamePackageOOT&lid=gameLinkOOT" onclick="window.location = '/nhl/boxscore?gameId=400814788'" class="ootLink"><div class="game final" ><div class="game-status final "><div class="game-left"><span class="clock">Final</span><span class="hidden-clock"></span></div><div class="game-right"><span class="period"></span></div>&nbsp;</div><div class="clear"></div><div class="game-left"><div class="info home-winner"></div><div class="teams"><span class="away">STL</span><br/><span class="home">MIN</span></div><div class="hidden-scores"><span class="awayScore">2</span><br/><span class="homeScore">3</span></div><div class="scores"><span class="awayScore">2</span><br/><span class="homeScore">3</span></div></div><div class="clear"></div><span class="sort">8</span></div></div></li><li id="nhl-400814900"><!-- url: /nhl/boxscore --><div name="&lpos=nhlGamePackageOOT&lid=gameLinkOOT" onclick="window.location = '/nhl/boxscore?gameId=400814900'" class="ootLink"><div class="game final" ><div class="game-status final "><div class="game-left"><span class="clock">Final</span><span class="hidden-clock"></span></div><div class="game-right"><span class="period"></span></div>&nbsp;</div><div class="clear"></div><div class="game-left"><div class="info home-winner"></div><div class="teams"><span class="away">NYI</span><br/><span class="home">CHI</span></div><div class="hidden-scores"><span class="awayScore">1</span><br/><span class="homeScore">4</span></div><div class="scores"><span class="awayScore">1</span><br/><span class="homeScore">4</span></div></div><div class="clear"></div><span class="sort">9</span></div></div></li><li id="nhl-400814901"><!-- url: /nhl/boxscore --><div name="&lpos=nhlGamePackageOOT&lid=gameLinkOOT" onclick="window.location = '/nhl/boxscore?gameId=400814901'" class="ootLink"><div class="game final" ><div class="game-status final "><div class="game-left"><span class="clock">Final</span><span class="hidden-clock"></span></div><div class="game-right"><span class="period"></span></div>&nbsp;</div><div class="clear"></div><div class="game-left"><div class="info home-winner"></div><div class="teams"><span class="away">DAL</span><br/><span class="home">COL</span></div><div class="hidden-scores"><span class="awayScore">3</span><br/><span class="homeScore">6</span></div><div class="scores"><span class="awayScore">3</span><br/><span class="homeScore">6</span></div></div><div class="clear"></div><span class="sort">10</span></div></div></li><li id="nhl-400814785"><!-- url: /nhl/boxscore --><div name="&lpos=nhlGamePackageOOT&lid=gameLinkOOT" onclick="window.location = '/nhl/boxscore?gameId=400814785'" class="ootLink"><div class="game final" ><div class="game-status final "><div class="game-left"><span class="clock">Final</span><span class="hidden-clock"></span></div><div class="game-right"><span class="period"></span></div>&nbsp;</div><div class="clear"></div><div class="game-left"><div class="info home-winner"></div><div class="teams"><span class="away">PIT</span><br/><span class="home">ARI</span></div><div class="hidden-scores"><span class="awayScore">1</span><br/><span class="homeScore">2</span></div><div class="scores"><span class="awayScore">1</span><br/><span class="homeScore">2</span></div></div><div class="clear"></div><span class="sort">11</span></div></div></li><li id="nhl-400814791"><!-- url: /nhl/boxscore --><div name="&lpos=nhlGamePackageOOT&lid=gameLinkOOT" onclick="window.location = '/nhl/boxscore?gameId=400814791'" class="ootLink"><div class="game final" ><div class="game-status final "><div class="game-left"><span class="clock">Final</span><span class="hidden-clock"> OT</span></div><div class="game-right"><span class="period"> OT</span></div>&nbsp;</div><div class="clear"></div><div class="game-left"><div class="info away-winner"></div><div class="teams"><span class="away">CGY</span><br/><span class="home">VAN</span></div><div class="hidden-scores"><span class="awayScore">3</span><br/><span class="homeScore">2</span></div><div class="scores"><span class="awayScore">3</span><br/><span class="homeScore">2</span></div></div><div class="clear"></div><span class="sort">12</span></div></div></li><li id="nhl-400814790"><!-- url: /nhl/boxscore --><div name="&lpos=nhlGamePackageOOT&lid=gameLinkOOT" onclick="window.location = '/nhl/boxscore?gameId=400814790'" class="ootLink"><div class="game final" ><div class="game-status final "><div class="game-left"><span class="clock">Final</span><span class="hidden-clock"></span></div><div class="game-right"><span class="period"></span></div>&nbsp;</div><div class="clear"></div><div class="game-left"><div class="info home-winner"></div><div class="teams"><span class="away">ANA</span><br/><span class="home">SJ</span></div><div class="hidden-scores"><span class="awayScore">0</span><br/><span class="homeScore">2</span></div><div class="scores"><span class="awayScore">0</span><br/><span class="homeScore">2</span></div></div><div class="clear"></div><span class="sort">13</span></div></div></li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<script type="text/javascript">
+
+    var ESPNootScoreboard = {};
+
+    ESPNootScoreboard.activeSport = 'nhl';
+
+
+    ESPNootScoreboard.myTeams = {'90-6': ['nhl-400814899'], 
+'90-7': ['nhl-400814786'], 
+'90-9': ['nhl-400814901'], 
+'90-10': ['nhl-400814897'], 
+'90-30': ['nhl-400814788'], 
+'90-12': ['nhl-400814900'], 
+'90-11': ['nhl-400814792'], 
+'90-18': ['nhl-400814790'], 
+'90-17': ['nhl-400814901'], 
+'90-19': ['nhl-400814788'], 
+'90-14': ['nhl-400814898'], 
+'90-13': ['nhl-400814789'], 
+'90-16': ['nhl-400814785'], 
+'90-15': ['nhl-400814787'], 
+'90-1': ['nhl-400814897'], 
+'90-2': ['nhl-400814896'], 
+'90-3': ['nhl-400814791'], 
+'90-4': ['nhl-400814900'], 
+'90-5': ['nhl-400814786'], 
+'90-23': ['nhl-400814792'], 
+'90-22': ['nhl-400814791'], 
+'90-21': ['nhl-400814898'], 
+'90-20': ['nhl-400814896'], 
+'90-29': ['nhl-400814789'], 
+'90-27': ['nhl-400814899'], 
+'90-26': ['nhl-400814787'], 
+'90-25': ['nhl-400814790'], 
+'90-24': ['nhl-400814785']};
+
+</script><div class="gamehq-wrapper"><div class="summary-tabs-container"><div class="span-4" id="gamepackageTop"><div class="status-bar status-final" id="gameStatusBarWrap"><p class="game-state" id="gameStatusBarText"><span id="status-bar-period">Final</span> <span id="status-bar-clock"></span></p><!-- Series at a Glance -->
+<div class="series-status"><p><span id="seriesTextTitle">Series</span> (Game 1 of 4)</p><a href="#" class="arrow" id="series-dd-arrow"></a></div><div class="series-dropdown" id="series-dd"><p class="close-link"><a href="#" id="dd-close">Close</a></p><p class="dd-series-status">Anaheim leads 3-1</p><table cellspacing="0" class="dd-game"><tr><th colspan="3"><span>Game 1:</span> Saturday, October 10th</th></tr><tr><td class="team"><a href="/web/20160203150650/http://espn.go.com/nhl/team/_/name/ana/anaheim-ducks" style="color:#000 !important;">Ducks</a></td><td class="score gp-awayScore">0</td><td class="dd-game-status" id="sg-clockPeriod"  rowspan="2">Final<br/></td></tr><tr><td class="team"><a href="/web/20160203150650/http://espn.go.com/nhl/team/_/name/sj/san-jose-sharks" style="color:#000 !important;">Sharks</a></td><td class="score gp-homeScore">2</td></tr><tr><td colspan="3" class="footer-links" id="footerLinks-400814790"><a href="" style="display:none" id="sdd-preview-400814790">Preview &#187;</a><a href="/web/20160203150650/http://espn.go.com/nhl/recap?gameId=400814790"  id="sdd-recap-400814790">Recap &#187;</a><a href="/web/20160203150650/http://espn.go.com/nhl/boxscore?gameId=400814790"  id="sdd-boxscore-400814790">Boxscore &#187;</a></td></tr></table><table cellspacing="0" class="dd-game"><tr><th colspan="3"><span>Game 2:</span> Saturday, November 7th</th></tr><tr><td class="team"><a href="/web/20160203150650/http://espn.go.com/nhl/team/_/name/ana/anaheim-ducks" style="color:#000 !important;">Ducks</a></td><td class="score ">1</td><td class="dd-game-status" rowspan="2">Final<br/></td></tr><tr><td class="team"><a href="/web/20160203150650/http://espn.go.com/nhl/team/_/name/sj/san-jose-sharks" style="color:#000 !important;">Sharks</a></td><td class="score ">0</td></tr><tr><td colspan="3" class="footer-links" id="footerLinks-400815074"><a href="" style="display:none" id="sdd-preview-400815074">Preview &#187;</a><a href="/web/20160203150650/http://espn.go.com/nhl/recap?gameId=400815074"  id="sdd-recap-400815074">Recap &#187;</a><a href="/web/20160203150650/http://espn.go.com/nhl/boxscore?gameId=400815074"  id="sdd-boxscore-400815074">Boxscore &#187;</a></td></tr></table><table cellspacing="0" class="dd-game"><tr><th colspan="3"><span>Game 3:</span> Friday, December 4th</th></tr><tr><td class="team"><a href="/web/20160203150650/http://espn.go.com/nhl/team/_/name/sj/san-jose-sharks" style="color:#000 !important;">Sharks</a></td><td class="score ">0</td><td class="dd-game-status" rowspan="2">Final<br/></td></tr><tr><td class="team"><a href="/web/20160203150650/http://espn.go.com/nhl/team/_/name/ana/anaheim-ducks" style="color:#000 !important;">Ducks</a></td><td class="score ">1</td></tr><tr><td colspan="3" class="footer-links" id="footerLinks-400815251"><a href="" style="display:none" id="sdd-preview-400815251">Preview &#187;</a><a href="/web/20160203150650/http://espn.go.com/nhl/recap?gameId=400815251"  id="sdd-recap-400815251">Recap &#187;</a><a href="/web/20160203150650/http://espn.go.com/nhl/boxscore?gameId=400815251"  id="sdd-boxscore-400815251">Boxscore &#187;</a></td></tr></table><table cellspacing="0" class="dd-game"><tr><th colspan="3"><span>Game 4:</span> Tuesday, February 2nd</th></tr><tr><td class="team"><a href="/web/20160203150650/http://espn.go.com/nhl/team/_/name/sj/san-jose-sharks" style="color:#000 !important;">Sharks</a></td><td class="score ">2</td><td class="dd-game-status" rowspan="2">Final<br/></td></tr><tr><td class="team"><a href="/web/20160203150650/http://espn.go.com/nhl/team/_/name/ana/anaheim-ducks" style="color:#000 !important;">Ducks</a></td><td class="score ">3</td></tr><tr><td colspan="3" class="footer-links" id="footerLinks-400815619"><a href="" style="display:none" id="sdd-preview-400815619">Preview &#187;</a><a href="/web/20160203150650/http://espn.go.com/nhl/recap?gameId=400815619"  id="sdd-recap-400815619">Recap &#187;</a><a href="/web/20160203150650/http://espn.go.com/nhl/boxscore?gameId=400815619"  id="sdd-boxscore-400815619">Boxscore &#187;</a></td></tr></table></div><!-- end Series at a Glance -->
+</div><div class="matchup " id="matchup-nhl-400814790"><div class="team away"><div class="logo-medium" style="background:#000000;"><img src="/web/20160203150650im_/http://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500-dark/ana.png&amp;w=40&amp;h=40&amp;transparent=true" alt=""/></div><div class="team-info"><h3><a href="/web/20160203150650/http://espn.go.com/nhl/team/_/name/ana/anaheim-ducks">Ducks</a> <span id="matchup-nhl-400814790-awayScore" class="gp-awayScore">0</span></h3><p id="awayRecord">(0-1-0, 0 pts)</p></div></div><div class="team home"><div class="logo-medium" style="background:#00535E;"><img src="/web/20160203150650im_/http://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500-dark/sj.png&amp;w=40&amp;h=40&amp;transparent=true" alt=""/></div><div class="team-info"><h3><a href="/web/20160203150650/http://espn.go.com/nhl/team/_/name/sj/san-jose-sharks">Sharks</a> <span id="matchup-nhl-400814790-homeScore" class="gp-homeScore">2</span></h3><p id="homeRecord">(2-0-0, 4 pts)</p></div></div></div><div class="game-actions"><ul><li id="ga-realtime" style="display:none"><a href="#" onclick="window.open('/web/20160203150650/http://insider.espn.go.com/nhl/caster/realtime','','width=785,height=214,scrollbars=no'); return false;""><span class="outer"><span class="title" style="position:relative; padding-right:15px;">Realtime</span></span></a></li><li id="ga-motion" style="display:none"><a href="#"><span class="outer"><span class="title">&nbsp;</span></span></a></li></ul></div><div class="game-vitals"><p style="padding: 8px 0px 0px; float: right; font-size: 11px;"></p><div class="game-time-location"><p>10:30 PM ET, October 10, 2015</p><p>SAP Center, San Jose, California</p></div></div>
+
+    <!-- begin line score -->
+    <div class="line-score clear">
+        
+            <div class="line-score-container">
+                <table cellspacing="0" id="gp-linescore" class="linescore"  >
+                    <tr class="periods">
+                        <td class="team"></td>
+
+                        <td class="period" style="text-align:center" > 1</td><td class="period" style="text-align:center" > 2</td><td class="period" style="text-align:center" > 3</td><td class="period otPeriod"  style="display:none; text-align:center;"  > OT</td>
+                        <td class="total" style="text-align:center">T</td>
+
+                    </tr>
+
+                    <tr><td class="team"><a href="/web/20160203150650/http://espn.go.com/nhl/team/_/name/ana/anaheim-ducks">ANA</a></td><td id="lsAway1" style="text-align:center" > 0</td><td id="lsAway2" style="text-align:center" > 0</td><td id="lsAway3" style="text-align:center" > 0</td><td id="lsAwayot"  style="display:none; text-align:center;"  class="otPeriod" > </td><td class="ts gp-awayScore" style="text-align:center" id="linescore-totalScoreAway">0</td></tr><tr><td class="team"><a href="/web/20160203150650/http://espn.go.com/nhl/team/_/name/sj/san-jose-sharks">SJ</a></td><td id="lsHome1" style="text-align:center" > 0</td><td id="lsHome2" style="text-align:center" > 1</td><td id="lsHome3" style="text-align:center" > 1</td><td id="lsHomeot"  style="display:none; text-align:center;"  class="otPeriod" > </td><td class="ts gp-homeScore" style="text-align:center" id="linescore-totalScoreHome">2</td></tr>
+                </table>
+                
+
+                    <table class="season-leaders" id="gp-season-leaders" cellspacing="4" style="display:none">
+                        <thead>
+                            <tr class="periods">
+                                <th>&nbsp;</th>
+                                <th style="text-align:left">Points</th>
+                                <th style="text-align:left">Goals</th>
+                                <th style="text-align:left">Assists</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        <tr><td class="team"><a href="/web/20160203150650/http://espn.go.com/nhl/team/_/name/ana/anaheim-ducks"><strong>ANA</strong></a></td><td style="text-align:left" ><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/2273/corey-perry">C&nbsp;Perry</a> <b>34</b></td><td style="text-align:left" ><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/2273/corey-perry">C&nbsp;Perry</a> <b>20</b></td><td style="text-align:left" ><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/2310/ryan-getzlaf">R&nbsp;Getzlaf</a> <b>29</b></td></tr><tr><td class="team"><a href="/web/20160203150650/http://espn.go.com/nhl/team/_/name/sj/san-jose-sharks"><strong>SJ</strong></a></td><td style="text-align:left" ><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/3451/joe-pavelski">J&nbsp;Pavelski</a> <b>49</b></td><td style="text-align:left" ><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/3451/joe-pavelski">J&nbsp;Pavelski</a> <b>25</b></td><td style="text-align:left" ><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/939/joe-thornton">J&nbsp;Thornton</a> <b>32</b></td></tr>
+                        </tbody>
+                    </table>
+                    
+                
+
+
+            </div>
+        <!-- end line score --><div id="gp-gameNotes" class="game-notes" ><p><span class="stars" style="width:45px; display:inline-block; text-align:right; padding-right:5px; padding-top: 6px;"><img src="/web/20160203150650im_/http://a.espncdn.com/nhl/i/star-gold.png" alt="" /></span><span><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/576/patrick-marleau" style="color:#000;">P. Marleau</a></span> (Sharks - C): Goals: 2, Assists: 0</p><p><span class="stars" style="width:45px; display:inline-block; text-align:right; padding-right:5px; "><img src="/web/20160203150650im_/http://a.espncdn.com/nhl/i/star-gold.png" alt="" /><img src="/web/20160203150650im_/http://a.espncdn.com/nhl/i/star-gold.png" alt="" /></span><span><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/5096/martin-jones" style="color:#000;">M. Jones</a></span> (Sharks - G): Saves: 27, Save Pct.: 1.000</p><p><span class="stars" style="width:45px; display:inline-block; text-align:right; padding-right:5px; "><img src="/web/20160203150650im_/http://a.espncdn.com/nhl/i/star-gold.png" alt="" /><img src="/web/20160203150650im_/http://a.espncdn.com/nhl/i/star-gold.png" alt="" /><img src="/web/20160203150650im_/http://a.espncdn.com/nhl/i/star-gold.png" alt="" /></span><span><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/2517899/frederik-andersen" style="color:#000;">F. Andersen</a></span> (Ducks - G): Saves: 42, Save Pct.: .955</p>
+        </div>
+    </div>
+</div><div class="span-2 last" id="gp-adwrap"><div class="ad-box" style="padding:2px 0px; height:250px;">
+<!-- gpt ad type: incontent kvps: pgtyp=nhlboxscore;sp=nhl;nav=true;-->
+<div class="ad-slot ad-slot-incontent" data-slot-type="incontent" data-slot-kvps="pos=incontent"></div></div></div>
+	<div class="tabs clear">
+		<ul>
+
+		<li class="" style="display:none;"><a href="preview?gameId=400814790"><span class="title">Preview</span></a></li><li class="" style="display:block;"><a href="recap?gameId=400814790"><span class="title">Recap</span></a></li><li class="active" style="display:block;"><a href="boxscore?gameId=400814790"><span class="title">Box Score</span></a></li><li class="" style="display:block;"><a href="playbyplay?gameId=400814790"><span class="title">Play-By-Play</span></a></li><li class="" style="display:block;"><a href="gamecast?gameId=400814790"><span class="title">GameCast</span></a></li><li class="" style="display:block;"><a href="photos?gameId=400814790"><span class="title">Photos</span><span class="quantity"><span>39</span></span></a></li><li class="" style="display:block;"><a href="conversation?gameId=400814790"><span class="title">Conversation</span><span class="fb-comments-long quantity"><span class="count"></span></span></a></li><li class="" style="display:none;"><a href="commentary?gameId=400814790"><span class="title">Pressbox</span></a></li></ul></div><script>jQuery.getScriptCache("/web/20160203150650/http://a.espncdn.com/combiner/c/69?js=jquery.sharetools.r15-u4.js", function() {jQuery(".tabs").sharetools("/web/20160203150650/http://scores.espn.go.com/nhl/conversation?gameId=400814790");});</script></div><div class="story-container"><div class="gp-body" id="my-players-table"><div style="width: 884px; overflow: hidden; padding-bottom: 10px;">
+<!-- gpt ad type: presentedbylogogamehq kvps: pgtyp=nhlboxscore;sp=nhl;gmid=400814790;nav=true;-->
+<div class="ad-slot ad-slot-presentedbylogogamehq" data-slot-type="presentedbylogogamehq" data-slot-kvps="pos=presentedbylogogamehq"></div></div><div class="mod-container mod-no-footer mod-open mod-open-gamepack"><div class="mod-header"><h4>Game Information</h4></div><div class="mod-content"><table class="mod-data mod-pbp"><tbody><tr class="even"><td valign="top"><strong>Arena: </strong>SAP Center<br /><strong>Location: </strong>San Jose, California</td><td><strong>Referees: </strong>Justin St. Pierre, Wes McCauley<br /><strong>Linesmen: </strong>Jay Sharrers, Vaughan Rody</td></tr><tr class="odd"><td colspan="2"><strong>Attendance: </strong>17,562 (100.4% full)</td></tr></tbody></table></div></div><div class="mod-container mod-no-footer mod-open mod-open-gamepack"><div class="mod-header"><h4>Team Statistical Comparison</h4></div><div class="mod-content"><table class="mod-data mod-pbp"><tr valign="bottom" class="even"><td colspan="6" style="text-align:center" height="20">Key: <span class="comparisonBar" style="width: 53px; background-color:#000000;"></span>&nbsp;Anaheim&nbsp;&nbsp;<span class="comparisonBar" style="width: 53px; background-color:#00535E;"></span>&nbsp;San Jose</td></tr><tr valign="top" class="even"><td style="border:1px solid #dadada;"><table border="0" cellpadding="2" cellspacing="0" width="100%"><tr><td colspan="2" height="14"><strong>Total Shots<strong></td></tr><tr><td style="padding-right:0;">&nbsp;</td><td style="text-align:left; padding-left:0;"><span class="comparisonBar" style="width: 29px; background-color:#000000;"></span>&nbsp;27</td></tr><tr><td style="padding-right:0;"><img src="/web/20160203150650im_/http://a.espncdn.com/i/nhl/arrow2_small_lr.gif" width="8" height="7" border="0" /></td><td style="text-align:left; padding-left:0;"><span class="comparisonBar" style="width: 46px; background-color:#00535E;"></span>&nbsp;44</td></tr></table></td><td style="border:1px solid #dadada;"><table border="0" cellpadding="2" cellspacing="0" width="100%"><tr><td colspan="2" height="14"><strong>PIM<strong></td></tr><tr><td style="padding-right:0;">&nbsp;</td><td style="text-align:left; padding-left:0;"><span class="comparisonBar" style="width: 38px; background-color:#000000;"></span>&nbsp;2</td></tr><tr><td style="padding-right:0;">&nbsp;</td><td style="text-align:left; padding-left:0;"><span class="comparisonBar" style="width: 38px; background-color:#00535E;"></span>&nbsp;2</td></tr></table></td><td style="border:1px solid #dadada;"><table border="0" cellpadding="2" cellspacing="0" width="100%"><tr><td colspan="2" height="14"><strong>Hits<strong></td></tr><tr><td style="padding-right:0;">&nbsp;</td><td style="text-align:left; padding-left:0;"><span class="comparisonBar" style="width: 31px; background-color:#000000;"></span>&nbsp;22</td></tr><tr><td style="padding-right:0;"><img src="/web/20160203150650im_/http://a.espncdn.com/i/nhl/arrow2_small_lr.gif" width="8" height="7" border="0" /></td><td style="text-align:left; padding-left:0;"><span class="comparisonBar" style="width: 44px; background-color:#00535E;"></span>&nbsp;31</td></tr></table></td><td style="border:1px solid #dadada;"><table border="0" cellpadding="2" cellspacing="0" width="100%"><tr><td colspan="2" height="14"><strong>Giveaways<strong></td></tr><tr><td style="padding-right:0;">&nbsp;</td><td style="text-align:left; padding-left:0;"><span class="comparisonBar" style="width: 38px; background-color:#000000;"></span>&nbsp;12</td></tr><tr><td style="padding-right:0;">&nbsp;</td><td style="text-align:left; padding-left:0;"><span class="comparisonBar" style="width: 38px; background-color:#00535E;"></span>&nbsp;12</td></tr></table></td><td style="border:1px solid #dadada;"><table border="0" cellpadding="2" cellspacing="0" width="100%"><tr><td colspan="2" height="14"><strong>Takeaways<strong></td></tr><tr><td style="padding-right:0;">&nbsp;</td><td style="text-align:left; padding-left:0;"><span class="comparisonBar" style="width: 9px; background-color:#000000;"></span>&nbsp;2</td></tr><tr><td style="padding-right:0;"><img src="/web/20160203150650im_/http://a.espncdn.com/i/nhl/arrow2_small_lr.gif" width="8" height="7" border="0" /></td><td style="text-align:left; padding-left:0;"><span class="comparisonBar" style="width: 66px; background-color:#00535E;"></span>&nbsp;15</td></tr></table></td><td style="border:1px solid #dadada;"><table border="0" cellpadding="2" cellspacing="0" width="100%"><tr><td colspan="2" height="14"><strong>Faceoffs Won<strong></td></tr><tr><td style="padding-right:0;"><img src="/web/20160203150650im_/http://a.espncdn.com/i/nhl/arrow2_small_lr.gif" width="8" height="7" border="0" /></td><td style="text-align:left; padding-left:0;"><span class="comparisonBar" style="width: 41px; background-color:#000000;"></span>&nbsp;32</td></tr><tr><td style="padding-right:0;">&nbsp;</td><td style="text-align:left; padding-left:0;"><span class="comparisonBar" style="width: 34px; background-color:#00535E;"></span>&nbsp;26</td></tr></table></td></tr></table></div></div><div class="mod-container mod-no-header-footer mod-open mod-open-gamepack mod-box"><div class="mod-content"><table border="1" width="100%" class="mod-data mod-pbp"><thead><tr bgcolor="#555555"><td colspan="5" style="text-align:left; padding:0; border-right:1px solid #FFFFFF;"><div class="mod-header" style="border:none;"><h4 style="text-align:left">1st Period Summary</h4></div></td></tr>
+<tr>
+<th style="text-align:left">Time</th>
+<th style="text-align:left; width:50px;">Team</th>
+<th style="text-align:left">Scoring Detail</th>
+<th style="text-align:center" width="5%">ANA</th>
+<th style="text-align:center" width="5%">SJ</th>
+</tr>
+</thead><tbody><tr class="even"><td align="center" valign="top" colspan="3">No scoring this period</td><td valign="top" style="text-align:center;">0</td><td valign="top" style="text-align:center;">0</td></tr></tbody><thead><tr align="right" class="colhead"><th align=left>Time</th><th style="text-align:left;">Team</th><th style="text-align:left;" colspan="3">Penalty Detail</th></tr></thead><tbody><tr class="even"><td valign="top" width="50px">5:27</td><td valign="top"><div class="logo-small"><img src="/web/20160203150650im_/http://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/san.png&amp;h=25&amp;w=25&amp;transparent=true" /></div></td><td valign="top" colspan="3">Joe Pavelski: 2 Minutes  for Boarding </td></tr></tbody><thead><tr bgcolor="#555555"><td colspan="5" style="text-align:left; padding:0; border-right:1px solid #FFFFFF;"><div class="mod-header" style="border:none;"><h4 style="text-align:left">2nd Period Summary</h4></div></td></tr>
+<tr>
+<th style="text-align:left">Time</th>
+<th style="text-align:left; width:50px;">Team</th>
+<th style="text-align:left">Scoring Detail</th>
+<th style="text-align:center" width="5%">ANA</th>
+<th style="text-align:center" width="5%">SJ</th>
+</tr>
+</thead><tbody><tr class="even"><td valign="top">19:21</td><td valign="top"><div class="logo-small"><img src="/web/20160203150650im_/http://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/san.png&amp;h=25&amp;w=25&amp;transparent=true" /></div></td><td valign="top">Patrick Marleau (1) <br /><i>Assists: Logan Couture, Joel Ward</i></td><td valign="top" style="text-align:center;">0</td><td valign="top" style="text-align:center;">1</td></tr></tbody><thead><tr align="right" class="colhead"><th align=left>Time</th><th style="text-align:left;">Team</th><th style="text-align:left;" colspan="3">Penalty Detail</th></tr></thead><tbody><tr class="even"><td valign="top" align="center" colspan="5">No penalties this period</td></tr></tbody><thead><tr bgcolor="#555555"><td colspan="5" style="text-align:left; padding:0; border-right:1px solid #FFFFFF;"><div class="mod-header" style="border:none;"><h4 style="text-align:left">3rd Period Summary</h4></div></td></tr>
+<tr>
+<th style="text-align:left">Time</th>
+<th style="text-align:left; width:50px;">Team</th>
+<th style="text-align:left">Scoring Detail</th>
+<th style="text-align:center" width="5%">ANA</th>
+<th style="text-align:center" width="5%">SJ</th>
+</tr>
+</thead><tbody><tr class="even"><td valign="top">15:10</td><td valign="top"><div class="logo-small"><img src="/web/20160203150650im_/http://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/san.png&amp;h=25&amp;w=25&amp;transparent=true" /></div></td><td valign="top">Patrick Marleau (2) <br /><i>Assist: Joel Ward</i></td><td valign="top" style="text-align:center;">0</td><td valign="top" style="text-align:center;">2</td></tr></tbody><thead><tr align="right" class="colhead"><th align=left>Time</th><th style="text-align:left;">Team</th><th style="text-align:left;" colspan="3">Penalty Detail</th></tr></thead><tbody><tr class="even"><td valign="top" width="50px">16:53</td><td valign="top"><div class="logo-small"><img src="/web/20160203150650im_/http://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/ana.png&amp;h=25&amp;w=25&amp;transparent=true" /></div></td><td valign="top" colspan="3">Mike Santorelli: 2 Minutes  for Hooking </td></tr></tbody></table></div></div><div class="mod-container mod-open mod-open-gamepack"><div class="mod-header"><h4>Player Summary</h4></div><div class="mod-content"><table class="mod-data"><thead><tr><td valign="top" class="even"><div class="mod-container mod-no-header mod-open mod-open-gamepack"><div class="mod-content" style="margin-bottom: 0px ! important;"><table border="0" width="100%" class="mod-data"><thead><tr class="team-color-strip"><th style="border-bottom-color: #000000; text-align: left; font: 700 14px/25px Helvetica,Arial,sans-serif;" colspan="12"><div style="margin-right: 6px;" class="logo-small logo-nhl-small nhl-small-25 floatleft"></div>Anaheim Ducks</th><th colspan="5" align="center" style="border-bottom-color: #000000; text-align: left;">Time On Ice</th><th colspan="3" align="center" style="border-bottom-color: #000000; text-align: left;">Faceoffs</th></tr><tr><th style="text-align:left;" width="19%">Player</th><th align="right" width="4%"> G</th><th align="right" width="4%"> A</th><th align="right" width="4%"> +/-</th><th align="right" width="4%"> SOG</th><th align="right" width="4%"> MS</th><th align="right" width="4%"> BS</th><th align="right" width="4%"> PN</th><th align="right" width="4%"> PIM</th><th align="right" width="4%"> HT</th><th align="right" width="4%"> TK</th><th align="right" width="4%"> GV</th><th align="right" width="4%"> SHF</th><th align="right" width="5%"> TOT</th><th align="right" width="5%"> PP</th><th align="right" width="5%"> SH</th><th align="right" width="5%"> EV</th><th align="right" width="4%"> FW</th><th align="right" width="4%"> FL</th><th align="right" width="5%"> %</th></tr></thead><tbody><tr class="even player-90-3269" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/3269/kevin-bieksa">K. Bieksa</a> D </td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">4</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">0</td><td align="right">1</td><td align="right">26</td><td align="right">24:26</td><td align="right">0:57</td><td align="right">0:00</td><td align="right">23:29</td><td align="right">0</td><td align="right">0</td><td align="right">00.0</td></tr><tr class="odd player-90-3655.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/3655/andrew-cogliano">A. Cogliano</a> C </td><td align="right">0</td><td align="right">0</td><td align="right">-1</td><td align="right">1</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">4</td><td align="right">0</td><td align="right">0</td><td align="right">19</td><td align="right">14:33</td><td align="right">0:00</td><td align="right">0:00</td><td align="right">14:33</td><td align="right">0</td><td align="right">0</td><td align="right">00.0</td></tr><tr class="even player-90-5312.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/5312/simon-despres">S. Despres</a> D </td><td align="right">0</td><td align="right">0</td><td align="right">-2</td><td align="right">0</td><td align="right">1</td><td align="right">5</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">24</td><td align="right">18:50</td><td align="right">0:00</td><td align="right">2:00</td><td align="right">16:50</td><td align="right">0</td><td align="right">0</td><td align="right">00.0</td></tr><tr class="odd player-90-5495.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/5495/cam-fowler">C. Fowler</a> D </td><td align="right">0</td><td align="right">0</td><td align="right">-2</td><td align="right">3</td><td align="right">0</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">26</td><td align="right">19:12</td><td align="right">1:03</td><td align="right">2:00</td><td align="right">16:09</td><td align="right">0</td><td align="right">0</td><td align="right">00.0</td></tr><tr class="even player-90-2310.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/2310/ryan-getzlaf">R. Getzlaf</a> C </td><td align="right">0</td><td align="right">0</td><td align="right">-2</td><td align="right">2</td><td align="right">2</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">0</td><td align="right">2</td><td align="right">21</td><td align="right">18:47</td><td align="right">1:03</td><td align="right">0:00</td><td align="right">17:44</td><td align="right">14</td><td align="right">7</td><td align="right">66.7</td></tr><tr class="odd player-90-2300267.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/2300267/carl-hagelin">C. Hagelin</a> LW</td><td align="right">0</td><td align="right">0</td><td align="right">-1</td><td align="right">1</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">3</td><td align="right">0</td><td align="right">0</td><td align="right">19</td><td align="right">16:54</td><td align="right">0:00</td><td align="right">0:00</td><td align="right">16:54</td><td align="right">0</td><td align="right">0</td><td align="right">00.0</td></tr><tr class="even player-90-1080.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/1080/shawn-horcoff">S. Horcoff</a> C </td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">2</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">14</td><td align="right">10:05</td><td align="right">0:02</td><td align="right">0:00</td><td align="right">10:03</td><td align="right">2</td><td align="right">4</td><td align="right">33.3</td></tr><tr class="odd player-90-2175.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/2175/ryan-kesler">R. Kesler</a> C </td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">2</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">1</td><td align="right">0</td><td align="right">24</td><td align="right">17:05</td><td align="right">0:55</td><td align="right">2:00</td><td align="right">14:10</td><td align="right">12</td><td align="right">8</td><td align="right">60.0</td></tr><tr class="even player-90-2968818.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/2968818/hampus-lindholm">H. Lindholm</a> D </td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">4</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">26</td><td align="right">25:16</td><td align="right">1:11</td><td align="right">0:00</td><td align="right">24:05</td><td align="right">0</td><td align="right">0</td><td align="right">00.0</td></tr><tr class="odd player-90-3853.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/3853/patrick-maroon">P. Maroon</a> LW</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">2</td><td align="right">18</td><td align="right">12:09</td><td align="right">0:57</td><td align="right">0:00</td><td align="right">11:12</td><td align="right">0</td><td align="right">0</td><td align="right">00.0</td></tr><tr class="even player-90-2273.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/2273/corey-perry">C. Perry</a> RW</td><td align="right">0</td><td align="right">0</td><td align="right">-1</td><td align="right">1</td><td align="right">2</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">2</td><td align="right">0</td><td align="right">1</td><td align="right">23</td><td align="right">16:03</td><td align="right">1:03</td><td align="right">0:00</td><td align="right">15:00</td><td align="right">0</td><td align="right">0</td><td align="right">00.0</td></tr><tr class="odd player-90-2562629.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/2562629/rickard-rakell">R. Rakell</a> C </td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">2</td><td align="right">2</td><td align="right">2</td><td align="right">0</td><td align="right">0</td><td align="right">3</td><td align="right">1</td><td align="right">0</td><td align="right">21</td><td align="right">14:48</td><td align="right">0:00</td><td align="right">0:00</td><td align="right">14:48</td><td align="right">4</td><td align="right">5</td><td align="right">44.4</td></tr><tr class="even player-90-3742.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/3742/mike-santorelli">M. Santorelli</a> C </td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">2</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">17</td><td align="right">11:10</td><td align="right">0:02</td><td align="right">0:00</td><td align="right">11:08</td><td align="right">0</td><td align="right">1</td><td align="right">00.0</td></tr><tr class="odd player-90-3115577.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/3115577/jiri-sekac">J. Sekac</a> LW</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">3</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">20</td><td align="right">13:24</td><td align="right">0:00</td><td align="right">0:00</td><td align="right">13:24</td><td align="right">0</td><td align="right">1</td><td align="right">00.0</td></tr><tr class="even player-90-2590549.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/2590549/jakob-silfverberg">J. Silfverberg</a> LW</td><td align="right">0</td><td align="right">0</td><td align="right">-1</td><td align="right">4</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">23</td><td align="right">18:17</td><td align="right">0:55</td><td align="right">2:00</td><td align="right">15:22</td><td align="right">0</td><td align="right">0</td><td align="right">00.0</td></tr><tr class="odd player-90-3526.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/3526/chris-stewart">C. Stewart</a> RW</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">2</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">0</td><td align="right">1</td><td align="right">17</td><td align="right">15:38</td><td align="right">1:03</td><td align="right">0:00</td><td align="right">14:35</td><td align="right">0</td><td align="right">0</td><td align="right">00.0</td></tr><tr class="even player-90-3188.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/3188/clayton-stoner">C. Stoner</a> D </td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">1</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">2</td><td align="right">0</td><td align="right">3</td><td align="right">25</td><td align="right">15:33</td><td align="right">0:00</td><td align="right">0:00</td><td align="right">15:33</td><td align="right">0</td><td align="right">0</td><td align="right">00.0</td></tr><tr class="odd player-90-2590835.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/2590835/sami-vatanen">S. Vatanen</a> D </td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">0</td><td align="right">2</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">27</td><td align="right">16:43</td><td align="right">0:49</td><td align="right">0:00</td><td align="right">15:54</td><td align="right">0</td><td align="right">0</td><td align="right">00.0</td></tr></tbody><thead><tr class="team-color-strip"><th style="border-bottom-color: #000000; text-align: left; font: 700 14px/25px Helvetica,Arial,sans-serif;" colspan="20"><div style="margin-right: 6px;" class="logo-small logo-nhl-small nhl-small-25 floatleft"></div>Anaheim Ducks Scratches</th></tr><tr><th style="text-align:left;" colspan="1">Player</th><th style="text-align:left;" colspan="19">Detail</th></tr></thead><tbody><tr class="even" style="text-align:left;"><td style="text-align:left;" colspan="1">J. Manson</td><td style="text-align:left;" colspan="19">Scratched</td></tr><tr class="odd" style="text-align:left;"><td style="text-align:left;" colspan="1">T. Jackman</td><td style="text-align:left;" colspan="19">Scratched</td></tr><tr class="even" style="text-align:left;"><td style="text-align:left;" colspan="1">C. Wagner</td><td style="text-align:left;" colspan="19">Scratched</td></tr></tbody></table></div></div><div class="mod-container mod-no-header mod-open mod-open-gamepack"><div class="mod-content" style="margin-bottom: 0px ! important;"><table border="0" width="100%" class="mod-data"><thead><tr class="team-color-strip"><th style="border-bottom-color: #00535E; text-align: left; font: 700 14px/25px Helvetica,Arial,sans-serif;" colspan="12"><div style="margin-right: 6px;" class="logo-small logo-nhl-small nhl-small-18 floatleft"></div>San Jose Sharks</th><th colspan="5" align="center" style="border-bottom-color: #00535E; text-align: left;">Time On Ice</th><th colspan="3" align="center" style="border-bottom-color: #00535E; text-align: left;">Faceoffs</th></tr><tr><th style="text-align:left;" width="19%">Player</th><th align="right" width="4%"> G</th><th align="right" width="4%"> A</th><th align="right" width="4%"> +/-</th><th align="right" width="4%"> SOG</th><th align="right" width="4%"> MS</th><th align="right" width="4%"> BS</th><th align="right" width="4%"> PN</th><th align="right" width="4%"> PIM</th><th align="right" width="4%"> HT</th><th align="right" width="4%"> TK</th><th align="right" width="4%"> GV</th><th align="right" width="4%"> SHF</th><th align="right" width="5%"> TOT</th><th align="right" width="5%"> PP</th><th align="right" width="5%"> SH</th><th align="right" width="5%"> EV</th><th align="right" width="4%"> FW</th><th align="right" width="4%"> FL</th><th align="right" width="5%"> %</th></tr></thead><tbody><tr class="odd player-90-5470" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/5470/justin-braun">J. Braun</a> D </td><td align="right">0</td><td align="right">0</td><td align="right">2</td><td align="right">1</td><td align="right">0</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">4</td><td align="right">1</td><td align="right">26</td><td align="right">20:29</td><td align="right">0:00</td><td align="right">0:52</td><td align="right">19:37</td><td align="right">0</td><td align="right">0</td><td align="right">00.0</td></tr><tr class="even player-90-3523.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/3523/mike-brown">M. Brown</a> RW</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">2</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">8</td><td align="right">0</td><td align="right">1</td><td align="right">18</td><td align="right">10:38</td><td align="right">0:00</td><td align="right">0:00</td><td align="right">10:38</td><td align="right">0</td><td align="right">0</td><td align="right">00.0</td></tr><tr class="odd player-90-2300.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/2300/brent-burns">B. Burns</a> D </td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">5</td><td align="right">0</td><td align="right">2</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">3</td><td align="right">1</td><td align="right">25</td><td align="right">24:43</td><td align="right">2:00</td><td align="right">0:49</td><td align="right">21:54</td><td align="right">0</td><td align="right">0</td><td align="right">00.0</td></tr><tr class="even player-90-3773.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/3773/logan-couture">L. Couture</a> C </td><td align="right">0</td><td align="right">1</td><td align="right">1</td><td align="right">2</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">20</td><td align="right">18:21</td><td align="right">1:50</td><td align="right">0:47</td><td align="right">15:44</td><td align="right">5</td><td align="right">9</td><td align="right">35.7</td></tr><tr class="odd player-90-2554903.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/2554903/brenden-dillon">B. Dillon</a> D </td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">0</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">3</td><td align="right">0</td><td align="right">1</td><td align="right">20</td><td align="right">16:22</td><td align="right">0:00</td><td align="right">0:19</td><td align="right">16:03</td><td align="right">0</td><td align="right">0</td><td align="right">00.0</td></tr><tr class="even player-90-2590379.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/2590379/joonas-donskoi">J. Donskoi</a> RW</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">1</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">20</td><td align="right">16:38</td><td align="right">0:00</td><td align="right">0:03</td><td align="right">16:35</td><td align="right">0</td><td align="right">0</td><td align="right">00.0</td></tr><tr class="odd player-90-3069411.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/3069411/barclay-goodrow">B. Goodrow</a> LW</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">16</td><td align="right">10:17</td><td align="right">0:00</td><td align="right">0:39</td><td align="right">9:38</td><td align="right">1</td><td align="right">0</td><td align="right">100.0</td></tr><tr class="even player-90-2976844.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/2976844/tomas-hertl">T. Hertl</a> C </td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">4</td><td align="right">0</td><td align="right">2</td><td align="right">0</td><td align="right">0</td><td align="right">3</td><td align="right">0</td><td align="right">0</td><td align="right">18</td><td align="right">14:21</td><td align="right">0:00</td><td align="right">0:00</td><td align="right">14:21</td><td align="right">8</td><td align="right">6</td><td align="right">57.1</td></tr><tr class="odd player-90-576.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/576/patrick-marleau">P. Marleau</a> C </td><td align="right">2</td><td align="right">0</td><td align="right">2</td><td align="right">7</td><td align="right">1</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">1</td><td align="right">20</td><td align="right">19:21</td><td align="right">2:00</td><td align="right">0:47</td><td align="right">16:34</td><td align="right">0</td><td align="right">0</td><td align="right">00.0</td></tr><tr class="even player-90-2162.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/2162/paul-martin">P. Martin</a> D </td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">4</td><td align="right">2</td><td align="right">1</td><td align="right">24</td><td align="right">22:27</td><td align="right">0:00</td><td align="right">1:05</td><td align="right">21:22</td><td align="right">0</td><td align="right">0</td><td align="right">00.0</td></tr><tr class="odd player-90-2563076.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/2563076/matt-nieto">M. Nieto</a> LW</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">3</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">18</td><td align="right">12:33</td><td align="right">0:00</td><td align="right">0:21</td><td align="right">12:12</td><td align="right">0</td><td align="right">0</td><td align="right">00.0</td></tr><tr class="even player-90-3451.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/3451/joe-pavelski">J. Pavelski</a> C </td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">2</td><td align="right">0</td><td align="right">3</td><td align="right">1</td><td align="right">2</td><td align="right">4</td><td align="right">0</td><td align="right">0</td><td align="right">21</td><td align="right">18:36</td><td align="right">2:00</td><td align="right">0:00</td><td align="right">16:36</td><td align="right">4</td><td align="right">4</td><td align="right">50.0</td></tr><tr class="odd player-90-3020635.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/3020635/matt-tennyson">M. Tennyson</a> D </td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">3</td><td align="right">2</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">16</td><td align="right">13:10</td><td align="right">0:00</td><td align="right">0:03</td><td align="right">13:07</td><td align="right">0</td><td align="right">0</td><td align="right">00.0</td></tr><tr class="even player-90-939.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/939/joe-thornton">J. Thornton</a> C </td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">5</td><td align="right">1</td><td align="right">2</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">4</td><td align="right">1</td><td align="right">21</td><td align="right">18:08</td><td align="right">2:00</td><td align="right">0:00</td><td align="right">16:08</td><td align="right">2</td><td align="right">5</td><td align="right">28.6</td></tr><tr class="odd player-90-3067870.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/3067870/chris-tierney">C. Tierney</a> C </td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">4</td><td align="right">1</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">16</td><td align="right">10:22</td><td align="right">0:00</td><td align="right">0:39</td><td align="right">9:43</td><td align="right">4</td><td align="right">5</td><td align="right">44.4</td></tr><tr class="even player-90-3371.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/3371/marc-edouard-vlasic">M. Vlasic</a> D </td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">2</td><td align="right">1</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">27</td><td align="right">20:59</td><td align="right">0:10</td><td align="right">0:52</td><td align="right">19:57</td><td align="right">0</td><td align="right">0</td><td align="right">00.0</td></tr><tr class="odd player-90-2704.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/2704/joel-ward">J. Ward</a> RW</td><td align="right">0</td><td align="right">2</td><td align="right">1</td><td align="right">1</td><td align="right">2</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">5</td><td align="right">1</td><td align="right">2</td><td align="right">20</td><td align="right">15:40</td><td align="right">0:00</td><td align="right">0:10</td><td align="right">15:30</td><td align="right">2</td><td align="right">1</td><td align="right">66.7</td></tr><tr class="even player-90-4928.0" align="right"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/4928/tommy-wingels">T. Wingels</a> C </td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">1</td><td align="right">0</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">2</td><td align="right">0</td><td align="right">0</td><td align="right">19</td><td align="right">14:55</td><td align="right">0:00</td><td align="right">0:34</td><td align="right">14:21</td><td align="right">0</td><td align="right">2</td><td align="right">00.0</td></tr></tbody><thead><tr class="team-color-strip"><th style="border-bottom-color: #00535E; text-align: left; font: 700 14px/25px Helvetica,Arial,sans-serif;" colspan="20"><div style="margin-right: 6px;" class="logo-small logo-nhl-small nhl-small-18 floatleft"></div>San Jose Sharks Scratches</th></tr><tr><th style="text-align:left;" colspan="1">Player</th><th style="text-align:left;" colspan="19">Detail</th></tr></thead><tbody><tr class="even" style="text-align:left;"><td style="text-align:left;" colspan="1">B. Smith</td><td style="text-align:left;" colspan="19">Scratched</td></tr><tr class="odd" style="text-align:left;"><td style="text-align:left;" colspan="1">D. Demelo</td><td style="text-align:left;" colspan="19">Scratched</td></tr></tbody></table></div></div></td></tr></thead></table></div></div><div class="mod-container mod-open mod-open-gamepack"><div class="mod-header"><h4>Goaltending Summary</h4></div><div class="mod-content"><table class="mod-data"><thead><tr class="even" valign=top><td valign="top" width="50%"><div class="mod-container mod-no-header mod-open mod-open-gamepack"><div class="mod-content" style="margin-bottom: 0px ! important;"><table border="0" width="100%" class="mod-data"><thead><tr class="team-color-strip"><th style="border-bottom-color: #000000; text-align: left; font: 700 14px/25px Helvetica,Arial,sans-serif;" colspan="7"><div style="margin-right: 6px;" class="logo-small logo-nhl-small nhl-small-25 floatleft"></div>Anaheim Ducks Goaltending</th></tr><tr class="colhead" align="right"><th style="text-align:left;">Player</th><th align="right" width="3%"> SA</th><th align="right" width="3%"> GA</th><th align="right" width="3%"> Saves</th><th align="right" width="3%"> SV%</th><th align="right" width="7%"> TOI</th><th align="right" width="8%"> PIM</th></tr></thead><tbody><tr class="even player-90-2517899"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/2517899/frederik-andersen">F. Andersen</a></td><td align="right">44</td><td align="right">2</td><td align="right">42</td><td align="right">.955</td><td align="right">59:07</td><td align="right">0</td></tr></tbody></table></div></div></td><td valign="top" width="50%"><div class="mod-container mod-no-header mod-open mod-open-gamepack"><div class="mod-content" style="margin-bottom: 0px ! important;"><table border="0" width="100%" class="mod-data"><thead><tr class="team-color-strip"><th style="border-bottom-color: #00535E; text-align: left; font: 700 14px/25px Helvetica,Arial,sans-serif;" colspan="7"><div style="margin-right: 6px;" class="logo-small logo-nhl-small nhl-small-18 floatleft"></div>San Jose Sharks Goaltending</th></tr><tr class="colhead" align="right"><th style="text-align:left;">Player</th><th align="right" width="3%"> SA</th><th align="right" width="3%"> GA</th><th align="right" width="3%"> Saves</th><th align="right" width="3%"> SV%</th><th align="right" width="7%"> TOI</th><th align="right" width="8%"> PIM</th></tr></thead><tbody><tr class="even player-90-5096"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/player/_/id/5096/martin-jones">M. Jones</a></td><td align="right">27</td><td align="right">0</td><td align="right">27</td><td align="right">1.000</td><td align="right">60:00</td><td align="right">0</td></tr></tbody></table></div></div></td></tr></thead></table></div></div><div class="mod-container mod-no-footer mod-open mod-open-gamepack"><div class="mod-header"><h4>Shots On Goal</h4></div><div class="mod-content"><table class="mod-data"><thead><tr><th style="text-align:left;">Team</th><th align="center">1st</th><th align="center">2nd</th><th align="center">3rd</th><th align="center">T</th></tr></thead><tbody><tr align="center" class="even"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/team/_/name/ana/anaheim-ducks">Anaheim</a></td><td>9</td><td>15</td><td>3</td><td>27</td></tr><tr align="center" class="odd last"><td style="text-align:left;"><a href="/web/20160203150650/http://espn.go.com/nhl/team/_/name/sj/san-jose-sharks">San Jose</a></td><td>13</td><td>14</td><td>17</td><td>44</td></tr></tbody></table></div></div><div class="mod-container mod-no-footer mod-open mod-open-gamepack"><div class="mod-header"><h4>Power Play Summary</h4></div><div class="mod-content"><table class="mod-data"><thead><tr><th width="50%" style="text-align:left">Team</th><th width="50%" style="text-align:left">PPG / PPO</th></tr></thead><tbody><tr class="even"><td style="text-align:left;">Anaheim</td><td style="text-align:left;">0 of 1</td></tr><tr class="odd last"><td style="text-align:left;">San Jose</td><td style="text-align:left;">0 of 1</td></tr></tbody></table></div></div><br /><span style="font-size:.8em">* - A player receives a "plus" if he is on the ice when his Club scores an even-strength or shorthand goal. He receives a "minus" if he is on the ice for an even-strength or shorthand goal scored by the opposing Club. The difference in these numbers is considered the player's plus-minus statistic.</span><br /><!-- begin sp links -->
+<div style="margin: 10px 0 0 0;">
+<div class="bg-opaque mod-outbrain mod-no-border">
+<div class="mod-content">
+<div class="col-full">
+<h4 class="first">SPONSORED HEADLINES</h4>
+<div class="OUTBRAIN" data-src="/web/20160203150650oe_/http://espn.go.com/nhl/boxscore?gameId=400814790" data-widget-id="AR_20" data-ob-template="espn" ></div></div>
+</div>
+</div>
+<!-- vendor version 2: scoreboard-bottom:614w300h vendorId: boxscore990990 sport: nhl  --></div>
+<!-- end sp links -->
+
+<div id="caster"></div>
+
+<script type="text/javascript">
+	var settings = {
+		"gameId": 400814790,
+		"seasonType": 2,
+		"sessionId": "nhlGC400814790",
+		"status": 3,
+		"period": 3,
+		"currentSnapshotId": 0
+	};
+	try {
+		console.log(settings);
+	}
+	catch(e) {}
+</script>
+
+<script type="text/javascript" src="/web/20160203150650js_/http://a.espncdn.com/combiner/c?v=201101281234&amp;js=/espn/espn/javascript/gamepackage10/gamepackageOOTJS?sport=nhl,/espn/espn/javascript/gamepackage10/fixedOOTJS,/espn/espn/javascript/gamepackage10/seriesDropdown"></script></div><!-- end gp-body --></div><!-- end story-container --><div class="clear"></div></div><!-- end span-6 --></div>
+<div id="global-viewport" data-behavior="global_nav_condensed global_nav_full"  class =" interior" >
+
+<nav id="global-nav-mobile" data-loadtype="server">
+</nav><div class="menu-overlay-primary"></div><div id="header-wrapper" data-behavior="global_header">
+<header id="global-header" class="espn-en user-account-management">
+    <div class="menu-overlay-secondary"></div>
+
+	<div class="container">
+		<a id="global-nav-mobile-trigger" href="#" data-route="false"><span>Menu</span></a><h1><a name="&lpos=sitenavdefault&lid=sitenav_main-logo" href='/web/20160203150650/http://espn.go.com/' >ESPN</a></h1>
+		<ul class="tools">
+			<li class="search">
+<a href="#" class="icon-font-after icon-search-solid-after" id="global-search-trigger"></a>
+<div id="global-search" class="global-search">
+	<input type="text" class="search-box" placeholder="Search Sports, Teams or Players..."><input type="submit" class="btn-search">
+</div></li>
+			
+			<li class="user" data-behavior="favorites_mgmt"></li>
+			
+			<li><a href="#" id="global-scoreboard-trigger" data-route="false">Scores</a></li>
+		</ul>
+		
+
+	</div>
+
+	
+<nav id="global-nav" data-loadtype="server">
+<ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement">
+<li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/nfl/">NFL</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/nba/">NBA</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/mlb/">MLB</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/mens-college-basketball/">NCAAM</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espnfc.com/">Soccer</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/nhl/">NHL</a></li><li itemprop="name"><a itemprop="url" href="#">&hellip;</a><div><ul class="split"><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/esports/">esports</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/college-football/">NCAAF</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/racing/nascar/">NASCAR</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/golf/">Golf</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/tennis/">Tennis</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/racing/">Racing</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/olympics/">Olympics</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/extra/specialolympics/">Special Olympics</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/college-sports/">NCAA</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/womens-basketball/">NCAAW</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/horse-racing/">Horse</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/mma/">MMA</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/boxing/">Boxing</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/womens-basketball/">WNBA</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/college-sports/football/recruiting/">RN FB</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/college-sports/basketball/recruiting/index">RN BB</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espncricinfo.com/">Cricket</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://www.espnscrum.com/">Rugby</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://xgames.com/">X Games</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/chalk/">Chalk</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/endurance/">Endurance</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://www.tsn.ca/cfl">CFL</a></li><li itemprop="name"><a itemprop="url" href="/web/20160203150650/http://espn.go.com/espys/2015/">ESPYS</a></li></ul></div></li><li class="pillar more-espn"><a href="#">More ESPN</a></li><li class="pillar fantasy"><a href="/web/20160203150650/http://espn.go.com/fantasy/">Fantasy</a></li><li class="pillar listen"><a href="/web/20160203150650/http://espn.go.com/espnradio/index">Listen</a></li><li class="pillar watch"><a href="/web/20160203150650/http://espn.go.com/watchespn/index">Watch</a></li></ul>
+
+</nav>
+
+
+
+
+<nav id="global-nav-secondary" data-loadtype="server" >
+<div class="global-nav-container">
+<ul class="first-group"><li class="sports" itemprop="name"><span class="positioning"><a href="/web/20160203150650/http://espn.go.com/nhl/"><span class="brand-logo "><img src="/web/20160203150650im_/http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&amp;w=80&amp;h=80&amp;transparent=true"></span><span class="link-text">NHL</span></a></span></li><li class="sub"><a href="/web/20160203150650/http://espn.go.com/nhl/"  data-breakpoints="desktop,desktop-lg"  data-mobile="false" ><span class="link-text">Home</span><span class="link-text-short">Home</span></a></li><li class="sub"><a href="/web/20160203150650/http://espn.go.com/nhl/scoreboard" ><span class="link-text">Scores</span><span class="link-text-short">Scores</span></a></li><li class="sub"><a href="/web/20160203150650/http://espn.go.com/nhl/schedule"  data-mobile="false" ><span class="link-text">Schedule</span><span class="link-text-short">Schedule</span></a></li><li class="sub"><a href="/web/20160203150650/http://espn.go.com/nhl/standings"  data-mobile="false" ><span class="link-text">Standings</span><span class="link-text-short">Standings</span></a></li><li class="sub"><a href="/web/20160203150650/http://espn.go.com/nhl/teams"  data-sportAbbrev="nhl" ><span class="link-text">Teams</span><span class="link-text-short">Teams</span></a></li><li class="sub"><a href="/web/20160203150650/http://espn.go.com/nhl/statistics"  data-mobile="false" ><span class="link-text">Stats</span><span class="link-text-short">Stats</span></a></li><li class="sub"><a href="/web/20160203150650/http://espn.go.com/nhl/players"  data-mobile="false" ><span class="link-text">Players</span><span class="link-text-short">Players</span></a></li><li class="sub"><a href="/web/20160203150650/http://espn.go.com/nhl/story/_/page/tradetrackernhl/2015-16-nhl-trade-tracker" ><span class="link-text">Trades</span><span class="link-text-short">Trades</span></a></li><li class='sub sub-more-nolink sub-more-more has-sub'><a href='#'>More</a><div><ul class="split"><li class="sub"><a href="/web/20160203150650/http://espn.go.com/blog/nhl/" ><span class="link-text">Cross Checks Blog</span><span class="link-text-short">Cross Checks Blog</span></a></li><li class="sub"><a href="/web/20160203150650/http://espn.go.com/nhl/powerranking"  data-mobile="false" ><span class="link-text">Power Rankings</span><span class="link-text-short">Power Rankings</span></a></li><li class="sub"><a href="/web/20160203150650/http://espn.go.com/nhl/story/_/page/calendar2014/2014-15-nhl-calendar" ><span class="link-text">Key Dates</span><span class="link-text-short">Key Dates</span></a></li><li class="sub"><a href="/web/20160203150650/http://games.espn.go.com/frontpage/hockey"  data-mobile="false" ><span class="link-text">Fantasy</span><span class="link-text-short">Fantasy</span></a></li><li class="sub"><a href="/web/20160203150650/http://espn.go.com/nhl/injuries"  data-mobile="false" ><span class="link-text">Injuries</span><span class="link-text-short">Injuries</span></a></li><li class="sub"><a href="/web/20160203150650/http://espn.go.com/nhl/transactions"  data-mobile="false" ><span class="link-text">Transactions</span><span class="link-text-short">Transactions</span></a></li><li class="sub"><a href="/web/20160203150650/http://espn.go.com/nhl/freeagents"  data-mobile="false" ><span class="link-text">Free Agents</span><span class="link-text-short">Free Agents</span></a></li><li class="sub"><a href="/web/20160203150650/http://espn.go.com/blog/nhl/rumors/insider/" ><span class="link-text">Rumors</span><span class="link-text-short">Rumors</span></a></li><li class="sub"><a href="/web/20160203150650/http://espn.go.com/nhl/attendance"  data-mobile="false" ><span class="link-text">Attendance</span><span class="link-text-short">Attendance</span></a></li><li class="sub"><a href="/web/20160203150650/http://espn.go.com/nhl/stats/dailyleaders"  data-mobile="false" ><span class="link-text">Daily Leaders</span><span class="link-text-short">Daily Leaders</span></a></li><li class="sub"><a href="/web/20160203150650/http://espn.go.com/nhl/history/leaders"  data-mobile="false" ><span class="link-text">Historical Leaders</span><span class="link-text-short">Historical Leaders</span></a></li><li class="sub"><a href="/web/20160203150650/http://espn.go.com/nhl/stats/rpi"  data-mobile="false" ><span class="link-text">RPI</span><span class="link-text-short">RPI</span></a></li><li class="sub"><a href="/web/20160203150650/http://espn.go.com/nhl/news/story?page=awardshistory" ><span class="link-text">Awards History</span><span class="link-text-short">Awards History</span></a></li><li class="sub"><a href="/web/20160203150650/http://espn.go.com/nhl/lines"  data-mobile="false" ><span class="link-text">Daily Lines</span><span class="link-text-short">Lines</span></a></li><li class="sub external"><a href="/web/20160203150650/http://www.dickssportinggoods.com/category/index.jsp?categoryId=15504466&amp;camp=Part:ESPNPart_NHLNav:Shop:SubNavLink"  data-nofollow="true" ><span class="link-text">Shop</span><span class="link-text-short">Shop</span></a></li><li class="sub external"><a href="/web/20160203150650/http://www.stubhub.com/nhl-tickets/grouping/144/?gcid=C12289x522&amp;gtkw=NHL+Sub+Nav" ><span class="link-text">Tickets</span><span class="link-text-short">Tickets</span></a></li></ul></div></li></ul>
+	<script type="text/javascript">
+		var espn = espn || {};
+		espn.nav = espn.nav || {};
+		espn.nav.navId = 11929946;
+		espn.nav.isFallback = false;
+		
+		
+
+	</script>
+</div>
+</nav>
+
+</header></div></div></div>
+<!-- end content -->
+</div>
+<!-- end subheader -->
+<!-- begin footer -->
+<div id="footer" class="container">
+<script type="text/javascript">
+void 0!==window.jQuery&&jQuery(document).on("track.search",function(n,o,c,e,t){"function"==typeof t&&t.call()});
+
+//<![CDATA[
+var link = window.location;
+var bugText = '<a href="#" onclick="window.open(\'/web/20160203150650/http://dynamic.espn.go.com/espn/bugs?url=' + escape(link) + '\', \'Bugs\',\'noresizable,noscrollbars,height=400,width=400\');">Report a Bug</a> | ';
+//]]>
+</script>
+<span style="font-weight:bold;">ESPN.com:</span> <a href="/web/20160203150650/http://sports.espn.go.com/espn/news/story?page=help/index">Help</a> | <a href="/web/20160203150650/http://espnmediazone.com/us/" rel="nofollow">Press</a> | <a href="/web/20160203150650/http://www.espncms.com/Advertise-on-ESPN.aspx" rel="nofollow">Advertise on ESPN.com</a> | <a href="/web/20160203150650/http://www.espncms.com/" rel="nofollow">Sales Media Kit</a> | <a href="/web/20160203150650/http://preferences.truste.com/2.0/?type=espn&amp;affiliateId=148" onclick="window.open('/web/20160203150650/http://preferences.truste.com/2.0/?type=espn&amp;affiliateId=148','popup','width=986,height=878,scrollbars=yes,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">Interest-Based Ads</a> | <script type="text/javascript">document.write(bugText);</script><a href="/web/20160203150650/http://espn.go.com/espn/corrections">Corrections</a> | <a href="/web/20160203150650/http://sports.espn.go.com/espn/news/story?page=contact/index">Contact Us</a> | <a href="/web/20160203150650/http://espn.go.com/espn/sitemap">Site Map</a> | <a href="/web/20160203150650/http://espncareers.com/">Jobs at ESPN</a> | <!--a href="/web/20160203150650/http://corporate.disney.go.com/corporate/sourcing.html" rel="nofollow"><span style="font-weight:bold;">Supplier Information</span></a--><a href="/web/20160203150650/http://go.com/">Go.com</a><br/>&copy; 2016  ESPN Internet Ventures. <a href="/web/20160203150650/http://disneytermsofuse.com/" rel="nofollow">Terms of Use</a>, <a href="/web/20160203150650/http://disneyprivacycenter.com/" rel="nofollow">Privacy Policy</a>, <a href="/web/20160203150650/https://disneyprivacycenter.com/notice-to-california-residents/" rel="nofollow">Your California Privacy Rights</a>,  <a href="/web/20160203150650/https://disneyprivacycenter.com/kids-privacy-policy/english/">Children's Online Privacy Policy</a> and <a href="/web/20160203150650/http://preferences-mgr.truste.com/?type=espn&amp;affiliateId=148">Interest-Based Ads</a> are applicable to you.  All rights reserved.
+
+<!--
+<a href="/web/20160203150650/http://www.espnshop.com/" onClick="location.href('/web/20160203150650/http://log.go.com/log?srvc=sz&guid=73B641A0-6660-4EFC-B8FF-9DE23E8CD9BD&drop=0&addata=3374:65:478847:65&a=1&goto=/web/20160203150650/http://www.espnshop.com/');return false">Shop</a>
+--></div>
+<!-- end footer -->
+<!--[if lte IE 9]></div><![endif]-->
+</div>
+<!-- end bg-elements -->
+<script type="text/javascript" src="/web/20160203150650js_/http://a.espncdn.com/combiner/c/080420141219?js=transitionalHeader/espn.i18n-espn-en.js,transitionalHeader/nav-external-domestic.js"></script><script type="text/javascript" src="/web/20160203150650js_/http://a.espncdn.com/combiner/c/01012015219?js=espn-ads-external.js"></script>
+
+
+
+<!-- SiteCatalyst code version: H.21.3 Copyright 1997-2010 Omniture, Inc. /web/20160203150650/http://www.omniture.com -->
+<script type="text/javascript">
+	var undef = "undefined";
+	var s_account="wdgespcom";
+	var omniSite = "espn";
+	var omniPageName = "espn:nhl:game:boxscore:400814790+-+ana+at+sj";
+	
+	var insiderStatus = ""
+	,anGen = ""
+	,anYear = ""
+	,anDateString = ""
+	,anLoginStatus = ""
+	,callOmniture = function(){
+		/*-- core story s_omni properties --*/
+		if (typeof anCV != "undefined"){anParseLoginBarInfo(anCV);}
+		s_omni.pageName="nhl:game:boxscore:400814790+-+ana+at+sj";
+		s_omni.server = window.location.host; // Server from the Host
+		s_omni.channel = "nhl";
+		s_omni.prop1 = "espn";
+		s_omni.prop4 = "boxscore";
+		s_omni.prop5 = "nhl:game:boxscore";
+		s_omni.prop11 = (insiderStatus !== null) ? insiderStatus + ":premium-no" : "premium-no";
+		s_omni.prop17 = "en";
+		s_omni.hier1 = "nhl:game:boxscore:400814790+-+ana+at+sj";
+		s_omni.eVar7 = anYear + ":" + anGen + ":" + anLoginStatus + ":" + s_omni.prop11 + ":";
+		s_omni.eVar9 = "en";
+		s_omni.eVar13 = "nhl:game:boxscore:400814790+-+ana+at+sj";
+		s_omni.eVar19 = "hockey";
+		s_omni.eVar21 = "nhl";
+		
+		if (s_omni.prop11=="anonymous:premium-yes" || s_omni.prop11=="insider-no:premium-yes" && typeof s_omni.prop4!="undefined" &&
+			(s_omni.prop4=="story" || s_omni.prop4=="blog")) {
+			if (typeof s_omni.events != "undefined" && s_omni.events!="") {
+				s_omni.events = s_omni.events+",event8";
+			} else { 
+				s_omni.events="event8";
+			}
+		}
+		
+		s_omni.prop38 = "Desktop";
+		s_omni.eVar38 = "D=c38";
+		
+		
+		anVersion = "_11apr14_v2_0_r5_";
+		
+		/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+		
+		var s_code = s_omni.t();
+		if(s_code) {
+			var sci = new Image(1,1);
+			sci.onload = function() {console.log("loaded no append")};
+			sci.src = s_code;
+		}
+		
+		
+		// init blueKai
+		if(espn && espn.track && typeof espn.track.bluekai === "function") {
+			espn.track.bluekai();
+		}
+		
+	};	
+</script>
+
+
+
+<script type="text/javascript">
+	if (typeof(s_omni) === 'undefined') {
+		(function($) {
+			// we want to load the analytics files from the cache if possible - so, let's use full $.ajax() calls
+			$.ajax({
+				type:'GET',
+				url: '/web/20160203150650/http://a.espncdn.com/combiner/c?js=analytics/sOmni.js,analytics/analytics.js,analytics/externalnielsen.js&v=15',
+				dataType: 'script',
+				cache: true,
+				success: function() {
+					var lgSrc;
+					if(typeof anCV !== undef && anCV === '' && $('#form-memberarea').length > 0) {
+						lgSrc = '/web/20160203150650/https://r.espn.go.com/members/util/getUserInfo?cb=runOmnitureIndependently&regType=true';
+						$.getScript(lgSrc); // we don't want this to be cached - so we'll use the $.getScript() method
+					} else {
+						callOmniture();
+					}
+				}
+			});
+
+		}(jQuery));
+	}
+</script>
+
+<!-- End SiteCatalyst code version: H.21. -->
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	if (typeof(jQuery) !== 'undefined') {
+		jQuery(function($) {
+			if(typeof window._comscore === 'undefined') {
+				window._comscore = window._comscore || [];
+				window._comscore.push({ c1: "2", c2: "3000005" });
+				jQuery.getScript((document.location.protocol == "https:" ? "/web/20160203150650/https://sb" : "/web/20160203150650/http://b") + ".scorecardresearch.com/beacon.js");
+			}
+		});
+	}
+</script>
+<!-- End comScore Tag -->
+<!-- Begin blueKai Tag -->
+<script type="text/javascript">
+	espn = window.espn || {};
+	espn.track = espn.track || {};
+	espn.track.bluekai = function(){
+		window.bk_async = function(){
+		 	try{
+				if(typeof s_omni !== 'undefined'){
+					bk_addPageCtx("pageName", (typeof s_omni.pageName !== 'undefined' ? s_omni.pageName : ''));
+					bk_addPageCtx("channel", (typeof s_omni.channel !== 'undefined' ? s_omni.channel : ''));
+					bk_addPageCtx("eVar34", (typeof s_omni.prop45 !== 'undefined' ? s_omni.prop45 : ''));
+					bk_addPageCtx("events", (typeof s_omni.events !== 'undefined' ? s_omni.events : ''));
+					bk_addPageCtx("prop1", (typeof s_omni.prop1 !== 'undefined' ? s_omni.prop1 : ''));
+					bk_addPageCtx("swid", (espn.core && typeof espn.core.SWID !== 'undefined' ? espn.core.SWID : ''));
+					bk_addPageCtx("prop4", (typeof s_omni.prop4 !== 'undefined' ? s_omni.prop4 : ''));
+					bk_addPageCtx("prop9", (typeof s_omni.prop9 !== 'undefined' ? s_omni.prop9 : ''));
+					bk_addPageCtx("prop23", (typeof s_omni.prop23 !== 'undefined' ? s_omni.prop23 : ''));
+					bk_addPageCtx("prop25", (typeof s_omni.prop25 !== 'undefined' ? s_omni.prop25 : ''));
+					bk_addPageCtx("prop26", (typeof s_omni.prop26 !== 'undefined' ? s_omni.prop26 : ''));
+					bk_addPageCtx("prop30", (typeof s_omni.prop30 !== 'undefined' ? s_omni.prop30 : ''));
+					bk_addPageCtx("prop32", (typeof s_omni.prop32 !== 'undefined' ? s_omni.prop32 : ''));
+					bk_addPageCtx("prop45", (typeof s_omni.prop45 !== 'undefined' ? s_omni.prop45 : '')); // set for tv channels, which we don't have right now
+				}
+			}
+			catch(e){}
+			window.bk_allow_multiple_calls = true;
+			window.bk_use_multiple_iframes = true;
+			window.bk_pixel_url = '/web/20160203150650/https://tags.bluekai.com/';
+			window.bk_pixel_secure = '/web/20160203150650/https://tags.bluekai.com/';
+			if(window.BKTAG) { window.BKTAG.doTag(24667, 10); }
+		};
+		if(espn.track.bluekai.init === undefined){
+			var scripts = document.getElementsByTagName('script')[0];
+			var s = document.createElement('script');
+			s.async = true;
+			s.src = '/web/20160203150650/https://tags.bkrtx.com/js/bk-coretag.js';
+			scripts.parentNode.insertBefore(s, scripts);
+			espn.track.bluekai.init = true;
+		} else {
+			window.bk_async();
+		}
+	};
+</script>
+<!-- End blueKai Tag -->
+
+		<script>
+		var _sf_async_config={
+			"uid":22222,
+			"domain":"espn.go.com",
+			"pingServer":"pespn.chartbeat.net",
+			"useCanonical":true,
+			"useSubDomains":false,
+			"sections":"nhl:gamehq:boxscore,boxscore,game",
+			"authors":"gamehq"
+		};
+		if (typeof(ad_site) !== 'undefined') { _sf_async_config.zone = ad_site; }
+
+		// load both chartbeat_pub and chartbeat_video
+		(function () {
+			function a() {
+				window._sf_endpt = (new Date()).getTime();
+
+				var cbDomain = (("https:"==document.location.protocol)?"/web/20160203150650/https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/":"/web/20160203150650/http://static.chartbeat.com/");
+
+				var c = document.createElement("script");
+				c.setAttribute("language","javascript");
+				c.setAttribute("type","text/javascript");
+				c.setAttribute("src", cbDomain+"js/chartbeat_pub.js");
+				document.body.appendChild(c);
+
+				if(typeof StrategyInterface !== 'undefined' && (typeof espn !== 'undefined' && typeof espn.video !== 'undefined')){
+					var e = document.createElement("script");
+					e.setAttribute("language",	"javascript");
+					e.setAttribute("type", "text/javascript");
+					e.setAttribute("src", cbDomain+"js/chartbeat_video.js");
+					document.body.appendChild(e);
+				}
+			}
+			var b = window.onload;
+			window.onload = (typeof window.onload != "function") ? a : function () { b(); a() }
+		})();
+		//(function(){function a(){window._sf_endpt=(new Date()).getTime();var c=document.createElement("script");c.setAttribute("language","javascript");c.setAttribute("type","text/javascript");c.setAttribute("src",(("https:"==document.location.protocol)?"/web/20160203150650/https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/":"/web/20160203150650/http://static.chartbeat.com/")+"js/chartbeat_pub.js");document.body.appendChild(c)}var b=window.onload;window.onload=(typeof window.onload!="function")?a:function(){b();a()}})();
+		</script>
+	
+<!-- dynamic logic: safecount -->
+<script src="/web/20160203150650js_/http://content.dl-rms.com/rms/mother/508/nodetag.js"></script>
+
+<script type="text/javascript" charset="utf-8">buildOutHeadlinesForPinnedSite();</script>
+<script type="text/javascript">
+   var isInIFrame = (window.location != window.parent.location) ? true : false;
+   if(isInIFrame){ if(document.referrer){ if(document.referrer.indexOf(".go.com")==-1){ top.location.href=self.location.href; } } }
+</script>
+
+<script type='text/javascript'>
+  //<![CDATA[
+    (function(){
+    window.gravityInsightsParams = {
+      'type': 'content',
+      'action': '',
+      'site_guid': '9a41401e9b7c945344e001ee7f23031e'
+    };
+    var b,c;b="https:"===document.location.protocol?"/web/20160203150650/https://b-ssl.grvcdn.com/moth-min.js":"/web/20160203150650/http://b.grvcdn.com/moth-min.js";window.grvMakeScript=function(d){var a;a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src=d;return a};c=document.getElementsByTagName("script")[0];b&&c.parentNode.insertBefore(window.grvMakeScript(b),c);})();
+  //]]>
+</script></body>
+</html>
+
+
+
+
+<!--
+     FILE ARCHIVED ON 15:06:50 Feb 3, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 1:32:40 Apr 11, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

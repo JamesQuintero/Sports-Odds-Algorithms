@@ -1,0 +1,17 @@
+
+Date: 4-10-2017
+Away: boston-bruins | Home: montreal-canadiens
+Seasonal Record:      -52.74%
+Home Away:            -55.16%
+Home away 10:         50%
+Last 10 games:        53.93%
+Avg points:           -50.44%
+Avg points 10:        54.1%
+Win streak home away: 50%
+--------
+Total: -50.04%
+--------
+Perc chance to win: 50.04%
+Favorable team odds: -100.16012810248198
+Underdog team odds: +100.16012810248198
+

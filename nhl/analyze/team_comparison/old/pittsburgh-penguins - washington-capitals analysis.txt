@@ -1,0 +1,16 @@
+
+Date: 4-18-2016
+Away: pittsburgh-penguins | Home: washington-capitals
+Seasonal Record:      -56.09%
+Home Away:            -60.58%
+Home away 10:         55.7%
+Last 10 games:        54.74%
+Avg points:           -52.09%
+Avg points 10:        54.98%
+--------
+Total: -58.33%
+--------
+Perc chance to win: 58.33%
+Favorable team odds: -139.98080153587713
+Underdog team odds: +139.98080153587713
+

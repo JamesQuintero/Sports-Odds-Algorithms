@@ -1,0 +1,17 @@
+
+Date: 4-10-2017
+Away: edmonton-oilers | Home: san-jose-sharks
+Seasonal Record:      51.9%
+Home Away:            -56.72%
+Home away 10:         -50.81%
+Last 10 games:        54.74%
+Avg points:           51.89%
+Avg points 10:        55.49%
+Win streak home away: 50%
+--------
+Total: 50.92%
+--------
+Perc chance to win: 50.92%
+Favorable team odds: -103.74898125509375
+Underdog team odds: +103.74898125509375
+

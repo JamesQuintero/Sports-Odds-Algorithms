@@ -1,16 +1,17 @@
 
-Date: 4-13-2016
+Date: 4-10-2017
 Away: chicago-blackhawks | Home: st-louis-blues
-Seasonal Record:      -52.29%
-Home Away:            -55.16%
+Seasonal Record:      53.26%
+Home Away:            50%
 Home away 10:         -53.37%
-Last 10 games:        -53.2%
-Avg points:           -50.1%
-Avg points 10:        -52.68%
+Last 10 games:        -54.74%
+Avg points:           51.69%
+Avg points 10:        -54.64%
+Win streak home away: 50%
 --------
-Total: -54.26%
+Total: -51.11%
 --------
-Perc chance to win: 54.26%
-Favorable team odds: -118.62702229995628
-Underdog team odds: +118.62702229995628
+Perc chance to win: 51.11%
+Favorable team odds: -104.54080589077522
+Underdog team odds: +104.54080589077522
 

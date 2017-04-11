@@ -1,0 +1,17 @@
+
+Date: 4-10-2017
+Away: st-louis-blues | Home: edmonton-oilers
+Seasonal Record:      -51.9%
+Home Away:            -55.16%
+Home away 10:         -50.81%
+Last 10 games:        -53.28%
+Avg points:           -52.19%
+Avg points 10:        -53.79%
+Win streak home away: 50%
+--------
+Total: -52.44%
+--------
+Perc chance to win: 52.44%
+Favorable team odds: -110.26072329688814
+Underdog team odds: +110.26072329688814
+

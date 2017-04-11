@@ -1,0 +1,17 @@
+
+Date: 4-10-2017
+Away: boston-bruins | Home: ottawa-senators
+Seasonal Record:      51.6%
+Home Away:            -51.59%
+Home away 10:         50%
+Last 10 games:        53.2%
+Avg points:           52.87%
+Avg points 10:        52.68%
+Win streak home away: 50%
+--------
+Total: 51.25%
+--------
+Perc chance to win: 51.25%
+Favorable team odds: -105.12820512820511
+Underdog team odds: +105.12820512820511
+

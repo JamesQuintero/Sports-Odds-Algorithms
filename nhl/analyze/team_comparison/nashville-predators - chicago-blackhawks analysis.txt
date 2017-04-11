@@ -1,0 +1,17 @@
+
+Date: 4-10-2017
+Away: nashville-predators | Home: chicago-blackhawks
+Seasonal Record:      -56.97%
+Home Away:            -62.44%
+Home away 10:         -55.7%
+Last 10 games:        53.2%
+Avg points:           -51.89%
+Avg points 10:        53.03%
+Win streak home away: 50%
+--------
+Total: -52.96%
+--------
+Perc chance to win: 52.96%
+Favorable team odds: -112.58503401360547
+Underdog team odds: +112.58503401360547
+

@@ -69,7 +69,7 @@ class ESPN_Scraper:
 		for x in range(start, end):
 
 			if self.league=="nhl":
-				url="http://espn.go.com/"+str(self.league)+"/team/schedule/_/name/"+str(team[0])+"/year/"+str(years[x])+"/"+str(team[1])
+				url="http://espn.com/"+str(self.league)+"/team/schedule/_/name/"+str(team[0])+"/year/"+str(years[x])+"/"+str(team[1])
 				data=self.scrape_game_scores(url)
 			elif self.league=="nba":
 				#seasontype of 2 refers to regular season, while 1 and 3 refer to pre and post season respectively
@@ -435,7 +435,8 @@ class ESPN_Scraper:
 
 
 					game_link=game_link[ :game_link.index('"') ]
-					game_link="http://espn.go.com"+game_link
+					# game_link="http://espn.go.com"+game_link
+					game_link="http:"+game_link
 
 
 					data['dates'].append(old_date)
@@ -469,19 +470,24 @@ class ESPN_Scraper:
 			data=self.scrape_webpage(game_url)
 
 			print("Game url: "+str(game_url))
-			if data=="" or game_url=="http://espn.go.com":
+			# if data=="" or game_url=="http://espn.go.com":
+			if data=="" or game_url=="http:":
 				return {'other_team': -1, 'scores': [[-1,-1,-1], [-1,-1,-1]]}
 
 			#gets teams playing in this game
-			start=data.index("var omniPageName =")
-			end=data[start:].index(";")+start
+			start=data.index("gameInfo:")
+			end=data[start:].index(",")+start
+
+			#now should have gameInfo:"nhl:game:gameid=400884409-ana+at+dal",
 			# print(data[start:end])
 			
-			split=data[start:end].split("+")
-			split.pop(0)
-			split.pop(0)
+			split = data[start:end].split("-")
+			temp = split[1]
+			#temp should now be ana+at+dal",
+			split=temp.split("+")
 			team1=split[0].replace('"', "")
 			team2=split[2].replace('"', "")
+			#team1 and team2 are the 3 letter abbreviations of teams EX: ana for anaheim-ducks
 			print("Team1: "+str(team1)+" | Team2: "+str(team2))
 			print("Cur team: "+str(team[0])+" | "+str(team[1]))
 			if team1==team[0]:
@@ -1080,7 +1086,40 @@ class ESPN_Scraper:
 
 
 if __name__=="__main__":
-	espn_scraper = ESPN_Scraper("mlb")
+	espn_scraper = ESPN_Scraper("nhl")
+
+	#NHL
+	# espn_scraper.update_data(['ana','amaheim-ducks'], "2017")
+	# espn_scraper.update_data(['ari','arizona-coyotes'], "2017")
+	# espn_scraper.update_data(['bos','boston-bruins'], "2017")
+	# espn_scraper.update_data(['buf','buffalo-sabres'], "2017")
+	# espn_scraper.update_data(['cgy','calgary-flames'], "2017")
+	# espn_scraper.update_data(['car','carolina-hurricanes'], "2017")
+	# espn_scraper.update_data(['chi','chicago-blackhawks'], "2017")
+	# espn_scraper.update_data(['col','colorado-avalanche'], "2017")
+	# espn_scraper.update_data(['cbj','columbus-blue-jackets'], "2017")
+	# espn_scraper.update_data(['dal','dallas-stars'], "2017")
+	# espn_scraper.update_data(['det','detroit-red-wings'], "2017")
+	# espn_scraper.update_data(['edm','edmonton-oilers'], "2017")
+	# espn_scraper.update_data(['fla','florida-panthers'], "2017")
+	# espn_scraper.update_data(['la','los-angeles-kings'], "2017")
+	# espn_scraper.update_data(['min','minnesota-wild'], "2017")
+	# espn_scraper.update_data(['mtl','montreal-canadiens'], "2017")
+	# espn_scraper.update_data(['nsh','nashville-predators'], "2017")
+	espn_scraper.update_data(['nj','new-jersey-devils'], "2017")
+	espn_scraper.update_data(['nyi','new-york-islanders'], "2017")
+	espn_scraper.update_data(['nyr','new-york-rangers'], "2017")
+	espn_scraper.update_data(['ott','ottawa-senators'], "2017")
+	espn_scraper.update_data(['phi','philadelphia-flyers'], "2017")
+	espn_scraper.update_data(['pit','pittsburgh-penguins'], "2017")
+	espn_scraper.update_data(['sj','san-jose-sharks'], "2017")
+	espn_scraper.update_data(['stl','st-louis-blues'], "2017")
+	espn_scraper.update_data(['tb','tampa-bay-lightning'], "2017")
+	espn_scraper.update_data(['tor','toronto-maple-leafs'], "2017")
+	espn_scraper.update_data(['van','vancouver-canucks'], "2017")
+	espn_scraper.update_data(['wsh','washington-capitals'], "2017")
+	espn_scraper.update_data(['wpg','winnipeg-jets'], "2017")
+
 
 	# espn_scraper.update_data(['ari','arizona-diamondbacks'], "")
 	# espn_scraper.update_data(['atl','atlanta-braves'], "")
@@ -1114,11 +1153,11 @@ if __name__=="__main__":
 	# espn_scraper.update_data(['wsh','washington-nationals'], "")
 
 
-	url="http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/seasontype/2/half/1/los-angeles-angels"
-	data=espn_scraper.scrape_game_scores(url)
+	# url="http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/seasontype/2/half/1/los-angeles-angels"
+	# data=espn_scraper.scrape_game_scores(url)
 
-	for x in range(0, len(data['dates'])):
-		print("Date: "+data['dates'][x]+" | Score: "+data['game_scores'][x])
+	# for x in range(0, len(data['dates'])):
+	# 	print("Date: "+data['dates'][x]+" | Score: "+data['game_scores'][x])
 
 
 	# espn_scraper.scrape_period_data(['laa','los-angeles-angels'], "http://espn.go.com/mlb/team/schedule/_/name/laa/year/2016/half/1/los-angeles-angels", "http://espn.go.com/mlb/playbyplay?id=360404103")

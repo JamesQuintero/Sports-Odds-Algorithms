@@ -1,0 +1,12 @@
+---- Start output ----
+[21:35:30] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/bos/year/2017/boston-bruins
+[21:35:31] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[21:35:31] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[21:35:31] Loading existing data
+[21:35:31] Saving data to ./nhl/team_data/2017/boston-bruins.csv
+[21:35:31] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/ott/year/2017/ottawa-senators
+[21:35:32] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[21:35:32] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[21:35:32] Loading existing data
+[21:35:32] Saving data to ./nhl/team_data/2017/ottawa-senators.csv
+

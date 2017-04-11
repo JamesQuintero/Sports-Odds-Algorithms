@@ -407,19 +407,25 @@ class Algo:
 
 
 
-		
+		print("Odds home_away before: "+str(odds["home_away"]))
 
 		#corrects percentages <50
 		for key in odds.keys():
 			#if -49% or something
-			if odds[key]<0 and odds[key]>-50:
-				odds[key]=(odds[key] + 100)
-			elif odds[key]>0 and odds[key]<50:
-				odds[key]=(odds[key] - 100)
+			# if odds[key]<0 and odds[key]>-50:
+			# 	odds[key]=(odds[key] + 100)
+			# elif odds[key]>0 and odds[key]<50:
+				# odds[key]=(odds[key] - 100)
+			if(odds[key]<50):
+				odds[key] = 50
+
+		print("Odds home_away after: "+str(odds["home_away"]))
 
 		#subtracts 50 since 50 is origin
 		for key in odds.keys():
 			odds[key]-=50
+
+		print("Odds home_away after2: "+str(odds["home_away"]))
 
 		#reverses odds so that all values that get plugged in stay above 50%
 		# if a favorable team is unfavorable, the parabola algo might be a problem.
@@ -443,6 +449,8 @@ class Algo:
 
 		if self.league=="nhl" and algo_vars[6]<0:
 			odds['win_streak_home_away']*=-1
+
+		print("Odds home_away after3: "+str(odds["home_away"]))
 
 		#can also have average equal highest odds. Or average equals average between two highest odds. 
 
@@ -527,13 +535,15 @@ class Algo:
 		else:
 			average-=50
 
+
+
 		print("Favorite: "+str(average))
 
-		# for key in odds.keys():
-		# 	if odds[key]<0:
-		# 		odds[key]-=50
-		# 	else:
-		# 		odds[key]+=50
+		for key in odds.keys():
+			if odds[key]<0:
+				odds[key]-=50
+			else:
+				odds[key]+=50
 
 
 

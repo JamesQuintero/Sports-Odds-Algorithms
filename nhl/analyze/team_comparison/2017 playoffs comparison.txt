@@ -1,0 +1,88 @@
+---- Western Conference ----
+
+//a negative percentage gives favor to the team on the right, no matter away or home.
+
+-Round 1-
+Nashville @ Chicago: -52.96%
+Nashville vs Chicago: 50.43%
+Conclusion: Chicago wins
+
+
+Minnesota @ St. Louis: -51.03%
+Minnesota vs St. Louis: 50.61%
+Conclusion:  Toss up, but St. Louis with slight edge. 
+
+Anaheim @ Calgary: -50.18%
+Anaheim vs Calgary: 61.55%
+Conclusion: Anaheim destroys
+
+Oilers @ San Jose: 50.92%
+Oilers vs San Jose: 54.76%
+Conclusion:  Oilers wins
+
+
+-Round 2-
+//slightly more likely maybe
+Chicago @ St. Louis: -51.11%
+Chicago vs St. Louis: 50.21%
+Conclusion: St. Louis wins.
+
+//maybe
+Chicago @ Minnesota: -51.86%
+Chicago vs Minnesota: 51.05%
+Conclusion: Minnesota wins
+
+Anaheim @ Oilers: -52.23%
+Anaheim vs Oilers: 52.03%
+Conclusion: Toss up, but Anaheim higher avg points 
+
+--Conference Finals--
+Anaheim @ St. Louis: -50.41%
+Anaheim vs St. Louis: 52.38%
+Conclusion: Anaheim wins
+
+
+
+--- Eastern Conference ---
+
+-Round 1-
+Montreal @ Rangers: 52.56%
+Montreal vs Rangers: -50.21%
+Conclusion: Montreal wins
+
+Ottawa @ Boston: -52.06%
+Ottawa vs Boston: -51.25%
+Conclusion: Boston wins
+
+Washington @ Toronto: 54.36%
+Washington vs Toronto: 56.05%
+Conclusion: Washington destroys
+
+Pittsburgh @ Columbus: -51.17%
+Pittsburgh vs Columbus: 53.21%
+Conclusion:  Pittsburgh wins
+
+
+-Round 2-
+Montreal @ Boston: 52.08%
+Montreal vs Boston: 50.04%
+Conclusion: Montreal wins
+
+Washington @ Pittsburgh: 50.46%
+Washington vs Pittsburgh: 54.77%
+Conclusion: Washington wins
+
+
+--Conference Finals--
+Montreal @ Washington: -54.32%
+Montreal vs Washington: -52.43%
+Conclusion: Washington destroys
+
+
+------- FINALS --------
+Anaheim @ Washington: -53.52%
+Anaheim vs Washington: 50.07%
+Conclusion: Washington wins
+
+
+

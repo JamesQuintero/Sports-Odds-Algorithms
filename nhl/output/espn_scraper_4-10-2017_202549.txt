@@ -1,0 +1,193 @@
+---- Start output ----
+[20:25:51] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/chi/year/2003/chicago-blackhawks
+[20:25:55] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:25:55] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:25:55] Loading existing data
+[20:25:55] Returned 4-6-2003's game results
+[20:25:55] Scraping 4-6-2003's period data: http://www.espn.com/nhl/playbyplay/_/gameId/230406004
+[20:25:56] Saving data to ./nhl/team_data/2003/chicago-blackhawks.csv
+[20:25:56] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/chi/year/2004/chicago-blackhawks
+[20:25:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:25:59] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:25:59] Loading existing data
+[20:25:59] Returned 4-4-2004's game results
+[20:25:59] Scraping 4-4-2004's period data: http://www.espn.com/nhl/playbyplay/_/gameId/240404009
+[20:26:00] Saving data to ./nhl/team_data/2004/chicago-blackhawks.csv
+[20:26:00] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/chi/year/2006/chicago-blackhawks
+[20:26:07] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:26:07] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:26:07] Loading existing data
+[20:26:07] Returned 4-18-2006's game results
+[20:26:07] Scraping 4-18-2006's period data: http://www.espn.com/nhl/playbyplay/_/gameId/260418004
+[20:26:08] Saving data to ./nhl/team_data/2006/chicago-blackhawks.csv
+[20:26:08] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/chi/year/2007/chicago-blackhawks
+[20:26:12] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:26:12] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:26:12] Loading existing data
+[20:26:12] Returned 4-8-2007's game results
+[20:26:12] Scraping 4-8-2007's period data: http://www.espn.com/nhl/playbyplay/_/gameId/270408009
+[20:26:13] Saving data to ./nhl/team_data/2007/chicago-blackhawks.csv
+[20:26:13] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/chi/year/2008/chicago-blackhawks
+[20:26:17] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:26:17] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:26:17] Loading existing data
+[20:26:17] Returned 4-6-2008's game results
+[20:26:17] Scraping 4-6-2008's period data: http://www.espn.com/nhl/playbyplay/_/gameId/280406005
+[20:26:18] Saving data to ./nhl/team_data/2008/chicago-blackhawks.csv
+[20:26:18] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/chi/year/2009/chicago-blackhawks
+[20:26:22] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:26:22] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:26:22] Loading existing data
+[20:26:23] Returned 4-12-2009's game results
+[20:26:23] Scraping 4-12-2009's period data: http://www.espn.com/nhl/playbyplay/_/gameId/290412004
+[20:26:23] Saving data to ./nhl/team_data/2009/chicago-blackhawks.csv
+[20:26:23] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/chi/year/2010/chicago-blackhawks
+[20:26:31] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:26:31] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:26:31] Loading existing data
+[20:26:31] Returned 4-11-2010's game results
+[20:26:31] Scraping 4-11-2010's period data: http://www.espn.com/nhl/playbyplay/_/gameId/300411004
+[20:26:31] Saving data to ./nhl/team_data/2010/chicago-blackhawks.csv
+[20:26:31] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/chi/year/2011/chicago-blackhawks
+[20:26:38] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:26:38] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:26:38] Loading existing data
+[20:26:38] Returned 4-10-2011's game results
+[20:26:38] Scraping 4-10-2011's period data: http://www.espn.com/nhl/playbyplay/_/gameId/310410004
+[20:26:39] Saving data to ./nhl/team_data/2011/chicago-blackhawks.csv
+[20:26:39] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/chi/year/2012/chicago-blackhawks
+[20:26:44] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:26:44] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:26:44] Loading existing data
+[20:26:44] Returned 4-7-2012's game results
+[20:26:44] Scraping 4-7-2012's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400047827
+[20:26:44] Saving data to ./nhl/team_data/2012/chicago-blackhawks.csv
+[20:26:44] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/chi/year/2013/chicago-blackhawks
+[20:26:47] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:26:47] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:26:47] Loading existing data
+[20:26:47] Returned 4-27-2013's game results
+[20:26:47] Scraping 4-27-2013's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400443190
+[20:26:48] Saving data to ./nhl/team_data/2013/chicago-blackhawks.csv
+[20:26:48] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/chi/year/2014/chicago-blackhawks
+[20:26:52] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:26:52] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:26:52] Loading existing data
+[20:26:52] Returned 4-12-2014's game results
+[20:26:52] Scraping 4-12-2014's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400485460
+[20:26:52] Saving data to ./nhl/team_data/2014/chicago-blackhawks.csv
+[20:26:52] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/chi/year/2015/chicago-blackhawks
+[20:26:58] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:26:58] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:26:58] Loading existing data
+[20:26:58] Returned 4-11-2015's game results
+[20:26:58] Scraping 4-11-2015's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400564647
+[20:26:59] Saving data to ./nhl/team_data/2015/chicago-blackhawks.csv
+[20:26:59] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/chi/year/2016/chicago-blackhawks
+[20:27:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:27:06] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:27:06] Loading existing data
+[20:27:06] Returned 4-9-2016's game results
+[20:27:06] Scraping 4-9-2016's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400816087
+[20:27:06] Saving data to ./nhl/team_data/2016/chicago-blackhawks.csv
+[20:27:06] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/chi/year/2017/chicago-blackhawks
+[20:27:08] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:27:08] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:27:08] Loading existing data
+[20:27:08] Saving data to ./nhl/team_data/2017/chicago-blackhawks.csv
+[20:27:09] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/nsh/year/2003/nashville-predators
+[20:27:13] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:27:13] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:27:13] Loading existing data
+[20:27:13] Returned 4-6-2003's game results
+[20:27:13] Scraping 4-6-2003's period data: http://www.espn.com/nhl/playbyplay/_/gameId/230406009
+[20:27:14] Saving data to ./nhl/team_data/2003/nashville-predators.csv
+[20:27:14] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/nsh/year/2004/nashville-predators
+[20:27:17] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:27:17] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:27:17] Loading existing data
+[20:27:17] Returned 4-4-2004's game results
+[20:27:17] Scraping 4-4-2004's period data: http://www.espn.com/nhl/playbyplay/_/gameId/240404017
+[20:27:18] Saving data to ./nhl/team_data/2004/nashville-predators.csv
+[20:27:18] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/nsh/year/2006/nashville-predators
+[20:27:22] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:27:22] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:27:22] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:27:22] Loading existing data
+[20:27:22] Returned 4-18-2006's game results
+[20:27:22] Scraping 4-18-2006's period data: http://www.espn.com/nhl/playbyplay/_/gameId/260418027
+[20:27:22] Saving data to ./nhl/team_data/2006/nashville-predators.csv
+[20:27:23] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/nsh/year/2007/nashville-predators
+[20:27:26] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:27:26] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:27:26] Loading existing data
+[20:27:26] Returned 4-7-2007's game results
+[20:27:26] Scraping 4-7-2007's period data: http://www.espn.com/nhl/playbyplay/_/gameId/270407017
+[20:27:28] Saving data to ./nhl/team_data/2007/nashville-predators.csv
+[20:27:28] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/nsh/year/2008/nashville-predators
+[20:27:31] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:27:31] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:27:31] Loading existing data
+[20:27:32] Returned 4-4-2008's game results
+[20:27:32] Scraping 4-4-2008's period data: http://www.espn.com/nhl/playbyplay/_/gameId/280404004
+[20:27:32] Saving data to ./nhl/team_data/2008/nashville-predators.csv
+[20:27:32] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/nsh/year/2009/nashville-predators
+[20:27:36] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:27:36] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:27:36] Loading existing data
+[20:27:36] Returned 4-10-2009's game results
+[20:27:36] Scraping 4-10-2009's period data: http://www.espn.com/nhl/playbyplay/_/gameId/290410030
+[20:27:36] Saving data to ./nhl/team_data/2009/nashville-predators.csv
+[20:27:36] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/nsh/year/2010/nashville-predators
+[20:27:42] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:27:42] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:27:42] Loading existing data
+[20:27:42] Returned 4-10-2010's game results
+[20:27:42] Scraping 4-10-2010's period data: http://www.espn.com/nhl/playbyplay/_/gameId/300410027
+[20:27:42] Saving data to ./nhl/team_data/2010/nashville-predators.csv
+[20:27:42] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/nsh/year/2011/nashville-predators
+[20:27:46] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:27:46] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:27:46] Loading existing data
+[20:27:47] Returned 4-9-2011's game results
+[20:27:47] Scraping 4-9-2011's period data: http://www.espn.com/nhl/playbyplay/_/gameId/310409019
+[20:27:47] Saving data to ./nhl/team_data/2011/nashville-predators.csv
+[20:27:47] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/nsh/year/2012/nashville-predators
+[20:27:52] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:27:52] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:27:52] Loading existing data
+[20:27:52] Returned 4-7-2012's game results
+[20:27:52] Scraping 4-7-2012's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400047844
+[20:27:53] Saving data to ./nhl/team_data/2012/nashville-predators.csv
+[20:27:53] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/nsh/year/2013/nashville-predators
+[20:27:55] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:27:55] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:27:55] Loading existing data
+[20:27:55] Returned 4-27-2013's game results
+[20:27:55] Scraping 4-27-2013's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400443187
+[20:27:56] Saving data to ./nhl/team_data/2013/nashville-predators.csv
+[20:27:56] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/nsh/year/2014/nashville-predators
+[20:27:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:27:59] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:27:59] Loading existing data
+[20:27:59] Returned 4-13-2014's game results
+[20:27:59] Scraping 4-13-2014's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400485470
+[20:28:00] Saving data to ./nhl/team_data/2014/nashville-predators.csv
+[20:28:00] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/nsh/year/2015/nashville-predators
+[20:28:04] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:28:04] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:28:04] Loading existing data
+[20:28:04] Returned 4-11-2015's game results
+[20:28:04] Scraping 4-11-2015's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400564733
+[20:28:04] Saving data to ./nhl/team_data/2015/nashville-predators.csv
+[20:28:04] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/nsh/year/2016/nashville-predators
+[20:28:12] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:28:12] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:28:12] Loading existing data
+[20:28:12] Saving data to ./nhl/team_data/2016/nashville-predators.csv
+[20:28:12] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/nsh/year/2017/nashville-predators
+[20:28:13] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[20:28:13] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[20:28:13] Loading existing data
+[20:28:13] Saving data to ./nhl/team_data/2017/nashville-predators.csv
+

@@ -1,0 +1,9 @@
+---- Start output ----
+[18:12:50] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/ana/year/2017/amaheim-ducks
+[18:12:54] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[18:12:54] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[18:12:54] Loading existing data
+[18:12:54] Returned 10-13-2017's game results
+[18:12:54] Scraping 10-13-2017's period data: //www.espn.com/nhl/playbyplay/_/gameId/400884409
+[18:12:54] Scraping 10-13-2017's period data again
+
