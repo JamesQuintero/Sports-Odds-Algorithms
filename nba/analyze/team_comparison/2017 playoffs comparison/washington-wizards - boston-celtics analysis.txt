@@ -1,0 +1,16 @@
+
+Date: 4-16-2017
+Away: washington-wizards | Home: boston-celtics
+Seasonal Record:      -57.24%
+Home Away:            -77.35%
+Home away 10:         -65.54%
+Last 10 games:        -56.04%
+Avg points:           50%
+Avg points 10:        -56.49%
+--------
+Total: -60.44%
+--------
+Perc chance to win: 60.44%
+Favorable team odds: -152.78058645096056
+Underdog team odds: +152.78058645096056
+

@@ -1,0 +1,17 @@
+
+Date: 4-25-2013
+Away: boston-bruins | Home: pittsburgh-penguins
+Seasonal Record:      -55.67%
+Home Away:            -58.15%
+Home away 10:         -59.62%
+Last 10 games:        -53.69%
+Avg points:           -53.89%
+Avg points 10:        -53.19%
+Win streak home away: 50%
+--------
+Total: -54.88%
+--------
+Perc chance to win: 54.88%
+Favorable team odds: -121.63120567375887
+Underdog team odds: +121.63120567375887
+

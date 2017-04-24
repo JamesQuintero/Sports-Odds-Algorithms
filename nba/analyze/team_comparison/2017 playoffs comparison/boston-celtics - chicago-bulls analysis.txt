@@ -1,0 +1,16 @@
+
+Date: 4-16-2017
+Away: boston-celtics | Home: chicago-bulls
+Seasonal Record:      66.43%
+Home Away:            -55.81%
+Home away 10:         50%
+Last 10 games:        51.0%
+Avg points:           51.54%
+Avg points 10:        -61.35%
+--------
+Total: 50.3%
+--------
+Perc chance to win: 50.3%
+Favorable team odds: -101.20724346076457
+Underdog team odds: +101.20724346076457
+

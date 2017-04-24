@@ -1,0 +1,16 @@
+
+Date: 4-20-2013
+Away: oklahoma-city-thunder | Home: memphis-grizzlies
+Seasonal Record:      57.24%
+Home Away:            -66.31%
+Home away 10:         -54.02%
+Last 10 games:        -53.69%
+Avg points:           60.29%
+Avg points 10:        50%
+--------
+Total: -51.08%
+--------
+Perc chance to win: 51.08%
+Favorable team odds: -104.4153720359771
+Underdog team odds: +104.4153720359771
+

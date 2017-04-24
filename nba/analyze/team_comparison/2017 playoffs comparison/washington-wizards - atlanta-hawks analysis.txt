@@ -1,0 +1,16 @@
+
+Date: 4-16-2017
+Away: washington-wizards | Home: atlanta-hawks
+Seasonal Record:      59.58%
+Home Away:            -61.25%
+Home away 10:         -54.02%
+Last 10 games:        -53.69%
+Avg points:           53.01%
+Avg points 10:        -53.89%
+--------
+Total: -51.71%
+--------
+Perc chance to win: 51.71%
+Favorable team odds: -107.0822116380203
+Underdog team odds: +107.0822116380203
+

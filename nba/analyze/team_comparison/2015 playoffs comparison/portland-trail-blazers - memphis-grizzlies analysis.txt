@@ -1,0 +1,16 @@
+
+Date: 4-15-2015
+Away: portland-trail-blazers | Home: memphis-grizzlies
+Seasonal Record:      -56.07%
+Home Away:            -77.35%
+Home away 10:         -65.54%
+Last 10 games:        53.69%
+Avg points:           50%
+Avg points 10:        60.7%
+--------
+Total: -55.76%
+--------
+Perc chance to win: 55.76%
+Favorable team odds: -126.03978300180829
+Underdog team odds: +126.03978300180829
+

@@ -1,0 +1,16 @@
+
+Date: 4-15-2011
+Away: dallas-mavericks | Home: los-angeles-lakers
+Seasonal Record:      52.5%
+Home Away:            -55.81%
+Home away 10:         -54.02%
+Last 10 games:        53.69%
+Avg points:           -50.48%
+Avg points 10:        50%
+--------
+Total: -50.68%
+--------
+Perc chance to win: 50.68%
+Favorable team odds: -102.75750202757501
+Underdog team odds: +102.75750202757501
+

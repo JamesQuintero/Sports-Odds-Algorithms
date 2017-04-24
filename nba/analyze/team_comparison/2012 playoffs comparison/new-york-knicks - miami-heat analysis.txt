@@ -1,0 +1,16 @@
+
+Date: 4-25-2012
+Away: new-york-knicks | Home: miami-heat
+Seasonal Record:      -65.31%
+Home Away:            -83.68%
+Home away 10:         -54.02%
+Last 10 games:        53.69%
+Avg points:           -54.34%
+Avg points 10:        53.72%
+--------
+Total: -58.32%
+--------
+Perc chance to win: 58.32%
+Favorable team odds: -139.92322456813818
+Underdog team odds: +139.92322456813818
+

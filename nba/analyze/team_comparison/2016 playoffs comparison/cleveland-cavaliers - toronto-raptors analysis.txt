@@ -1,0 +1,16 @@
+
+Date: 4-15-2016
+Away: cleveland-cavaliers | Home: toronto-raptors
+Seasonal Record:      53.69%
+Home Away:            -71.01%
+Home away 10:         -59.94%
+Last 10 games:        -53.69%
+Avg points:           50%
+Avg points 10:        54.21%
+--------
+Total: -54.45%
+--------
+Perc chance to win: 54.45%
+Favorable team odds: -119.53896816684963
+Underdog team odds: +119.53896816684963
+

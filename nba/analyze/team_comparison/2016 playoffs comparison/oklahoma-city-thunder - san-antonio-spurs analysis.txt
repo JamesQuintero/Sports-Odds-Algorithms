@@ -1,0 +1,16 @@
+
+Date: 4-15-2016
+Away: oklahoma-city-thunder | Home: san-antonio-spurs
+Seasonal Record:      -66.43%
+Home Away:            -87.51%
+Home away 10:         -65.54%
+Last 10 games:        -53.69%
+Avg points:           -55.15%
+Avg points 10:        60.38%
+--------
+Total: -61.32%
+--------
+Perc chance to win: 61.32%
+Favorable team odds: -158.53154084798345
+Underdog team odds: +158.53154084798345
+

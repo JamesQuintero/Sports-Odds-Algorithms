@@ -31,7 +31,7 @@ class Universal_Functions:
 		self.league_teams=self.load_league_teams()
 
 	#loads all game data of specified team: ["lal", "los-angeles-lakers"]
-	def load_data(self, team, end_date):
+	def load_data(self, team, end_date, end_year):
 		# print("Loading data of "+str(team[1])+"...")
 
 		to_return=[]
@@ -41,7 +41,7 @@ class Universal_Functions:
 		for x in range(0, len(years)):
 			year=years[x]
 
-			if os.path.isdir("./"+str(self.league)+"/team_data/"+year) and reached_end==False:
+			if os.path.isdir("./"+str(self.league)+"/team_data/"+year) and reached_end==False and year<=end_year:
 				path="./"+str(self.league)+"/team_data/"+year+"/"+team[1]+".csv"
 				contents=self.read_from_csv(path)
 

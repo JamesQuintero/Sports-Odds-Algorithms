@@ -1,0 +1,107 @@
+---- Western Conference ----
+
+--Round 1--
+San Antonio @ Utah: 56.8%
+San Antonio vs Utah: 68.4%
+Conclusion: San Antonio Wins
+
+Memphis @ LA Clippers: -54.4%
+Memphis vs LA Clippers: 58.6%
+Conclusion: Memphis Wins
+
+LA Lakers @ Denver: -54.7%
+LA Lakers vs Denver: 51.5%
+Conclusion: Denver Wins
+
+Oklahoma City @ Dallas: 56.3%
+Oklahoma City vs Dallas: 65.2%
+Conclusion: Oklahoma City Wins
+
+
+--Round 2--
+//actual series
+San Antonio @ LA Clippers: 55.2%
+San Antonio vs LA Clippers: 63.9%
+Conclusion: San Antonio Wins (San Antonio did win)
+
+San Antonio @ Memphis: 53.6%
+San Antonio vs Memphis: 63.1%
+Conclusion: San Antonio Wins
+
+//actual series
+LA Lakers @ Oklahoma City: -62.1%
+LA Lakers vs Oklahoma City: -54.4%
+Conclusion: Oklahoma City Wins (Oklahoma City did win)
+
+Denver @ Oklahoma City: -59.1%
+Denver vs Oklahoma City: -56.3%
+Conclusion: Oklahoma City Wins
+
+
+--Conference Finals--
+San Antonio @ Oklahoma City: 50.6%
+San Antonio vs Oklahoma City: 57.9%
+Conclusion: San Antonio Wins
+
+
+
+
+--- Eastern Conference ---
+
+--Round 1--
+Chicago @ Philadelphia: 59.1%
+Chicago vs Philadelphia: 60.0%
+Conclusion: Chicago Wins
+
+Boston @ Atlanta: -55.2%
+Boston vs Atlanta: 53.8%
+Conclusion: Atlanta Wins
+
+Indiana @ Orlando: 55.8%
+Indiana vs Orlando: 62.4%
+Conclusion: Indiana Wins
+
+Miami @ New York: -53.1%
+Miami vs New York: 58.3%
+Conclusion: Miami Wins
+
+
+--Round 2--
+//actual series
+Philadelphia @ Boston: -59.2%
+Philadelphia vs Boston: -51.7%
+Conclusion: Boston Wins
+
+Chicago @ Atlanta: 51.9%
+Chicago vs Atlanta: 56.0%
+Conclusion: Chicago Wins
+
+Indiana @ Miami: -53.4%
+Indiana vs Miami: 55.5%
+Conclusion: Indiana Wins
+
+
+--Conference Finals--
+//actual series
+Boston @ Miami: -56.4%
+Boston vs Miami: 55.2%
+Conclusion: Miami Wins (Miami did win)
+
+Chicago @ Indiana: 52.1%
+Chicago vs Indiana: 55.0%
+Conclusion: Chicago Wins
+
+
+
+
+
+
+------ FINALS ------
+//actual series
+Oklahoma City @ Miami: -50.5%
+Oklahoma City vs Miami: 58.9%
+Conclusion: Oklahoma City Wins
+
+San Antonio @ Chicago: 51.6%
+San Antonio vs Chicago: 55.6%
+Conclusion: San Antonio Wins

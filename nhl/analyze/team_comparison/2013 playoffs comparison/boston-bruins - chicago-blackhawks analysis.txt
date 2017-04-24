@@ -1,0 +1,17 @@
+
+Date: 4-25-2013
+Away: boston-bruins | Home: chicago-blackhawks
+Seasonal Record:      -55.67%
+Home Away:            -58.81%
+Home away 10:         -57.78%
+Last 10 games:        -53.69%
+Avg points:           -55.53%
+Avg points 10:        -52.46%
+Win streak home away: 50%
+--------
+Total: -54.84%
+--------
+Perc chance to win: 54.84%
+Favorable team odds: -121.43489813994685
+Underdog team odds: +121.43489813994685
+

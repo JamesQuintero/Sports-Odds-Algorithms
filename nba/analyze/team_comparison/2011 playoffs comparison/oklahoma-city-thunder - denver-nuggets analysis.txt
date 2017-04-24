@@ -1,0 +1,16 @@
+
+Date: 4-15-2011
+Away: oklahoma-city-thunder | Home: denver-nuggets
+Seasonal Record:      58.41%
+Home Away:            -71.01%
+Home away 10:         50%
+Last 10 games:        51.0%
+Avg points:           50%
+Avg points 10:        -53.23%
+--------
+Total: -52.47%
+--------
+Perc chance to win: 52.47%
+Favorable team odds: -110.3934357248054
+Underdog team odds: +110.3934357248054
+

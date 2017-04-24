@@ -1,0 +1,16 @@
+
+Date: 4-25-2012
+Away: philadelphia-76ers | Home: chicago-bulls
+Seasonal Record:      -68.67%
+Home Away:            -74.28%
+Home away 10:         -54.02%
+Last 10 games:        -53.69%
+Avg points:           -54.74%
+Avg points 10:        -54.86%
+--------
+Total: -60.04%
+--------
+Perc chance to win: 60.04%
+Favorable team odds: -150.25025025025025
+Underdog team odds: +150.25025025025025
+

@@ -1,0 +1,16 @@
+
+Date: 4-15-2016
+Away: memphis-grizzlies | Home: san-antonio-spurs
+Seasonal Record:      -80.49%
+Home Away:            -95.12%
+Home away 10:         -84.96%
+Last 10 games:        -61.0%
+Avg points:           -80.31%
+Avg points 10:        -62.32%
+--------
+Total: -77.36%
+--------
+Perc chance to win: 77.36%
+Favorable team odds: -341.69611307420496
+Underdog team odds: +341.69611307420496
+

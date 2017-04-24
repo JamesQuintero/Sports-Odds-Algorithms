@@ -1,0 +1,16 @@
+
+Date: 4-20-2013
+Away: golden-state-warriors | Home: denver-nuggets
+Seasonal Record:      -64.17%
+Home Away:            -90.15%
+Home away 10:         -75.86%
+Last 10 games:        -56.04%
+Avg points:           -57.72%
+Avg points 10:        -57.3%
+--------
+Total: -66.87%
+--------
+Perc chance to win: 66.87%
+Favorable team odds: -201.84123151222462
+Underdog team odds: +201.84123151222462
+

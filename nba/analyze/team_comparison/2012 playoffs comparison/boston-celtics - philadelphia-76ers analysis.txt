@@ -1,0 +1,16 @@
+
+Date: 4-25-2012
+Away: boston-celtics | Home: philadelphia-76ers
+Seasonal Record:      57.83%
+Home Away:            -61.25%
+Home away 10:         54.02%
+Last 10 games:        56.04%
+Avg points:           -51.29%
+Avg points 10:        54.7%
+--------
+Total: 51.67%
+--------
+Perc chance to win: 51.67%
+Favorable team odds: -106.91082143596108
+Underdog team odds: +106.91082143596108
+

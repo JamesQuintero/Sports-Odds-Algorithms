@@ -1,0 +1,17 @@
+
+Date: 4-25-2013
+Away: montreal-canadiens | Home: pittsburgh-penguins
+Seasonal Record:      -56.09%
+Home Away:            -55.96%
+Home away 10:         -55.7%
+Last 10 games:        -53.69%
+Avg points:           -54.95%
+Avg points 10:        -52.43%
+Win streak home away: 50%
+--------
+Total: -54.11%
+--------
+Perc chance to win: 54.11%
+Favorable team odds: -117.91239921551538
+Underdog team odds: +117.91239921551538
+

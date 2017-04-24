@@ -1,0 +1,91 @@
+---- Western Conference ----
+
+--Round 1--
+Golden State @ New Orleans: 59.5%
+Golden State vs New Orleans: 70.7%
+Conclusion: Golden State Wins
+
+Portland @ Memphis: -55.8%
+Portland vs Memphis: 56.5%
+Conclusion: Portland Wins
+
+LA Clippers @ San Antonio: -54.3%
+LA Clippers vs San Antonio: 52.3%
+Conclusion: San Antonio Wins
+
+Houston @ Dallas: 54.5%
+Houston vs Dallas: 58.4%
+Conclusion: Houston Wins
+
+--Round 2--
+//actual series
+Golden State @ Grizzlies: 
+Golden State vs Grizzlies: 
+Conclusion: Golden State Wins
+
+Golden State @ Portland: 55.0%
+Golden State vs Portland: 68.8%
+Conclusion: Golden State Wins
+
+//actual series
+LA Clippers @ Houston: 54.0%
+LA Clippers vs Houston: 56.9%
+Conclusion: LA Clippers Wins (Houston actually won)
+
+San Antonio @ Houston: 53.0%
+San Antonio vs Houston: 59.0%
+Conclusion: San Antonio Wins
+
+
+--Conference Finals--
+Golden State @ San Antonio: -53.6%
+Golden State vs San Antonio: 57.11%
+Conclusion: Golden State Wins
+
+
+
+
+--- Eastern Conference ---
+
+--Round 1--
+Atlanta @ Brooklyn: 63.5%
+Atlanta vs Brooklyn: 67.4%
+Conclusion: Atlanta Wins
+
+Toronto @ Washington: -54.1%
+Toronto vs Washington: 54.3%
+Conclusion: Toronto barely Wins
+
+Chicago @ Milwaukee: 54.7%
+Chicago vs Milwaukee: 62.11%
+Conclusion: Chicago Wins
+
+Cleveland @ Boston: 54.3%
+Cleveland vs Boston: 58.2%
+Conclusion: Cleveland Wins
+
+
+--Round 2--
+Atlanta @ Toronto: 54.4%
+Atlanta vs Toronto: 61.4%
+Conclusion: Atlanta Wins
+
+Chicago @ Cleveland: -56.1%
+Chicago vs Cleveland: 53.1%
+Conclusion: Cleveland Wins
+
+
+--Conference Finals--
+Atlanta @ Cleveland: -52.1%
+Atlanta vs Cleveland: 58.7%
+Conclusion: Atlanta Wins
+
+
+
+
+
+
+------ FINALS ------
+Golden State @ Atlanta: -50.3%
+Golden State vs Atlanta: 62.3%
+Conclusion: Golden State Wins

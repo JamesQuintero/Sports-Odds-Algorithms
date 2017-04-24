@@ -1,0 +1,16 @@
+
+Date: 4-25-2012
+Away: los-angeles-lakers | Home: oklahoma-city-thunder
+Seasonal Record:      -60.16%
+Home Away:            -78.32%
+Home away 10:         -54.02%
+Last 10 games:        -53.69%
+Avg points:           -59.73%
+Avg points 10:        -66.68%
+--------
+Total: -62.1%
+--------
+Perc chance to win: 62.1%
+Favorable team odds: -163.85224274406332
+Underdog team odds: +163.85224274406332
+

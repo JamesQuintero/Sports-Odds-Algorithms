@@ -1,0 +1,17 @@
+
+Date: 4-16-2015
+Away: anaheim-ducks | Home: minnesota-wild
+Seasonal Record:      53.86%
+Home Away:            55.16%
+Home away 10:         53.37%
+Last 10 games:        53.93%
+Avg points:           -52.38%
+Avg points 10:        -52.46%
+Win streak home away: 50%
+--------
+Total: 51.64%
+--------
+Perc chance to win: 51.64%
+Favorable team odds: -106.78246484698097
+Underdog team odds: +106.78246484698097
+

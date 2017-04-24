@@ -1,0 +1,16 @@
+
+Date: 4-16-2014
+Away: san-antonio-spurs | Home: los-angeles-clippers
+Seasonal Record:      58.41%
+Home Away:            -61.25%
+Home away 10:         50%
+Last 10 games:        51.0%
+Avg points:           50%
+Avg points 10:        53.23%
+--------
+Total: 50.23%
+--------
+Perc chance to win: 50.23%
+Favorable team odds: -100.92425155716293
+Underdog team odds: +100.92425155716293
+

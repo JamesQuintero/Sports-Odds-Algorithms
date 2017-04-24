@@ -1,0 +1,16 @@
+
+Date: 4-15-2015
+Away: chicago-bulls | Home: milwaukee-bucks
+Seasonal Record:      61.89%
+Home Away:            -51.48%
+Home away 10:         50%
+Last 10 games:        53.69%
+Avg points:           52.79%
+Avg points 10:        61.35%
+--------
+Total: 54.7%
+--------
+Perc chance to win: 54.7%
+Favorable team odds: -120.7505518763797
+Underdog team odds: +120.7505518763797
+

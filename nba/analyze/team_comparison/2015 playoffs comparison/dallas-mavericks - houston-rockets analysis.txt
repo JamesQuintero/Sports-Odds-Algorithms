@@ -1,0 +1,16 @@
+
+Date: 4-15-2015
+Away: dallas-mavericks | Home: houston-rockets
+Seasonal Record:      -59.0%
+Home Away:            -66.31%
+Home away 10:         -59.94%
+Last 10 games:        -56.04%
+Avg points:           50%
+Avg points 10:        -59.25%
+--------
+Total: -58.42%
+--------
+Perc chance to win: 58.42%
+Favorable team odds: -140.5002405002405
+Underdog team odds: +140.5002405002405
+

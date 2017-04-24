@@ -1,0 +1,17 @@
+
+Date: 4-25-2013
+Away: chicago-blackhawks | Home: pittsburgh-penguins
+Seasonal Record:      51.6%
+Home Away:            50.61%
+Home away 10:         -50.81%
+Last 10 games:        53.93%
+Avg points:           51.89%
+Avg points 10:        52.78%
+Win streak home away: 50%
+--------
+Total: 51.42%
+--------
+Perc chance to win: 51.42%
+Favorable team odds: -105.84602717167559
+Underdog team odds: +105.84602717167559
+

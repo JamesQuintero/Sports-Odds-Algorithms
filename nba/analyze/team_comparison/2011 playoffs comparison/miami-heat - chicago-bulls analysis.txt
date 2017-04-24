@@ -1,0 +1,16 @@
+
+Date: 4-15-2011
+Away: miami-heat | Home: chicago-bulls
+Seasonal Record:      -57.24%
+Home Away:            -71.01%
+Home away 10:         -54.02%
+Last 10 games:        -53.69%
+Avg points:           50%
+Avg points 10:        53.56%
+--------
+Total: -55.4%
+--------
+Perc chance to win: 55.4%
+Favorable team odds: -124.21524663677128
+Underdog team odds: +124.21524663677128
+

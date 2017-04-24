@@ -1,0 +1,16 @@
+
+Date: 4-15-2015
+Away: toronto-raptors | Home: atlanta-hawks
+Seasonal Record:      -66.43%
+Home Away:            -81.11%
+Home away 10:         -59.94%
+Last 10 games:        51.0%
+Avg points:           -52.54%
+Avg points 10:        -59.08%
+--------
+Total: -61.35%
+--------
+Perc chance to win: 61.35%
+Favorable team odds: -158.732212160414
+Underdog team odds: +158.732212160414
+

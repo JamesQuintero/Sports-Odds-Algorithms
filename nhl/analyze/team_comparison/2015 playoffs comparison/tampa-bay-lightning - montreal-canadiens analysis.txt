@@ -1,17 +1,17 @@
 
-Date: 4-11-2015
+Date: 4-16-2015
 Away: tampa-bay-lightning | Home: montreal-canadiens
-Seasonal Record:      55.67%
-Home Away:            -52.54%
+Seasonal Record:      51.6%
+Home Away:            -61.58%
 Home away 10:         -53.37%
 Last 10 games:        53.28%
-Avg points:           54.08%
-Avg points 10:        52.46%
+Avg points:           52.29%
+Avg points 10:        53.19%
 Win streak home away: 50%
 --------
-Total: 54.87%
+Total: -50.65%
 --------
-Perc chance to win: 54.87%
-Favorable team odds: -121.58209616662971
-Underdog team odds: +121.58209616662971
+Perc chance to win: 50.65%
+Favorable team odds: -102.63424518743669
+Underdog team odds: +102.63424518743669
 

@@ -1,0 +1,16 @@
+
+Date: 4-20-2013
+Away: los-angeles-clippers | Home: memphis-grizzlies
+Seasonal Record:      52.5%
+Home Away:            -71.01%
+Home away 10:         -65.54%
+Last 10 games:        -53.69%
+Avg points:           51.83%
+Avg points 10:        -51.28%
+--------
+Total: -56.19%
+--------
+Perc chance to win: 56.19%
+Favorable team odds: -128.2583884957772
+Underdog team odds: +128.2583884957772
+

@@ -1,0 +1,16 @@
+
+Date: 4-15-2015
+Away: boston-celtics | Home: cleveland-cavaliers
+Seasonal Record:      -66.99%
+Home Away:            -78.32%
+Home away 10:         50%
+Last 10 games:        51.0%
+Avg points:           -57.57%
+Avg points 10:        52.91%
+--------
+Total: -58.16%
+--------
+Perc chance to win: 58.16%
+Favorable team odds: -139.00573613766727
+Underdog team odds: +139.00573613766727
+

@@ -1,0 +1,16 @@
+
+Date: 4-20-2013
+Away: milwaukee-bucks | Home: miami-heat
+Seasonal Record:      -84.09%
+Home Away:            -91.33%
+Home away 10:         -80.56%
+Last 10 games:        -61.0%
+Avg points:           -72.0%
+Avg points 10:        -61.84%
+--------
+Total: -75.13%
+--------
+Perc chance to win: 75.13%
+Favorable team odds: -302.0908725371934
+Underdog team odds: +302.0908725371934
+

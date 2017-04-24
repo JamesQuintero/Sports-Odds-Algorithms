@@ -1,0 +1,16 @@
+
+Date: 4-16-2017
+Away: milwaukee-bucks | Home: toronto-raptors
+Seasonal Record:      -63.04%
+Home Away:            -73.22%
+Home away 10:         50%
+Last 10 games:        -58.04%
+Avg points:           -58.33%
+Avg points 10:        -66.2%
+--------
+Total: -61.47%
+--------
+Perc chance to win: 61.47%
+Favorable team odds: -159.5380223202699
+Underdog team odds: +159.5380223202699
+

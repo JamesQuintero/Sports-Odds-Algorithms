@@ -1,0 +1,16 @@
+
+Date: 4-16-2014
+Away: san-antonio-spurs | Home: portland-trail-blazers
+Seasonal Record:      63.04%
+Home Away:            -51.48%
+Home away 10:         50%
+Last 10 games:        -53.69%
+Avg points:           57.18%
+Avg points 10:        56.81%
+--------
+Total: 53.64%
+--------
+Perc chance to win: 53.64%
+Favorable team odds: -115.70319240724763
+Underdog team odds: +115.70319240724763
+

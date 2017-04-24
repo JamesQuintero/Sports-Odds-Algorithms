@@ -1,0 +1,98 @@
+---- Western Conference ----
+
+--Round 1--
+San Antonio @ Dallas: 59.2%
+San Antonio vs Dallas: 61.8%
+Conclusion: San Antonio Wins
+
+Houston @ Portland: -58.15%
+Houston vs Portland: 55.11%
+Conclusion: Portland Wins
+
+LA Clippers @ Golden State: 51.7%
+LA Clippers vs Golden State: 57.8%
+Conclusion: LA Clippers Wins
+
+Oklahoma City @ Memphis: 51.0%
+Oklahoma City vs Memphis: 61.9%
+Conclusion: Oklahoma City Wins
+
+
+
+--Round 2--
+San Antonio @ Portland: 53.7%
+San Antonio vs Portland: 61.4%
+Conclusion: San Antonio Wins
+
+LA Clippers @ Oklahoma City: -54.2%
+LA Clippers vs Oklahoma City: 55.6%
+Conclusion: LA Clippers Wins
+
+
+--Conference Finals--
+San Antonio @ LA Clippers: 50.2%
+San Antonio vs LA Clippers: 56.3%
+Conclusion: San Antonio Wins
+
+
+
+
+--- Eastern Conference ---
+
+--Round 1--
+Indiana @ Atlanta: 51.3%
+Indiana vs Atlanta: 61.9%
+Conclusion: Indiana Wins
+
+Chicago @ Washington: 51.9%
+Chicago vs Washington: 56.3%
+Conclusion: Chicago Wins
+
+Toronto @ Brooklyn: 51.0%
+Toronto vs Brooklyn: 59.8%
+Conclusion: Toronto Wins
+
+Miami @ Charlotte: -52.1%
+Miami vs Charlotte: 58.2%
+Conclusion: Miami Wins
+
+
+--Round 2--
+//actual series
+Indiana @ Washington: -53.7%
+Indiana vs Washington: 54.7%
+Conclusion: Indiana barely Wins (Indiana did win)
+
+Indiana @ Chicago: -59.7%
+Indiana vs Chicago: 52.0%
+Conclusion: Chicago Wins
+
+//actual series
+Brooklyn @ Miami: -62.1%
+Brooklyn vs Miami: 51.77%
+Conclusion: Miami Wins (Miami did win)
+
+Toronto @ Miami: -54.5%
+Toronto vs Miami: 54.2%
+Conclusion: Miami barely Wins
+
+
+--Conference Finals--
+//actual series
+Indiana @ Miami: -60.3%
+Indiana vs Miami: 55.0%
+Conclusion: Miami Wins (Miami did win)
+
+Chicago @ Miami: -54.6%
+Chicago vs Miami: 55.7%
+Conclusion: Chicago barely Wins
+
+
+
+
+
+
+------ FINALS ------
+San Antonio @ Chicago: 56.6%
+San Antonio vs Chicago: 61.4%
+Conclusion: San Antonio Wins

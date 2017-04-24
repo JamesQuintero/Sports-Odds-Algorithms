@@ -1,0 +1,16 @@
+
+Date: 4-25-2011
+Away: miami-heat | Home: dallas-mavericks
+Seasonal Record:      53.69%
+Home Away:            -52.95%
+Home away 10:         50%
+Last 10 games:        56.04%
+Avg points:           54.81%
+Avg points 10:        58.43%
+--------
+Total: 53.33%
+--------
+Perc chance to win: 53.33%
+Favorable team odds: -114.27040925648168
+Underdog team odds: +114.27040925648168
+

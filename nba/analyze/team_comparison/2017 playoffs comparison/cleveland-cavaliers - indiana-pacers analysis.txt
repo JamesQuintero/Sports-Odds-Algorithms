@@ -1,0 +1,16 @@
+
+Date: 4-16-2017
+Away: cleveland-cavaliers | Home: indiana-pacers
+Seasonal Record:      63.04%
+Home Away:            -73.22%
+Home away 10:         -70.85%
+Last 10 games:        -56.04%
+Avg points:           55.33%
+Avg points 10:        -58.92%
+--------
+Total: -56.77%
+--------
+Perc chance to win: 56.77%
+Favorable team odds: -131.3208420078649
+Underdog team odds: +131.3208420078649
+

@@ -1,0 +1,16 @@
+
+Date: 4-16-2014
+Away: san-antonio-spurs | Home: chicago-bulls
+Seasonal Record:      68.67%
+Home Away:            58.58%
+Home away 10:         50%
+Last 10 games:        -53.69%
+Avg points:           63.12%
+Avg points 10:        52.91%
+--------
+Total: 56.59%
+--------
+Perc chance to win: 56.59%
+Favorable team odds: -130.361667818475
+Underdog team odds: +130.361667818475
+

@@ -1,0 +1,16 @@
+
+Date: 4-20-2013
+Away: los-angeles-lakers | Home: san-antonio-spurs
+Seasonal Record:      -67.55%
+Home Away:            -90.15%
+Home away 10:         -59.94%
+Last 10 games:        61.0%
+Avg points:           -60.84%
+Avg points 10:        58.76%
+--------
+Total: -59.78%
+--------
+Perc chance to win: 59.78%
+Favorable team odds: -148.63252113376427
+Underdog team odds: +148.63252113376427
+

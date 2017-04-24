@@ -1,0 +1,16 @@
+
+Date: 4-15-2015
+Away: chicago-bulls | Home: cleveland-cavaliers
+Seasonal Record:      -56.07%
+Home Away:            -69.87%
+Home away 10:         -70.85%
+Last 10 games:        51.0%
+Avg points:           50%
+Avg points 10:        59.25%
+--------
+Total: -56.09%
+--------
+Perc chance to win: 56.09%
+Favorable team odds: -127.7385561375541
+Underdog team odds: +127.7385561375541
+

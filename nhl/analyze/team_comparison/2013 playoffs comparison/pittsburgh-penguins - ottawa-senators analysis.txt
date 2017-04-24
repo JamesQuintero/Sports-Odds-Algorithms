@@ -1,0 +1,17 @@
+
+Date: 4-25-2013
+Away: pittsburgh-penguins | Home: ottawa-senators
+Seasonal Record:      59.5%
+Home Away:            55.16%
+Home away 10:         55.7%
+Last 10 games:        53.69%
+Avg points:           56.33%
+Avg points 10:        52.65%
+Win streak home away: 50%
+--------
+Total: 54.71%
+--------
+Perc chance to win: 54.71%
+Favorable team odds: -120.79929344226099
+Underdog team odds: +120.79929344226099
+

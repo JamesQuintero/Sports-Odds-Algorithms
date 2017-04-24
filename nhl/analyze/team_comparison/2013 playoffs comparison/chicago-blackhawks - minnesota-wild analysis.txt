@@ -1,0 +1,17 @@
+
+Date: 4-25-2013
+Away: chicago-blackhawks | Home: minnesota-wild
+Seasonal Record:      57.93%
+Home Away:            56.72%
+Home away 10:         55.7%
+Last 10 games:        53.69%
+Avg points:           59.66%
+Avg points 10:        54.21%
+Win streak home away: 50%
+--------
+Total: 55.41%
+--------
+Perc chance to win: 55.41%
+Favorable team odds: -124.26553038797934
+Underdog team odds: +124.26553038797934
+

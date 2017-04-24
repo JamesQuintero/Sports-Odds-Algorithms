@@ -1,0 +1,16 @@
+
+Date: 4-15-2011
+Away: boston-celtics | Home: new-york-knicks
+Seasonal Record:      68.11%
+Home Away:            -51.48%
+Home away 10:         50%
+Last 10 games:        -56.04%
+Avg points:           58.3%
+Avg points 10:        -52.09%
+--------
+Total: 52.8%
+--------
+Perc chance to win: 52.8%
+Favorable team odds: -111.86440677966098
+Underdog team odds: +111.86440677966098
+

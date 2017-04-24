@@ -1,0 +1,16 @@
+
+Date: 4-25-2012
+Away: orlando-magic | Home: indiana-pacers
+Seasonal Record:      -59.0%
+Home Away:            -68.71%
+Home away 10:         -70.85%
+Last 10 games:        -59.69%
+Avg points:           -52.6%
+Avg points 10:        -63.61%
+--------
+Total: -62.41%
+--------
+Perc chance to win: 62.41%
+Favorable team odds: -166.02819898909283
+Underdog team odds: +166.02819898909283
+

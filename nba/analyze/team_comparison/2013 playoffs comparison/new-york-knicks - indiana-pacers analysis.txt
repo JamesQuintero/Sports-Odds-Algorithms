@@ -1,0 +1,16 @@
+
+Date: 4-20-2013
+Away: new-york-knicks | Home: indiana-pacers
+Seasonal Record:      57.83%
+Home Away:            -68.71%
+Home away 10:         54.02%
+Last 10 games:        58.04%
+Avg points:           50%
+Avg points 10:        64.58%
+--------
+Total: 52.62%
+--------
+Perc chance to win: 52.62%
+Favorable team odds: -111.05951878429714
+Underdog team odds: +111.05951878429714
+

@@ -1,17 +1,17 @@
 
-Date: 4-11-2015
+Date: 4-16-2015
 Away: washington-capitals | Home: new-york-rangers
-Seasonal Record:      58.96%
-Home Away:            50.61%
-Home away 10:         -52.0%
-Last 10 games:        53.93%
-Avg points:           55.12%
-Avg points 10:        54.06%
+Seasonal Record:      -56.09%
+Home Away:            -55.16%
+Home away 10:         50%
+Last 10 games:        -53.28%
+Avg points:           -52.48%
+Avg points 10:        -52.97%
 Win streak home away: 50%
 --------
-Total: 57.04%
+Total: -52.85%
 --------
-Perc chance to win: 57.04%
-Favorable team odds: -132.77467411545624
-Underdog team odds: +132.77467411545624
+Perc chance to win: 52.85%
+Favorable team odds: -112.08907741251326
+Underdog team odds: +112.08907741251326
 

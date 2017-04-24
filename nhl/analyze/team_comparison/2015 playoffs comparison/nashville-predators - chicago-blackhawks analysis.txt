@@ -1,17 +1,17 @@
 
-Date: 4-11-2015
+Date: 4-16-2015
 Away: nashville-predators | Home: chicago-blackhawks
-Seasonal Record:      -54.53%
-Home Away:            -61.1%
-Home away 10:         50.81%
-Last 10 games:        -53.28%
-Avg points:           -51.58%
-Avg points 10:        -52.53%
+Seasonal Record:      -51.9%
+Home Away:            -58.15%
+Home away 10:         -53.37%
+Last 10 games:        53.93%
+Avg points:           -51.99%
+Avg points 10:        -53.48%
 Win streak home away: 50%
 --------
-Total: -57.81%
+Total: -52.13%
 --------
-Perc chance to win: 57.81%
-Favorable team odds: -137.02299123014933
-Underdog team odds: +137.02299123014933
+Perc chance to win: 52.13%
+Favorable team odds: -108.89910173386257
+Underdog team odds: +108.89910173386257
 

@@ -1,0 +1,16 @@
+
+Date: 4-15-2015
+Away: golden-state-warriors | Home: portland-trail-blazers
+Seasonal Record:      70.32%
+Home Away:            -61.25%
+Home away 10:         50%
+Last 10 games:        58.04%
+Avg points:           62.35%
+Avg points 10:        50.79%
+--------
+Total: 55.04%
+--------
+Perc chance to win: 55.04%
+Favorable team odds: -122.41992882562278
+Underdog team odds: +122.41992882562278
+

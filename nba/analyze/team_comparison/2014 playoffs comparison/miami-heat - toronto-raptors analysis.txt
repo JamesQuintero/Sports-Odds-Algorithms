@@ -1,0 +1,16 @@
+
+Date: 4-16-2014
+Away: miami-heat | Home: toronto-raptors
+Seasonal Record:      59.58%
+Home Away:            -61.25%
+Home away 10:         -65.54%
+Last 10 games:        -58.04%
+Avg points:           50%
+Avg points 10:        50%
+--------
+Total: -54.2%
+--------
+Perc chance to win: 54.2%
+Favorable team odds: -118.34061135371181
+Underdog team odds: +118.34061135371181
+

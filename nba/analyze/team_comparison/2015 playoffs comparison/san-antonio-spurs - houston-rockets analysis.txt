@@ -1,0 +1,16 @@
+
+Date: 4-15-2015
+Away: san-antonio-spurs | Home: houston-rockets
+Seasonal Record:      53.09%
+Home Away:            -67.52%
+Home away 10:         50%
+Last 10 games:        58.04%
+Avg points:           55.12%
+Avg points 10:        69.26%
+--------
+Total: 52.99%
+--------
+Perc chance to win: 52.99%
+Favorable team odds: -112.72069772388855
+Underdog team odds: +112.72069772388855
+

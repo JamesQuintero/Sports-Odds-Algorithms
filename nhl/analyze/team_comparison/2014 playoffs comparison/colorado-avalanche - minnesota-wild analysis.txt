@@ -1,0 +1,17 @@
+
+Date: 4-16-2014
+Away: colorado-avalanche | Home: minnesota-wild
+Seasonal Record:      56.97%
+Home Away:            50%
+Home away 10:         53.37%
+Last 10 games:        53.28%
+Avg points:           53.44%
+Avg points 10:        52.46%
+Win streak home away: 50%
+--------
+Total: 52.78%
+--------
+Perc chance to win: 52.78%
+Favorable team odds: -111.77467174925879
+Underdog team odds: +111.77467174925879
+

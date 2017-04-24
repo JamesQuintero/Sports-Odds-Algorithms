@@ -1,0 +1,16 @@
+
+Date: 4-25-2012
+Away: indiana-pacers | Home: miami-heat
+Seasonal Record:      -56.66%
+Home Away:            -73.22%
+Home away 10:         50%
+Last 10 games:        56.04%
+Avg points:           -52.63%
+Avg points 10:        55.84%
+--------
+Total: -53.43%
+--------
+Perc chance to win: 53.43%
+Favorable team odds: -114.73051320592656
+Underdog team odds: +114.73051320592656
+

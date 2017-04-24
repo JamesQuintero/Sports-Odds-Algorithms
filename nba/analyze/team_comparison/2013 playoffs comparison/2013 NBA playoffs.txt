@@ -1,0 +1,102 @@
+---- Western Conference ----
+
+--Round 1--
+Oklahoma City @ Houston: 57.1%
+Oklahoma City vs Houston: 66.8%
+Conclusion: Oklahoma City Wins
+
+LA Clippers @ Memphis: -56.2%
+LA Clippers vs Memphis: 54.2%
+Conclusion: Memphis Wins
+
+Denver @ Golden State: 52.0%
+Denver vs Golden State: 66.9%
+Conclusion: Denver Wins
+
+San Antonio @ LA Lakers: 56.4%
+San Antonio vs LA Lakers: 59.8%
+Conclusion: San Antonio Wins
+
+
+--Round 2--
+Oklahoma City @ Memphis: -51.1%
+Oklahoma City vs Memphis: 57.2%
+Conclusion: Oklahoma City Wins
+
+//actual series: 
+Golden State @ San Antonio: -59.9%
+Golden State vs San Antonio: 53.6%
+Conclusion: San Antonio Wins (San Antonio did win)
+
+Denver @ San Antonio: -51.6%
+Denver vs San Antonio: 66.0%
+Conclusion: Denver Wins
+
+
+--Conference Finals--
+//actual series
+Memphis @ San Antonio: -52.8%
+Memphis vs San Antonio: 62.4%
+Conclusion: Memphis Wins
+
+Oklahoma City @ Denver: -55.1%
+Oklahoma City vs Denver: 57.2%
+Conclusion: Oklahoma City Wins
+
+
+
+
+--- Eastern Conference ---
+
+--Round 1--
+Miami @ Milwaukee: 69.4%
+Miami vs Milwaukee: 75.1%
+Conclusion: Miami crushes
+
+Brooklyn @ Chicago: 53.4%
+Brooklyn vs Chicago: 56.8%
+Conclusion: Brooklyn Wins
+
+Indiana @ Atlanta: 50.6%
+Indiana vs Atlanta: 57.7%
+Conclusion: Indiana Wins
+
+New York @ Boston: 57.4%
+New York vs Boston: 71.6%
+Conclusion:  New York Wins
+
+
+--Round 2--
+//actual series
+Miami @ Chicago: 63.8%
+Miami vs Chicago: 70.3%
+Conclusion: Miami Wins
+
+Miami @ Brooklyn: 60.1%
+Miami vs Brooklyn: 64.2%
+Conclusion: Miami crushes
+
+Indiana @ New York: -63.3%
+Indiana vs New York: -52.6%
+Conclusion: New York Wins
+
+
+--Conference Finals--
+//actual series
+Miami @ Indiana: 
+Miami vs Indiana: 
+Conclusion: Miami Wins (Miami did win)
+
+Miami @ New York: 53.3%
+Miami vs New York: 60.4%
+Conclusion: Miami Wins
+
+
+
+
+
+
+------ FINALS ------
+Oklahoma City @ Miami: -57.7%
+Oklahoma City vs Miami: -50.8%
+Conclusion: Miami Wins

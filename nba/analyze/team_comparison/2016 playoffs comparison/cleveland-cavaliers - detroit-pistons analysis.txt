@@ -1,0 +1,16 @@
+
+Date: 4-15-2016
+Away: cleveland-cavaliers | Home: detroit-pistons
+Seasonal Record:      68.11%
+Home Away:            -55.81%
+Home away 10:         -54.02%
+Last 10 games:        51.0%
+Avg points:           61.54%
+Avg points 10:        60.54%
+--------
+Total: 55.22%
+--------
+Perc chance to win: 55.22%
+Favorable team odds: -123.31397945511387
+Underdog team odds: +123.31397945511387
+

@@ -1,0 +1,16 @@
+
+Date: 4-25-2012
+Away: boston-celtics | Home: miami-heat
+Seasonal Record:      -60.16%
+Home Away:            -81.11%
+Home away 10:         50%
+Last 10 games:        53.69%
+Avg points:           -55.52%
+Avg points 10:        54.7%
+--------
+Total: -56.4%
+--------
+Perc chance to win: 56.4%
+Favorable team odds: -129.3577981651376
+Underdog team odds: +129.3577981651376
+

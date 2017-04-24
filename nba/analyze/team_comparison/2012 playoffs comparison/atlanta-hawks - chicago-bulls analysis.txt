@@ -1,0 +1,16 @@
+
+Date: 4-25-2012
+Away: atlanta-hawks | Home: chicago-bulls
+Seasonal Record:      -63.04%
+Home Away:            -72.12%
+Home away 10:         -54.02%
+Last 10 games:        53.69%
+Avg points:           -58.42%
+Avg points 10:        58.11%
+--------
+Total: -55.96%
+--------
+Perc chance to win: 55.96%
+Favorable team odds: -127.06630336058132
+Underdog team odds: +127.06630336058132
+

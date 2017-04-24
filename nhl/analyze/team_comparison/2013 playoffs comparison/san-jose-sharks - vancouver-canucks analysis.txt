@@ -1,0 +1,17 @@
+
+Date: 4-25-2013
+Away: san-jose-sharks | Home: vancouver-canucks
+Seasonal Record:      -52.29%
+Home Away:            -61.1%
+Home away 10:         -57.78%
+Last 10 games:        -53.2%
+Avg points:           -51.07%
+Avg points 10:        -52.46%
+Win streak home away: 50%
+--------
+Total: -53.98%
+--------
+Perc chance to win: 53.98%
+Favorable team odds: -117.296827466319
+Underdog team odds: +117.296827466319
+

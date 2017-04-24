@@ -1,0 +1,16 @@
+
+Date: 4-15-2011
+Away: oklahoma-city-thunder | Home: dallas-mavericks
+Seasonal Record:      -54.88%
+Home Away:            -61.25%
+Home away 10:         54.02%
+Last 10 games:        53.69%
+Avg points:           50%
+Avg points 10:        50.95%
+--------
+Total: -51.24%
+--------
+Perc chance to win: 51.24%
+Favorable team odds: -105.08613617719442
+Underdog team odds: +105.08613617719442
+

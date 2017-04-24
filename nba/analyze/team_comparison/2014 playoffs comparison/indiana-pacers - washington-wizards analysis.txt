@@ -1,0 +1,16 @@
+
+Date: 4-16-2014
+Away: indiana-pacers | Home: washington-wizards
+Seasonal Record:      66.43%
+Home Away:            -54.39%
+Home away 10:         -59.94%
+Last 10 games:        -58.04%
+Avg points:           54.65%
+Avg points 10:        -70.86%
+--------
+Total: -53.69%
+--------
+Perc chance to win: 53.69%
+Favorable team odds: -115.93608291945583
+Underdog team odds: +115.93608291945583
+

@@ -1,0 +1,17 @@
+
+Date: 4-16-2015
+Away: tampa-bay-lightning | Home: chicago-blackhawks
+Seasonal Record:      52.29%
+Home Away:            -59.44%
+Home away 10:         -53.37%
+Last 10 games:        53.2%
+Avg points:           51.28%
+Avg points 10:        52.62%
+Win streak home away: 50%
+--------
+Total: -50.48%
+--------
+Perc chance to win: 50.48%
+Favorable team odds: -101.93861066235863
+Underdog team odds: +101.93861066235863
+

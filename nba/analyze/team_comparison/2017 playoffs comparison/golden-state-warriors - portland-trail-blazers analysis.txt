@@ -1,0 +1,16 @@
+
+Date: 4-16-2017
+Away: golden-state-warriors | Home: portland-trail-blazers
+Seasonal Record:      81.53%
+Home Away:            66.31%
+Home away 10:         50%
+Last 10 games:        56.04%
+Avg points:           78.74%
+Avg points 10:        60.38%
+--------
+Total: 65.5%
+--------
+Perc chance to win: 65.5%
+Favorable team odds: -189.85507246376812
+Underdog team odds: +189.85507246376812
+

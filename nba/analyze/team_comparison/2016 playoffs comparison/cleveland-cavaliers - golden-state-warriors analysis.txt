@@ -1,0 +1,16 @@
+
+Date: 4-15-2016
+Away: cleveland-cavaliers | Home: golden-state-warriors
+Seasonal Record:      -70.87%
+Home Away:            -84.5%
+Home away 10:         -59.94%
+Last 10 games:        -56.04%
+Avg points:           -59.43%
+Avg points 10:        -51.77%
+--------
+Total: -63.75%
+--------
+Perc chance to win: 63.75%
+Favorable team odds: -175.86206896551727
+Underdog team odds: +175.86206896551727
+

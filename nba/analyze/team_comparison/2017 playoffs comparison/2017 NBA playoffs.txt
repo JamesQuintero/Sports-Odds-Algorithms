@@ -1,0 +1,75 @@
+---- Western Conference ----
+
+--Round 1--
+GSW @ POR: 65.5%
+GSW vs POR: 71.3%
+Conclusion: GSW Wins
+
+LAC @ UTA: -53.2%
+LAC vs UTA: 58.25%
+Conclusion: LAC Wins
+
+HOU @ OKC: 51.1%
+HOU vs OKC: 57.1%
+Conclusion: HOU Wins
+
+SAS @ MEM: 61.0%
+SAS vs MEM: 65.6%
+Conclusion: SAS Wins
+
+--Round 2--
+GSW @ LAC: 58.0%
+GSW vs LAC: 65.1%
+Conclusion: GSW Wins
+
+HOU @ SAS: -55.2%
+Hou vs SAS: -52.9%
+Conclusion: SAS Wins
+
+--Conference Finals--
+GSW @ SAS: 57.0%
+GSW vs SAS: 61.4%
+Conclusion: GSW Wins
+
+
+--- Eastern Conference ---
+
+--Round 1--
+BOS @ CHI: 50.3%
+BOS vs CHI: 59.0%
+Conclusion: BOS Wins
+
+WAS @ ATL: -51.7%
+WAS vs ATL: 56.7%
+Conclusion: WAS Wins
+
+TOR @ MIL: 57.6%
+TOR vs MIL: 61.5%
+Conclusion: TOR Wins
+
+CLE @ IND: -56.8%
+CLE vs IND: 59.6%
+Conclusion: CLE Wins
+
+--Round 2--
+BOS @ WAS: 50.2%
+BOS vs WAS: 60.4%
+Conclusion: BOS Wins
+
+TOR @ CLE: 50%
+TOR vs CLE: 58.8%
+Conclusion: TOR Wins
+
+--Round 3--
+BOS @ TOR: -53.3%
+BOS vs TOR: 52.8%
+Conclusion: TOR barely Wins
+
+
+
+
+
+------ FINALS ------
+GSW @ TOR: 59.9%
+GSW vs TOR: 64.3%
+Conclusion: GSW Wins

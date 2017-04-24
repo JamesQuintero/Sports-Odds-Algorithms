@@ -1,0 +1,16 @@
+
+Date: 4-20-2013
+Away: oklahoma-city-thunder | Home: miami-heat
+Seasonal Record:      -59.58%
+Home Away:            -77.35%
+Home away 10:         -54.02%
+Last 10 games:        -56.04%
+Avg points:           50%
+Avg points 10:        50.79%
+--------
+Total: -57.7%
+--------
+Perc chance to win: 57.7%
+Favorable team odds: -136.40661938534282
+Underdog team odds: +136.40661938534282
+

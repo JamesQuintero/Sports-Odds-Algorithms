@@ -1,0 +1,16 @@
+
+Date: 4-16-2014
+Away: san-antonio-spurs | Home: dallas-mavericks
+Seasonal Record:      67.55%
+Home Away:            61.25%
+Home away 10:         54.02%
+Last 10 games:        51.0%
+Avg points:           61.69%
+Avg points 10:        59.41%
+--------
+Total: 59.15%
+--------
+Perc chance to win: 59.15%
+Favorable team odds: -144.79804161566707
+Underdog team odds: +144.79804161566707
+

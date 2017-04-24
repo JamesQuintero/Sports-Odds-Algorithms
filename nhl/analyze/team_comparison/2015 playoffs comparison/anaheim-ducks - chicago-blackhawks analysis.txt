@@ -1,0 +1,17 @@
+
+Date: 4-16-2015
+Away: anaheim-ducks | Home: chicago-blackhawks
+Seasonal Record:      52.74%
+Home Away:            51.59%
+Home away 10:         50%
+Last 10 games:        53.2%
+Avg points:           -53.62%
+Avg points 10:        -53.79%
+Win streak home away: 50%
+--------
+Total: 50.01%
+--------
+Perc chance to win: 50.01%
+Favorable team odds: -100.04000800160031
+Underdog team odds: +100.04000800160031
+

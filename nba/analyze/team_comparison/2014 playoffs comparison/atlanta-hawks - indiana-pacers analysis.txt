@@ -1,0 +1,16 @@
+
+Date: 4-16-2014
+Away: atlanta-hawks | Home: indiana-pacers
+Seasonal Record:      -74.14%
+Home Away:            -93.87%
+Home away 10:         -59.94%
+Last 10 games:        53.69%
+Avg points:           -61.16%
+Avg points 10:        63.94%
+--------
+Total: -61.91%
+--------
+Perc chance to win: 61.91%
+Favorable team odds: -162.5360987135731
+Underdog team odds: +162.5360987135731
+

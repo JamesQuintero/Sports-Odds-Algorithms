@@ -1,0 +1,16 @@
+
+Date: 4-15-2016
+Away: toronto-raptors | Home: charlotte-hornets
+Seasonal Record:      61.89%
+Home Away:            -66.31%
+Home away 10:         -54.02%
+Last 10 games:        51.0%
+Avg points:           50.15%
+Avg points 10:        -55.84%
+--------
+Total: -52.18%
+--------
+Perc chance to win: 52.18%
+Favorable team odds: -109.11752404851525
+Underdog team odds: +109.11752404851525
+

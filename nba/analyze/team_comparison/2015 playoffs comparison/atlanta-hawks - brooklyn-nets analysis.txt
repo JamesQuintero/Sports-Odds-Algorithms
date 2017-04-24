@@ -1,0 +1,16 @@
+
+Date: 4-15-2015
+Away: atlanta-hawks | Home: brooklyn-nets
+Seasonal Record:      78.4%
+Home Away:            68.71%
+Home away 10:         -54.02%
+Last 10 games:        51.0%
+Avg points:           70.24%
+Avg points 10:        66.84%
+--------
+Total: 63.52%
+--------
+Perc chance to win: 63.52%
+Favorable team odds: -174.1228070175439
+Underdog team odds: +174.1228070175439
+

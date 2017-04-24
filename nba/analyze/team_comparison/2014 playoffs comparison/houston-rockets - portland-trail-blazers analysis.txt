@@ -1,0 +1,16 @@
+
+Date: 4-16-2014
+Away: houston-rockets | Home: portland-trail-blazers
+Seasonal Record:      53.69%
+Home Away:            -73.22%
+Home away 10:         -65.54%
+Last 10 games:        -58.04%
+Avg points:           50%
+Avg points 10:        -55.84%
+--------
+Total: -58.15%
+--------
+Perc chance to win: 58.15%
+Favorable team odds: -138.9486260454002
+Underdog team odds: +138.9486260454002
+

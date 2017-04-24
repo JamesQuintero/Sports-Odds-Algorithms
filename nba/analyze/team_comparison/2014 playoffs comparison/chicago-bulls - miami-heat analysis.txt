@@ -1,0 +1,16 @@
+
+Date: 4-16-2014
+Away: chicago-bulls | Home: miami-heat
+Seasonal Record:      -59.58%
+Home Away:            -77.35%
+Home away 10:         50%
+Last 10 games:        58.04%
+Avg points:           -54.18%
+Avg points 10:        55.19%
+--------
+Total: -54.64%
+--------
+Perc chance to win: 54.64%
+Favorable team odds: -120.45855379188714
+Underdog team odds: +120.45855379188714
+

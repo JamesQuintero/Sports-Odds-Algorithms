@@ -1,0 +1,16 @@
+
+Date: 4-15-2015
+Away: san-antonio-spurs | Home: golden-state-warriors
+Seasonal Record:      -65.87%
+Home Away:            -86.79%
+Home away 10:         -54.02%
+Last 10 games:        56.04%
+Avg points:           -56.47%
+Avg points 10:        64.42%
+--------
+Total: -57.11%
+--------
+Perc chance to win: 57.11%
+Favorable team odds: -133.1545814875262
+Underdog team odds: +133.1545814875262
+

@@ -1,0 +1,17 @@
+
+Date: 4-25-2013
+Away: montreal-canadiens | Home: ottawa-senators
+Seasonal Record:      52.99%
+Home Away:            -52.54%
+Home away 10:         -50.81%
+Last 10 games:        53.93%
+Avg points:           51.69%
+Avg points 10:        -52.95%
+Win streak home away: 50%
+--------
+Total: 50.33%
+--------
+Perc chance to win: 50.33%
+Favorable team odds: -101.32876988121602
+Underdog team odds: +101.32876988121602
+

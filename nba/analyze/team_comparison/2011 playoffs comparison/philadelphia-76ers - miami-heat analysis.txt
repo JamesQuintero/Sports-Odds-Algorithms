@@ -1,0 +1,16 @@
+
+Date: 4-15-2011
+Away: philadelphia-76ers | Home: miami-heat
+Seasonal Record:      -71.97%
+Home Away:            -84.5%
+Home away 10:         -65.54%
+Last 10 games:        -58.04%
+Avg points:           -62.95%
+Avg points 10:        -62.16%
+--------
+Total: -67.52%
+--------
+Perc chance to win: 67.52%
+Favorable team odds: -207.88177339901472
+Underdog team odds: +207.88177339901472
+

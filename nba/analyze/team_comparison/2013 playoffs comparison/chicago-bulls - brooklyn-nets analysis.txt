@@ -1,0 +1,16 @@
+
+Date: 4-20-2013
+Away: chicago-bulls | Home: brooklyn-nets
+Seasonal Record:      -57.24%
+Home Away:            -63.83%
+Home away 10:         -54.02%
+Last 10 games:        -56.04%
+Avg points:           50%
+Avg points 10:        -59.89%
+--------
+Total: -56.83%
+--------
+Perc chance to win: 56.83%
+Favorable team odds: -131.6423442205235
+Underdog team odds: +131.6423442205235
+

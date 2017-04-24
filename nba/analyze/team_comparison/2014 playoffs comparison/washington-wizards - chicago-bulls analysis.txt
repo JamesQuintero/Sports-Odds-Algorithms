@@ -1,0 +1,16 @@
+
+Date: 4-16-2014
+Away: washington-wizards | Home: chicago-bulls
+Seasonal Record:      -58.41%
+Home Away:            -65.08%
+Home away 10:         -59.94%
+Last 10 games:        -53.69%
+Avg points:           50%
+Avg points 10:        -50.95%
+--------
+Total: -56.34%
+--------
+Perc chance to win: 56.34%
+Favorable team odds: -129.04260192395787
+Underdog team odds: +129.04260192395787
+

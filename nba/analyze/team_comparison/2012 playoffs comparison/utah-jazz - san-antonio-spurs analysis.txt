@@ -1,0 +1,16 @@
+
+Date: 4-25-2012
+Away: utah-jazz | Home: san-antonio-spurs
+Seasonal Record:      -67.55%
+Home Away:            -87.51%
+Home away 10:         -70.85%
+Last 10 games:        -53.69%
+Avg points:           -64.78%
+Avg points 10:        -66.03%
+--------
+Total: -68.4%
+--------
+Perc chance to win: 68.4%
+Favorable team odds: -216.4556962025317
+Underdog team odds: +216.4556962025317
+

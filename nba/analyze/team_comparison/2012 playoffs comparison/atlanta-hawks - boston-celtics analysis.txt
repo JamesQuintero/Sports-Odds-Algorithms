@@ -1,0 +1,16 @@
+
+Date: 4-25-2012
+Away: atlanta-hawks | Home: boston-celtics
+Seasonal Record:      53.09%
+Home Away:            -69.87%
+Home away 10:         -65.54%
+Last 10 games:        51.0%
+Avg points:           50%
+Avg points 10:        58.27%
+--------
+Total: -53.84%
+--------
+Perc chance to win: 53.84%
+Favorable team odds: -116.63778162911615
+Underdog team odds: +116.63778162911615
+

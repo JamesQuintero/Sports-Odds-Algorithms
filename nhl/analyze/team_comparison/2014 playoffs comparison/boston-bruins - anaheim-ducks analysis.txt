@@ -1,0 +1,17 @@
+
+Date: 4-16-2014
+Away: boston-bruins | Home: anaheim-ducks
+Seasonal Record:      51.6%
+Home Away:            -59.44%
+Home away 10:         50%
+Last 10 games:        -53.2%
+Avg points:           53.25%
+Avg points 10:        -53.76%
+Win streak home away: 50%
+--------
+Total: -51.65%
+--------
+Perc chance to win: 51.65%
+Favorable team odds: -106.82523267838677
+Underdog team odds: +106.82523267838677
+

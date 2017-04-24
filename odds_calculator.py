@@ -46,8 +46,8 @@ class Odds_Calculator:
 	def single_team_analysis(self, team):
 		cur_year=input("Current season year: ")
 		self.espn_scraper.update_data(team, cur_year)
-		data=self.universal.load_data(team, "")
-		self.analyze(team, data)
+		data=self.universal.load_data(team, "", cur_year)
+		self.analyze(team, data, cur_year)
 
 	#analyzes 2 teams and compares to determine which has best chance of winning
 	def team_comparison(self, algo_version, team1, team2, date, cur_year):
@@ -57,8 +57,8 @@ class Odds_Calculator:
 		self.espn_scraper.update_data(team1, cur_year)
 		self.espn_scraper.update_data(team2, cur_year)
 
-		data1=self.universal.load_data(team1, date)
-		data2=self.universal.load_data(team2, date)
+		data1=self.universal.load_data(team1, date, cur_year)
+		data2=self.universal.load_data(team2, date, cur_year)
 
 
 		returned1=self.analyze2(team1, team2, data1, "away")
@@ -182,7 +182,7 @@ class Odds_Calculator:
 
 
 	#analyzes current team
-	def analyze(self, team, data):
+	def analyze(self, team, data, end_year):
 
 		if os.path.isdir("./"+str(self.league)+"/analyze/single_analysis/"+str(team[1]))==False:
 			os.mkdir("./"+str(self.league)+"/analyze/single_analysis/"+str(team[1]))
@@ -198,7 +198,7 @@ class Odds_Calculator:
 		returned['output']=self.get_output_analysis("", team, returned, home_away)
 
 
-		more_output=self.analyze_wins_ranked_teams(team, data)
+		more_output=self.analyze_wins_ranked_teams(team, data, end_year)
 		# more_output=[]
 
 		for line in more_output:
@@ -428,7 +428,7 @@ class Odds_Calculator:
 
 
 	#analyzes number of wins against teams of certain rankings. Like # wins against even teams (23-25 to 27-25) or against good teams (30-15) or bad teams (15-30)... etc
-	def analyze_wins_ranked_teams(self, team, data):
+	def analyze_wins_ranked_teams(self, team, data, end_year):
 
 		total_output=[]
 		for x in range(len(data[-1]['other_team'])-1, len(data[-1]['other_team'])-11, -1):
@@ -464,7 +464,7 @@ class Odds_Calculator:
 			indent="   "
 
 
-			cur_data=self.universal.load_data(team, date)
+			cur_data=self.universal.load_data(team, date, end_year)
 			print(cur_data[-1]['other_team'][-1])
 			returned=self.analyze2(team, other_team[0], cur_data, data[-1]['home_away'][x])
 			output=self.get_output_analysis(indent, team, returned, data[-1]['home_away'][x])
@@ -472,7 +472,7 @@ class Odds_Calculator:
 			for line in output:
 				total_output.append(line)
 
-			other_data=self.universal.load_data(other_team, date)
+			other_data=self.universal.load_data(other_team, date, end_year)
 			print(str(other_data[-1]['other_team'][-1])+" | "+str(date)+" | "+str(other_data[-1]['dates'][-5]))
 			returned=self.analyze2(other_team, team[0], other_data, other_home_away)
 			output=self.get_output_analysis(indent, other_team, returned, other_home_away)

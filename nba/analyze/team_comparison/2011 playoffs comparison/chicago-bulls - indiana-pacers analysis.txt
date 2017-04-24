@@ -1,0 +1,16 @@
+
+Date: 4-15-2011
+Away: chicago-bulls | Home: indiana-pacers
+Seasonal Record:      80.49%
+Home Away:            55.81%
+Home away 10:         54.02%
+Last 10 games:        59.69%
+Avg points:           69.56%
+Avg points 10:        61.03%
+--------
+Total: 63.43%
+--------
+Perc chance to win: 63.43%
+Favorable team odds: -173.44818156959258
+Underdog team odds: +173.44818156959258
+

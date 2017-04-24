@@ -1,0 +1,16 @@
+
+Date: 4-20-2013
+Away: denver-nuggets | Home: san-antonio-spurs
+Seasonal Record:      -53.69%
+Home Away:            -86.05%
+Home away 10:         50%
+Last 10 games:        61.0%
+Avg points:           50%
+Avg points 10:        69.26%
+--------
+Total: -51.58%
+--------
+Perc chance to win: 51.58%
+Favorable team odds: -106.52622883106156
+Underdog team odds: +106.52622883106156
+

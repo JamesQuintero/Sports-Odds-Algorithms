@@ -1,0 +1,17 @@
+
+Date: 4-11-2015
+Away: minnesota-wild | Home: st-louis-blues
+Seasonal Record:      -58.96%
+Home Away:            -61.1%
+Home away 10:         -53.37%
+Last 10 games:        -53.2%
+Avg points:           -51.99%
+Avg points 10:        -52.84%
+Win streak home away: 50%
+--------
+Total: -60.03%
+--------
+Perc chance to win: 60.03%
+Favorable team odds: -150.18764073054794
+Underdog team odds: +150.18764073054794
+

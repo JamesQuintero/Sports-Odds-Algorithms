@@ -1,0 +1,16 @@
+
+Date: 4-15-2015
+Away: cleveland-cavaliers | Home: atlanta-hawks
+Seasonal Record:      -61.89%
+Home Away:            -81.11%
+Home away 10:         -54.02%
+Last 10 games:        53.69%
+Avg points:           50%
+Avg points 10:        -58.6%
+--------
+Total: -58.65%
+--------
+Perc chance to win: 58.65%
+Favorable team odds: -141.8379685610641
+Underdog team odds: +141.8379685610641
+

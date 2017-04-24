@@ -1,0 +1,17 @@
+
+Date: 4-16-2015
+Away: tampa-bay-lightning | Home: new-york-rangers
+Seasonal Record:      -52.74%
+Home Away:            -60.58%
+Home away 10:         -53.37%
+Last 10 games:        -53.28%
+Avg points:           -51.07%
+Avg points 10:        -52.78%
+Win streak home away: 50%
+--------
+Total: -53.4%
+--------
+Perc chance to win: 53.4%
+Favorable team odds: -114.59227467811158
+Underdog team odds: +114.59227467811158
+

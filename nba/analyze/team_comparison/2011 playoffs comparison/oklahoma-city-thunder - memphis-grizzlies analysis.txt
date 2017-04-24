@@ -1,0 +1,16 @@
+
+Date: 4-15-2011
+Away: oklahoma-city-thunder | Home: memphis-grizzlies
+Seasonal Record:      63.04%
+Home Away:            -63.83%
+Home away 10:         50%
+Last 10 games:        53.69%
+Avg points:           50%
+Avg points 10:        -50.3%
+--------
+Total: 50.43%
+--------
+Perc chance to win: 50.43%
+Favorable team odds: -101.73492031470647
+Underdog team odds: +101.73492031470647
+

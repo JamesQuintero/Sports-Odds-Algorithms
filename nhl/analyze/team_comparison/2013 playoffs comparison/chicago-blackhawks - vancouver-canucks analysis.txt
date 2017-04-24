@@ -1,0 +1,17 @@
+
+Date: 4-25-2013
+Away: chicago-blackhawks | Home: vancouver-canucks
+Seasonal Record:      56.97%
+Home Away:            54.32%
+Home away 10:         -50.81%
+Last 10 games:        53.93%
+Avg points:           57.29%
+Avg points 10:        -52.97%
+Win streak home away: 50%
+--------
+Total: 52.67%
+--------
+Perc chance to win: 52.67%
+Favorable team odds: -111.28248468201987
+Underdog team odds: +111.28248468201987
+

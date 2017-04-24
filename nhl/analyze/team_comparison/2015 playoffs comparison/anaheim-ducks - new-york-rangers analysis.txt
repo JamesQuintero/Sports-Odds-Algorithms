@@ -1,0 +1,17 @@
+
+Date: 4-16-2015
+Away: anaheim-ducks | Home: new-york-rangers
+Seasonal Record:      -52.29%
+Home Away:            50%
+Home away 10:         50%
+Last 10 games:        -53.28%
+Avg points:           -55.7%
+Avg points 10:        -52.56%
+Win streak home away: 50%
+--------
+Total: -51.97%
+--------
+Perc chance to win: 51.97%
+Favorable team odds: -108.20320632937745
+Underdog team odds: +108.20320632937745
+

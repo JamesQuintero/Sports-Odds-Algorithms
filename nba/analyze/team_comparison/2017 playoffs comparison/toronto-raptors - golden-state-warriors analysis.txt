@@ -1,0 +1,16 @@
+
+Date: 4-16-2017
+Away: toronto-raptors | Home: golden-state-warriors
+Seasonal Record:      -70.87%
+Home Away:            -81.11%
+Home away 10:         -54.02%
+Last 10 games:        -53.69%
+Avg points:           -67.01%
+Avg points 10:        -58.92%
+--------
+Total: -64.27%
+--------
+Perc chance to win: 64.27%
+Favorable team odds: -179.87685418415893
+Underdog team odds: +179.87685418415893
+

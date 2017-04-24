@@ -1,0 +1,16 @@
+
+Date: 4-20-2013
+Away: miami-heat | Home: brooklyn-nets
+Seasonal Record:      71.97%
+Home Away:            58.58%
+Home away 10:         59.94%
+Last 10 games:        56.04%
+Avg points:           63.26%
+Avg points 10:        50.95%
+--------
+Total: 60.12%
+--------
+Perc chance to win: 60.12%
+Favorable team odds: -150.7522567703109
+Underdog team odds: +150.7522567703109
+

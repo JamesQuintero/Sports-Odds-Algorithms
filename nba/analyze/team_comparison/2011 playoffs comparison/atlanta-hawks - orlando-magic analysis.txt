@@ -1,0 +1,16 @@
+
+Date: 4-15-2011
+Away: atlanta-hawks | Home: orlando-magic
+Seasonal Record:      -61.89%
+Home Away:            -73.22%
+Home away 10:         -65.54%
+Last 10 games:        -56.04%
+Avg points:           -63.8%
+Avg points 10:        -63.29%
+--------
+Total: -63.96%
+--------
+Perc chance to win: 63.96%
+Favorable team odds: -177.4694783573807
+Underdog team odds: +177.4694783573807
+

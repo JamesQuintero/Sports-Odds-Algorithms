@@ -1,0 +1,17 @@
+
+Date: 4-25-2013
+Away: chicago-blackhawks | Home: detroit-red-wings
+Seasonal Record:      61.23%
+Home Away:            58.81%
+Home away 10:         53.37%
+Last 10 games:        53.69%
+Avg points:           58.68%
+Avg points 10:        52.78%
+Win streak home away: 50%
+--------
+Total: 55.5%
+--------
+Perc chance to win: 55.5%
+Favorable team odds: -124.71910112359552
+Underdog team odds: +124.71910112359552
+

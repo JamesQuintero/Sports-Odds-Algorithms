@@ -1,17 +1,17 @@
 
-Date: 4-11-2015
+Date: 4-16-2015
 Away: tampa-bay-lightning | Home: detroit-red-wings
-Seasonal Record:      53.86%
-Home Away:            -50.61%
-Home away 10:         -53.37%
-Last 10 games:        53.93%
-Avg points:           54.78%
-Avg points 10:        52.43%
+Seasonal Record:      55.27%
+Home Away:            -56.72%
+Home away 10:         50%
+Last 10 games:        53.2%
+Avg points:           54.34%
+Avg points 10:        53.46%
 Win streak home away: 50%
 --------
-Total: 54.35%
+Total: 51.36%
 --------
-Perc chance to win: 54.35%
-Favorable team odds: -119.0580503833516
-Underdog team odds: +119.0580503833516
+Perc chance to win: 51.36%
+Favorable team odds: -105.59210526315788
+Underdog team odds: +105.59210526315788
 

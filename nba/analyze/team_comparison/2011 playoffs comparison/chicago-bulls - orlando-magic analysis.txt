@@ -1,0 +1,16 @@
+
+Date: 4-15-2011
+Away: chicago-bulls | Home: orlando-magic
+Seasonal Record:      64.17%
+Home Away:            -58.58%
+Home away 10:         54.02%
+Last 10 games:        58.04%
+Avg points:           50.41%
+Avg points 10:        52.26%
+--------
+Total: 53.38%
+--------
+Perc chance to win: 53.38%
+Favorable team odds: -114.50021450021453
+Underdog team odds: +114.50021450021453
+

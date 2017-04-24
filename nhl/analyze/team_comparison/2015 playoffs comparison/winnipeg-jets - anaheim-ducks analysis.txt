@@ -1,17 +1,17 @@
 
-Date: 4-11-2015
+Date: 4-16-2015
 Away: winnipeg-jets | Home: anaheim-ducks
-Seasonal Record:      -58.96%
-Home Away:            -62.02%
-Home away 10:         -53.37%
+Seasonal Record:      -56.09%
+Home Away:            -59.44%
+Home away 10:         -50.81%
 Last 10 games:        53.93%
-Avg points:           -55.62%
-Avg points 10:        54.06%
+Avg points:           51.17%
+Avg points 10:        52.56%
 Win streak home away: 50%
 --------
-Total: -60.49%
+Total: -51.24%
 --------
-Perc chance to win: 60.49%
-Favorable team odds: -153.10048089091373
-Underdog team odds: +153.10048089091373
+Perc chance to win: 51.24%
+Favorable team odds: -105.08613617719442
+Underdog team odds: +105.08613617719442
 

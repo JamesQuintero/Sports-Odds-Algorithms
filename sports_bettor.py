@@ -101,20 +101,46 @@ class Sports_Better:
 		print(self.league+" teams:")
 		for x in range(0, len(league_teams)):
 			print(str(x)+": "+league_teams[x][1])
-		team1 = league_teams[int(input("Away Team #: "))]
-		team2 = league_teams[int(input("Home Team #: "))]
+		team1 = int(input("Away Team #: "))
+		team2 = int(input("Home Team #: "))
+		
 		print()
 
 		date=input("Date to test (M-D-YYY): ")
 		year=input("Current season year: ")
 
-		odds_calculator = Odds_Calculator(self.league)
-		output=odds_calculator.team_comparison(algo_version, team1, team2, date, year)
+		
+		teams_to_test=[[team1, team2]]
 
-		for line in output:
-			print(line)
 
-		self.universal.save_to_txt("./"+str(self.league)+"/analyze/team_comparison/"+str(team1[1])+" - "+str(team2[1])+" analysis.txt", output)
+		# teams_to_test=[ 
+		# [20, 4],
+		# [4, 20],
+		# [4, 0],
+		# [0, 4],
+		# [1, 15],
+		# [15, 1],
+		# [14, 20],
+		# [20, 14],
+		# [7, 13],
+		# [13, 7],
+		# [4, 15],
+		# [15, 4],
+		# ]
+
+		for x in range(0, len(teams_to_test)):
+
+			team1 = league_teams[teams_to_test[x][0]]
+			team2 = league_teams[teams_to_test[x][1]]
+
+
+			odds_calculator = Odds_Calculator(self.league)
+			output=odds_calculator.team_comparison(algo_version, team1, team2, date, year)
+
+			for line in output:
+				print(line)
+
+			self.universal.save_to_txt("./"+str(self.league)+"/analyze/team_comparison/"+str(team1[1])+" - "+str(team2[1])+" analysis.txt", output)
 
 
 	#calculates betting odds for all games being played today

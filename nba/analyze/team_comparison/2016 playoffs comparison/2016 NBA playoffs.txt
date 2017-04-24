@@ -1,0 +1,92 @@
+---- Western Conference ----
+
+--Round 1--
+Golden States @ Houston: 66.7%
+Golden States vs Houston: 70.2%
+Conclusion: Golden State Wins
+
+LA Clippers @ Portland: 51.5%
+LA Clippers vs Portland: 65.0%
+Conclusion: LA Clippers Wins
+
+Oklahoma City @ Dallas: 56.1%
+Oklahoma City vs Dallas: 62.0%
+Conclusion: Oklahoma City Wins
+
+San Antonio @ Memphis: 64.5%
+San Antonio vs Memphis: 77.4%
+Conclusion: San Antonio Wins
+
+
+--Round 2--
+//actual series
+Golden State @ Portland: 
+Golden State vs Portland: 
+Conclusion: 
+
+Golden State @ LA Clippers: 58.6%
+Golden State vs LA Clippers: 64.3%
+Conclusion: Golden State Wins
+
+Oklahoma City @ San Antonio: -61.3%
+Oklahoma City vs San Antonio: 50.5%
+Conclusion: San Antonio Wins
+
+
+--Conference Finals--
+Golden State @ San Antonio: 51.9%
+Golden State vs San Antonio: 61.2%
+Conclusion: Golden State Wins
+
+
+
+--- Eastern Conference ---
+
+--Round 1--
+Cleveland @ Detroit: 55.2%
+Cleveland vs Detroit: 63.0%
+Conclusion: Cleveland Wins
+
+Atlanta @ Boston: -51.7%
+Atlanta vs Boston: 56.0%
+Conclusion: Atlanta Wins
+
+Miami @ Charlotte: -57.8%
+Miami vs Charlotte: 54.1%
+Conclusion:  Charlotte Wins
+
+Toronto @ Indiana: 52.2%
+Toronto vs Indiana: 58.7%
+Conclusion: Toronto Wins
+
+--Round 2--
+Cleveland @ Atlanta: 50.5%
+Cleveland vs Atlanta: 58.1%
+Conclusion: Cleveland Wins
+
+//actual series
+Miami @ Toronto: -60.6%
+Miami vs Toronto: 50.4%
+Conclusion: Toronto Wins (Toronto did win)
+
+Charlotte @ Toronto: -57.0%
+Charlotte vs Toronto: 52.2%
+Conclusion: Toronto Wins
+
+--Conference Finals--
+Cleveland @ Toronto: -54.5%
+Cleveland vs Toronto: 54.6%
+Conclusion: Cleveland barely wins (toss up). GS is better against Toronto than Cleveland.
+
+
+
+
+
+------ FINALS ------
+Golden State @ Cleveland: 56.8%
+Golden State vs Cleveland: 63.8%
+Conclusion: Golden State Wins
+
+Golden State @ Toronto: 58.7%
+Golden State vs Toronto: 64.2%
+Conclusion: 

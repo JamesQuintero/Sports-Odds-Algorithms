@@ -1,0 +1,16 @@
+
+Date: 4-15-2015
+Away: washington-wizards | Home: toronto-raptors
+Seasonal Record:      -55.47%
+Home Away:            -73.22%
+Home away 10:         50%
+Last 10 games:        53.69%
+Avg points:           -51.83%
+Avg points 10:        50.79%
+--------
+Total: -54.34%
+--------
+Perc chance to win: 54.34%
+Favorable team odds: -119.01007446342535
+Underdog team odds: +119.01007446342535
+

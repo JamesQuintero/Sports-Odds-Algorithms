@@ -1,0 +1,17 @@
+
+Date: 4-16-2015
+Away: chicago-blackhawks | Home: minnesota-wild
+Seasonal Record:      52.29%
+Home Away:            53.44%
+Home away 10:         53.37%
+Last 10 games:        -53.2%
+Avg points:           51.28%
+Avg points 10:        -52.52%
+Win streak home away: 50%
+--------
+Total: 50.66%
+--------
+Perc chance to win: 50.66%
+Favorable team odds: -102.67531414673692
+Underdog team odds: +102.67531414673692
+

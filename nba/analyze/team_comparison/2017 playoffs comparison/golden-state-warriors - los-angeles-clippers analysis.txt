@@ -1,0 +1,16 @@
+
+Date: 4-16-2017
+Away: golden-state-warriors | Home: los-angeles-clippers
+Seasonal Record:      70.87%
+Home Away:            55.81%
+Home away 10:         50%
+Last 10 games:        53.69%
+Avg points:           66.76%
+Avg points 10:        50.79%
+--------
+Total: 57.98%
+--------
+Perc chance to win: 57.98%
+Favorable team odds: -137.9819133745835
+Underdog team odds: +137.9819133745835
+

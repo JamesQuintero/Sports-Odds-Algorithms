@@ -1,0 +1,16 @@
+
+Date: 4-16-2014
+Away: brooklyn-nets | Home: toronto-raptors
+Seasonal Record:      -57.24%
+Home Away:            -74.28%
+Home away 10:         -59.94%
+Last 10 games:        -56.04%
+Avg points:           -57.05%
+Avg points 10:        -54.54%
+--------
+Total: -59.84%
+--------
+Perc chance to win: 59.84%
+Favorable team odds: -149.003984063745
+Underdog team odds: +149.003984063745
+

@@ -1,176 +1,0 @@
----- Start output ----
-[20:48:48] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/ana/year/2017/anaheim-ducks
-[20:48:49] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
-[20:48:49] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
-[20:48:49] Loading existing data
-[20:48:49] Returned 10-13-2017's game results
-[20:48:49] Scraping 10-13-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884409
-[20:48:49] Returned 10-15-2017's game results
-[20:48:49] Scraping 10-15-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884417
-[20:48:50] Returned 10-16-2017's game results
-[20:48:50] Scraping 10-16-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884426
-[20:48:50] Returned 10-18-2017's game results
-[20:48:50] Scraping 10-18-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884433
-[20:48:50] Returned 10-20-2017's game results
-[20:48:50] Scraping 10-20-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884448
-[20:48:51] Returned 10-23-2017's game results
-[20:48:51] Scraping 10-23-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884476
-[20:48:51] Returned 10-25-2017's game results
-[20:48:51] Scraping 10-25-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884489
-[20:48:52] Returned 10-26-2017's game results
-[20:48:52] Scraping 10-26-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884493
-[20:48:52] Returned 10-28-2017's game results
-[20:48:52] Scraping 10-28-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884508
-[20:48:52] Returned 11-1-2017's game results
-[20:48:52] Scraping 11-1-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884538
-[20:48:53] Returned 11-2-2017's game results
-[20:48:53] Scraping 11-2-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884541
-[20:48:53] Returned 11-4-2017's game results
-[20:48:53] Scraping 11-4-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884556
-[20:48:53] Returned 11-6-2017's game results
-[20:48:53] Scraping 11-6-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884575
-[20:48:54] Returned 11-9-2017's game results
-[20:48:54] Scraping 11-9-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884589
-[20:48:54] Returned 11-10-2017's game results
-[20:48:54] Scraping 11-10-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884594
-[20:48:54] Returned 11-12-2017's game results
-[20:48:54] Scraping 11-12-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884616
-[20:48:54] Returned 11-15-2017's game results
-[20:48:54] Scraping 11-15-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884638
-[20:48:55] Returned 11-17-2017's game results
-[20:48:55] Scraping 11-17-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884649
-[20:48:55] Returned 11-20-2017's game results
-[20:48:55] Scraping 11-20-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884671
-[20:48:56] Returned 11-22-2017's game results
-[20:48:56] Scraping 11-22-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884683
-[20:48:56] Returned 11-25-2017's game results
-[20:48:56] Scraping 11-25-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884700
-[20:48:56] Returned 11-26-2017's game results
-[20:48:56] Scraping 11-26-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884717
-[20:48:56] Returned 11-29-2017's game results
-[20:48:56] Scraping 11-29-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884736
-[20:48:57] Returned 12-1-2017's game results
-[20:48:57] Scraping 12-1-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884752
-[20:48:57] Returned 12-3-2017's game results
-[20:48:57] Scraping 12-3-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884766
-[20:48:57] Returned 12-4-2017's game results
-[20:48:57] Scraping 12-4-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884771
-[20:48:58] Returned 12-7-2017's game results
-[20:48:58] Scraping 12-7-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884789
-[20:48:58] Returned 12-9-2017's game results
-[20:48:58] Scraping 12-9-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884806
-[20:48:58] Returned 12-11-2017's game results
-[20:48:58] Scraping 12-11-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884817
-[20:48:58] Returned 12-13-2017's game results
-[20:48:58] Scraping 12-13-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884835
-[20:48:59] Returned 12-15-2017's game results
-[20:48:59] Scraping 12-15-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884841
-[20:48:59] Returned 12-17-2017's game results
-[20:48:59] Scraping 12-17-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884860
-[20:48:59] Returned 12-19-2017's game results
-[20:48:59] Scraping 12-19-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884874
-[20:49:00] Returned 12-20-2017's game results
-[20:49:00] Scraping 12-20-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884881
-[20:49:00] Returned 12-22-2017's game results
-[20:49:00] Scraping 12-22-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884895
-[20:49:00] Returned 12-27-2017's game results
-[20:49:00] Scraping 12-27-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884922
-[20:49:01] Returned 12-29-2017's game results
-[20:49:01] Scraping 12-29-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884937
-[20:49:01] Returned 12-30-2017's game results
-[20:49:01] Scraping 12-30-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884942
-[20:49:01] Returned 1-1-2017's game results
-[20:49:01] Scraping 1-1-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884957
-[20:49:01] Returned 1-4-2017's game results
-[20:49:01] Scraping 1-4-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884973
-[20:49:02] Returned 1-6-2017's game results
-[20:49:02] Scraping 1-6-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400884986
-[20:49:02] Returned 1-8-2017's game results
-[20:49:02] Scraping 1-8-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885004
-[20:49:02] Returned 1-10-2017's game results
-[20:49:02] Scraping 1-10-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885015
-[20:49:02] Returned 1-12-2017's game results
-[20:49:02] Scraping 1-12-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885026
-[20:49:02] Returned 1-14-2017's game results
-[20:49:02] Scraping 1-14-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885043
-[20:49:03] Returned 1-15-2017's game results
-[20:49:03] Scraping 1-15-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885051
-[20:49:03] Returned 1-17-2017's game results
-[20:49:03] Scraping 1-17-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885067
-[20:49:03] Returned 1-19-2017's game results
-[20:49:03] Scraping 1-19-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885079
-[20:49:03] Returned 1-21-2017's game results
-[20:49:03] Scraping 1-21-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885095
-[20:49:04] Returned 1-23-2017's game results
-[20:49:04] Scraping 1-23-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885107
-[20:49:04] Returned 1-25-2017's game results
-[20:49:04] Scraping 1-25-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885123
-[20:49:04] Returned 1-31-2017's game results
-[20:49:04] Scraping 1-31-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885149
-[20:49:05] Returned 2-3-2017's game results
-[20:49:05] Scraping 2-3-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885164
-[20:49:05] Returned 2-4-2017's game results
-[20:49:05] Scraping 2-4-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885172
-[20:49:05] Returned 2-7-2017's game results
-[20:49:05] Scraping 2-7-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885187
-[20:49:05] Returned 2-9-2017's game results
-[20:49:05] Scraping 2-9-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885199
-[20:49:06] Returned 2-11-2017's game results
-[20:49:06] Scraping 2-11-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885220
-[20:49:06] Returned 2-14-2017's game results
-[20:49:06] Scraping 2-14-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885236
-[20:49:06] Returned 2-17-2017's game results
-[20:49:06] Scraping 2-17-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885253
-[20:49:07] Returned 2-19-2017's game results
-[20:49:07] Scraping 2-19-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885274
-[20:49:07] Returned 2-20-2017's game results
-[20:49:07] Scraping 2-20-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885277
-[20:49:07] Returned 2-22-2017's game results
-[20:49:07] Scraping 2-22-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885289
-[20:49:07] Returned 2-25-2017's game results
-[20:49:07] Scraping 2-25-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885300
-[20:49:08] Returned 3-3-2017's game results
-[20:49:08] Scraping 3-3-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885347
-[20:49:08] Returned 3-5-2017's game results
-[20:49:08] Scraping 3-5-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885363
-[20:49:08] Returned 3-7-2017's game results
-[20:49:08] Scraping 3-7-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885377
-[20:49:08] Returned 3-9-2017's game results
-[20:49:08] Scraping 3-9-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885384
-[20:49:09] Returned 3-10-2017's game results
-[20:49:09] Scraping 3-10-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885394
-[20:49:09] Returned 3-12-2017's game results
-[20:49:09] Scraping 3-12-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885410
-[20:49:09] Returned 3-15-2017's game results
-[20:49:09] Scraping 3-15-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885432
-[20:49:10] Returned 3-17-2017's game results
-[20:49:10] Scraping 3-17-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885448
-[20:49:10] Returned 3-18-2017's game results
-[20:49:10] Scraping 3-18-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885458
-[20:49:10] Returned 3-22-2017's game results
-[20:49:10] Scraping 3-22-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885484
-[20:49:10] Returned 3-24-2017's game results
-[20:49:10] Scraping 3-24-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885500
-[20:49:11] Returned 3-26-2017's game results
-[20:49:11] Scraping 3-26-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885517
-[20:49:11] Returned 3-28-2017's game results
-[20:49:11] Scraping 3-28-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885531
-[20:49:12] Returned 3-30-2017's game results
-[20:49:12] Scraping 3-30-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885544
-[20:49:12] Returned 4-1-2017's game results
-[20:49:12] Scraping 4-1-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885560
-[20:49:12] Returned 4-2-2017's game results
-[20:49:12] Scraping 4-2-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885570
-[20:49:12] Returned 4-4-2017's game results
-[20:49:12] Scraping 4-4-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885585
-[20:49:13] Returned 4-6-2017's game results
-[20:49:13] Scraping 4-6-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885599
-[20:49:13] Returned 4-9-2017's game results
-[20:49:13] Scraping 4-9-2017's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400885625
-[20:49:13] Saving data to ./nhl/team_data/2017/anaheim-ducks.csv
-[20:49:13] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/cgy/year/2017/calgary-flames
-[20:49:14] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
-[20:49:14] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
-[20:49:14] Loading existing data
-[20:49:15] Saving data to ./nhl/team_data/2017/calgary-flames.csv
-

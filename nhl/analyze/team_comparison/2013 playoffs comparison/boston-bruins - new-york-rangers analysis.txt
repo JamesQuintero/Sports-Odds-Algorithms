@@ -1,0 +1,17 @@
+
+Date: 4-25-2013
+Away: boston-bruins | Home: new-york-rangers
+Seasonal Record:      52.99%
+Home Away:            -55.16%
+Home away 10:         -57.78%
+Last 10 games:        -53.2%
+Avg points:           52.19%
+Avg points 10:        -52.56%
+Win streak home away: 50%
+--------
+Total: -51.93%
+--------
+Perc chance to win: 51.93%
+Favorable team odds: -108.02995631370918
+Underdog team odds: +108.02995631370918
+

@@ -1,17 +1,17 @@
 
-Date: 4-11-2015
+Date: 4-16-2015
 Away: ottawa-senators | Home: montreal-canadiens
-Seasonal Record:      -52.09%
+Seasonal Record:      -55.27%
 Home Away:            -59.44%
-Home away 10:         -57.78%
-Last 10 games:        -53.28%
-Avg points:           -52.29%
-Avg points 10:        -53.19%
+Home away 10:         50.81%
+Last 10 games:        53.28%
+Avg points:           -51.07%
+Avg points 10:        53.76%
 Win streak home away: 50%
 --------
-Total: -58.61%
+Total: -51.13%
 --------
-Perc chance to win: 58.61%
-Favorable team odds: -141.60425223483935
-Underdog team odds: +141.60425223483935
+Perc chance to win: 51.13%
+Favorable team odds: -104.62451401677923
+Underdog team odds: +104.62451401677923
 

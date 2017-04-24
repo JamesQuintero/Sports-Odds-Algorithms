@@ -1,0 +1,16 @@
+
+Date: 4-15-2016
+Away: houston-rockets | Home: golden-state-warriors
+Seasonal Record:      -87.61%
+Home Away:            -92.42%
+Home away 10:         -59.94%
+Last 10 games:        -56.04%
+Avg points:           -75.02%
+Avg points 10:        50%
+--------
+Total: -70.17%
+--------
+Perc chance to win: 70.17%
+Favorable team odds: -235.23298692591354
+Underdog team odds: +235.23298692591354
+

@@ -1,0 +1,122 @@
+//a negative percentage gives favor to the team on the right, no matter away or home.
+
+
+---- Western Conference ----
+
+-Round 1-
+Chicago @ Minnesota: 55.4%
+Chicago vs Minnesota: 55.1%
+Conclusion: Chicago Wins
+
+Anaheim @ Detroit: 51.5%
+Anaheim vs Detroit: 52.5%
+Conclusion: Anaheim Wins
+
+Vancouver @ San Jose: -50.8%
+Vancouver vs San Jose: 54%
+Conclusion: Vancouver Wins
+
+St. Louis @ Los Angeles: -50.7%
+St. Louis vs Los Angeles: 53.4%
+Conclusion: St. Louis Wins
+
+-Round 2-
+//actual series
+Chicago @ Detroit: 55.5%
+Chicago vs Detroit: -55.8%
+Conclusion: Chicago Wins (Chicago does win)
+
+Chicago @ Anaheim: 53.5%
+Chicago vs Anaheim: 53.8%
+Conclusion: Chicago Wins
+
+//actual series
+San Jose @ Los Angeles: -52.7%
+San Jose vs Los Angeles: 52.4%
+Conclusion: Los Angeles barely wins (Los Angeles does win)
+
+Vancouver @ St. Louis: -50.4%
+Vancouver vs St. Louis: 50.5%
+Conclusion: Vancouver barely wins (toss up)
+
+
+--Conference Finals--
+//actual series
+Chicago @ Los Angeles: 52.5%
+Chicago vs Los Angeles: 55.8%
+Conclusion: Chicago Wins
+
+Chicago @ Vancouver: 52.7%
+Chicago vs Vancouver: 53.0%
+Conclusion: Chicago Wins
+
+
+
+
+
+--- Eastern Conference ---
+
+-Round 1-
+Pittsburgh @ NY Islanders: 55.1%
+Pittsburgh vs NY Islanders: 52.0%
+Conclusion: Pittsburgh Wins
+
+Montreal @ Ottawa: 50.3%
+Montreal vs Ottawa: 50.9%
+Conclusion: Montreal Wins
+
+Washington @ NY Rangers: 50.7%
+Washington vs NY Rangers: 53.3%
+Conclusion: Washington Wins
+
+Boston @ Toronto: -50.5%
+Boston vs Toronto: 52.5%
+Conclusion: Boston Wins
+
+
+-Round 2-
+//actual series
+Pittsburgh @ Ottawa: 54.7%
+Pittsburgh vs Ottawa: 55.7%
+Conclusion: Pittsburgh Wins (Pittsburgh does win)
+
+Pittsburgh @ Montreal: 54.6%
+Pittsburgh vs Montreal: 54.11%
+Conclusion: Pittsburgh Wins
+
+//actual series
+NY Rangers @ Boston: -51.8%
+NY Rangers vs Boston: 51.9%
+Conclusion: NY Rangers barely win (Boston actually wins)
+
+Washington @ Boston: 50.5%
+Washington vs Bonston: 52.7%
+Conclusion: Washington Wins
+
+
+
+--Conference Finals--
+//actual series
+Pittsburgh @ Boston: 53.8%
+Pittsburgh vs Boston: 54.9%
+Conclusion: Pittsburgh Wins
+
+Pittsburgh @ Washington: 52.2%
+Pittsburgh vs Washington: 52.1%
+Conclusion: Pittsburgh Wins
+
+
+
+
+
+------- FINALS --------
+//actual series
+Chicago @ Boston: 53.1%
+Chicago vs Boston: 54.8%
+Conclusion: Chicago Wins
+
+Chicago @ Pittsburgh: 51.4%
+Chicago vs Pittsburgh: -50.7%
+Conclusion: Chicago Wins
+
+

@@ -1,0 +1,16 @@
+
+Date: 4-16-2014
+Away: los-angeles-clippers | Home: oklahoma-city-thunder
+Seasonal Record:      -53.69%
+Home Away:            -75.33%
+Home away 10:         50%
+Last 10 games:        53.69%
+Avg points:           50%
+Avg points 10:        50.3%
+--------
+Total: -54.17%
+--------
+Perc chance to win: 54.17%
+Favorable team odds: -118.19768710451667
+Underdog team odds: +118.19768710451667
+

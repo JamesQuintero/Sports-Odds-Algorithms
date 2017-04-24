@@ -1,0 +1,17 @@
+
+Date: 4-25-2013
+Away: anaheim-ducks | Home: detroit-red-wings
+Seasonal Record:      55.27%
+Home Away:            51.59%
+Home away 10:         50%
+Last 10 games:        53.28%
+Avg points:           53.99%
+Avg points 10:        -53.43%
+Win streak home away: 50%
+--------
+Total: 51.52%
+--------
+Perc chance to win: 51.52%
+Favorable team odds: -106.2706270627063
+Underdog team odds: +106.2706270627063
+

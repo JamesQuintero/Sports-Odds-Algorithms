@@ -1,0 +1,16 @@
+
+Date: 4-15-2011
+Away: portland-trail-blazers | Home: dallas-mavericks
+Seasonal Record:      -63.04%
+Home Away:            -77.35%
+Home away 10:         -54.02%
+Last 10 games:        51.0%
+Avg points:           -53.11%
+Avg points 10:        -55.84%
+--------
+Total: -58.72%
+--------
+Perc chance to win: 58.72%
+Favorable team odds: -142.24806201550388
+Underdog team odds: +142.24806201550388
+

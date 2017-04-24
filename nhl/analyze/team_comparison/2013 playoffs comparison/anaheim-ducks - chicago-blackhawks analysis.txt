@@ -1,0 +1,17 @@
+
+Date: 4-25-2013
+Away: anaheim-ducks | Home: chicago-blackhawks
+Seasonal Record:      -54.53%
+Home Away:            -57.46%
+Home away 10:         -53.37%
+Last 10 games:        -53.2%
+Avg points:           -55.78%
+Avg points 10:        -52.52%
+Win streak home away: 50%
+--------
+Total: -53.83%
+--------
+Perc chance to win: 53.83%
+Favorable team odds: -116.59085986571367
+Underdog team odds: +116.59085986571367
+

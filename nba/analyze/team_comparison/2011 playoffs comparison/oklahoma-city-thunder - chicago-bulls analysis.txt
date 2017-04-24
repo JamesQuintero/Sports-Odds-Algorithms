@@ -1,0 +1,16 @@
+
+Date: 4-15-2011
+Away: oklahoma-city-thunder | Home: chicago-bulls
+Seasonal Record:      -60.74%
+Home Away:            -77.35%
+Home away 10:         50%
+Last 10 games:        -56.04%
+Avg points:           -55.71%
+Avg points 10:        -51.93%
+--------
+Total: -58.62%
+--------
+Perc chance to win: 58.62%
+Favorable team odds: -141.6626389560174
+Underdog team odds: +141.6626389560174
+

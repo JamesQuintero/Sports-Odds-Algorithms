@@ -1,0 +1,16 @@
+
+Date: 4-20-2013
+Away: oklahoma-city-thunder | Home: houston-rockets
+Seasonal Record:      70.32%
+Home Away:            -58.58%
+Home away 10:         50%
+Last 10 games:        56.04%
+Avg points:           62.58%
+Avg points 10:        62.32%
+--------
+Total: 57.11%
+--------
+Perc chance to win: 57.11%
+Favorable team odds: -133.1545814875262
+Underdog team odds: +133.1545814875262
+

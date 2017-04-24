@@ -1,0 +1,16 @@
+
+Date: 4-15-2011
+Away: los-angeles-lakers | Home: denver-nuggets
+Seasonal Record:      60.74%
+Home Away:            -66.31%
+Home away 10:         -54.02%
+Last 10 games:        -56.04%
+Avg points:           50%
+Avg points 10:        -55.02%
+--------
+Total: -53.44%
+--------
+Perc chance to win: 53.44%
+Favorable team odds: -114.77663230240549
+Underdog team odds: +114.77663230240549
+

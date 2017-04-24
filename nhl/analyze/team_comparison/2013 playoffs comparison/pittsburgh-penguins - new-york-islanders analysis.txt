@@ -1,0 +1,17 @@
+
+Date: 4-25-2013
+Away: pittsburgh-penguins | Home: new-york-islanders
+Seasonal Record:      58.96%
+Home Away:            62.02%
+Home away 10:         55.7%
+Last 10 games:        53.93%
+Avg points:           57.64%
+Avg points 10:        -52.42%
+Win streak home away: 50%
+--------
+Total: 55.11%
+--------
+Perc chance to win: 55.11%
+Favorable team odds: -122.76676319893069
+Underdog team odds: +122.76676319893069
+
