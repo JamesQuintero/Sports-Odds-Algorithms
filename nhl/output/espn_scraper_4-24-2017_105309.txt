@@ -1,0 +1,16 @@
+---- Start output ----
+[10:53:09] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/wsh/year/2011/washington-capitals
+[10:53:15] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[10:53:15] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[10:53:15] Loading existing data
+[10:53:15] Returned 4-9-2011's game results
+[10:53:15] Scraping 4-9-2011's period data: http://www.espn.com/nhl/playbyplay/_/gameId/310409026
+[10:53:16] Saving data to ./nhl/team_data/2011/washington-capitals.csv
+[10:53:16] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/nyr/year/2011/new-york-rangers
+[10:53:21] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[10:53:21] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[10:53:21] Loading existing data
+[10:53:21] Returned 4-9-2011's game results
+[10:53:21] Scraping 4-9-2011's period data: http://www.espn.com/nhl/playbyplay/_/gameId/310409013
+[10:53:22] Saving data to ./nhl/team_data/2011/new-york-rangers.csv
+

@@ -1,0 +1,16 @@
+---- Start output ----
+[10:54:21] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/sj/year/2011/san-jose-sharks
+[10:54:27] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[10:54:27] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[10:54:27] Loading existing data
+[10:54:27] Returned 4-9-2011's game results
+[10:54:27] Scraping 4-9-2011's period data: http://www.espn.com/nhl/playbyplay/_/gameId/310409018
+[10:54:27] Saving data to ./nhl/team_data/2011/san-jose-sharks.csv
+[10:54:27] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/la/year/2011/los-angeles-kings
+[10:54:31] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[10:54:31] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[10:54:31] Loading existing data
+[10:54:31] Returned 4-9-2011's game results
+[10:54:31] Scraping 4-9-2011's period data: http://www.espn.com/nhl/playbyplay/_/gameId/310409008
+[10:54:31] Saving data to ./nhl/team_data/2011/los-angeles-kings.csv
+

@@ -1,0 +1,17 @@
+
+Date: 4-10-2012
+Away: vancouver-canucks | Home: los-angeles-kings
+Seasonal Record:      58.96%
+Home Away:            53.44%
+Home away 10:         -55.7%
+Last 10 games:        53.69%
+Avg points:           54.25%
+Avg points 10:        52.97%
+Win streak home away: 50%
+--------
+Total: 52.51%
+--------
+Perc chance to win: 52.51%
+Favorable team odds: -110.57064645188461
+Underdog team odds: +110.57064645188461
+

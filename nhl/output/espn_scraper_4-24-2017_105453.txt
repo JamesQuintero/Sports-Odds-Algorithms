@@ -1,0 +1,14 @@
+---- Start output ----
+[10:54:53] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/ana/year/2011/anaheim-ducks
+[10:54:56] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[10:54:56] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[10:54:56] Loading existing data
+[10:54:56] Returned 4-9-2011's game results
+[10:54:56] Scraping 4-9-2011's period data: http://www.espn.com/nhl/playbyplay/_/gameId/310409008
+[10:54:57] Saving data to ./nhl/team_data/2011/anaheim-ducks.csv
+[10:54:57] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/nsh/year/2011/nashville-predators
+[10:55:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[10:55:00] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[10:55:00] Loading existing data
+[10:55:00] Saving data to ./nhl/team_data/2011/nashville-predators.csv
+

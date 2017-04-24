@@ -1,0 +1,17 @@
+
+Date: 4-10-2012
+Away: los-angeles-kings | Home: arizona-coyotes
+Seasonal Record:      -52.29%
+Home Away:            -56.72%
+Home away 10:         50%
+Last 10 games:        -53.2%
+Avg points:           50.22%
+Avg points 10:        -52.97%
+Win streak home away: 50%
+--------
+Total: -52.13%
+--------
+Perc chance to win: 52.13%
+Favorable team odds: -108.89910173386257
+Underdog team odds: +108.89910173386257
+

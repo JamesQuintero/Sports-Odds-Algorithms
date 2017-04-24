@@ -1,0 +1,17 @@
+
+Date: 4-10-2011
+Away: boston-bruins | Home: philadelphia-flyers
+Seasonal Record:      -51.74%
+Home Away:            54.32%
+Home away 10:         55.7%
+Last 10 games:        54.74%
+Avg points:           51.99%
+Avg points 10:        53.03%
+Win streak home away: 50%
+--------
+Total: 52.57%
+--------
+Perc chance to win: 52.57%
+Favorable team odds: -110.83702298123552
+Underdog team odds: +110.83702298123552
+

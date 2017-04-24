@@ -1,0 +1,17 @@
+
+Date: 4-10-2012
+Away: detroit-red-wings | Home: nashville-predators
+Seasonal Record:      51.6%
+Home Away:            -62.44%
+Home away 10:         -59.62%
+Last 10 games:        -53.2%
+Avg points:           52.19%
+Avg points 10:        -52.42%
+Win streak home away: 50%
+--------
+Total: -53.41%
+--------
+Perc chance to win: 53.41%
+Favorable team odds: -114.63833440652498
+Underdog team odds: +114.63833440652498
+

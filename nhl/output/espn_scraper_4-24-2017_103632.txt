@@ -1,0 +1,14 @@
+---- Start output ----
+[10:36:32] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/nsh/year/2012/nashville-predators
+[10:36:36] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[10:36:36] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[10:36:36] Loading existing data
+[10:36:36] Saving data to ./nhl/team_data/2012/nashville-predators.csv
+[10:36:36] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/det/year/2012/detroit-red-wings
+[10:36:39] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[10:36:39] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[10:36:39] Loading existing data
+[10:36:39] Returned 4-7-2012's game results
+[10:36:39] Scraping 4-7-2012's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400047827
+[10:36:40] Saving data to ./nhl/team_data/2012/detroit-red-wings.csv
+

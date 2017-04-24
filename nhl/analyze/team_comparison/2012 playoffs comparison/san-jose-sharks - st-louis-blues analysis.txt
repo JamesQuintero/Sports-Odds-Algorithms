@@ -1,0 +1,17 @@
+
+Date: 4-10-2012
+Away: san-jose-sharks | Home: st-louis-blues
+Seasonal Record:      -54.53%
+Home Away:            -64.44%
+Home away 10:         -55.7%
+Last 10 games:        53.69%
+Avg points:           -53.25%
+Avg points 10:        52.53%
+Win streak home away: 50%
+--------
+Total: -53.1%
+--------
+Perc chance to win: 53.1%
+Favorable team odds: -113.21961620469084
+Underdog team odds: +113.21961620469084
+

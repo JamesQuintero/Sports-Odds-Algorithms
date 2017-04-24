@@ -1,0 +1,17 @@
+
+Date: 4-10-2011
+Away: pittsburgh-penguins | Home: tampa-bay-lightning
+Seasonal Record:      52.5%
+Home Away:            -52.54%
+Home away 10:         53.37%
+Last 10 games:        53.93%
+Avg points:           53.44%
+Avg points 10:        -52.45%
+Win streak home away: 50%
+--------
+Total: 51.17%
+--------
+Perc chance to win: 51.17%
+Favorable team odds: -104.79213598197829
+Underdog team odds: +104.79213598197829
+

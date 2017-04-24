@@ -1,0 +1,17 @@
+
+Date: 4-10-2012
+Away: st-louis-blues | Home: los-angeles-kings
+Seasonal Record:      56.97%
+Home Away:            -55.16%
+Home away 10:         -53.37%
+Last 10 games:        -53.28%
+Avg points:           53.62%
+Avg points 10:        -52.64%
+Win streak home away: 50%
+--------
+Total: -50.55%
+--------
+Perc chance to win: 50.55%
+Favorable team odds: -102.22446916076846
+Underdog team odds: +102.22446916076846
+

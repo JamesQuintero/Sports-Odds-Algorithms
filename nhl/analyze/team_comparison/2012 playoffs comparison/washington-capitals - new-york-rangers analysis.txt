@@ -1,0 +1,17 @@
+
+Date: 4-10-2012
+Away: washington-capitals | Home: new-york-rangers
+Seasonal Record:      -56.97%
+Home Away:            -63.72%
+Home away 10:         50.81%
+Last 10 games:        53.93%
+Avg points:           -55.37%
+Avg points 10:        52.97%
+Win streak home away: 50%
+--------
+Total: -52.62%
+--------
+Perc chance to win: 52.62%
+Favorable team odds: -111.05951878429714
+Underdog team odds: +111.05951878429714
+

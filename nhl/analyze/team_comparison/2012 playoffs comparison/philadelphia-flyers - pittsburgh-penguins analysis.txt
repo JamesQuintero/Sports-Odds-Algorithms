@@ -1,0 +1,17 @@
+
+Date: 4-10-2012
+Away: philadelphia-flyers | Home: pittsburgh-penguins
+Seasonal Record:      -53.26%
+Home Away:            -56.72%
+Home away 10:         -53.37%
+Last 10 games:        -53.28%
+Avg points:           -53.44%
+Avg points 10:        -53.76%
+Win streak home away: 50%
+--------
+Total: -53.4%
+--------
+Perc chance to win: 53.4%
+Favorable team odds: -114.59227467811158
+Underdog team odds: +114.59227467811158
+

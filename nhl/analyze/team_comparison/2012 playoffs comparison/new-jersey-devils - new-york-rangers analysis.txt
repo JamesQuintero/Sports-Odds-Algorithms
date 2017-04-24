@@ -1,0 +1,17 @@
+
+Date: 4-10-2012
+Away: new-jersey-devils | Home: new-york-rangers
+Seasonal Record:      -52.74%
+Home Away:            -55.16%
+Home away 10:         50%
+Last 10 games:        53.28%
+Avg points:           -52.29%
+Avg points 10:        52.46%
+Win streak home away: 50%
+--------
+Total: -50.63%
+--------
+Perc chance to win: 50.63%
+Favorable team odds: -102.55215718047398
+Underdog team odds: +102.55215718047398
+

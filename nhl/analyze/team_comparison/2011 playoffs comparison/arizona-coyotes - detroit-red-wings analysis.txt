@@ -1,0 +1,17 @@
+
+Date: 4-10-2011
+Away: arizona-coyotes | Home: detroit-red-wings
+Seasonal Record:      -52.99%
+Home Away:            51.59%
+Home away 10:         50%
+Last 10 games:        53.2%
+Avg points:           -51.79%
+Avg points 10:        52.56%
+Win streak home away: 50%
+--------
+Total: 50.36%
+--------
+Perc chance to win: 50.36%
+Favorable team odds: -101.45044319097502
+Underdog team odds: +101.45044319097502
+

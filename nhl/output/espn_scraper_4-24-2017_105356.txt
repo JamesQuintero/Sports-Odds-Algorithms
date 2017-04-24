@@ -1,0 +1,16 @@
+---- Start output ----
+[10:53:56] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/pit/year/2011/pittsburgh-penguins
+[10:54:00] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[10:54:00] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[10:54:00] Loading existing data
+[10:54:00] Returned 4-10-2011's game results
+[10:54:00] Scraping 4-10-2011's period data: http://www.espn.com/nhl/playbyplay/_/gameId/310410028
+[10:54:01] Saving data to ./nhl/team_data/2011/pittsburgh-penguins.csv
+[10:54:01] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/tb/year/2011/tampa-bay-lightning
+[10:54:06] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[10:54:06] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[10:54:06] Loading existing data
+[10:54:06] Returned 4-9-2011's game results
+[10:54:06] Scraping 4-9-2011's period data: http://www.espn.com/nhl/playbyplay/_/gameId/310409007
+[10:54:07] Saving data to ./nhl/team_data/2011/tampa-bay-lightning.csv
+

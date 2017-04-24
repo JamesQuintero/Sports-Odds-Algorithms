@@ -1,0 +1,17 @@
+
+Date: 4-10-2011
+Away: detroit-red-wings | Home: san-jose-sharks
+Seasonal Record:      -52.09%
+Home Away:            50.61%
+Home away 10:         -55.7%
+Last 10 games:        -54.74%
+Avg points:           -51.89%
+Avg points 10:        -59.82%
+Win streak home away: 50%
+--------
+Total: -53.37%
+--------
+Perc chance to win: 53.37%
+Favorable team odds: -114.45421402530557
+Underdog team odds: +114.45421402530557
+

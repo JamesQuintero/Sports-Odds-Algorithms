@@ -1,0 +1,12 @@
+---- Start output ----
+[10:53:36] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/buf/year/2011/buffalo-sabres
+[10:53:37] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[10:53:37] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[10:53:37] Loading existing data
+[10:53:37] Saving data to ./nhl/team_data/2011/buffalo-sabres.csv
+[10:53:37] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/phi/year/2011/philadelphia-flyers
+[10:53:38] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[10:53:38] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[10:53:38] Loading existing data
+[10:53:38] Saving data to ./nhl/team_data/2011/philadelphia-flyers.csv
+

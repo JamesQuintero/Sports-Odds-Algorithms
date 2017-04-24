@@ -1,0 +1,16 @@
+---- Start output ----
+[10:34:48] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/nyr/year/2012/new-york-rangers
+[10:34:54] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[10:34:54] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[10:34:54] Loading existing data
+[10:34:54] Returned 4-7-2012's game results
+[10:34:54] Scraping 4-7-2012's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400047823
+[10:34:55] Saving data to ./nhl/team_data/2012/new-york-rangers.csv
+[10:34:55] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/ott/year/2012/ottawa-senators
+[10:34:59] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[10:34:59] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[10:34:59] Loading existing data
+[10:34:59] Returned 4-7-2012's game results
+[10:34:59] Scraping 4-7-2012's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400047821
+[10:35:00] Saving data to ./nhl/team_data/2012/ottawa-senators.csv
+

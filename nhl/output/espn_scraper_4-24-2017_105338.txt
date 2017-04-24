@@ -1,0 +1,16 @@
+---- Start output ----
+[10:53:38] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/bos/year/2011/boston-bruins
+[10:53:44] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[10:53:44] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[10:53:44] Loading existing data
+[10:53:44] Returned 4-10-2011's game results
+[10:53:44] Scraping 4-10-2011's period data: http://www.espn.com/nhl/playbyplay/_/gameId/310410011
+[10:53:45] Saving data to ./nhl/team_data/2011/boston-bruins.csv
+[10:53:45] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/mtl/year/2011/montreal-canadiens
+[10:53:50] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[10:53:50] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[10:53:50] Loading existing data
+[10:53:50] Returned 4-9-2011's game results
+[10:53:50] Scraping 4-9-2011's period data: http://www.espn.com/nhl/playbyplay/_/gameId/310409021
+[10:53:51] Saving data to ./nhl/team_data/2011/montreal-canadiens.csv
+

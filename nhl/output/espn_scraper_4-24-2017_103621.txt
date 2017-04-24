@@ -1,0 +1,14 @@
+---- Start output ----
+[10:36:21] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/ari/year/2012/arizona-coyotes
+[10:36:24] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[10:36:24] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[10:36:24] Loading existing data
+[10:36:24] Returned 4-7-2012's game results
+[10:36:24] Scraping 4-7-2012's period data: http://www.espn.com/nhl/playbyplay/_/gameId/400047839
+[10:36:25] Saving data to ./nhl/team_data/2012/arizona-coyotes.csv
+[10:36:25] Scraping game scores from http://espn.com/nhl/team/schedule/_/name/chi/year/2012/chicago-blackhawks
+[10:36:29] scrape_game_scores(): (<class 'ValueError'>, 'espn_scraper.py', 415)
+[10:36:29] scrape_game_scores(), scraping date: (<class 'IndexError'>, 'espn_scraper.py', 386)
+[10:36:29] Loading existing data
+[10:36:29] Saving data to ./nhl/team_data/2012/chicago-blackhawks.csv
+
