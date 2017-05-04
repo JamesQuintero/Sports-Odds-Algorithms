@@ -15,7 +15,8 @@ Algorithms to predict NBA, NHL, and MLB games are included. To utilize, run spor
 
 *sports_bettor.py*  
 
-```League
+```
+League
 1) NBA
 2) NHL
 3) NFL
@@ -25,7 +26,8 @@ Choice:
 
 If you want to find the winner for an NBA game, pick 1. 
 
-``` League: nba
+```
+League: nba
 Menu:
 1) Single team analysis
 2) Calculate game odds (Single Game)
@@ -37,7 +39,8 @@ Choice:
 
 If you want to find the winner for a single game, choose 2. 
 
-```Backtest menu: Algorithm version:
+```
+Backtest menu: Algorithm version:
 1) Algo_V1 - Uses a point system
 2) Algo_V2 - Uses a probability system
 Choice:
@@ -45,7 +48,8 @@ Choice:
 
 Algo_V2 tends to be more accurate. It gives a percentage of a team to win a game, while Algo_V1 gives an absolute number of points where the higher number of points for a team, the higher chance of them winning. 
 
-```nba teams:
+```
+nba teams:
 0: atlanta-hawks
 1: boston-celtics
 2: brooklyn-nets
@@ -83,7 +87,8 @@ Home Team #:
 Choose the number corresponding to the away team and home team for the NBA game. The system was scrape the latest game data for the 2 teams, run the algorithm, and then output the data (and save to a file in nba\analyze\team_comparison). 
 
 
-```Date to test (M-D-YYY): 4-16-2017
+```
+Date to test (M-D-YYY): 4-16-2017
 Current season year: 2017
 ```
 
