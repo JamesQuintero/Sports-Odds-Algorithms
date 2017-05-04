@@ -82,6 +82,15 @@ Home Team #:
 
 Choose the number corresponding to the away team and home team for the NBA game. The system was scrape the latest game data for the 2 teams, run the algorithm, and then output the data (and save to a file in nba\analyze\team_comparison). 
 
+
+```Date to test (M-D-YYY): 4-16-2017
+Current season year: 2017
+```
+
+"Date to test" means that all games played before that date will be included in the calculation. Typically, this would just be the current date if you want to include all games. 
+The current season year will need to be provided. 
+
+
 Using an example game Portland Trail Blazers @ Golden State Warriors in the 2017 NBA playoffs, the output is 
 
 ```
