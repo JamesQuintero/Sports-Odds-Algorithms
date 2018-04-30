@@ -4,10 +4,36 @@
 ---- Western Conference ----
 
 -Round 1-
+Vancouver @ Chicago: 53.7%
+Vancouver vs Chicago: 54.6%
+Conclusion: Vancouver Wins
+
+San Jose @ Los Angeles: 51.2%
+San Jose vs Los Angeles: 53.0%
+Conclusion: San Jose Wins
+
+Detroit @ Phoenix: 50.8%
+Detroit vs Phoenix: -50.4%
+Conclusion: Detroit barely Wins
+
+Anaheim @ Nashville: 50.3%
+Anaheim vs Nashville: 51.0%
+Conclusion: Anaheim Wins
 
 
 -Round 2-
+//actual series
+Vancouver @ Nashville: 
+Vancouver vs Nashville: 
+Conclusion: 
 
+Vancouver @ Anaheim:
+Vancouver vs Anaheim: 
+Conclusion: 
+
+Detroit @ San Jose: 
+Detroit vs San Jose: 
+Conclusion: 
 
 
 --Conference Finals--
@@ -20,11 +46,41 @@
 --- Eastern Conference ---
 
 -Round 1-
+Washington @ NY Rangers: 52.0%
+Washington vs NY Rangers: 51.5%
+Conclusion: Washington Wins
 
+Philadelphia @ Buffalo: 50.0%
+Philadelphia vs Buffalo: -51.6%
+Conclusion: Buffalo Wins
+
+Boston @ Montreal: 52.1%
+Boston vs Montreal: 52.6%
+Conclusion: Boston Wins
+
+Pittsburgh @ Tampa Bay: 51.2%
+Pittsburgh vs Tampa Bay: 50.9%
+Conclusion: Pittsburgh Wins
 
 
 -Round 2-
+//actual series
+Washington @ Tampa Bay: 
+Washington vs Tampa Bay: 
+Conclusion: 
 
+Washington @ Pittsburgh: 
+Washington vs Pittsburgh: 
+Conclusion: 
+
+//actual series
+Boston @ Philadelphia: 
+Boston vs Philadelphia: 
+Conclusion: 
+
+Boston @ Buffalo: 
+Boston vs Buffalo: 
+Conclusion: 
 
 
 

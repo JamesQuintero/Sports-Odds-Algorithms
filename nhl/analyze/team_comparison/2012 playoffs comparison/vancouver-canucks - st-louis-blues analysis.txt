@@ -1,0 +1,17 @@
+
+Date: 4-10-2012
+Away: vancouver-canucks | Home: st-louis-blues
+Seasonal Record:      52.29%
+Home Away:            -59.44%
+Home away 10:         -53.37%
+Last 10 games:        54.74%
+Avg points:           50.65%
+Avg points 10:        52.43%
+Win streak home away: 50%
+--------
+Total: -50.38%
+--------
+Perc chance to win: 50.38%
+Favorable team odds: -101.53164046755343
+Underdog team odds: +101.53164046755343
+

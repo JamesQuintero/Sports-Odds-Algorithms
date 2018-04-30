@@ -4,14 +4,47 @@
 ---- Western Conference ----
 
 -Round 1-
+Vancouver @ Los Angeles: 52.5%
+Vancouver vs Los Angeles: 55.4%
+Conclusion: Vancouver Wins
+
+St. Louis @ San Jose: -51.8%
+St. Louis vs San Jose: 53.1%
+Conclusion: St. Louis Wins
+
+Phoenix @ Chicago: -51.2%
+Phoenix vs Chicago: 51.3%
+Conclusion: Phoenix barely Wins
+
+Nashville @ Detroit: -51.9%
+Nashville vs Detroit: 53.4%
+Conclusion: Nashville Wins
 
 
 -Round 2-
+//actual series
+Los Angeles @ St. Louis: -52.8%
+Los Angeles vs St. Luois: 50.6%
+Conclusion: St. Louis Wins (Los Angeles actually won)
 
+Vancouver @ St. Louis: -50.4%
+Vancouver vs St. Louis: 53.9%
+Conclusion: Vancouver Wins
+
+Phoenix @ Nashville: -51.8%
+Phoenix vs Nashville: -50.1%
+Conclusion: Nashville Wins
 
 
 --Conference Finals--
+//actual series
+Los Angeles @ Phoenix: -52.1%
+Los Angeles vs Phoenix: -50.2%
+Conclusion: Phoenix Wins (Los Angeles actually won)
 
+Vancouver @ Nashville: 50.4%
+Vancouver vs Nashville: 53.4%
+Conclusion: Vancouver Wins
 
 
 
@@ -20,20 +53,63 @@
 --- Eastern Conference ---
 
 -Round 1-
+NY Rangers @ Ottawa: 53.7%
+NY Rangers vs Ottawa: 53.9%
+Conclusion: NY Rangers Wins
 
+Boston @ Washington: 52.6%
+Boston vs Washington: 54.4%
+Conclusion: Boston Wins
 
+Florida @ New Jersey: -56.3%
+Florida vs New Jersey: -53.9%
+Conclusion: New Jersey Wins
+
+Pittsburgh @ Philadelphia: 52.0%
+Pittsburgh vs Philadelphia: 53.4%
+Conclusion: Pittsburgh Wins
 
 -Round 2-
+//actual series: 
+NY Rangers @ Washington: 51.4%
+NY Rangers vs Washington: 52.6%
+Conclusion: NY Rangers Wins
 
+NY Rangers @ Boston: -51.1%
+NY Rangers vs Boston: -50.6%
+Conclusion: Boston Wins
+
+//actual series: 
+New Jersey @ Philadelphia: 51.3%
+New Jersey vs Philadelphia: 51.2%
+Conclusion: New Jersey Wins
+
+New Jersey @ Pittsburgh: -52.1%
+New Jersey vs Pittsburgh: 50.9%
+Conclusion: Pittsburgh Wins
 
 
 
 --Conference Finals--
+//actual series
+NY Rangers @ New Jersey: -50.9%
+NY Rangers vs New Jersey: 50.6%
+Conclusion: New Jersey barely Wins
 
+Boston @ Pittsburgh: -50.7%
+Boston vs Pittsburgh: 51.2%
+Conclusion: Boston barely Wins
 
 
 
 
 ------- FINALS --------
+//actual series
+New Jersey @ Los Angeles: 51.9%
+New Jersey vs Los Angeles: 54.1%
+Conclusion: New Jersey Wins (Los angeles actually won)
 
+Vancouver @ Boston: 50.6%
+Vancouver vs Boston: 52.0%
+Conclusion: Vancouver Wins
 

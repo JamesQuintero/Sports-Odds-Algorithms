@@ -1,0 +1,17 @@
+
+Date: 4-10-2012
+Away: nashville-predators | Home: vancouver-canucks
+Seasonal Record:      -52.74%
+Home Away:            -58.15%
+Home away 10:         -53.37%
+Last 10 games:        -53.2%
+Avg points:           -52.87%
+Avg points 10:        -53.19%
+Win streak home away: 50%
+--------
+Total: -53.36%
+--------
+Perc chance to win: 53.36%
+Favorable team odds: -114.40823327615779
+Underdog team odds: +114.40823327615779
+

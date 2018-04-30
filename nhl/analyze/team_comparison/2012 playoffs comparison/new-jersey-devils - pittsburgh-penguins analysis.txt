@@ -1,0 +1,17 @@
+
+Date: 4-10-2012
+Away: new-jersey-devils | Home: pittsburgh-penguins
+Seasonal Record:      -52.74%
+Home Away:            -58.15%
+Home away 10:         -55.7%
+Last 10 games:        53.28%
+Avg points:           -54.78%
+Avg points 10:        53.46%
+Win streak home away: 50%
+--------
+Total: -52.09%
+--------
+Perc chance to win: 52.09%
+Favorable team odds: -108.72469213107911
+Underdog team odds: +108.72469213107911
+
