@@ -1,0 +1,52 @@
+---- Western Conference ----
+
+--Round 1--
+Boston @ Detroit: 57.7%
+Boston vs Detroit: -50.4%
+Conclusion: Boston wins in 6
+
+
+Tampa Bay @ Montreal: -50.6%
+Tampa Bay vs Montreal: 61.6%
+Conclusion: Tampa Bay wins in 6
+
+Pittsburgh @ Columbus: 57%
+Pittsburgh vs Columbus: 56.2%
+Conclusion: Pittsburgh wins in 5
+
+
+NY Rangers @ Philadelphia: -51.4%
+NY Rangers vs Philadelphia: 54.3%
+Conclusion: NY Rangers win in 7
+
+
+--Round 2--
+Boston @ Tampa Bay: 
+Boston vs Tampa Bay: 
+
+
+Pittsburgh @ NY Rangers: 
+Pittsburgh vs NY Rangers:
+
+
+---- Eastern Conference ----
+
+--Round 1--
+Colorado @ Minnesota: 61%
+Colorado vs Minnesota: 63%
+Conclusion: Colorado wins in 4
+
+
+St. Louis @ Chicago: 50.1%
+St. Louis vs Chicago: 58.9%
+Conclusion: St. Louis wins in 6
+
+
+Anaheim @ Dallas: 50.4%
+Anaheim vs Dallas: 57.7%
+Conclusion: Anaheim wins in 6
+
+
+San Jose @ Los Angeles: -52%
+San Jose vs Los Angeles:  53%
+Conclusion: San Jose wins in 7
